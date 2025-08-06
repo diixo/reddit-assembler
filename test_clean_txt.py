@@ -15,3 +15,6 @@ if __name__ == "__main__":
 
     text = "Wow  ouh  yeah! ![gif](giphy|123abc)  Looks  here: [example](https://link.com) and here more https://google.com"
     print(clean_text(text))
+
+    text = "I can&#39;t believe it! This is &quot;awesome&quot; &amp; hilarious &gt; all expectations."
+    print(clean_text(text))
