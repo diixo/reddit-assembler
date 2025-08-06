@@ -2,6 +2,7 @@
 # pip install zstandard
 import zstandard as zstd
 
+from pathlib import Path
 import io
 import json
 import re
@@ -15,12 +16,25 @@ def str_tokenize_words(s: str):
     return []
 
 
+def read_embedded_dict():
+    with open("data/db-full.txt", "r", encoding="utf-8") as f:
+        word_set = set([line.strip() for line in f if line.strip()])
+    print("db-full.SZ=", len(word_set))
+    return sorted(word_set)
+
+
 class RedditAssembler:
 
     def __init__(self):
 
         self.subreddit_counter = Counter()
-        self.dictionary = Counter()
+
+        path = Path("data/dictionary-counter.json")
+        if path.exists():
+            with path.open("r", encoding="utf-8") as f:
+                self.dictionary = Counter(json.load(f))
+        else:
+            self.dictionary = Counter()
 
         self.total_count = 0
         self.valid_count = 0
@@ -57,7 +71,7 @@ class RedditAssembler:
             self.subreddit_counter[subreddit] += 1
 
 
-    def save_csv(self):
+    def save(self):
 
         sorted_subreddits = self.subreddit_counter.most_common()
 
@@ -65,7 +79,7 @@ class RedditAssembler:
         # for subreddit, count in sorted_subreddits[:500]:
         #     print(f"{subreddit}: {count}")
 
-        with open("train-results/subreddit-top-500.csv", "w", newline='', encoding="utf-8") as f:
+        with open("data/subreddit-top-500.csv", "w", newline='', encoding="utf-8") as f:
             writer = csv.writer(f, delimiter=";")
             writer.writerow(["subreddit", "comment_count"])
             writer.writerows(sorted_subreddits)
@@ -75,11 +89,15 @@ class RedditAssembler:
             )
 
         # Запись только слов в текстовый файл
-        with open("train-results/dictionary-top-250000.txt", "w", encoding="utf-8") as f:
+        with open("data/dictionary-top-250000.txt", "w", encoding="utf-8") as f:
             for word in sorted_words:
                 f.write(word + "\n")
 
-        print(f"submissions: total={self.total_count}, valid={self.valid_count}, invalid={self.total_count-self.valid_count}")
+        print(f"submissions: total={self.total_count}, valid={self.valid_count}, unknown={self.total_count-self.valid_count}")
+
+        if len(self.dictionary.items()) > 0:
+            with Path("data/dictionary-counter.json").open("w", encoding="utf-8") as f:
+                json.dump(self.dictionary, f, indent=2)
 
 
 def test(file_path: str, assembler: RedditAssembler):
@@ -105,10 +123,12 @@ def test(file_path: str, assembler: RedditAssembler):
 
 if __name__ == "__main__":
 
+    read_embedded_dict()
+
     file_path = "C:/utorrent/2025-04/submissions/RS_2025-04.zst"
 
     assembler = RedditAssembler()
 
     test(file_path, assembler)
 
-    assembler.save_csv()
+    assembler.save()
