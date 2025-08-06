@@ -97,7 +97,7 @@ def test(file_path: str, assembler: RedditAssembler):
                     data = json.loads(line)
                     assembler.add_submission(data)
                 except json.JSONDecodeError:
-                    print(f"Ошибка при разборе строки {i}: {line[:100]}")
+                    print(f"Error parsing string {i}: {line[:100]}")
 
                 if i % 1000 == 0 and i > 0:
                     print("total_items:", str(i))
