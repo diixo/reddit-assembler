@@ -26,7 +26,7 @@ def clean_text(text: str) -> str:
     # Remove Markdown-graphics like: ![...](giphy|...)
     text = re.sub(r"!\[.*?\]\(giphy\|.*?\)", "", text)
 
-    # Remove markdown-links like: [текст](url)
+    # Remove markdown-links like: [text](url)
     text = re.sub(r"\[([^\]]+)\]\((https?:\/\/[^\)]+)\)", r"\1", text)
 
     # Remove bare-links (http/https/ftp)
