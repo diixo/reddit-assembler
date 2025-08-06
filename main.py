@@ -8,6 +8,47 @@ import json
 import re
 from collections import Counter
 import csv
+import html
+
+
+def clean_text(text: str) -> str:
+    if not isinstance(text, str):
+        return ""
+
+    # Remkved removing and empty comments
+    text = text.strip()
+    if text.lower() in ("[deleted]", "[removed]", ""):
+        return ""
+
+    # Edit HTML entities (&amp;, &gt; etc..)
+    text = html.unescape(text)
+
+    # Remove Markdown-graphics like: ![...](giphy|...)
+    text = re.sub(r"!\[.*?\]\(giphy\|.*?\)", "", text)
+
+    # Remove markdown-links like: [текст](url)
+    text = re.sub(r"\[([^\]]+)\]\((https?:\/\/[^\)]+)\)", r"\1", text)
+
+    # Remove bare-links (http/https/ftp)
+    text = re.sub(r"(https?|ftp):\/\/\S+", "", text)
+
+    # Remove citates (strings, started with >)
+    text = re.sub(r"(?m)^>.*$", "", text)
+
+    # Remove horizontal lines (--- or ***)
+    text = re.sub(r"[-*_]{3,}", "", text)
+
+    # Remove markdown-bold and italic
+    text = re.sub(r"\*{1,2}([^*]+)\*{1,2}", r"\1", text)  # *bold*, **bold**
+    text = re.sub(r"_{1,2}([^_]+)_{1,2}", r"\1", text)     # _italic_, __bold__
+
+    # Remove spaces
+    text = re.sub(r"\s{2,}", " ", text)
+
+    # Remove spaces from start-end sentences
+    text = text.strip()
+
+    return text.replace('’', "'")
 
 
 def str_tokenize_words(s: str):
@@ -22,10 +63,6 @@ def read_embedded_dict():
     print("db-full.SZ=", len(word_set))
     return sorted(word_set)
 
-
-def clean_gif_links(text):
-    # remove constructions like: ![...](giphy|...)
-    return re.sub(r"!\[.*?\]\(giphy\|.*?\)", "", text)
 
 
 class RedditAssembler:
@@ -66,11 +103,11 @@ class RedditAssembler:
         title = data_obj.get("title")
         if title:   # submission
 
-            self.dictionary.update(str_tokenize_words(title.replace('’', "'")))
+            self.dictionary.update(str_tokenize_words(clean_text(title)))
 
             txt = data_obj.get("selftext")
             if txt:
-                self.dictionary.update(str_tokenize_words(txt.replace('’', "'")))
+                self.dictionary.update(str_tokenize_words(clean_text(txt)))
 
             # num_comments = data_obj.get("num_comments", 0)
             # if int(num_comments) > 0:
@@ -80,8 +117,7 @@ class RedditAssembler:
 
             body = data_obj.get("body")
             if body:
-                body = body.replace('’', "'")
-                body = clean_gif_links(body)
+                body = clean_text(body)
                 self.dictionary.update(str_tokenize_words(body))
 
                 #print(f"BODY({locked}):{body}")
@@ -154,8 +190,8 @@ def test(file_list: list[str], assembler: RedditAssembler):
 if __name__ == "__main__":
 
     file_list = [
-       "C:/utorrent/2025-04/submissions/RS_2025-04.zst",
-       "C:/utorrent/2025-04/comments/RC_2025-04.zst",
+       "C:/utorrent/reddit/2025-04/submissions/RS_2025-04.zst",
+       "C:/utorrent/reddit/2025-04/comments/RC_2025-04.zst",
     ]
 
     assembler = RedditAssembler()
