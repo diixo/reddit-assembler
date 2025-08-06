@@ -1,1 +1,1 @@
-# reddit_assembler
+# reddit-assembler
