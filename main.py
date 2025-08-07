@@ -78,6 +78,8 @@ class RedditAssembler:
         else:
             self.dictionary = Counter()
 
+        print(f"Loaded: words dictionary.sz={len(self.dictionary.items())}")
+
         self.total_count = 0
         self.valid_count = 0
 
@@ -89,6 +91,8 @@ class RedditAssembler:
             self.subreddit_counter[subreddit] += 1
 
         self.total_count += 1
+        # if self.total_count % 1000 == 0:
+        #     print("total_items:", str(self.total_count))
 
         # check if locked
         locked = "False"
@@ -185,6 +189,7 @@ def test(file_list: list[str], assembler: RedditAssembler):
 
                     if i % 1000 == 0 and i > 0:
                         print("total_items:", str(i))
+    assembler.save()
 
 
 if __name__ == "__main__":
@@ -196,6 +201,5 @@ if __name__ == "__main__":
 
     assembler = RedditAssembler()
 
-    test(file_list, assembler)
+    #test(file_list, assembler)
 
-    assembler.save()
