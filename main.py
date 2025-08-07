@@ -171,7 +171,7 @@ class RedditAssembler:
         # print("18+:", data_obj["over_18"])
 
 
-    def save(self):
+    def save(self, amount=250_000):
 
         sorted_subreddits = self.subreddit_counter.most_common()
 
@@ -188,9 +188,16 @@ class RedditAssembler:
 
         print(f"Saved: dictionary.sz={len(self.dictionary.items())}")
 
-        sorted_words = [word for word, _ in self.dictionary.most_common(250000)]
+        most_common = self.dictionary.most_common(amount)
 
-        with open("data/dictionary-top-250000.txt", "w", encoding="utf-8") as f:
+        with open(f"data/dictionary-top-{amount}.csv", "w", newline='', encoding="utf-8") as f:
+            writer = csv.writer(f, delimiter=";")
+            writer.writerow(["word", "count"])
+            writer.writerows(most_common)
+
+        sorted_words = [word for word, _ in most_common]
+
+        with open(f"data/dictionary-top-{amount}.txt", "w", encoding="utf-8") as f:
             for word in sorted_words:
                 f.write(word + "\n")
 
