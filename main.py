@@ -179,10 +179,10 @@ class RedditAssembler:
         # for subreddit, count in sorted_subreddits[:500]:
         #     print(f"{subreddit}: {count}")
 
-        with open("data/subreddit-top-500.csv", "w", newline='', encoding="utf-8") as f:
-            writer = csv.writer(f, delimiter=";")
-            writer.writerow(["subreddit", "comment_count"])
-            writer.writerows(sorted_subreddits)
+        # with open("data/subreddit-top-500.csv", "w", newline='', encoding="utf-8") as f:
+        #     writer = csv.writer(f, delimiter=";")
+        #     writer.writerow(["subreddit", "comment_count"])
+        #     writer.writerows(sorted_subreddits)
 
         self.dictionary = Counter(filter_dictionary(self.dictionary))
 
