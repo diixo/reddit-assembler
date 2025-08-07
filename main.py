@@ -11,6 +11,42 @@ import csv
 import html
 
 
+def filter_dictionary(word_counts: dict) -> dict:
+    """
+    Filters a dictionary, keeping only the words that:
+    - may optionally start with a dot
+    - contain Latin letters, digits, hyphens, or apostrophes
+    - may end with one or more '+' or '#' characters
+    - exclude words that start with a dot and contain only digits (with optional '+' or '#' at the end)
+
+    Args:
+        word_counts (dict): a dictionary of the form {word: count}
+
+    Returns:
+        dict: the filtered dictionary
+    """
+    # Main filter template
+    allowed_pattern = re.compile(r"^\.?[A-Za-z0-9'-]+[+#]*$")
+
+    # Template "bad" words: start with a dot and then only numbers, '+' or '#'
+    starts_with_dot_and_digits_only = re.compile(r"^\.[0-9]+[+#]*$")
+    digits_only = re.compile(r"^[0-9]+$")
+
+    return {
+        word: count
+        for word, count in word_counts.items()
+        if allowed_pattern.fullmatch(word)
+        and not starts_with_dot_and_digits_only.fullmatch(word)
+        and not digits_only.fullmatch(word)
+    }
+
+
+def str_tokenize_words(s: str):
+    s = re.findall("(\.?\w[\w'\.&-]*\w|\w\+*#?)", s)
+    if s: return s
+    return []
+
+
 def clean_text(text: str) -> str:
     if not isinstance(text, str):
         return ""
@@ -50,11 +86,6 @@ def clean_text(text: str) -> str:
 
     return text.replace('’', "'")
 
-
-def str_tokenize_words(s: str):
-    s = re.findall("(\.?\w[\w'\.&-]*\w|\w\+*#?)", s)
-    if s: return s
-    return []
 
 
 def read_embedded_dict():
@@ -153,9 +184,11 @@ class RedditAssembler:
             writer.writerow(["subreddit", "comment_count"])
             writer.writerows(sorted_subreddits)
 
-        sorted_words = sorted(
-            [word for word, _ in self.dictionary.most_common(250000)]
-            )
+        self.dictionary = Counter(filter_dictionary(self.dictionary))
+
+        print(f"Saved: dictionary.sz={len(self.dictionary.items())}")
+
+        sorted_words = [word for word, _ in self.dictionary.most_common(250000)]
 
         with open("data/dictionary-top-250000.txt", "w", encoding="utf-8") as f:
             for word in sorted_words:
@@ -189,17 +222,18 @@ def test(file_list: list[str], assembler: RedditAssembler):
 
                     if i % 1000 == 0 and i > 0:
                         print("total_items:", str(i))
-    assembler.save()
+
 
 
 if __name__ == "__main__":
 
     file_list = [
-       "C:/utorrent/reddit/2025-04/submissions/RS_2025-04.zst",
-       "C:/utorrent/reddit/2025-04/comments/RC_2025-04.zst",
+       "C:/utorrent/reddit/2025-03/submissions/RS_2025-03.zst",
+       "C:/utorrent/reddit/2025-03/comments/RC_2025-03.zst",
     ]
 
     assembler = RedditAssembler()
 
     #test(file_list, assembler)
 
+    assembler.save()
