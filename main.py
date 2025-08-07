@@ -208,7 +208,7 @@ class RedditAssembler:
                 json.dump(self.dictionary, f, indent=2)
 
 
-def test(file_list: list[str], assembler: RedditAssembler):
+def test_reddit(file_list: list[str], assembler: RedditAssembler):
 
     for file_path in file_list:
 
@@ -241,6 +241,6 @@ if __name__ == "__main__":
 
     assembler = RedditAssembler()
 
-    #test(file_list, assembler)
+    #test_reddit(file_list, assembler)
 
     assembler.save()
