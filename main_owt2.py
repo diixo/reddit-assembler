@@ -11,7 +11,7 @@ import csv
 import html
 
 
-def filter_dictionary(word_counts: dict) -> dict:
+def filter_dictionary(word_counts: dict, skip_words: set) -> dict:
     """
     Filters a dictionary, keeping only the words that:
     - may optionally start with a dot
@@ -38,6 +38,7 @@ def filter_dictionary(word_counts: dict) -> dict:
         if allowed_pattern.fullmatch(word)
         and not starts_with_dot_and_digits_only.fullmatch(word)
         and not digits_only.fullmatch(word)
+        and word not in skip_words
     }
 
 
@@ -87,11 +88,13 @@ def clean_text(text: str) -> str:
     return text.replace('’', "'")
 
 
-
+# ethalon 22_700
 def read_embedded_dict():
+    word_set = set()
     with open("data/db-full.txt", "r", encoding="utf-8") as f:
         word_set = set([line.strip() for line in f if line.strip()])
     print("db-full.SZ=", len(word_set))
+    return word_set
     return sorted(word_set)
 
 
@@ -113,6 +116,7 @@ class RedditAssembler:
 
         self.total_count = 0
         self.valid_count = 0
+        self.dict_standard = read_embedded_dict()
 
 
     def add_item(self, data_obj: dict):
@@ -137,7 +141,7 @@ class RedditAssembler:
 
     def save(self, amount=250_000):
 
-        self.dictionary = Counter(filter_dictionary(self.dictionary))
+        self.dictionary = Counter(filter_dictionary(self.dictionary, self.dict_standard))
 
         print(f"Saved: dictionary.sz={len(self.dictionary.items())}")
 
