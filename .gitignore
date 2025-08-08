@@ -2,6 +2,9 @@
 dictionary-*.*
 datasets/
 
+owb2-dictionary-top*.csv
+owb2-dictionary-top*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
