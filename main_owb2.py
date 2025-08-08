@@ -125,6 +125,9 @@ class RedditAssembler:
             self.dictionary.update(str_tokenize_words(txt))
             #print(txt)
 
+        if self.total_count % 1000 == 0:
+            print("total_items:", str(self.total_count))
+
 
 
     def save(self, amount=250_000):
@@ -163,17 +166,14 @@ def test_owb2(file_list: list[str], assembler: RedditAssembler):
                 text_stream = io.TextIOWrapper(reader, encoding='utf-8')
                 for i, line in enumerate(text_stream):
 
-                    if i > 1:
-                       break
+                    # if i > 1:
+                    #    break
 
                     try:
                         data = json.loads(line)
                         assembler.add_item(data)
                     except json.JSONDecodeError:
                         print(f"Error parsing string {i}: {line[:100]}")
-
-                    if i % 1000 == 0 and i > 0:
-                        print("total_items:", str(i))
 
 
 
@@ -212,7 +212,7 @@ if __name__ == "__main__":
         file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-12.jsonl.zst")
 
     file_list = list_2006 + file_list + list_2020
-    print(file_list)
+    #print(file_list)
 
     assembler = RedditAssembler()
 
