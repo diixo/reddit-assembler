@@ -136,6 +136,12 @@ class RedditAssembler:
 
         print(f"Saved: dictionary.sz={len(self.dictionary.items())}")
 
+        if len(self.dictionary.items()) > 0:
+            with Path("data/owb2-dictionary-counter.json").open("w", encoding="utf-8") as f:
+                json.dump(self.dictionary, f, indent=2)
+
+        #################################################
+
         most_common = self.dictionary.most_common(amount)
 
         with open(f"data/owb2-dictionary-top-{amount}.csv", "w", newline='', encoding="utf-8") as f:
@@ -151,9 +157,6 @@ class RedditAssembler:
 
         print(f"submissions: total={self.total_count}")
 
-        if len(self.dictionary.items()) > 0:
-            with Path("data/owb2-dictionary-counter.json").open("w", encoding="utf-8") as f:
-                json.dump(self.dictionary, f, indent=2)
 
 
 def test_owb2(file_list: list[str], assembler: RedditAssembler):
@@ -216,6 +219,6 @@ if __name__ == "__main__":
 
     assembler = RedditAssembler()
 
-    #test_owb2(file_list, assembler)
+    test_owb2(file_list, assembler)
 
     assembler.save()
