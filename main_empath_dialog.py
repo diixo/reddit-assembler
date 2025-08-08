@@ -2,6 +2,7 @@
 import re
 from datasets import load_dataset
 from collections import Counter
+from main_owt2 import read_embedded_dict, clean_text
 
 
 def str_tokenize_words(s: str):
@@ -12,16 +13,13 @@ def str_tokenize_words(s: str):
 
 if __name__ == "__main__":
 
+    skip_words = read_embedded_dict()
+
     dictionary = Counter()
 
     dataset = load_dataset("empathetic_dialogues", trust_remote_code=True)
 
-    # train = dataset["train"]
-    # valid = dataset["validation"]
-    # test = dataset["test"]
-
     cntr = 0
-
     for split in ["train", "validation", "test"]:
 
         for item in dataset[split]:
@@ -30,17 +28,18 @@ if __name__ == "__main__":
                 print(f"...items={cntr}")
 
             txt = item["utterance"]
+            txt = clean_text(txt.replace("_", " "))
 
             dictionary.update(str_tokenize_words(txt))
 
             most_common = dictionary.most_common()
 
-            sorted_words = [word for word, _ in most_common]
+            sorted_words = [word for word, _ in most_common if word not in skip_words]
 
 
-    with open(f"data/emphatic-dialogue-dictionary.txt", "w", encoding="utf-8") as f:
+    with open(f"data/empathic-dialogue-dictionary.txt", "w", encoding="utf-8") as f:
         for word in sorted_words:
             f.write(word + "\n")
 
-    # total = 99646
+    # total items = 99646
     print(f"total items={cntr}")
