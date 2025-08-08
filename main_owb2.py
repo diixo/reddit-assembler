@@ -102,7 +102,7 @@ class RedditAssembler:
 
         self.subreddit_counter = Counter()
 
-        path = Path("data/owb2-dictionary-counter.json")
+        path = Path("data/owt2-dictionary-counter.json")
         if path.exists():
             with path.open("r", encoding="utf-8") as f:
                 self.dictionary = Counter(json.load(f))
@@ -119,11 +119,16 @@ class RedditAssembler:
 
         self.total_count += 1
 
+        # meta = data_obj.get("meta")
+        # if meta:
+        #     lang = meta.get("lang")
+        #     if lang == "en":
+        #         self.valid_count += 1
+
         txt = data_obj.get("text")
         if txt:
             txt = clean_text(txt)
             self.dictionary.update(str_tokenize_words(txt))
-            #print(txt)
 
         if self.total_count % 1000 == 0:
             print("total_items:", str(self.total_count))
@@ -137,25 +142,25 @@ class RedditAssembler:
         print(f"Saved: dictionary.sz={len(self.dictionary.items())}")
 
         if len(self.dictionary.items()) > 0:
-            with Path("data/owb2-dictionary-counter.json").open("w", encoding="utf-8") as f:
+            with Path("data/owt2-dictionary-counter.json").open("w", encoding="utf-8") as f:
                 json.dump(self.dictionary, f, indent=2)
 
         #################################################
 
         most_common = self.dictionary.most_common(amount)
 
-        with open(f"data/owb2-dictionary-top-{amount}.csv", "w", newline='', encoding="utf-8") as f:
+        with open(f"data/owt2-dictionary-top-{amount}.csv", "w", newline='', encoding="utf-8") as f:
             writer = csv.writer(f, delimiter=";")
             writer.writerow(["word", "count"])
             writer.writerows(most_common)
 
         sorted_words = [word for word, _ in most_common]
 
-        with open(f"data/owb2-dictionary-top-{amount}.txt", "w", encoding="utf-8") as f:
+        with open(f"data/owt2-dictionary-top-{amount}.txt", "w", encoding="utf-8") as f:
             for word in sorted_words:
                 f.write(word + "\n")
 
-        print(f"submissions: total={self.total_count}")
+        print(f"Processed (items): total={self.total_count}, en={self.valid_count}, unknown={self.total_count-self.valid_count}")
 
 
 
