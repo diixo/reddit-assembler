@@ -121,7 +121,9 @@ class RedditAssembler:
 
         txt = data_obj.get("text")
         if txt:
-            self.dictionary.update(str_tokenize_words(clean_text(txt)))
+            txt = clean_text(txt)
+            self.dictionary.update(str_tokenize_words(txt))
+            #print(txt)
 
 
 
@@ -144,14 +146,14 @@ class RedditAssembler:
             for word in sorted_words:
                 f.write(word + "\n")
 
-        print(f"submissions: total={self.total_count}, valid={self.valid_count}, unknown={self.total_count-self.valid_count}")
+        print(f"submissions: total={self.total_count}")
 
         if len(self.dictionary.items()) > 0:
             with Path("data/owb2-dictionary-counter.json").open("w", encoding="utf-8") as f:
                 json.dump(self.dictionary, f, indent=2)
 
 
-def test_reddit(file_list: list[str], assembler: RedditAssembler):
+def test_owb2(file_list: list[str], assembler: RedditAssembler):
 
     for file_path in file_list:
 
@@ -177,12 +179,43 @@ def test_reddit(file_list: list[str], assembler: RedditAssembler):
 
 if __name__ == "__main__":
 
-    file_list = [
+    list_2006 = [
        "datasets/openwebtext2-segyges/2005-06.jsonl.zst",
+       "datasets/openwebtext2-segyges/2005-07.jsonl.zst",
+       "datasets/openwebtext2-segyges/2005-08.jsonl.zst",
+       "datasets/openwebtext2-segyges/2005-09.jsonl.zst",
+       "datasets/openwebtext2-segyges/2005-10.jsonl.zst",
+       "datasets/openwebtext2-segyges/2005-11.jsonl.zst",
+       "datasets/openwebtext2-segyges/2005-12.jsonl.zst",
     ]
+
+    list_2020 = [
+       "datasets/openwebtext2-segyges/2020-01.jsonl.zst",
+       "datasets/openwebtext2-segyges/2020-02.jsonl.zst",
+       "datasets/openwebtext2-segyges/2020-03.jsonl.zst",
+       "datasets/openwebtext2-segyges/2020-04.jsonl.zst",
+    ]
+
+    file_list = []
+    for year in range(2006, 2020):
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-01.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-02.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-03.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-04.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-05.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-06.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-07.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-08.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-09.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-10.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-11.jsonl.zst")
+        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-12.jsonl.zst")
+
+    file_list = list_2006 + file_list + list_2020
+    print(file_list)
 
     assembler = RedditAssembler()
 
-    test_reddit(file_list, assembler)
+    #test_owb2(file_list, assembler)
 
     assembler.save()
