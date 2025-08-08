@@ -132,7 +132,7 @@ class RedditAssembler:
 
     def save(self, amount=250_000):
 
-        #self.dictionary = Counter(filter_dictionary(self.dictionary))
+        self.dictionary = Counter(filter_dictionary(self.dictionary))
 
         print(f"Saved: dictionary.sz={len(self.dictionary.items())}")
 
@@ -159,7 +159,7 @@ class RedditAssembler:
 
 
 
-def test_owb2(file_list: list[str], assembler: RedditAssembler):
+def test_owt2(file_list: list[str], assembler: RedditAssembler):
 
     for file_path in file_list:
 
@@ -182,43 +182,45 @@ def test_owb2(file_list: list[str], assembler: RedditAssembler):
 
 if __name__ == "__main__":
 
+    dir_owt2 = "datasets/openwebtext2/"
+
     list_2006 = [
-       "datasets/openwebtext2-segyges/2005-06.jsonl.zst",
-       "datasets/openwebtext2-segyges/2005-07.jsonl.zst",
-       "datasets/openwebtext2-segyges/2005-08.jsonl.zst",
-       "datasets/openwebtext2-segyges/2005-09.jsonl.zst",
-       "datasets/openwebtext2-segyges/2005-10.jsonl.zst",
-       "datasets/openwebtext2-segyges/2005-11.jsonl.zst",
-       "datasets/openwebtext2-segyges/2005-12.jsonl.zst",
+       f"{dir_owt2}2005-06.jsonl.zst",
+       f"{dir_owt2}2005-07.jsonl.zst",
+       f"{dir_owt2}2005-08.jsonl.zst",
+       f"{dir_owt2}2005-09.jsonl.zst",
+       f"{dir_owt2}2005-10.jsonl.zst",
+       f"{dir_owt2}2005-11.jsonl.zst",
+       f"{dir_owt2}2005-12.jsonl.zst",
     ]
 
     list_2020 = [
-       "datasets/openwebtext2-segyges/2020-01.jsonl.zst",
-       "datasets/openwebtext2-segyges/2020-02.jsonl.zst",
-       "datasets/openwebtext2-segyges/2020-03.jsonl.zst",
-       "datasets/openwebtext2-segyges/2020-04.jsonl.zst",
+       f"{dir_owt2}2020-01.jsonl.zst",
+       f"{dir_owt2}2020-02.jsonl.zst",
+       f"{dir_owt2}2020-03.jsonl.zst",
+       f"{dir_owt2}2020-04.jsonl.zst",
     ]
 
     file_list = []
     for year in range(2006, 2020):
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-01.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-02.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-03.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-04.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-05.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-06.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-07.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-08.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-09.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-10.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-11.jsonl.zst")
-        file_list.append(f"datasets/openwebtext2-segyges/{str(year)}-12.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-01.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-02.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-03.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-04.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-05.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-06.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-07.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-08.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-09.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-10.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-11.jsonl.zst")
+        file_list.append(f"{dir_owt2}{str(year)}-12.jsonl.zst")
 
     file_list = list_2006 + file_list + list_2020
     #print(file_list)
 
     assembler = RedditAssembler()
 
-    test_owb2(file_list, assembler)
+    #test_owt2(file_list, assembler)
 
     assembler.save()
