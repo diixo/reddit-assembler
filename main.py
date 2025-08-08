@@ -88,14 +88,6 @@ def clean_text(text: str) -> str:
 
 
 
-def read_embedded_dict():
-    with open("data/db-full.txt", "r", encoding="utf-8") as f:
-        word_set = set([line.strip() for line in f if line.strip()])
-    print("db-full.SZ=", len(word_set))
-    return sorted(word_set)
-
-
-
 class RedditAssembler:
 
     def __init__(self):
