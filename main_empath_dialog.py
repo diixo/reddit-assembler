@@ -2,13 +2,8 @@
 import re
 from datasets import load_dataset
 from collections import Counter
-from main_owt2 import read_embedded_dict, clean_text
+from main_owt2 import read_embedded_dict, filter_dictionary, clean_text, str_tokenize_words
 
-
-def str_tokenize_words(s: str):
-    s = re.findall("(\.?\w[\w'\.&-]*\w|\w\+*#?)", s)
-    if s: return s
-    return []
 
 
 if __name__ == "__main__":
@@ -28,13 +23,20 @@ if __name__ == "__main__":
                 print(f"...items={cntr}")
 
             txt = item["utterance"]
-            txt = clean_text(txt.replace("_", " "))
+            txt = clean_text(txt.replace("_", " ").replace(":", " ").replace(",", " "))
+
+            # tokens = str_tokenize_words(txt)
+            # if "17051" in set(tokens):
+            #     original = item["utterance"]
+            #     print(original)
+            #     print(64*"*"+"\n", txt)
 
             dictionary.update(str_tokenize_words(txt))
+            dictionary = Counter(filter_dictionary(dictionary, skip_words))
 
             most_common = dictionary.most_common()
 
-            sorted_words = [word for word, _ in most_common if word not in skip_words]
+            sorted_words = [word for word, _ in most_common]
 
 
     with open(f"data/empathic-dialogue-dictionary.txt", "w", encoding="utf-8") as f:
