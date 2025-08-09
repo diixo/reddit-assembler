@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
     skip_words = read_embedded_dict()
 
-    #processing(dictionary)
+    processing(dictionary)
 
     ############# save results
 
