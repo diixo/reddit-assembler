@@ -64,6 +64,6 @@ if __name__ == "__main__":
     sorted_words = [word for word, _ in most_common]
 
 
-    with open(f"data/eli5e-dictionary.txt", "w", encoding="utf-8") as f:
+    with open(f"data/eli5-dictionary.txt", "w", encoding="utf-8") as f:
         for word in sorted_words:
             f.write(word + "\n")
