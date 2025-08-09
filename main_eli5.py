@@ -36,8 +36,8 @@ def processing(dictionary: Counter):
     print(f"total items={idx}")
 
 
-if __name__ == "__main__":
 
+if __name__ == "__main__":
 
     dictionary = Counter()
 
@@ -62,6 +62,7 @@ if __name__ == "__main__":
     most_common = dictionary.most_common()
 
     sorted_words = [word for word, _ in most_common]
+    #sorted_words = sorted([word for word, _ in most_common])
 
 
     with open(f"data/eli5-dictionary.txt", "w", encoding="utf-8") as f:
