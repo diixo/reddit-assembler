@@ -35,7 +35,7 @@ if __name__ == "__main__":
         ".start": 3,
         "mid.dle": 2,
         "end.": 1,
-        "...": 1,
+        "...": 1,           # ❌ remove
         "bonus+": 4,
         "extra++": 2,
         "flag#": 1,
@@ -45,6 +45,7 @@ if __name__ == "__main__":
         ".123++": 2,        # ❌ remove
         "42": 3,            # ❌ remove
         "456++": 2,         # ❌ remove
+        "123..456": 2,      # ❌ remove
     }
 
     word_counts = filter_dictionary(word_counts)
