@@ -1,6 +1,7 @@
 
 import re
 import html
+from pathlib import Path
 
 
 def str_tokenize_words(s: str):
@@ -84,7 +85,9 @@ def clean_text(text: str) -> str:
 
 def read_embedded_dict() -> set:
     word_set = set()
-    with open("data/db-full.txt", "r", encoding="utf-8") as f:
+
+    path = Path("data/db-full.txt")
+    with path.open("r", encoding="utf-8") as f:
         word_set = set([line.strip() for line in f if line.strip()])
     print(f"db-full.sz={len(word_set)}")
     return word_set
