@@ -101,8 +101,6 @@ class RedditAssembler:
 
     def __init__(self):
 
-        self.subreddit_counter = Counter()
-
         path = Path("data/owt2-dictionary-counter.json")
         if path.exists():
             with path.open("r", encoding="utf-8") as f:
