@@ -11,7 +11,7 @@ import csv
 import html
 
 
-def filter_dictionary(word_counts: dict, skip_words: set) -> dict:
+def filter_dictionary(word_counts: dict, skip_words=set()) -> dict:
     """
     Filters a dictionary, keeping only the words that:
     - may optionally start with a dot
@@ -73,7 +73,7 @@ def clean_text(text: str) -> str:
     text = re.sub(r"(?m)^>.*$", "", text)
 
     # Remove horizontal lines (--- or ***)
-    text = re.sub(r"[-*_.]{2,}", "", text)
+    text = re.sub(r"[-*_.]{2,}", " ", text)
 
     # Remove markdown-bold and italic
     text = re.sub(r"\*{1,2}([^*]+)\*{1,2}", r"\1", text)  # *bold*, **bold**

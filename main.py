@@ -72,7 +72,7 @@ def clean_text(text: str) -> str:
     text = re.sub(r"(?m)^>.*$", "", text)
 
     # Remove horizontal lines (--- or ***)
-    text = re.sub(r"[-*_]{3,}", "", text)
+    text = re.sub(r"[-*_.]{2,}", " ", text)
 
     # Remove markdown-bold and italic
     text = re.sub(r"\*{1,2}([^*]+)\*{1,2}", r"\1", text)  # *bold*, **bold**

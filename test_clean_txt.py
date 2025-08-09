@@ -1,5 +1,5 @@
 
-from main import clean_text, filter_dictionary
+from main_owt2 import clean_text, filter_dictionary
 
 
 if __name__ == "__main__":
@@ -13,7 +13,7 @@ if __name__ == "__main__":
     txt = text = "It is funny good_day! ![gif](giphy|60rNlHSC6PoBy6KtHn)    Very funny!"
     print(clean_text(text))
 
-    text = "Wow  ouh  yeah! ![gif](giphy|123abc)  Looks  here: [example](https://link.com) and here more https://google.com"
+    text = "Wow  ouh  yeah! ![gif](giphy|123abc)  Looks..here: [example](https://link.com) and here more https://google.com"
     print(clean_text(text))
 
     text = "I can&#39;t believe it! This is &quot;awesome&quot; &amp; hilarious &gt; all expectations."
