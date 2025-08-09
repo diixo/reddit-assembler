@@ -6,7 +6,7 @@ from pathlib import Path
 from utils import read_embedded_dict, filter_dictionary, clean_text, str_tokenize_words
 
 
-path = Path("data/empath-dictionary-counter.json")
+path = Path("data/empathic-dictionary-counter.json")
 
 
 def processing(dictionary: Counter):
@@ -55,7 +55,7 @@ if __name__ == "__main__":
     sorted_words = [word for word, _ in most_common]
 
 
-    with open(f"data/empathic-dialogue-dictionary.txt", "w", encoding="utf-8") as f:
+    with open(f"data/empathic-dictionary.txt", "w", encoding="utf-8") as f:
         for word in sorted_words:
             f.write(word + "\n")
 
