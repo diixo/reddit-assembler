@@ -1,5 +1,5 @@
 
-from main_owt2 import clean_text, filter_dictionary
+from utils import clean_text, filter_dictionary
 
 
 if __name__ == "__main__":

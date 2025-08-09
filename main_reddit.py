@@ -8,7 +8,7 @@ import json
 import re
 from collections import Counter
 import csv
-from main_owt2 import filter_dictionary, clean_text, str_tokenize_words
+from utils import filter_dictionary, clean_text, str_tokenize_words
 
 
 class RedditAssembler:

@@ -2,8 +2,8 @@
 import json
 from datasets import load_dataset
 from collections import Counter
-from main_owt2 import read_embedded_dict, filter_dictionary, clean_text, str_tokenize_words
 from pathlib import Path
+from utils import read_embedded_dict, filter_dictionary, clean_text, str_tokenize_words
 
 
 path = Path("data/empath-dictionary-counter.json")
