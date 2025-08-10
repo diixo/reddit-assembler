@@ -317,6 +317,9 @@ amused
 amuses
 an
 analogously
+analyse
+analysed
+analysing
 analyze
 analyzed
 analyzes
@@ -1760,6 +1763,9 @@ deploy
 deployed
 deploying
 deploys
+depose
+deposed
+deposes
 deprecate
 deprecated
 deprecates
@@ -1969,6 +1975,7 @@ discontinue
 discontinued
 discontinues
 discourage
+discourages
 discover
 discovered
 discovering
@@ -2158,6 +2165,10 @@ drink-up
 drinking
 drinks
 drinkup
+drip
+dripped
+dripping
+drips
 drive
 driven
 drives
@@ -3087,7 +3098,9 @@ hallucinate
 hallucinated
 hallucinates
 hallucinating
+halt
 halted
+halting
 hamper
 hampered
 hampers
@@ -5873,6 +5886,12 @@ rival
 rivaled
 rivalled
 rivals
+roam
+roamed
+roams
+rob
+robbed
+robs
 robustly
 rode
 roll
@@ -5996,6 +6015,10 @@ seeming
 seemingly
 seems
 seen
+seep
+seeped
+seeping
+seeps
 sees
 segmentate
 segmentated
@@ -6086,6 +6109,7 @@ shifting
 shifts
 shine
 shines
+shits
 shocked
 shone
 shook
@@ -6216,6 +6240,9 @@ sniffed
 sniffs
 so
 so-called
+soak
+soaked
+soaks
 soared
 softening
 sold
@@ -8813,6 +8840,7 @@ adaptiveness
 adaptivity
 adaptors
 adas
+adblock
 add-in
 add-on
 add-ons
@@ -8871,6 +8899,7 @@ adrenaline
 ads
 adsense
 adult
+adultery
 adulthood
 adults
 advanced
@@ -8899,6 +8928,7 @@ advisable
 adviser
 advisers
 advisor
+advisors
 advisory
 advocacy
 advocate
@@ -9284,6 +9314,7 @@ another's
 ansi
 ansible
 ansistring
+antagonist
 antenna
 antennas
 anti-aliasing
@@ -9390,6 +9421,8 @@ approximation
 approximations
 approximators
 apps
+apricot
+apricots
 april
 apt-get
 aptitude
@@ -9494,6 +9527,7 @@ asp
 asp.net
 asp.net-core
 asp.net-mvc
+asparagus
 aspect
 aspect-ratio
 aspects
@@ -9738,6 +9772,7 @@ average
 averages
 averaging
 averting
+avocado
 avocation
 avocations
 avoidance
@@ -9824,6 +9859,8 @@ baffled
 bag
 bag-of-words
 bags
+baker
+baking
 balance
 balancing
 ball
@@ -10072,6 +10109,7 @@ blob
 block-chain
 block-scoped
 blockage
+blockbuster
 blockchain
 blockchain's
 blockchain-based
@@ -10091,6 +10129,7 @@ bloomed
 blows
 blue
 bluetooth
+bluish
 blunder
 blundered
 blunders
@@ -10109,6 +10148,7 @@ bodies
 body
 boil
 boiled
+boiler
 boiling
 bold
 bolt
@@ -10129,6 +10169,7 @@ books
 boolean
 booleans
 boom
+boomerang
 boon
 boost-up
 booster
@@ -10170,6 +10211,7 @@ boundary
 bounding
 bounding-boxes
 boundless
+bounty
 boutique
 bow
 bowed
@@ -10191,6 +10233,7 @@ brace
 braces
 bracket
 brackets
+braid
 brain
 brainless
 brains
@@ -10198,6 +10241,7 @@ brainstorm
 brainstorming
 brakes
 branch
+branched
 branches
 branching
 brand
@@ -10256,6 +10300,7 @@ broadened
 broadening
 broader
 broker
+brokers
 brother
 brotherly
 brothers
@@ -10265,6 +10310,9 @@ browser
 browser's
 browser-based
 browsers
+bruise
+bruised
+bruises
 brunette
 brush
 brutal
@@ -10288,6 +10336,7 @@ buffet
 bug
 bug-monitoring
 bugfix
+buggy
 bugs
 builder
 builders
@@ -10302,6 +10351,7 @@ bulk
 bullet
 bullshit
 bunch
+bunches
 bundle
 bundler
 burdensome
@@ -10449,6 +10499,7 @@ capacity
 capital
 capital-focused
 capslock
+captcha
 captchas
 caption
 captioning
@@ -10478,6 +10529,7 @@ caresses
 caressing
 carpet
 carriage
+carrot
 carry-on
 cars
 cart
@@ -10582,7 +10634,9 @@ chairs
 challenge
 challenger
 challenges
+champagne
 champion
+champions
 championship
 championships
 chance
@@ -10656,6 +10710,8 @@ checkpoints
 checksum
 checksums
 checkup
+cheek
+cheeks
 cheer
 cheerful
 cheerfuller
@@ -10669,6 +10725,8 @@ chemical
 chemically
 chemicals
 chemistry
+cherries
+cherry
 chess
 chest
 chewing
@@ -10683,6 +10741,7 @@ childs
 chill
 chilled
 chilling
+chin
 china
 chip
 chip's
@@ -10721,6 +10780,7 @@ cinnamon
 ciphertext
 circle
 circles
+circling
 circuit
 circuitry
 circuits
@@ -10779,6 +10839,7 @@ clearer
 clearest
 clearing
 clearness
+clench
 clever
 cleverer
 cleverest
@@ -10794,6 +10855,7 @@ client-side
 clients
 clientside
 clientview
+cliffs
 climate
 climbing
 cling
@@ -10961,6 +11023,7 @@ cohesion
 cohesive
 coin
 coincidence
+coincidental
 coinciding
 coins
 colab
@@ -11050,6 +11113,8 @@ commend
 commendation
 commended
 commentary
+commentator
+commentators
 comments
 commentview
 commerce
@@ -11107,6 +11172,8 @@ comparison
 comparisons
 compartment
 compartments
+compass
+compasses
 compassion
 compassionate
 compatibility
@@ -11460,6 +11527,7 @@ continental
 continents
 contingencies
 contingency
+contingent
 continuable
 continual
 continuance
@@ -11533,9 +11601,11 @@ convertors
 convex
 convexity
 conveyance
+convict
 convicted
 conviction
 convictions
+convicts
 convincing
 convivial
 convnet
@@ -11711,6 +11781,7 @@ crew
 crime
 crimes
 criminal
+cripple
 crises
 crisis
 crisp
@@ -11722,6 +11793,7 @@ critical
 criticality
 criticising
 criticism
+criticisms
 critics
 critique
 critiques
@@ -11747,6 +11819,7 @@ cross-team
 cross-thread
 cross-validation
 cross-validations
+crossbow
 crosscheck
 crossed
 crossed-out
@@ -11775,6 +11848,7 @@ crucial
 crucible
 crude
 cruel
+crumple
 crunchboard
 crunching
 crux
@@ -11821,12 +11895,15 @@ curator
 curiosity
 curious
 curl
+currant
+currants
 currency
 current
 currentdate
 curriculum
 cursor
 cursors
+cursory
 curvature
 curve
 curved
@@ -12356,6 +12433,7 @@ detectability
 detectable
 detection
 detections
+detective
 detector
 detectors
 deteriorating
@@ -12456,6 +12534,7 @@ diffident
 diffing
 diffraction
 diffs
+diffusing
 diffusion
 dig
 digest
@@ -12490,6 +12569,7 @@ dimensional
 dimensionalities
 dimensionality
 dimensionally
+dimensionless
 dimensions
 dimensity
 dimming
@@ -12681,6 +12761,7 @@ dissimilar
 dissimilarity
 dissipating
 dissipation
+dissociate
 dissociative
 dissolution
 dissonance
@@ -12736,6 +12817,7 @@ diversity
 divert
 diverted
 diverting
+dividend
 divider
 dividers
 divine
@@ -12806,6 +12888,7 @@ dominance
 dominant
 dominantly
 domination
+domino
 donating
 donation
 donations
@@ -12919,6 +13002,7 @@ drought
 drug
 drugs
 drupal
+dryer
 drying
 dsl
 dss
@@ -13028,6 +13112,7 @@ economic
 economical
 economically
 economics
+economist
 economy
 ecosystem
 ecu
@@ -13485,6 +13570,7 @@ evident
 evidential
 evil
 evolution
+evolutionarily
 evolutionary
 evolutions
 evolutive
@@ -13689,8 +13775,11 @@ exultation
 exulting
 exultingly
 eye
+eyebrow
+eyebrows
 eyes
 fabless
+fabrication
 fabulous
 face
 face-to-face
@@ -13863,6 +13952,7 @@ females
 feminine
 femininity
 feminism
+feminists
 fence
 fenced
 fervour
@@ -14013,6 +14103,7 @@ flaw
 flawless
 flawlessly
 flaws
+fleet
 flexbox
 flexibility
 flexible
@@ -14354,6 +14445,7 @@ futility
 future
 future-based
 future-proof
+futures
 futuring
 futuristic
 fuzzy
@@ -14422,6 +14514,7 @@ gems
 gen
 gender
 gene
+genealogy
 general
 general-purpose
 generality
@@ -14491,6 +14584,7 @@ geoscience
 geospatial
 geospatially
 gerrit
+gerund
 gestural
 gesture
 gesture-based
@@ -14605,6 +14699,7 @@ gptengineer
 gpu
 gpu-based
 gpus
+grace
 graceful
 gracious
 graciously
@@ -14659,6 +14754,7 @@ gratifying
 gratitude
 grave
 graver
+graveyard
 gravitational
 gravity
 gravy
@@ -14671,6 +14767,7 @@ greatness
 greed
 greedy
 green
+greenish
 grep
 grey
 grid
@@ -14918,6 +15015,8 @@ heavy
 heavyweight
 heck
 heedlessness
+heel
+heels
 hefty
 height
 heightened
@@ -15107,6 +15206,7 @@ host-based
 hosted
 hostel
 hostess
+hostility
 hosting
 hostname
 hostnames
@@ -15279,6 +15379,7 @@ idl
 idle
 idleness
 idlest
+idling
 idolized
 ids
 ie10
@@ -15312,6 +15413,7 @@ illiterate
 illiterates
 illness
 illnesses
+illuminating
 illumination
 illusion
 illustration
@@ -15599,6 +15701,7 @@ indoors
 indubitable
 inducement
 inducements
+inductance
 induction
 inductive
 indulge
@@ -15751,6 +15854,7 @@ injunction
 injure
 injured
 injuries
+injuring
 injurious
 injury
 injustice
@@ -16388,6 +16492,7 @@ july
 jumble
 jumpstart
 junction
+junctions
 june
 jungle
 junior
@@ -16670,6 +16775,7 @@ lengths
 lengthy
 leniently
 lens
+lense
 lenses
 lent
 less-commonly
@@ -16841,6 +16947,8 @@ loadable
 loader
 loaders
 loan
+loaned
+loaning
 lobby
 local
 local-storage
@@ -16978,6 +17086,7 @@ lucked
 luckiest
 lucky
 lucrative
+luminous
 lunch
 lunches
 lungs
@@ -17071,6 +17180,7 @@ managerial
 managers
 mandatory
 maneuver
+maneuvering
 manifest
 manifested
 manifests
@@ -17170,6 +17280,7 @@ matrix-multiplied
 matrix-product
 matrix-vector
 matrixes
+mattresses
 mature
 matured
 maturity
@@ -17182,6 +17293,7 @@ maximizer
 maximum
 maximums
 maxpooling
+maze
 mbr
 mcu
 mcu's
@@ -17400,12 +17512,14 @@ milestone
 milestones
 military
 milk
+mill
 millennial
 millennials
 million
 millions
 millisecond
 milliseconds
+mills
 mimic
 mimics
 min
@@ -17616,6 +17730,7 @@ monitors
 monkey
 monkeys
 mono
+monochromatic
 monochrome
 monogame
 monolingual
@@ -17637,6 +17752,7 @@ monumental
 mood
 moon
 moonlight
+moonshine
 moore's
 moral
 moralised
@@ -17929,6 +18045,7 @@ namespaces
 nan
 nano
 nanosecond
+nanoseconds
 nanotechnologies
 nanotechnology
 nap
@@ -18356,6 +18473,8 @@ nvidia's
 o'clock
 oath
 oaths
+oatmeal
+oats
 oauth
 oauth2
 obedience
@@ -18439,6 +18558,7 @@ octagonal
 octahedral
 octahedron
 octal
+octaves
 october
 oculus
 odbc
@@ -18490,6 +18610,7 @@ oil
 ok
 okay
 old
+old-fashioned
 old-school
 old-style
 older
@@ -18877,6 +18998,7 @@ palliate
 palpable
 palpably
 pancakes
+panda
 pandas
 panel
 panels
@@ -18897,6 +19019,7 @@ parade
 paradigm
 paradigms
 paradings
+paradise
 paradox
 paradoxically
 paragraph
@@ -19020,6 +19143,7 @@ patience
 patient
 patiently
 patients
+patriotic
 patronage
 patroness
 pattern
@@ -19058,15 +19182,26 @@ pdfs
 pdo
 peace
 peaceful
+peach
+peaches
 peak
 peaked
 peaks
 peanut
+peas
+peasant
+peasants
+pebbles
 peculiar
 peculiarities
 peculiarity
 peculiarly
 pedestrian
+pedestrians
+pedophile
+pedophiles
+peel
+peeling
 peeped
 peer
 peer-to-peer
@@ -19184,6 +19319,7 @@ pet
 petabyte
 petabyte-scale
 pets
+petting
 pgp
 pharmacy
 phase
@@ -19235,6 +19371,7 @@ piano
 pick-up
 picker
 pickle
+pickles
 pickup
 pics
 pictorial
@@ -19359,6 +19496,7 @@ plex
 plotly
 plotting
 plsql
+pluck
 plug-and-play
 plug-in
 plug-ins
@@ -19369,6 +19507,10 @@ plugin
 plugin-based
 plugins
 plugs
+plum
+plummet
+plums
+plunger
 plural
 plurality
 plus
@@ -19417,6 +19559,8 @@ politics
 poll
 polls
 pollution
+polyester
+polyethylene
 polygon
 polygonal
 polygons
@@ -19489,6 +19633,7 @@ possession
 possibilities
 possibility
 post-processing
+postage
 poster
 posteriori
 postfiltering
@@ -19509,6 +19654,8 @@ potentials
 pound
 poverty
 pow
+powder
+powders
 power
 power-law
 power-on
@@ -19927,6 +20074,7 @@ prosperous
 protection
 protections
 protective
+protector
 protein
 proteins
 protest
@@ -19997,6 +20145,8 @@ publicity
 publicly
 publisher
 publishers
+puddle
+puddles
 puff
 puffy
 pull-away
@@ -20178,7 +20328,9 @@ race
 racers
 races
 racetrack
+racism
 racist
+racists
 rack
 radar
 radial
@@ -20190,10 +20342,12 @@ radioactive
 radius
 rag
 raid
+raiders
 rail
 rails
 rails-activerecord
 railway
+railways
 rain
 rained
 rainfall
@@ -20228,6 +20382,7 @@ rare
 rared
 raring
 rarity
+raspberries
 raspberry
 raspberry-pi
 raspberrypi
@@ -20643,6 +20798,7 @@ relief
 relightful
 religion
 religious
+religiously
 relinquish
 relinquished
 relinquishing
@@ -20703,6 +20859,7 @@ repairable
 repairs
 reparameterization
 repast
+repayment
 repeatability
 repeatable
 repeater
@@ -20980,7 +21137,9 @@ rights
 rigid
 rigorous
 rigorously
+rim
 rimm
+rims
 ringing
 rings
 risk-driven
@@ -21001,6 +21160,7 @@ roadmap
 roadmaps
 roads
 roaming
+roar
 roast
 roasted
 robbery
@@ -21145,6 +21305,7 @@ salad
 salaries
 salary
 salesforce
+salesman
 salt
 salty
 sameness
@@ -21256,6 +21417,7 @@ scratched
 scream
 screams
 screen
+screened
 screens
 screensaver
 screenshot
@@ -21290,6 +21452,7 @@ sea
 seafood
 seal
 sealed
+sealing
 seamless
 search-based
 searchable
@@ -21318,6 +21481,7 @@ secretary
 secretly
 secrets
 section
+sectional
 sectionally
 sections
 sector
@@ -21352,6 +21516,7 @@ segregating
 segueing
 seize
 seized
+seizing
 seizure
 seldom
 seldomly
@@ -21548,7 +21713,9 @@ shadow
 shadowing
 shadows
 shaking
+shale
 shallow
+shallower
 shame
 shameful
 shamefully
@@ -21572,6 +21739,7 @@ shareware
 shark
 sharp
 sharpen
+sharpened
 sharpening
 sharpest
 sharpness
@@ -21819,6 +21987,7 @@ skinning
 skinny
 skip-gram
 skirt
+skirts
 sklearn
 sky
 skydiving
@@ -21893,6 +22062,7 @@ smarty
 smash
 smashed
 smashing
+smeared
 smell
 smells
 smelly
@@ -21906,6 +22076,7 @@ smoothing
 smoothness
 sms
 smtp
+smuggling
 snack
 snacks
 snake
@@ -21942,6 +22113,7 @@ socializing
 socially
 societal
 society
+sock
 socket
 sockets
 socks
@@ -22143,7 +22315,9 @@ splines
 splits
 splitter
 spoil
+spoilage
 spoiled
+spoiler
 spoiling
 spoilt
 spokesperson
@@ -22157,6 +22331,7 @@ spoofing
 spooky
 spooling
 spoon
+spoons
 sporadic
 sport
 sports
@@ -22165,6 +22340,7 @@ spotify
 spotlight
 spots
 spotted
+spotting
 spp
 spray
 spreadsheet
@@ -22177,6 +22353,7 @@ spring-powered
 spring-security
 sprint
 sprint's
+sprinting
 sprints
 sprite-kit
 spritekit
@@ -22239,11 +22416,13 @@ staging
 stagnation
 staid
 stain
+stained
 staircase
 stairs
 stake
 stakeholder
 stakeholders
+stakes
 stale
 stalling
 stand-alone
@@ -22262,6 +22441,7 @@ star
 starcraft
 stare
 staring
+starlight
 starring
 stars
 start-up
@@ -22338,6 +22518,7 @@ sticker
 stickers
 sticky
 stiffness
+stifle
 stimulating
 stimulation
 stimulative
@@ -22351,6 +22532,7 @@ stl
 stochastic
 stochasticity
 stock
+stocked
 stocks
 stokes
 stomach
@@ -22601,6 +22783,7 @@ subside
 subsided
 subsides
 subsidiary
+subsidy
 subsistence
 subspace
 subspaces
@@ -22672,6 +22855,7 @@ sufficiency
 sufficient
 suffix
 suffixes
+suffocation
 sugar
 suggestion
 suggestions
@@ -23068,6 +23252,7 @@ tempting
 ten
 tenacious
 tenaciously
+tenants
 tendencies
 tendency
 tender
@@ -23075,6 +23260,7 @@ tenderer
 tenderest
 tenderly
 tenderness
+tending
 tennis
 tense
 tension
@@ -23159,6 +23345,8 @@ textbooks
 textbox
 textboxes
 textfield
+textile
+textiles
 textmode
 texts
 textual
@@ -23394,6 +23582,7 @@ tools
 toolset
 tooth
 toothpaste
+toothpastes
 top
 top-10
 top-down
@@ -23764,6 +23953,7 @@ typo
 typographical
 typography
 typos
+tyranny
 ubiquitous
 ubiquity
 ubuntu
@@ -23831,6 +24021,7 @@ unbiased
 unbidden
 unbinding
 unbleached
+unborn
 unbound
 unboxing
 unbranched
@@ -24152,6 +24343,7 @@ unpersuadable
 unpinning
 unplanned
 unpleasant
+unplugging
 unpolished
 unpopular
 unpractical
@@ -24499,6 +24691,7 @@ vectors
 vegetable
 vegetables
 vegetarian
+vegetarians
 vehicle
 vehicles
 velocity
@@ -24767,10 +24960,13 @@ watches
 watchos
 water
 waterfall
+waterfalls
 watering
 watermark
 watermarking
 watermarks
+watermelon
+watermelons
 waters
 wav
 wave
@@ -24952,6 +25148,7 @@ well-abstracted
 well-architected
 well-balanced
 well-behaved
+well-being
 well-built
 well-capitalized
 well-chosen
@@ -24987,12 +25184,14 @@ wheels
 which'll
 whim
 whims
+whipping
 whirling
 whiskey
 whisper
 whispered
 whispering
 whispers
+whistles
 white
 whiteboard
 whiten
@@ -25292,6 +25491,7 @@ zeroes
 zeros
 zlib
 zombie
+zombies
 zone
 zoned
 zones
