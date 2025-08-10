@@ -92,3 +92,15 @@ def read_embedded_dict() -> set:
     print(f"db-full.sz={len(word_set)}")
     return word_set
 
+
+def save_embedded_dict(word_set: set):
+
+    word_list = sorted(word_set)
+
+    path = Path("data/db-full.txt")
+    with path.open("w", encoding="utf-8") as f:
+        for word in word_list:
+            f.write(word + "\n")
+
+    print(f"Saved: db-full.sz={len(word_list)}")
+
