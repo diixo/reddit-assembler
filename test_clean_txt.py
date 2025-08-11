@@ -46,6 +46,7 @@ if __name__ == "__main__":
         "42": 3,            # ❌ remove
         "456++": 2,         # ❌ remove
         "123..456": 2,      # ❌ remove
+        ".com":     5,
     }
 
     word_counts = filter_dictionary(word_counts)

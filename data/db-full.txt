@@ -1,6 +1,8 @@
+.COM
 .NET
 .Net
 .asp
+.com
 .gitignore
 .htaccess
 .net
@@ -134,6 +136,7 @@ Abusing
 Abusive
 Academic
 Academically
+Academics
 Academy
 Accelerate
 Accelerated
@@ -541,6 +544,7 @@ Americans
 Amid
 Amidst
 Amity
+Amnesia
 Among
 Amongst
 Amount
@@ -869,6 +873,7 @@ Asymptotically
 Asynchronous
 At
 Ate
+Athlete
 Athletic
 Atlas
 Atmosphere
@@ -911,6 +916,7 @@ Attributed
 Attributing
 Attribution
 Attrition
+Auction
 Auctions
 Audible
 Audience
@@ -1053,6 +1059,8 @@ Balances
 Balancing
 Bald
 Ball
+Ballot
+Ballots
 Balls
 Ban
 Banana
@@ -1095,6 +1103,7 @@ Batches
 Bath
 Bathing
 Bathroom
+Bathrooms
 Bats
 Batteries
 Battery
@@ -1111,6 +1120,7 @@ Beam
 Beaming
 Bear
 Beard
+Beards
 Bearer
 Bearing
 Beat
@@ -1232,6 +1242,7 @@ Biography
 Bioinformatics
 Biological
 Biologically
+Biologists
 Biology
 Bionic
 Bios
@@ -1566,6 +1577,7 @@ CAN
 CCA
 CD
 CEO
+CEOs
 CERTAIN
 CES
 CGI
@@ -1634,6 +1646,7 @@ Can't
 Canada
 Canadian
 Canal
+Canals
 Cancel
 Canceling
 Cancellation
@@ -1758,6 +1771,7 @@ Censorship
 Center
 Centered
 Centers
+Centimeters
 Centos
 Central
 Centralized
@@ -2030,6 +2044,7 @@ Clubs
 Clue
 Clueless
 Clues
+Clumps
 Cluster
 Clustering
 Clusters
@@ -2102,6 +2117,7 @@ Collector
 College
 Colleges
 Collide
+Collided
 Colliding
 Collision
 Collisions
@@ -2636,6 +2652,7 @@ Corrupted
 Corruption
 Cortex
 Cosine
+Cosmetic
 Cost
 Costs
 Cot
@@ -2829,6 +2846,8 @@ Currently
 Curriculum
 Cursor
 Cursory
+Curtain
+Curtains
 Curvature
 Curve
 Curved
@@ -2846,6 +2865,7 @@ Cuteness
 Cutoff
 Cuts
 Cutting
+Cyan
 Cyber
 Cyberattack
 Cybernetics
@@ -3637,6 +3657,7 @@ Dogs
 Doing
 Dollar
 Dollars
+Dolphin
 Dolphins
 Dom
 Domain
@@ -3730,6 +3751,7 @@ Drew
 Drier
 Drift
 Drifted
+Drifting
 Drill
 Drilling
 Drills
@@ -4818,6 +4840,7 @@ Fluctuations
 Fluency
 Fluff
 Fluffed
+Fluffy
 Fluid
 Flush
 Flushing
@@ -4984,6 +5007,7 @@ Freelancers
 Freely
 Freemind
 Freestanding
+Freeway
 Freeze
 Freezes
 Freezing
@@ -5122,6 +5146,7 @@ Gaps
 Garage
 Garbage
 Garden
+Gardens
 Garment
 Gas
 Gate
@@ -5864,6 +5889,7 @@ IOT
 IP
 IP-based
 IPC
+IPO
 IPS
 IPTV
 IPV4
@@ -5885,6 +5911,7 @@ ITunes
 IaaS
 Iam
 Ice
+Iced
 Icing
 Icon
 Iconic
@@ -5911,6 +5938,7 @@ Ides
 Idiom
 Idioms
 Idiot
+Idiots
 Idle
 Idling
 Ie
@@ -6067,6 +6095,7 @@ Incompatibilities
 Incompatible
 Incomplete
 Incompleteness
+Incompressible
 Inconceivable
 Incongruity
 Inconsiderate
@@ -6875,6 +6904,7 @@ Legalized
 Legally
 Legend
 Legendary
+Legends
 Legislative
 Legitimacy
 Legitimate
@@ -7136,6 +7166,7 @@ Lubuntu
 Luck
 Luckily
 Lucky
+Luggage
 Luminous
 Lunch
 Lungs
@@ -7377,9 +7408,11 @@ Medical
 Medicine
 Medieval
 Mediocre
+Meditate
 Meditation
 Meditations
 Medium
+Mediums
 Meet
 Meet-Up
 Meet-Ups
@@ -7735,6 +7768,7 @@ Multi-mode
 Multi-use
 Multi-year
 Multicast
+Multicellular
 Multicore
 Multilevel
 Multimedia
@@ -8481,6 +8515,7 @@ PL
 PNG
 POP
 POP3
+POV
 Pace
 Pacing
 Pack
@@ -8578,6 +8613,7 @@ Particles
 Particular
 Particularly
 Particulars
+Particulate
 Parties
 Parting
 Partition
@@ -8676,6 +8712,7 @@ Pen
 Penalties
 Penalty
 Pencil
+Pencils
 Pending
 Penetrating
 Penetration
@@ -9404,7 +9441,9 @@ Pruning
 Pseudo
 Psychiatric
 Psychiatry
+PsychologIcally
 Psychological
+Psychologically
 Psychologist
 Psychology
 PubliC
@@ -10191,6 +10230,7 @@ Retired
 Retirement
 Retiring
 Retold
+Retreat
 Retrieval
 Retrieved
 Retriever
@@ -10259,6 +10299,8 @@ Rid
 Riddle
 Riddles
 Ride
+Rider
+Riders
 Rides
 Ridiculous
 Ridiculously
@@ -10460,6 +10502,7 @@ Saturated
 Saturation
 Saturday
 Sauce
+Sausage
 Save
 Saved
 Saves
@@ -10764,6 +10807,7 @@ Shadow
 Shadowed
 Shadowing
 Shadows
+Shady
 Shake
 Shaken
 Shakes
@@ -10829,6 +10873,7 @@ Shirts
 Shit
 Shits
 Shitty
+Shiver
 Shock
 Shocked
 Shocking
@@ -11241,6 +11286,8 @@ Speaker
 Speakers
 Speaking
 Speaks
+Spear
+Spears
 Spec
 Special
 Specialist
@@ -12296,6 +12343,7 @@ Tittle
 To
 To-Do
 Toast
+Toaster
 Today
 Today's
 Toddler
@@ -12977,6 +13025,7 @@ VS
 Vacancies
 Vacation
 Vacations
+Vaccination
 Vacuum
 Vague
 Vaguely
@@ -13101,6 +13150,7 @@ Violence
 Violent
 Viper
 Viral
+Virgin
 Virtual
 VirtualBox
 Virtualization
@@ -13489,6 +13539,7 @@ Wood
 Wooded
 Wooden
 Woods
+Wool
 Word
 WordPress
 Wording
@@ -13720,6 +13771,7 @@ abusing
 abusive
 academic
 academically
+academics
 academy
 accede
 acceded
@@ -14476,6 +14528,7 @@ amid
 amidst
 amiss
 amity
+amnesia
 amoled
 among
 amongs
@@ -15090,6 +15143,7 @@ asyncio
 asynctask
 at
 ate
+athlete
 athletic
 atlas
 atlases
@@ -15168,6 +15222,7 @@ attunes
 atx
 atypical
 atypically
+auction
 auctioned
 auctions
 audible
@@ -15445,6 +15500,8 @@ balances
 balancing
 bald
 ball
+ballot
+ballots
 balls
 ban
 banana
@@ -15501,6 +15558,7 @@ batching
 bath
 bathing
 bathroom
+bathrooms
 bats
 batteries
 battery
@@ -15521,6 +15579,7 @@ beans
 bear
 bearable
 beard
+beards
 bearer
 bearing
 bears
@@ -15721,6 +15780,7 @@ biography
 bioinformatics
 biological
 biologically
+biologists
 biology
 bionic
 bios
@@ -16318,6 +16378,7 @@ campuses
 can
 can't
 canal
+canals
 cancel
 canceled
 canceling
@@ -16512,6 +16573,7 @@ centering
 centerline
 centers
 centimeter
+centimeters
 centos
 central
 centralization
@@ -16944,6 +17006,8 @@ clue
 clued
 clueless
 clues
+clump
+clumps
 clung
 cluster
 cluster-based
@@ -17131,6 +17195,7 @@ collects
 college
 colleges
 collide
+collided
 collides
 colliding
 collinear
@@ -18130,6 +18195,7 @@ corrupts
 cors
 cortex
 cosine
+cosmetic
 cosmic
 cost
 cost-effective
@@ -18469,6 +18535,8 @@ curtail
 curtailed
 curtailing
 curtails
+curtain
+curtains
 curvature
 curve
 curved
@@ -18505,6 +18573,7 @@ cutout
 cuts
 cutting
 cutting-edge
+cyan
 cyber
 cyber-attacks
 cyber-criminals
@@ -20071,6 +20140,7 @@ doings
 doleful
 dollar
 dollars
+dolphin
 dolphins
 dom
 domain
@@ -20227,6 +20297,7 @@ drier
 dries
 drift
 drifted
+drifting
 drill
 drilled
 drilling
@@ -22103,6 +22174,7 @@ fluff
 fluffed
 fluffing
 fluffs
+fluffy
 fluid
 flung
 flunk
@@ -22396,6 +22468,7 @@ frees
 freestanding
 freesync
 freeware
+freeway
 freeze
 freezed
 freezes
@@ -22611,6 +22684,7 @@ garbage
 garble
 garbled
 garden
+gardens
 garment
 garnered
 gas
@@ -23793,6 +23867,7 @@ iaas
 iam
 ibm
 ice
+iced
 icing
 icon
 iconic
@@ -23829,6 +23904,7 @@ idiom
 idiomatic
 idioms
 idiot
+idiots
 idl
 idle
 idleness
@@ -24173,6 +24249,7 @@ incompleted
 incompletely
 incompleteness
 incomprehensible
+incompressible
 inconceivable
 inconceivably
 inconclusive
@@ -25772,6 +25849,7 @@ legalizes
 legally
 legend
 legendary
+legends
 legible
 legibly
 legislative
@@ -26237,6 +26315,7 @@ luckiest
 luckily
 lucky
 lucrative
+luggage
 luminous
 lump
 lumps
@@ -26574,12 +26653,15 @@ medical
 medicine
 medieval
 mediocre
+meditate
 meditated
+meditates
 meditating
 meditation
 meditations
 medium
 medium-sized
+mediums
 meet
 meet-up
 meet-ups
@@ -27295,6 +27377,7 @@ multi-year
 multibyte
 multibyte-character
 multicast
+multicellular
 multichannel
 multiclass
 multicloud
@@ -28962,6 +29045,7 @@ particularize
 particularized
 particularly
 particulars
+particulate
 parties
 parting
 partition
@@ -29121,6 +29205,7 @@ penalty
 penance
 pencil
 pencilled
+pencils
 pend
 pending
 penetrate
@@ -30432,6 +30517,7 @@ psql
 psychiatric
 psychiatry
 psychological
+psychologically
 psychologist
 psychology
 pthread
@@ -32189,6 +32275,7 @@ retrain
 retrained
 retraining
 retrains
+retreat
 retreated
 retried
 retries
@@ -32327,6 +32414,8 @@ riddled
 riddles
 ride
 rided
+rider
+riders
 rides
 ridiculing
 ridiculous
@@ -32547,6 +32636,7 @@ rxjs
 saas
 saas-based
 sacrifice
+sacrificed
 sad
 sadly
 sadness
@@ -32613,6 +32703,7 @@ sauce
 sauciness
 saucy
 sauntering
+sausage
 save
 saved
 saves
@@ -33144,6 +33235,7 @@ shadow
 shadowed
 shadowing
 shadows
+shady
 shaft
 shake
 shaked
@@ -33232,6 +33324,7 @@ shirts
 shit
 shits
 shitty
+shiver
 shock
 shocked
 shocking
@@ -33909,6 +34002,8 @@ speaker
 speakers
 speaking
 speaks
+spear
+spears
 spec
 specflow
 special
@@ -35018,6 +35113,7 @@ swiftly
 swiftui
 swim
 swimming
+swims
 swimsuit
 swing
 swipe
@@ -35766,6 +35862,7 @@ tmp
 to
 to-do
 toast
+toaster
 today
 today's
 toddler
@@ -37319,6 +37416,7 @@ vacancy
 vacant
 vacation
 vacations
+vaccination
 vacuum
 vagaries
 vague
@@ -37558,6 +37656,7 @@ violently
 violet
 viper
 viral
+virgin
 virtual
 virtualbox
 virtualization
@@ -38261,6 +38360,7 @@ wood
 wooded
 wooden
 woods
+wool
 word
 word2vec
 wordcloud
