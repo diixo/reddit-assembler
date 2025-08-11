@@ -984,6 +984,7 @@ Averages
 Averaging
 Averted
 Avocado
+Avocados
 Avoid
 Avoidance
 Avoiding
@@ -1022,6 +1023,7 @@ BSoD
 BTW
 Babies
 Baby
+Bachelor
 Back
 Back-end
 BackStory
@@ -1266,6 +1268,7 @@ Bisecting
 Bisection
 Bit
 BitCoin
+Bitches
 Bitcoin
 Bite
 Bites
@@ -1463,6 +1466,7 @@ Brevity
 Brewery
 Bricks
 Bride
+Brides
 Bridge
 Bridges
 Bridging
@@ -1521,6 +1525,7 @@ Buffering
 Buffers
 Buffet
 Bug
+Bugging
 Bugs
 Build
 Build-up
@@ -1922,6 +1927,7 @@ Chromium
 Chronic
 Chronological
 Chronologically
+Chronology
 Chunking
 Chunks
 Church
@@ -2086,6 +2092,7 @@ Cobol
 Cocktail
 Cocoa
 Coconut
+Coconuts
 Code
 Codec
 Codecs
@@ -2107,6 +2114,7 @@ Coherent
 Cohesion
 Cohesive
 Coil
+Coiling
 Coin
 Coincidence
 Coincidentally
@@ -3365,6 +3373,7 @@ Dialogues
 Diameter
 Diamond
 Diary
+Dick
 Dictated
 Dictator
 Dictatorship
@@ -4614,6 +4623,7 @@ Fancy
 Fancying
 Fans
 Fantastic
+Fantastical
 Fantastically
 Fantasy
 Faq
@@ -4769,6 +4779,7 @@ Fire
 FireFox
 Firebase
 Fired
+Firefly
 Firefox
 Firefox's
 Fires
@@ -4809,6 +4820,7 @@ Flame
 Flames
 Flammable
 Flare
+Flared
 Flares
 Flash
 Flashed
@@ -5304,6 +5316,7 @@ Globally
 Globe
 Glorious
 Glory
+Glossy
 Glove
 Glow
 Glowing
@@ -5947,6 +5960,8 @@ ITunes
 IaaS
 Iam
 Ice
+IceCream
+Icecream
 Iced
 Icing
 Icon
@@ -6002,6 +6017,7 @@ Illuminated
 Illuminating
 Illumination
 Illusion
+Illusory
 Illustrated
 Illustration
 Illustrations
@@ -6908,6 +6924,7 @@ Leading
 Leads
 Leaf
 Leaflet
+Leafs
 League
 Leak
 Leakage
@@ -7307,6 +7324,7 @@ Managing
 Mandatory
 Maneuver
 Maneuvering
+Mango
 Manifest
 Manifold
 Manipulate
@@ -7474,6 +7492,7 @@ Megabytes
 Megapixel
 Megapixels
 Melancholy
+Melodic
 Melodies
 Melt
 Melted
@@ -7979,6 +7998,7 @@ Networking
 Networks
 Neural
 Neuralink
+Neuro
 Neurological
 Neurology
 Neuron
@@ -8141,6 +8161,8 @@ Nowhere
 Nuanced
 Nuclear
 Nucleus
+Nugget
+Nuggets
 Null
 NumPy
 Number
@@ -8601,6 +8623,7 @@ Pairs
 Pale
 Palette
 Pallets
+Pancake
 Pancakes
 Panda
 Pandas
@@ -8640,6 +8663,7 @@ Pardon
 Parent
 Parentheses
 Parenthesis
+Parenthood
 Parenting
 Parents
 Parity
@@ -8738,6 +8762,7 @@ Peace
 Peaceful
 Peach
 Peaches
+Peacock
 Peak
 Peaked
 Peaks
@@ -8995,6 +9020,8 @@ Plenty
 Plex
 Plot
 Plotting
+Plow
+Plowing
 Pluck
 Plug
 Plug-in
@@ -9558,6 +9585,7 @@ Pursuit
 Push
 Pushed
 Pushing
+Pussy
 Put
 Puts
 Putting
@@ -9629,6 +9657,7 @@ Quickest
 Quickly
 Quiet
 Quieter
+Quills
 Quintessential
 Quit
 Quite
@@ -10144,6 +10173,7 @@ Repository
 Repost
 Reposted
 Reposting
+Reposts
 Represent
 Representation
 Representational
@@ -10387,6 +10417,8 @@ Rivalry
 Rivals
 River
 Rivers
+Roach
+Roaches
 Road
 Roadmap
 Roads
@@ -10640,6 +10672,7 @@ Scopes
 Score
 Scores
 Scoring
+Scorpion
 Scouting
 Scrabble
 Scramble
@@ -11409,6 +11442,7 @@ Spices
 Spicy
 Spider
 Spiders
+Spied
 Spies
 Spill
 Spilled
@@ -11440,6 +11474,7 @@ Sponsors
 Sponsorship
 Spontaneous
 Spontaneously
+Spoof
 Spoofing
 Spooky
 Spoon
@@ -11854,6 +11889,7 @@ Suite
 Suits
 Sum
 Summable
+Summarising
 Summarize
 Summarized
 Summarizing
@@ -11972,6 +12008,7 @@ Sustaining
 Sv
 Swallow
 Swallowing
+Swan
 Swap
 Swappable
 Swapping
@@ -13705,6 +13742,7 @@ Y-axis
 YOUTUBE
 Yahoo
 Yard
+Yarn
 Yeah
 Year
 Year's
@@ -13738,6 +13776,7 @@ Yourself
 Youth
 Youthful
 Youtube
+Yummy
 ZERO
 ZEROS
 ZIP
@@ -13747,6 +13786,7 @@ Zeroes
 Zeros
 Zip
 Zipper
+Zipping
 Zombie
 Zombies
 Zone
@@ -14484,6 +14524,7 @@ all-in-all
 all-in-one
 all-inclusive
 all-new
+all-out
 all-over
 all-time
 allay
@@ -15124,6 +15165,7 @@ assailed
 assault
 assaulted
 assaults
+assay
 assemblage
 assemble
 assembled
@@ -15461,6 +15503,7 @@ averted
 averting
 averts
 avocado
+avocados
 avocation
 avocations
 avoid
@@ -15520,6 +15563,7 @@ b-tree
 b2b
 babies
 baby
+bachelor
 back
 back-end
 back-off
@@ -15893,6 +15937,7 @@ bisection
 bit
 bit-field
 bitbucket
+bitches
 bitcoin
 bite
 bites
@@ -16190,6 +16235,7 @@ brewery
 brick
 bricks
 bride
+brides
 bridge
 bridges
 bridging
@@ -16279,6 +16325,8 @@ buffet
 bug
 bug-monitoring
 bugfix
+bugged
+bugging
 buggy
 bugs
 build
@@ -16899,6 +16947,7 @@ chromium
 chronic
 chronological
 chronologically
+chronology
 chunk
 chunked
 chunking
@@ -17192,6 +17241,7 @@ cocktail
 cocoa
 cocoa-touch
 coconut
+coconuts
 code
 code-base
 code-first
@@ -17247,6 +17297,7 @@ coherently
 cohesion
 cohesive
 coil
+coiling
 coin
 coincide
 coincided
@@ -19645,6 +19696,7 @@ diameter
 diamond
 diamonds
 diary
+dick
 dictate
 dictated
 dictates
@@ -21862,6 +21914,7 @@ fancy
 fancying
 fans
 fantastic
+fantastical
 fantastically
 fantasy
 faq
@@ -22128,6 +22181,7 @@ fire
 firebase
 firebase-authentication
 fired
+firefly
 firefox
 firefox's
 fires
@@ -22187,6 +22241,7 @@ flame
 flames
 flammable
 flare
+flared
 flares
 flas
 flash
@@ -22760,6 +22815,7 @@ future-proof
 futures
 futuring
 futuristic
+fuzzed
 fuzzy
 fyi
 g++
@@ -23008,6 +23064,7 @@ glorious
 glory
 glossary
 glossed
+glossy
 glove
 gloves
 glow
@@ -23648,6 +23705,7 @@ high-poly
 high-power
 high-profile
 high-quality
+high-ranking
 high-refresh
 high-resolution
 high-scalability
@@ -23799,6 +23857,7 @@ hormones
 horrible
 horribly
 horrid
+horrified
 horrifying
 horror
 horrors
@@ -23997,6 +24056,7 @@ iaas
 iam
 ibm
 ice
+icecream
 iced
 icing
 icon
@@ -24091,6 +24151,7 @@ illuminates
 illuminating
 illumination
 illusion
+illusory
 illustrate
 illustrated
 illustrates
@@ -25930,6 +25991,7 @@ leading
 leads
 leaf
 leaflet
+leafs
 league
 leak
 leakage
@@ -26580,6 +26642,7 @@ managing
 mandatory
 maneuver
 maneuvering
+mango
 manifest
 manifested
 manifests
@@ -26816,6 +26879,7 @@ megapixel
 megapixels
 melancholy
 melded
+melodic
 melodies
 melt
 melted
@@ -27751,6 +27815,7 @@ nearing
 nearly
 nearness
 neat
+neater
 neatly
 necessarily
 necessary
@@ -27813,6 +27878,7 @@ neon
 ner
 nerd
 nerds
+nerdy
 nerve
 nerves
 nervous
@@ -27848,6 +27914,7 @@ networks
 neural
 neural-network
 neuralink
+neuro
 neurocomputing
 neurological
 neurology
@@ -28200,6 +28267,8 @@ nuanced
 nuances
 nuclear
 nucleus
+nugget
+nuggets
 nul
 nul-terminated
 null
@@ -28435,6 +28504,7 @@ offloads
 offpeak
 offset
 offsets
+offshoot
 offshore
 offsite
 ofstream
@@ -29079,6 +29149,7 @@ palm
 palms
 palpable
 palpably
+pancake
 pancakes
 panda
 pandas
@@ -29148,6 +29219,7 @@ parent-child
 parentage
 parentheses
 parenthesis
+parenthood
 parenting
 parents
 parity
@@ -29312,6 +29384,7 @@ peace
 peaceful
 peach
 peaches
+peacock
 peak
 peaked
 peaking
@@ -29753,6 +29826,9 @@ plotly
 plots
 plotted
 plotting
+plow
+plowed
+plowing
 plsql
 pluck
 plug
@@ -30756,6 +30832,7 @@ push-notification
 pushed
 pushes
 pushing
+pussy
 put
 putout
 puts
@@ -30902,6 +30979,8 @@ quiet
 quieter
 quietly
 quietness
+quill
+quills
 quintessential
 quire
 quired
@@ -32080,6 +32159,7 @@ repository
 repost
 reposted
 reposting
+reposts
 reprehend
 reprehended
 reprehending
@@ -32620,6 +32700,8 @@ rivet
 rnn
 rnn's
 rnns
+roach
+roaches
 road
 roadmap
 roadmaps
@@ -32876,6 +32958,7 @@ savvy
 saw
 sawed
 sawn
+saws
 say
 saying
 says
@@ -32973,6 +33056,7 @@ scores
 scoring
 scorned
 scornful
+scorpion
 scouted
 scouting
 scrabble
@@ -33414,6 +33498,7 @@ shall
 shallow
 shallower
 shame
+shamed
 shameful
 shamefully
 shamelessly
@@ -34261,6 +34346,7 @@ spices
 spicy
 spider
 spiders
+spied
 spies
 spike
 spikes
@@ -34312,6 +34398,7 @@ sponsors
 sponsorship
 spontaneous
 spontaneously
+spoof
 spoofed
 spoofing
 spooky
@@ -34776,6 +34863,7 @@ studying
 stuff
 stuffed
 stuffing
+stuffs
 stumble
 stumbled
 stumbles
@@ -35065,6 +35153,10 @@ summability
 summable
 summaries
 summarisation
+summarise
+summarised
+summarises
+summarising
 summarization
 summarizations
 summarize
@@ -35256,6 +35348,7 @@ swallow
 swallowed
 swallowing
 swam
+swan
 swap
 swapfile
 swappability
@@ -35272,6 +35365,7 @@ sweared
 swearing
 sweat
 sweater
+sweaters
 sweating
 sweats
 sweaty
@@ -36387,6 +36481,7 @@ traps
 trash
 trashed
 trauma
+traumas
 traumatic
 travel
 traveled
@@ -37403,6 +37498,7 @@ unwraps
 unwritten
 unzip
 up
+up-down
 up-sampled
 up-sampling
 up-scaling
@@ -37906,6 +38002,7 @@ voicemail
 voiceovers
 voices
 void
+voided
 voip
 volatile
 volatileness
@@ -38723,6 +38820,7 @@ y-axis
 yahoo
 yaml
 yard
+yarn
 yawn
 yawned
 yawning
@@ -38768,6 +38866,7 @@ yourselves
 youth
 youthful
 youtube
+yummy
 z-index
 z-order
 zeal
@@ -38786,6 +38885,7 @@ zeros
 zip
 zipped
 zipper
+zipping
 zlib
 zombie
 zombies
