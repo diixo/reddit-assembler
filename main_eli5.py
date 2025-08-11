@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
     embedded_words = read_embedded_dict()
 
-    processing(dictionary)
+    #processing(dictionary)
 
     ############# save results
 
