@@ -1066,6 +1066,8 @@ Ban
 Banana
 Bananas
 Band
+Bandit
+Bandits
 Bands
 Bandwidth
 Bank
@@ -1079,6 +1081,7 @@ Bar
 Barely
 Bargain
 Bargaining
+Barn
 Barriers
 Bars
 Bart
@@ -1140,6 +1143,8 @@ Been
 Beer
 Bees
 Beet
+Beetle
+Beetles
 Before
 Beforehand
 Began
@@ -2044,6 +2049,7 @@ Clubs
 Clue
 Clueless
 Clues
+Clumping
 Clumps
 Cluster
 Clustering
@@ -2269,6 +2275,7 @@ Composition
 Compositions
 Compound
 Compounded
+Compounding
 Compounds
 Comprehend
 Comprehension
@@ -3787,6 +3794,7 @@ Drums
 Drunk
 Dry
 Dryer
+Dryers
 Drying
 Dual
 Dual-processor
@@ -3946,6 +3954,7 @@ Electrically
 Electricity
 Electrification
 Electrified
+Electro
 ElectroMagnetic
 Electromagnetic
 Electron
@@ -4177,6 +4186,7 @@ Epics
 Epilogue
 Episode
 Episodes
+Episodic
 Epoch
 Epsilon
 Equal
@@ -4206,6 +4216,7 @@ Eraser
 Erasing
 Ergonomic
 Ergonomics
+Erotic
 Errant
 Erratic
 Error
@@ -4744,6 +4755,7 @@ Firefox's
 Fires
 Firewall
 Firewalls
+Firework
 Fireworks
 Firing
 Firm
@@ -5008,6 +5020,7 @@ Freely
 Freemind
 Freestanding
 Freeway
+Freeways
 Freeze
 Freezes
 Freezing
@@ -5041,6 +5054,7 @@ Frontend
 Frontier
 Frontpage
 Fronts
+Frosted
 Froze
 Frozen
 Fruit
@@ -6424,6 +6438,7 @@ Intermediate
 Intermediates
 Intermission
 Intermittent
+Intern
 Internal
 Internally
 Internals
@@ -6845,6 +6860,7 @@ Launching
 Laundry
 Law
 Law's
+Lawful
 Lawmakers
 Laws
 Lawsuit
@@ -7356,6 +7372,7 @@ Maths
 Matlab
 Matrices
 Matrix
+Matte
 Matter
 Matters
 Mattresses
@@ -8149,6 +8166,7 @@ Objects
 Obligate
 Obligatory
 Obliquity
+Oblivion
 Obscure
 Obscuring
 Obscurity
@@ -8545,6 +8563,7 @@ Painted
 Painter
 Painting
 Paintings
+Paints
 Pair
 Paired
 Pairing
@@ -8716,6 +8735,8 @@ Pencils
 Pending
 Penetrating
 Penetration
+Penguin
+Penguins
 Pens
 Pentium
 People
@@ -8849,6 +8870,7 @@ Pigment
 Pigments
 Pigs
 Pile
+Pillar
 Pillow
 Pillows
 Pills
@@ -9168,6 +9190,7 @@ Preparing
 Preposition
 Prepositions
 Prescribed
+Prescribing
 Prescription
 Presence
 Present
@@ -9645,6 +9668,7 @@ Rambler
 Ramp
 Rampant
 Ran
+Ranch
 Rand
 Random
 Randomized
@@ -9742,6 +9766,7 @@ Reassembling
 Reassessment
 Reassignment
 Reassurance
+Rebates
 Rebellion
 Reboot
 Rebooting
@@ -10377,6 +10402,7 @@ Rotational
 Rotations
 Rough
 Roughly
+Roulette
 Round
 Round-Up
 RoundUp
@@ -10397,6 +10423,7 @@ Royal
 Royalties
 Rub
 Rubber
+Rubbery
 Ruby
 Rude
 Rudeness
@@ -10478,6 +10505,7 @@ Sales
 Salesman
 Salt
 Salty
+Salvation
 Same
 Sample
 Samples
@@ -10792,6 +10820,7 @@ Severe
 Severed
 Severely
 Severing
+Sewing
 Sex
 Sexism
 Sexist
@@ -11067,6 +11096,7 @@ Slam
 Slang
 Slash
 Slashes
+Slate
 Slave
 Slavery
 Slaves
@@ -11159,6 +11189,7 @@ Sneezing
 Sniper
 Snitch
 Snow
+Snowball
 Snowflakes
 Snows
 Snowy
@@ -11911,6 +11942,7 @@ Swearing
 Sweat
 Sweater
 Sweating
+Sweats
 Sweaty
 Sweep
 Sweeping
@@ -12764,6 +12796,7 @@ Undefined
 Undeniably
 Under
 Undercover
+Undercut
 Underestimated
 Underestimating
 Undergraduate
@@ -13223,6 +13256,7 @@ WLAN
 WSDL
 WWW
 WYSIWYG
+Wafer
 Wait
 Waited
 Waiting
@@ -13270,6 +13304,7 @@ Warp
 Warped
 Warrant
 Warranty
+Warring
 Warrior
 Warriors
 Wars
@@ -13506,6 +13541,7 @@ Wiring
 Wise
 Wish
 Wishing
+Witch
 Witches
 With
 WithOut
@@ -13662,6 +13698,7 @@ Zero
 Zeroes
 Zeros
 Zip
+Zipper
 Zombie
 Zombies
 Zone
@@ -14329,6 +14366,7 @@ aims
 ain't
 aiohttp
 air
+airbag
 aircraft
 aired
 airflow
@@ -15508,6 +15546,8 @@ banana
 bananas
 band
 bandied
+bandit
+bandits
 bands
 bandwidth
 banished
@@ -15526,6 +15566,7 @@ barely
 bargain
 bargaining
 bargains
+barn
 barrel
 barriers
 bars
@@ -15607,6 +15648,8 @@ been
 beer
 bees
 beet
+beetle
+beetles
 befit
 befitted
 before
@@ -16359,6 +16402,7 @@ calmer
 calming
 calmly
 calmness
+calms
 calories
 camcorder
 came
@@ -17007,8 +17051,10 @@ clued
 clueless
 clues
 clump
+clumping
 clumps
 clung
+clunky
 cluster
 cluster-based
 clustered
@@ -17480,6 +17526,7 @@ compositionality
 compositions
 compound
 compounded
+compounding
 compounds
 comprehend
 comprehended
@@ -19529,6 +19576,7 @@ dialog
 dialogs
 dialogue
 dialogues
+dials
 diameter
 diamond
 diamonds
@@ -20349,6 +20397,7 @@ drunk
 drupal
 dry
 dryer
+dryers
 drying
 dsl
 dss
@@ -20598,6 +20647,7 @@ electricity
 electrification
 electrified
 electrify
+electro
 electroluminescent
 electromagnetic
 electromechanical
@@ -21079,6 +21129,7 @@ epics
 epilogue
 episode
 episodes
+episodic
 epoch
 epochs
 epsilon
@@ -21135,6 +21186,7 @@ erasure
 ergonomic
 ergonomics
 erlang
+erotic
 errand
 erranded
 errands
@@ -21423,6 +21475,7 @@ exigent
 exist
 existed
 existence
+existent
 existential
 existing
 exists
@@ -22015,6 +22068,7 @@ firestore
 firewall
 firewalled
 firewalls
+firework
 fireworks
 firing
 firm
@@ -22469,6 +22523,7 @@ freestanding
 freesync
 freeware
 freeway
+freeways
 freeze
 freezed
 freezes
@@ -22517,6 +22572,7 @@ frontend-oriented
 frontier
 frontpage
 fronts
+frosted
 froze
 frozen
 frugally
@@ -23026,6 +23082,9 @@ grapple
 grappled
 grapples
 grasp
+grasped
+grasping
+grasps
 grass
 grated
 grateful
@@ -23077,6 +23136,7 @@ grind
 grinded
 grinds
 grip
+gritty
 groceries
 grocery
 grooming
@@ -24930,6 +24990,7 @@ intermediates
 intermission
 intermittent
 intermittently
+intern
 internal
 internal-use
 internally
@@ -25762,6 +25823,7 @@ laurels
 lavished
 law
 law's
+lawful
 lawfully
 lawless
 lawmakers
@@ -26577,6 +26639,7 @@ matrix-multiplied
 matrix-product
 matrix-vector
 matrixes
+matte
 matter
 mattered
 matters
@@ -27722,6 +27785,7 @@ neutralize
 neutralized
 neutralizes
 neutralizing
+neutrally
 neutron
 neutrons
 never
@@ -28154,6 +28218,7 @@ obliterate
 obliterated
 obliterates
 obliterating
+oblivion
 obscure
 obscured
 obscuring
@@ -28665,6 +28730,7 @@ outshared
 outsharing
 outside
 outside-in
+outsider
 outsiders
 outsized
 outsource
@@ -28917,6 +28983,7 @@ painter
 painting
 paintings
 paintless
+paints
 pair
 paired
 pairing
@@ -29190,6 +29257,7 @@ peeked
 peeking
 peel
 peeling
+peels
 peeped
 peer
 peer-to-peer
@@ -29213,6 +29281,8 @@ penetrated
 penetrates
 penetrating
 penetration
+penguin
+penguins
 penitence
 pens
 pensive
@@ -29450,6 +29520,7 @@ piled
 pilfered
 pilfering
 pilfers
+pillar
 pillow
 pillows
 pills
@@ -30048,6 +30119,7 @@ prerequisites
 prerouting
 prescribe
 prescribed
+prescribing
 prescription
 presence
 present
@@ -30828,6 +30900,7 @@ ramp-up
 rampant
 rampdown
 ran
+ranch
 rand
 random
 randomization
@@ -31079,6 +31152,8 @@ rebase
 rebased
 rebases
 rebasing
+rebate
+rebates
 rebellion
 rebind
 rebinded
@@ -32542,6 +32617,7 @@ rotations
 rotor
 rough
 roughly
+roulette
 round
 round-up
 roundabout
@@ -32580,6 +32656,7 @@ rtu
 rub
 rubber
 rubbers
+rubbery
 rubric
 ruby
 ruby's
@@ -32664,6 +32741,7 @@ salesforce
 salesman
 salt
 salty
+salvation
 same
 sameness
 sample
@@ -33214,6 +33292,10 @@ severed
 severely
 severing
 severity
+sew
+sewed
+sewing
+sews
 sex
 sexism
 sexist
@@ -33312,6 +33394,7 @@ shifted
 shifting
 shifts
 shine
+shined
 shines
 shining
 shiny
@@ -33637,8 +33720,10 @@ slain
 slam
 slammed
 slang
+slapped
 slash
 slashes
+slate
 slave
 slavery
 slaves
@@ -33687,6 +33772,7 @@ slit
 slither
 slithered
 slithering
+slogan
 slope
 slopes
 sloppy
@@ -33797,6 +33883,7 @@ snitch
 snooze
 snoozed
 snow
+snowball
 snowboard
 snowed
 snowflakes
@@ -34926,6 +35013,7 @@ super-fast
 super-powerful
 super-productive
 superadded
+superb
 supercharge
 superclass
 supercluster
@@ -35092,6 +35180,7 @@ swearing
 sweat
 sweater
 sweating
+sweats
 sweaty
 sweep
 sweeped
@@ -36640,6 +36729,7 @@ under
 underbred
 undercover
 undercoverage
+undercut
 underestimate
 underestimated
 underestimates
@@ -36795,6 +36885,7 @@ unforgiving
 unformatted
 unfortunate
 unfortunately
+unfounded
 unfreezes
 unfrequently
 unfriendly
@@ -37778,6 +37869,7 @@ vulnerable
 w2kpro
 w3c
 waded
+wafer
 wait
 waited
 waiting
@@ -37844,6 +37936,7 @@ warped
 warping
 warrant
 warranty
+warring
 warrior
 warriors
 wars
@@ -38036,6 +38129,7 @@ wedges
 wedging
 wednesday
 weed
+weeded
 weeds
 week
 week's
@@ -38225,6 +38319,10 @@ widgets
 widow
 widower
 width
+wield
+wielded
+wielding
+wields
 wife
 wifi
 wiki
@@ -38312,6 +38410,7 @@ wishing
 wishround
 wishup
 wit
+witch
 witches
 with
 withdraw
@@ -38586,6 +38685,7 @@ zeroing
 zeros
 zip
 zipped
+zipper
 zlib
 zombie
 zombies
