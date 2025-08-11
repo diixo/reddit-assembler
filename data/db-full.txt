@@ -1612,7 +1612,6 @@ CPUs
 CPython
 CRM
 CRUDE
-CRUISE
 CSI
 CSS
 CSS3
@@ -33682,6 +33681,7 @@ shortcoming
 shortcomings
 shortcut
 shortcuts
+shorted
 shorten
 shortened
 shortening
