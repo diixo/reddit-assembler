@@ -819,6 +819,7 @@ Aspect
 Aspects
 Aspiration
 Ass
+Assassin
 Assault
 Assaults
 Assemble
@@ -1698,6 +1699,8 @@ Caption
 Captioning
 Captions
 Captivate
+Captive
+Captives
 Captivity
 Capture
 Captured
@@ -2788,6 +2791,8 @@ Cried
 Crime
 Crimes
 Criminal
+Criminally
+Criminals
 Cringe
 Crises
 Crisis
@@ -2908,6 +2913,8 @@ Cyclical
 Cycling
 Cygwin
 Cylinder
+Cynic
+Cynically
 DB
 DBA
 DBS
@@ -3442,6 +3449,7 @@ Dinners
 Diode
 Diodes
 Dip
+Diplomacy
 Diplomatic
 Dipping
 Dir
@@ -4160,6 +4168,8 @@ Ennui
 Enormous
 Enormously
 Enough
+Enraged
+Enrages
 Enrich
 Enriched
 Enriching
@@ -4666,6 +4676,7 @@ Fearing
 Fears
 Feasibility
 Feasible
+Feast
 Feat
 Feather
 Feature
@@ -5599,6 +5610,7 @@ Haunted
 Have
 Haven't
 Having
+Hawk
 Hazard
 Hazards
 Hd
@@ -7522,6 +7534,8 @@ Mentions
 Mentors
 Menu
 Menus
+Meow
+Meowing
 Mercantile
 Merchandise
 Merchant
@@ -7935,6 +7949,7 @@ Native
 Natural
 Naturally
 Nature
+Naughty
 Navigate
 Navigating
 Navigation
@@ -9163,6 +9178,7 @@ Poverty
 Pow
 Powder
 Powders
+Powdery
 Power
 PowerPoint
 PowerShell
@@ -10556,6 +10572,7 @@ Sadly
 Sadness
 Safari
 Safe
+Safeguard
 Safely
 Safer
 Safety
@@ -10631,7 +10648,9 @@ Scarcely
 Scare
 Scared
 Scares
+Scarf
 Scaring
+Scarves
 Scary
 Scatter
 Scattered
@@ -10801,6 +10820,7 @@ Semantic
 Semantically
 Semantics
 Semaphore
+Semester
 Semicolon
 Semicolons
 Semiconductor
@@ -10964,6 +10984,7 @@ Shine
 Shining
 Shiny
 Ship
+Shipment
 Shipped
 Shipping
 Ships
@@ -11150,6 +11171,8 @@ Skilled
 Skillful
 Skilling
 Skills
+Skim
+Skimming
 Skin
 Skinned
 Skinny
@@ -11300,6 +11323,7 @@ Sole
 Solid
 Solid-State
 Solid-state
+Solidarity
 Solidity
 Solidly
 Solids
@@ -11703,6 +11727,7 @@ Strawberry
 Stray
 Stream
 Streamable
+Streamers
 Streaming
 Streamlined
 Streams
@@ -12104,6 +12129,7 @@ Tabular
 Tabulated
 Tackle
 Tackling
+Tact
 Tactic
 Tactics
 Tactile
@@ -12151,6 +12177,7 @@ Targeting
 Targets
 Tariff
 Tariffs
+Tartar
 Task
 Tasks
 Taste
@@ -12176,6 +12203,7 @@ Team
 Teammates
 Teams
 Teamwork
+Teapot
 Tear
 Tearing
 Tears
@@ -12229,6 +12257,7 @@ Temps
 Temptation
 Ten
 Tenacious
+Tenant
 Tend
 Tendency
 Tender
@@ -13336,6 +13365,7 @@ WIFI
 WIKI
 WLAN
 WSDL
+WTF
 WWW
 WYSIWYG
 Wafer
@@ -13531,6 +13561,9 @@ Which
 Whichever
 While
 Whilst
+Whine
+Whiners
+Whining
 Whip
 Whipped
 Whipping
@@ -13727,6 +13760,7 @@ Written
 Wrong
 Wrongly
 Wrote
+Wtf
 X-axis
 X86
 X86-64
@@ -13891,6 +13925,8 @@ abundant
 abundantly
 abuse
 abused
+abuser
+abusers
 abuses
 abusing
 abusive
@@ -14055,6 +14091,7 @@ actioned
 actionfilter
 actions
 actionscript
+actiony
 activate
 activated
 activates
@@ -14298,6 +14335,7 @@ affirmed
 affirms
 affix
 affixed
+afflicted
 affliction
 afford
 affordability
@@ -15162,6 +15200,7 @@ aspires
 aspiring
 ass
 assailed
+assassin
 assault
 assaulted
 assaults
@@ -16578,6 +16617,8 @@ captious
 captivate
 captivated
 captivating
+captive
+captives
 captivity
 capture
 captured
@@ -17021,6 +17062,7 @@ clarify
 clarifying
 clarity
 clash
+clashes
 class
 class's
 class-based
@@ -18510,6 +18552,8 @@ cries
 crime
 crimes
 criminal
+criminally
+criminals
 cringe
 cripple
 crises
@@ -18762,6 +18806,8 @@ cycling
 cygwin
 cylinder
 cylinders
+cynic
+cynically
 cython
 d-bus
 d3.js
@@ -19601,6 +19647,7 @@ detonated
 detonates
 detonating
 detonation
+detonator
 detour
 detract
 detracted
@@ -19815,6 +19862,7 @@ dinners
 diode
 diodes
 dip
+diplomacy
 diplomatic
 dipping
 dir
@@ -20428,6 +20476,7 @@ drained
 drains
 dram
 drama
+dramas
 dramatic
 dramatically
 drank
@@ -21113,6 +21162,9 @@ enqueued
 enqueuing
 enquired
 enquiring
+enrage
+enraged
+enrages
 enrich
 enriched
 enriches
@@ -21998,6 +22050,7 @@ fearless
 fears
 feasibility
 feasible
+feast
 feat
 feather
 feathers
@@ -22231,6 +22284,8 @@ fixed-price
 fixed-size
 fixes
 fixing
+fixture
+fixtures
 flag
 flagged
 flags
@@ -23183,6 +23238,7 @@ grammatically
 grams
 grand
 grandfather
+grandiose
 grandmother
 grandparents
 grandson
@@ -23527,6 +23583,7 @@ have
 haven't
 having
 havn't
+hawk
 hazard
 hazarded
 hazards
@@ -23566,6 +23623,7 @@ healed
 healing
 health
 healthcare
+healthful
 healthiness
 healthy
 heap
@@ -25803,6 +25861,7 @@ kivy
 kmeans
 knack
 knee
+kneels
 knees
 knew
 knife
@@ -26931,6 +26990,9 @@ mentorship
 menu
 menuitem
 menus
+meow
+meowed
+meowing
 mercantile
 merchandise
 merchant
@@ -27200,6 +27262,9 @@ misconduct
 misconfiguration
 misconfigured
 misconstrued
+miscue
+miscued
+miscues
 miserable
 miserably
 misery
@@ -27260,6 +27325,7 @@ mistime
 mistimed
 mistook
 mistral
+mistrust
 misunderstand
 misunderstanding
 misunderstandings
@@ -27795,6 +27861,7 @@ natural-language
 naturally
 nature
 natured
+naughty
 navbar
 navigate
 navigated
@@ -28512,6 +28579,7 @@ often
 oftener
 oftentimes
 oil
+oiled
 oils
 ok
 okay
@@ -29063,6 +29131,7 @@ overwhelm
 overwhelmed
 overwhelming
 overwhelmingly
+overwhelms
 overworked
 overworking
 overwrite
@@ -30046,6 +30115,7 @@ poverty
 pow
 powder
 powders
+powdery
 power
 power-law
 power-on
@@ -31028,6 +31098,7 @@ radical
 radically
 radio
 radioactive
+radish
 radius
 rag
 raid
@@ -32886,6 +32957,7 @@ sadly
 sadness
 safari
 safe
+safeguard
 safely
 safer
 safest
@@ -32994,7 +33066,9 @@ scarcely
 scare
 scared
 scares
+scarf
 scaring
+scarves
 scary
 scatter
 scattered
@@ -33308,6 +33382,8 @@ semantically
 semantics
 semaphore
 semaphores
+semester
+semesters
 semi-automated
 semi-automatically
 semi-definite
@@ -33569,6 +33645,8 @@ shines
 shining
 shiny
 ship
+shipment
+shipments
 shipped
 shipping
 ships
@@ -33866,6 +33944,10 @@ skilling
 skills
 skillset
 skillup
+skim
+skimmed
+skimming
+skims
 skin
 skinned
 skinning
@@ -34129,6 +34211,7 @@ solicitude
 solicitudes
 solid
 solid-state
+solidarity
 solidifies
 solidify
 solidity
@@ -34165,6 +34248,7 @@ sometime
 sometimes
 someway
 somewhat
+somewhen
 somewhere
 son
 song
@@ -34225,6 +34309,7 @@ spacious
 spacy
 spaghetti
 spam
+spammer
 spammers
 spamming
 span
@@ -34735,6 +34820,7 @@ stoves
 straggling
 straight
 straight-forward
+straighter
 straightforward
 straightforwardly
 straightness
@@ -34769,6 +34855,7 @@ stream-oriented
 streamable
 streamed
 streamer
+streamers
 streaming
 streamline
 streamlined
@@ -35510,6 +35597,7 @@ tacitly
 tackle
 tackled
 tackling
+tact
 tactic
 tactics
 tactile
@@ -35578,6 +35666,7 @@ targeting
 targets
 tariff
 tariffs
+tartar
 task
 task-oriented
 task-specific
@@ -35639,6 +35728,8 @@ teams
 teamup
 teamwork
 teamworking
+teapot
+teapots
 tear
 teardown
 tearing
@@ -35733,6 +35824,7 @@ tempts
 ten
 tenacious
 tenaciously
+tenant
 tenants
 tend
 tended
@@ -38450,6 +38542,13 @@ whiles
 whilst
 whim
 whims
+whine
+whined
+whiner
+whiners
+whines
+whiney
+whining
 whip
 whipped
 whipping
@@ -38787,6 +38886,7 @@ wrongfully
 wrongly
 wrote
 wsdl
+wtf
 www
 wysiwyg
 x-axis
