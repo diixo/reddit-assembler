@@ -83,10 +83,8 @@ caffeine
 barrier
 dinosaurs
 kg
-bang
 Europeans
 earth's
-melting
 ancestors
 enzymes
 Nazi
@@ -100,14 +98,12 @@ spacetime
 y
 Jews
 liquids
-armies
 Christianity
 Jewish
 Egypt
 gut
 g
 HIV
-combustion
 Asian
 P
 glucose
@@ -116,7 +112,6 @@ asteroid
 metabolism
 poles
 p
-wage
 NASA
 retina
 URL5
@@ -125,12 +120,9 @@ myth
 Italian
 cord
 currents
-pipe
-stem
 marijuana
 fluids
 quarks
-fission
 t
 chromosome
 N
@@ -140,7 +132,6 @@ Pacific
 societies
 tribes
 sugars
-pole
 pounds
 prey
 crust
@@ -164,17 +155,13 @@ tanks
 pressures
 f
 G
-breed
-grain
 mucus
 S
 K
 hairs
 fats
-Bang
 debris
 veins
-blade
 Obama
 H
 Dutch
@@ -193,11 +180,9 @@ Iran
 stimuli
 Higgs
 extinct
-religions
 bladder
 tract
 glands
-coal
 W
 Venus
 allergies
@@ -210,7 +195,6 @@ Alexander
 droplets
 carrier
 BC
-coil
 Christians
 enzyme
 L
@@ -218,7 +202,6 @@ intestines
 tidal
 aluminum
 William
-corn
 calorie
 ATP
 supernova
@@ -239,7 +222,6 @@ tl
 Hydrogen
 tubes
 Court
-calcium
 EM
 Atlantic
 penis
@@ -273,7 +255,6 @@ commercials
 ant
 bloodstream
 oxide
-wages
 Richard
 Egyptian
 rods
@@ -289,7 +270,6 @@ Stalin
 membranes
 telescopes
 propaganda
-fabric
 damn
 Scotland
 Russians
@@ -298,7 +278,6 @@ domesticated
 denser
 digestion
 Planck
-microscopic
 bullets
 insulin
 salts
@@ -332,8 +311,6 @@ Henry
 WW1
 Hubble
 Newton's
-rope
-mating
 fur
 pathogens
 athletes
@@ -349,7 +326,6 @@ Charles
 carriers
 flesh
 agriculture
-dried
 itch
 Saturn
 H2O
@@ -357,7 +333,6 @@ transplant
 Tesla
 Australian
 tumor
-cents
 blast
 Saudi
 Mercury
@@ -402,11 +377,9 @@ eyesight
 pan
 Arabic
 bodily
-mortgage
 askscience
 z
 arc
-parasites
 climates
 Coke
 Vikings
@@ -532,7 +505,6 @@ insulation
 Brazil
 beams
 starch
-suits
 reptiles
 photosynthesis
 Thomas
@@ -626,7 +598,6 @@ cardiac
 feces
 sinuses
 cellulose
-lamp
 cop
 liquor
 lid
@@ -634,7 +605,6 @@ Mexican
 marrow
 Switzerland
 coke
-chord
 buoyancy
 legislation
 strands
@@ -662,10 +632,7 @@ agricultural
 firearms
 rulers
 Hong
-tectonic
-syrup
 grease
-wisdom
 Austria
 blacks
 archaeological
@@ -714,7 +681,6 @@ graphite
 pathogen
 submerged
 Elizabeth
-stove
 America's
 starvation
 flashlight
@@ -816,7 +782,6 @@ Jupiter's
 LEDs
 1+
 ally
-rolls
 whatnot
 14th
 bankruptcy
@@ -827,7 +792,6 @@ contamination
 microorganisms
 2-3
 Lord
-universes
 1970s
 Pearl
 macroscopic
@@ -959,7 +923,6 @@ gravitationally
 genitals
 expelled
 coup
-Pole
 commander
 fingernails
 conservatives
@@ -1033,7 +996,6 @@ liter
 adenosine
 cortisol
 x-ray
-kilogram
 estrogen
 scalp
 depictions
@@ -1097,7 +1059,6 @@ richer
 seizures
 petroleum
 oily
-dissolving
 Johnson
 spores
 archaeology
@@ -1191,7 +1152,6 @@ droplet
 lever
 exerts
 Orthodox
-fried
 snot
 Syrian
 dosage
@@ -1215,14 +1175,12 @@ sunglasses
 12th
 ridges
 Andrew
-massage
 mercenaries
 additives
 Carolina
 documentaries
 Adam
 rotten
-daytime
 bloody
 Turing
 Joseph
@@ -1279,7 +1237,6 @@ Uranus
 glaciers
 hydration
 la
-cruise
 lawn
 Sahara
 shatter
@@ -1306,7 +1263,6 @@ populace
 rebels
 cue
 X-rays
-parasite
 numb
 readings
 frowned
@@ -1337,7 +1293,6 @@ buoyant
 lb
 Hannibal
 ritual
-nut
 scratches
 children's
 Uber
@@ -3196,7 +3151,6 @@ Alexander's
 volt
 crispy
 unplug
-Calcium
 scoop
 bankers
 chick
@@ -4127,7 +4081,6 @@ kWh
 Elon
 CC
 catnip
-Corn
 coupon
 nucleotide
 amplitudes
@@ -4277,7 +4230,6 @@ Kepler's
 mercenary
 askanthropology
 GeorgyKZhukov
-Armies
 kin
 antiseptic
 securities
@@ -4337,7 +4289,6 @@ bilateral
 baggage
 excavated
 sulphur
-Fission
 monopoles
 Omaha
 electron's
@@ -4368,7 +4319,6 @@ Cheers
 blisters
 communal
 heritable
-Coal
 insomnia
 Laden
 pulley
@@ -4749,7 +4699,6 @@ mysteries
 roaches
 retrograde
 expulsion
-Stem
 electronegativity
 Nero
 glacier
@@ -4786,7 +4735,6 @@ PH
 acuity
 Kevin
 spectrometer
-banging
 basins
 anatomically
 groom
@@ -5024,7 +4972,6 @@ lumped
 murderer
 Gorbachev
 wetter
-tonic
 asia
 0C
 Mb
@@ -5362,7 +5309,6 @@ Polynesians
 gels
 dentistry
 Feb
-STEM
 sanitizers
 Marshal
 poetic
@@ -6225,7 +6171,6 @@ simultaneity
 plating
 determinism
 purported
-Melting
 magnetron
 Achilles
 lieu
@@ -6595,7 +6540,6 @@ wagons
 Sagittarius
 by-products
 NT
-Combustion
 sphincters
 Apes
 sub-atomic
@@ -6880,7 +6824,6 @@ industrialize
 defendants
 foodstuffs
 grandparent
-stew
 del
 undigested
 sunburned
@@ -7180,7 +7123,6 @@ apocrine
 Neptune's
 aromas
 bladders
-Cruise
 Rap
 Ergo
 hens
@@ -8252,7 +8194,6 @@ chameleon
 repression
 Epinephrine
 hip-hop
-stoves
 bravery
 canoes
 Parrots
@@ -8458,7 +8399,6 @@ parlance
 rapist
 ax
 exhalation
-Religions
 Sphinx
 systolic
 harbors
@@ -8759,7 +8699,6 @@ amine
 octopi
 Noah
 Y2K
-Wisdom
 Lava
 fillers
 insecticide
@@ -10325,7 +10264,6 @@ pepperoni
 zeta
 startling
 scorched
-bangs
 anti-aircraft
 muffin
 metabolised
@@ -10785,7 +10723,6 @@ debacle
 excretes
 islam
 equating
-Wage
 eradication
 commited
 2c
@@ -11249,7 +11186,6 @@ Kickstarter
 accommodations
 500m
 g-force
-Wages
 outlaws
 Sonic
 100ml
@@ -13206,7 +13142,6 @@ Taoism
 edged
 reinvest
 Jehovah's
-Fabric
 Nirvana
 vetting
 immunizations
@@ -14931,7 +14866,6 @@ draught
 Crab
 hypersensitive
 zeppelins
-Mortgage
 synchrony
 earpiece
 Cancers
@@ -14985,7 +14919,6 @@ utensil
 foreclosed
 sporadically
 Tyrannosaurus
-Fried
 horrifically
 instrumentals
 Philae
@@ -15154,7 +15087,6 @@ roundabouts
 sealant
 North-South
 magnet's
-Massage
 nonviolent
 assassinating
 University's
@@ -15976,7 +15908,6 @@ africans
 G's
 raspy
 Mankind
-Parasites
 Legislature
 panama
 auxins
@@ -16270,7 +16201,6 @@ subpoenas
 boobies
 Bashar
 yadda
-Dissolving
 TR
 borax
 cofactors
@@ -16487,7 +16417,6 @@ whale's
 ELI15
 Booth
 Platt
-Tectonic
 biggie
 songwriters
 plummets
@@ -16773,7 +16702,6 @@ Browning
 spectators
 bastion
 celtic
-Pipe
 epithet
 Berry
 Snyder
@@ -17201,7 +17129,6 @@ nihilism
 eerie
 debits
 Orwell's
-Dried
 single-cell
 Cantor's
 bilaterally
@@ -17283,7 +17210,6 @@ painstaking
 microfiber
 transsexuals
 Mujahideen
-Mating
 Condensate
 Refugees
 Crick
@@ -17476,7 +17402,6 @@ abdication
 antacids
 Chester
 thermo
-Syrup
 Chemo
 lug
 pretzel
@@ -17974,7 +17899,6 @@ appeasing
 Ionization
 judge's
 Lobbyists
-Kilogram
 waterproofing
 headbutt
 diner
@@ -18216,7 +18140,6 @@ Jonestown
 Yoda
 Anakin
 orphanages
-Microscopic
 IRC
 Taxation
 invulnerable
@@ -18476,7 +18399,6 @@ hemorrhaging
 lenticular
 awry
 greats
-Universes
 striping
 gazing
 creed
@@ -18499,7 +18421,6 @@ birthrate
 carbonyl
 extinguisher
 TBI
-Suits
 luciferase
 aftershocks
 videotape
@@ -18804,7 +18725,6 @@ SRY
 encyclopedias
 tartare
 postures
-Blade
 sound's
 Hawaii's
 waffles
@@ -19422,7 +19342,6 @@ radioactively
 bakeries
 lotus
 boycotted
-Coil
 pivots
 vous
 Sarcasm
@@ -20240,7 +20159,6 @@ Pornhub
 nurtured
 potion
 somber
-banged
 Microwaving
 trisomies
 fallible
@@ -21161,7 +21079,6 @@ ROMs
 OSS
 qui
 paedophilia
-Breed
 champ
 cabal
 in-state
@@ -21223,7 +21140,6 @@ slurring
 non-metal
 employer's
 detroit
-Rolls
 soybean
 ingot
 greenery
@@ -21950,7 +21866,6 @@ earworms
 FCC's
 lightnings
 sate
-Tonic
 expeditionary
 buffeting
 nay
@@ -24246,7 +24161,6 @@ at-will
 pro-Russian
 un-American
 adressed
-Grain
 Hops
 Ales
 progressives
@@ -26789,7 +26703,6 @@ Itches
 deaden
 vocalized
 Dement
-Daytime
 Fairs
 ballerinas
 methylene
@@ -27272,7 +27185,6 @@ octonions
 weavers
 anno
 Ecosystems
-Lamp
 salamanders
 May's
 CDC's
@@ -27496,7 +27408,6 @@ possums
 Arby's
 Elm
 Boulevard
-stews
 Celery
 acheived
 thirdly
@@ -27586,7 +27497,6 @@ lapses
 scandinavia
 counselling
 openers
-Nut
 14-16
 hindbrain
 urbanised
@@ -28842,7 +28752,6 @@ non-biodegradable
 88mm
 echoic
 HC
-Chord
 precooked
 diphtheria
 astrologers
@@ -31581,7 +31490,6 @@ line's
 SJWs
 Philosopher's
 Metacritic
-Rope
 reactionaries
 prying
 co-dependent
@@ -32591,7 +32499,6 @@ Excellency
 UNSC
 Clinically
 Pretoria
-BANG
 indecency
 philosopher's
 Cheng
@@ -36466,7 +36373,6 @@ makin
 whitelist
 valet
 Dexter's
-stewing
 second-class
 spearmint
 Exceptionalism
@@ -48608,7 +48514,6 @@ headscarf
 Squatting
 subredditsimulator
 unspeakably
-Parasite
 ABW
 barrel's
 Carnivorous
@@ -54588,7 +54493,6 @@ endoscopic
 monopolist
 daisies
 eureka
-Stoves
 Updrafts
 recolor
 Halftime
@@ -56866,7 +56770,6 @@ listener's
 Earworm
 flatbreads
 Vlogbrothers
-Stove
 drooled
 half-closed
 Shipment
@@ -58038,7 +57941,6 @@ Thx
 nidopallium
 Boeuf
 Celiac's
-stewed
 lower-brain
 hen's
 turnstile
@@ -58981,7 +58883,6 @@ semi-conscious
 medically-induced
 dwelled
 GFLOPS
-Banging
 halfs
 foxglove
 glamorized
@@ -79130,7 +79031,6 @@ sex-ed
 FUBAR
 1Kg
 footpaths
-Cents
 Occupancy
 Motorola's
 HVP
@@ -80363,7 +80263,6 @@ Cap'n
 outbidding
 infrastrucutre
 Shes
-LAMP
 Wentworth
 JG
 meta-posts
@@ -81473,7 +81372,6 @@ SLES
 honeycombe
 actinidin
 M-18
-BREED
 Non-Removable
 after-market
 Fiberoptic
@@ -103252,7 +103150,6 @@ computatipn
 mind-creature
 sense-data
 philosphy
-ARMIES
 near-nothingness
 RPS
 non-Disney
@@ -105959,7 +105856,6 @@ Bugorski's
 partcle
 IDFK
 Pilpecurb
-CRUISE
 PETRI
 Rockslides
 Teuton
@@ -113507,7 +113403,6 @@ Icloud
 non-touching
 800x800
 capsaisin
-Bangs
 dince
 pink-eye
 involment
@@ -131430,7 +131325,6 @@ Nimoy's
 SOL-0914M10
 Speedos
 mangos
-DRIED
 PINEAPPLES
 MANGOS
 racemus
@@ -133438,7 +133332,6 @@ theoriginalretro
 VFO
 variable-frequency
 queer-identifying
-BLADE
 disciniplinary
 Shadowbanning
 fuckheads
@@ -141621,7 +141514,6 @@ Catabolic
 tonpilz
 weigh-boat
 4-strokes
-COMBUSTION
 penetrations
 Metreleptin
 cigarettes-to
@@ -147442,7 +147334,6 @@ viasble
 bot-net
 interspecial
 Arpeggios
-FISSION
 Andromedia
 crippeling
 meta-pizza
@@ -183362,7 +183253,6 @@ Thorikos
 Velatouri
 tanbarking
 Flamborough
-NUT
 Twenty-Slave
 Twenty-Negro
 essentiallist

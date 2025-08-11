@@ -764,6 +764,7 @@ Arithmetic
 Arithmetically
 Arm
 Armed
+Armies
 Armor
 Armored
 Armpits
@@ -1070,6 +1071,9 @@ Bandit
 Bandits
 Bands
 Bandwidth
+Bang
+Banging
+Bangs
 Bank
 Banking
 Banks
@@ -1273,6 +1277,7 @@ Bizarre
 Black
 BlackBerry
 Blackberry
+Blade
 Blades
 Blame
 Blamed
@@ -1451,6 +1456,7 @@ Breathed
 Breathes
 Breathing
 Breaths
+Breed
 Breeding
 Breeze
 Brevity
@@ -1600,6 +1606,7 @@ CPUs
 CPython
 CRM
 CRUDE
+CRUISE
 CSI
 CSS
 CSS3
@@ -1612,6 +1619,7 @@ Cache
 Caching
 Cage
 Cake
+Calcium
 Calculate
 Calculated
 Calculates
@@ -1782,6 +1790,7 @@ Central
 Centralized
 Centre
 Centroid
+Cents
 Centuries
 Century
 Ceremony
@@ -1902,6 +1911,7 @@ Choosing
 Chop
 Chopped
 Chopping
+Chord
 Chose
 Chosen
 Christmas
@@ -2064,6 +2074,7 @@ CoM
 Coach
 Coaches
 Coaching
+Coal
 Coalition
 Coast
 Coaster
@@ -2095,6 +2106,7 @@ Coherence
 Coherent
 Cohesion
 Cohesive
+Coil
 Coin
 Coincidence
 Coincidentally
@@ -2154,6 +2166,7 @@ Combine
 Combined
 Combines
 Combining
+Combustion
 Come
 Comedy
 Comes
@@ -2628,6 +2641,7 @@ Copyrighted
 Copyrights
 Core
 Cores
+Corn
 Corner
 Corners
 Corollaries
@@ -2802,6 +2816,7 @@ Crucial
 Crucible
 Crude
 Cruel
+Cruise
 Crumple
 Crunch
 Crunching
@@ -2967,6 +2982,7 @@ Day
 Day's
 Day-to-day
 Days
+Daytime
 Db
 Ddos
 De
@@ -3571,6 +3587,7 @@ Dissolution
 Dissolve
 Dissolved
 Dissolves
+Dissolving
 Dissonance
 Dissuade
 Distance
@@ -3755,6 +3772,7 @@ Dressed
 Dresses
 Dressing
 Drew
+Dried
 Drier
 Drift
 Drifted
@@ -4531,6 +4549,7 @@ FRY
 FSB
 FTP
 FYI
+Fabric
 Fabulous
 Face
 Face-to-face
@@ -4770,6 +4789,7 @@ Firstly
 Fiscal
 Fish
 Fishing
+Fission
 Fist
 Fit
 Fitness
@@ -5035,6 +5055,7 @@ Friction
 Friday
 Fridge
 Fridges
+Fried
 Friend
 Friend's
 Friendliness
@@ -5344,6 +5365,7 @@ Graduated
 Graduates
 Graduating
 Graduation
+Grain
 Grammar
 Grammatical
 Grammatically
@@ -6737,6 +6759,7 @@ Killing
 Kills
 KiloBytes
 Kilobytes
+Kilogram
 Kilometers
 Kind
 Kind-of
@@ -6805,6 +6828,7 @@ Lain
 Lake
 Lakes
 Lambda
+Lamp
 Lan
 Land
 Landed
@@ -7339,6 +7363,7 @@ Masking
 Masks
 Mass
 Mass-produced
+Massage
 Masses
 Massive
 Massively
@@ -7369,6 +7394,7 @@ Mathematician
 Mathematicians
 Mathematics
 Maths
+Mating
 Matlab
 Matrices
 Matrix
@@ -7451,6 +7477,7 @@ Melancholy
 Melodies
 Melt
 Melted
+Melting
 Melts
 Member
 Members
@@ -7527,6 +7554,7 @@ Microphones
 Microprocessor
 Microprocessors
 Microscope
+Microscopic
 Microsoft
 Microsoft's
 Microsystems
@@ -7732,6 +7760,7 @@ Morphologically
 Morphology
 Morrow
 Mortal
+Mortgage
 Most
 Mostly
 Mother
@@ -8127,6 +8156,7 @@ Numerous
 Nurse
 Nursery
 Nursing
+Nut
 Nuts
 Nutshell
 Nvidia
@@ -8604,6 +8634,8 @@ Parameter
 Parameters
 Paraphrase
 Paraphrasing
+Parasite
+Parasites
 Pardon
 Parent
 Parentheses
@@ -8887,6 +8919,7 @@ Pins
 Pioneer
 Pioneers
 Pip
+Pipe
 Pipeline
 Pipelines
 Pipes
@@ -8999,6 +9032,7 @@ Poker
 Polar
 Polarization
 Polarized
+Pole
 Police
 Policeman
 Policies
@@ -10011,6 +10045,7 @@ Relies
 Relieve
 Relieved
 Religion
+Religions
 Religious
 Religiously
 Reloaded
@@ -10379,6 +10414,7 @@ Roll
 Rolled
 Roller
 Rolling
+Rolls
 Rom
 Romance
 Romantic
@@ -10390,6 +10426,7 @@ Root
 Rooting
 Rootkit
 Roots
+Rope
 Ropes
 Rose
 Roses
@@ -11555,6 +11592,7 @@ Steep
 Steeper
 Steering
 Steers
+Stem
 Stemmed
 Stemmer
 Stemming
@@ -11609,6 +11647,8 @@ Story
 Storyboard
 Storytelling
 Stout
+Stove
+Stoves
 Straight
 Straightforward
 Strain
@@ -11811,6 +11851,7 @@ Suit
 Suitability
 Suitable
 Suite
+Suits
 Sum
 Summable
 Summarize
@@ -12000,6 +12041,7 @@ Synthesized
 Synthesizing
 Synthetic
 Synthetically
+Syrup
 System
 System's
 Systematic
@@ -12115,6 +12157,7 @@ Technologist
 Technologists
 Technology
 Techs
+Tectonic
 Teen
 Teenage
 Teenagers
@@ -12396,6 +12439,7 @@ Tone
 Tones
 Tongue
 Tongues
+Tonic
 Tonight
 Tonight's
 Tons
@@ -12881,6 +12925,7 @@ Universal
 Universality
 Universally
 Universe
+Universes
 Universities
 University
 Unix
@@ -13257,6 +13302,8 @@ WSDL
 WWW
 WYSIWYG
 Wafer
+Wage
+Wages
 Wait
 Waited
 Waiting
@@ -13538,6 +13585,7 @@ Wireless
 Wirelessly
 Wires
 Wiring
+Wisdom
 Wise
 Wish
 Wishing
@@ -14970,6 +15018,7 @@ arm-based
 arm32
 arm64
 armed
+armies
 armor
 armored
 armpits
@@ -15550,6 +15599,10 @@ bandit
 bandits
 bands
 bandwidth
+bang
+banged
+banging
+bangs
 banished
 bank
 banking
@@ -15862,6 +15915,7 @@ blackbox
 blacklist
 blacklisted
 blacklists
+blade
 blades
 blame
 blameable
@@ -16128,6 +16182,7 @@ breathed
 breathes
 breathing
 breaths
+breed
 breeding
 breeze
 brevity
@@ -16361,6 +16416,7 @@ caching
 cad
 cage
 cake
+calcium
 calculable
 calculate
 calculated
@@ -16630,6 +16686,7 @@ centre
 centric
 centroid
 centroids
+cents
 centuries
 century
 ceo
@@ -16831,6 +16888,7 @@ choosing
 chop
 chopped
 chopping
+chord
 chose
 chosen
 chrome
@@ -17119,6 +17177,7 @@ coachable
 coached
 coaches
 coaching
+coal
 coalition
 coast
 coaster
@@ -17187,6 +17246,7 @@ coherent
 coherently
 cohesion
 cohesive
+coil
 coin
 coincide
 coincided
@@ -17294,6 +17354,7 @@ combined
 combines
 combining
 combobox
+combustion
 come
 comeback
 comedy
@@ -18193,6 +18254,7 @@ core
 core-data
 coredata
 cores
+corn
 corner
 corners
 cornerstone
@@ -18484,6 +18546,7 @@ crucify
 crucifying
 crude
 cruel
+cruise
 crumble
 crumbled
 crumbles
@@ -18790,6 +18853,7 @@ day-to-day
 daydream
 daylight
 days
+daytime
 dazzling
 db
 db2
@@ -20020,6 +20084,7 @@ dissolution
 dissolve
 dissolved
 dissolves
+dissolving
 dissonance
 dissuade
 dissuaded
@@ -20341,6 +20406,7 @@ dressed
 dresses
 dressing
 drew
+dried
 drier
 dries
 drift
@@ -21686,6 +21752,7 @@ eyeing
 eyelids
 eyes
 fabless
+fabric
 fabricate
 fabricated
 fabricates
@@ -22089,6 +22156,7 @@ firstly
 fiscal
 fish
 fishing
+fission
 fist
 fit
 fitness
@@ -22543,6 +22611,7 @@ friction
 friday
 fridge
 fridges
+fried
 friend
 friend's
 friended
@@ -23047,6 +23116,7 @@ graduated
 graduates
 graduating
 graduation
+grain
 grains
 grammar
 grammar-based
@@ -25644,6 +25714,7 @@ killers
 killing
 kills
 kilobytes
+kilogram
 kilometers
 kind
 kind-of
@@ -25742,6 +25813,7 @@ lakes
 lambda
 lambda-expression
 lambdas
+lamp
 lamps
 lan
 land
@@ -26586,6 +26658,7 @@ masking
 masks
 mass
 mass-produced
+massage
 masses
 massive
 massively
@@ -26628,6 +26701,7 @@ mathematicians
 mathematics
 maths
 mathworks
+mating
 matlab
 matplotib
 matplotlib
@@ -26745,6 +26819,7 @@ melded
 melodies
 melt
 melted
+melting
 melts
 member
 members
@@ -26892,6 +26967,7 @@ microprocessor
 microprocessors
 micropython
 microscope
+microscopic
 microsd
 microsecond
 microseconds
@@ -27300,6 +27376,7 @@ morrow
 morrow's
 morrows
 mortal
+mortgage
 mortification
 mortifications
 mortified
@@ -28155,6 +28232,7 @@ nurse
 nursed
 nursery
 nursing
+nut
 nuts
 nutshell
 nvidia
@@ -29059,6 +29137,8 @@ params
 paramtype
 paraphrase
 paraphrasing
+parasite
+parasites
 parcel
 parcels
 pardon
@@ -29544,6 +29624,7 @@ pioneered
 pioneering
 pioneers
 pip
+pipe
 pipeline
 pipelined
 pipelines
@@ -29731,6 +29812,7 @@ poker
 polar
 polarization
 polarized
+pole
 police
 policeman
 policies
@@ -31775,6 +31857,7 @@ relieve
 relieved
 relightful
 religion
+religions
 religious
 religiously
 relinked
@@ -32588,6 +32671,7 @@ rolling
 rollout
 rollouts
 rollover
+rolls
 rollup
 rom
 romance
@@ -32603,6 +32687,7 @@ rooting
 rootkit
 rootless
 roots
+rope
 ropes
 rose
 roses
@@ -34469,6 +34554,7 @@ steer
 steerable
 steering
 steers
+stem
 stemmed
 stemmer
 stemmers
@@ -34487,6 +34573,10 @@ stereo
 stereotype
 stereotypes
 stereotypical
+stew
+stewed
+stewing
+stews
 stick
 sticker
 stickers
@@ -34553,6 +34643,8 @@ storyboards
 storytelling
 stout
 stoutly
+stove
+stoves
 straggling
 straight
 straight-forward
@@ -34965,6 +35057,7 @@ suitableness
 suitably
 suite
 suited
+suits
 sulfur
 sullenness
 sum
@@ -35285,6 +35378,7 @@ synthesizing
 synthetic
 synthetically
 synths
+syrup
 sysadmin
 syscall
 syslog
@@ -35490,6 +35584,7 @@ technology-related
 technovation
 techpoint
 techs
+tectonic
 tedious
 tediously
 teen
@@ -35992,6 +36087,7 @@ toned
 tones
 tongue
 tongues
+tonic
 tonight
 tonight's
 tons
@@ -36987,6 +37083,7 @@ universal
 universality
 universally
 universe
+universes
 universities
 university
 unix
@@ -37870,6 +37967,8 @@ w2kpro
 w3c
 waded
 wafer
+wage
+wages
 wait
 waited
 waiting
@@ -38399,6 +38498,7 @@ wireless
 wirelessly
 wires
 wiring
+wisdom
 wise
 wisely
 wiser
