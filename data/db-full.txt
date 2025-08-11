@@ -349,6 +349,7 @@ Advocate
 Advocates
 Adware
 Adwords
+Aerial
 Aesthetic
 Aesthetically
 Aesthetics
@@ -481,6 +482,7 @@ Allowed
 Allowing
 Allows
 Alloy
+Alloys
 Alluding
 Allusions
 Almost
@@ -760,6 +762,7 @@ Arm
 Armed
 Armor
 Armored
+Armpits
 Arms
 Armv7
 Army
@@ -1040,6 +1043,7 @@ Badges
 Badly
 Bag
 Bags
+Bake
 Baked
 Baker
 Baking
@@ -1202,6 +1206,7 @@ Bigger
 Biggest
 Bike
 Bikes
+Bile
 Bilinear
 Bilingual
 Bill
@@ -1429,6 +1434,7 @@ Breathe
 Breathed
 Breathes
 Breathing
+Breaths
 Breeding
 Breeze
 Brevity
@@ -1444,6 +1450,7 @@ Briefs
 Bright
 Brighter
 Brightest
+Brightly
 Brightness
 Brilliant
 Bring
@@ -1660,6 +1667,7 @@ Caption
 Captioning
 Captions
 Captivate
+Captivity
 Capture
 Captured
 Captures
@@ -1687,6 +1695,7 @@ Carrying
 Cars
 Cart
 Cartesian
+Cartridges
 Carve
 Carved
 Carving
@@ -1819,6 +1828,7 @@ Chatting
 Cheap
 Cheaper
 Cheapest
+Cheaply
 Cheat
 Cheated
 Cheating
@@ -1838,6 +1848,7 @@ Cheese
 Chemical
 Chemically
 Chemicals
+Chemist
 Chemistry
 Cherries
 Cherry
@@ -1886,6 +1897,7 @@ Chunking
 Chunks
 Church
 Churning
+Cinema
 Cinnamon
 Circle
 Circled
@@ -2428,6 +2440,8 @@ Const
 Constant
 Constantly
 Constants
+Constellation
+Constellations
 Constituent
 Constitutes
 Constitution
@@ -2565,6 +2579,7 @@ Cooked
 Cookie
 Cookies
 Cooking
+Cooks
 Cool
 Cooled
 Cooler
@@ -3254,6 +3269,7 @@ Determining
 Deterministic
 Detonate
 Detonating
+Detonation
 Detour
 Dev
 Dev's
@@ -3274,6 +3290,7 @@ Deviations
 Device
 Device's
 Devices
+Devil
 Devoting
 Devotion
 Devs
@@ -3710,6 +3727,7 @@ Dressed
 Dresses
 Dressing
 Drew
+Drier
 Drift
 Drifted
 Drill
@@ -3743,6 +3761,7 @@ Drowned
 Drowns
 Drug
 Drugs
+Drums
 Drunk
 Dry
 Dryer
@@ -3889,6 +3908,8 @@ Elaborated
 Elaboration
 Elapsed
 Elastic
+Elbow
+Elbows
 Elder
 Elderly
 Elect
@@ -3913,6 +3934,7 @@ Electrons
 Electrotechnical
 Elegant
 Element
+Elemental
 Elementary
 Elements
 Elephants
@@ -3920,6 +3942,7 @@ Elevated
 Elevating
 Elevation
 Elevator
+Elevators
 Eleven
 Eligibility
 Eligible
@@ -4204,6 +4227,7 @@ Ethically
 Ethics
 Ethnic
 Ethnicity
+Etymology
 Euclidean
 Euler
 Eulerian
@@ -4218,6 +4242,7 @@ Evaluated
 Evaluating
 Evaluation
 Evaporate
+Evaporated
 Evaporates
 Evaporation
 Evasive
@@ -4394,6 +4419,7 @@ Exploratory
 Explore
 Explored
 Explorer
+Explorers
 Exploring
 Explosion
 Explosive
@@ -4542,6 +4568,7 @@ Faq
 Far
 Farewell
 Farm
+Farmer
 Farmers
 Farming
 Farms
@@ -4619,6 +4646,7 @@ Fiasco
 Fiber
 Fibers
 Fibonacci
+Fibre
 Fide
 Fidelity
 Fidget
@@ -4722,6 +4750,7 @@ Fixing
 Flag
 Flagged
 Flags
+Flakes
 Flame
 Flames
 Flammable
@@ -4739,6 +4768,7 @@ Flattened
 Flattening
 Flatter
 Flavour
+Flavours
 Flaw
 Flawed
 Flaws
@@ -4845,6 +4875,7 @@ Forecasted
 Forecasting
 Forecasts
 Foreign
+Foreigners
 Foremost
 Foresight
 Forest
@@ -4976,6 +5007,8 @@ Friendship
 Fries
 Fright
 Frightening
+Frog
+Frogs
 From
 Front
 Front-facing
@@ -4983,6 +5016,7 @@ Frontal
 Frontend
 Frontier
 Frontpage
+Fronts
 Froze
 Frozen
 Fruit
@@ -5041,6 +5075,7 @@ Future
 Futures
 Futuristic
 Fuzzy
+Fyi
 GB
 GCC
 GHz
@@ -5223,6 +5258,8 @@ Go-lang
 GoT
 Goal
 Goals
+Goat
+Goats
 God
 Goes
 Going
@@ -5296,7 +5333,9 @@ Grateful
 Gratefully
 Gratification
 Grave
+Gravel
 Graveyard
+Gravitation
 Gravitational
 Gravity
 Gravy
@@ -5447,6 +5486,7 @@ Harder
 Hardest
 Hardlinks
 Hardly
+Hardness
 Hardware
 Hardwired
 Hardy
@@ -5498,6 +5538,7 @@ Headed
 Header
 Heading
 Headings
+Headlights
 Headline
 Headlines
 Headphone
@@ -5864,6 +5905,7 @@ Identify
 Identifying
 Identities
 Identity
+Ideological
 Ideology
 Ides
 Idiom
@@ -6593,6 +6635,7 @@ Judgment
 Judgments
 Juggling
 Juice
+Juices
 July
 Jump
 Jumped
@@ -6833,12 +6876,14 @@ Legally
 Legend
 Legendary
 Legislative
+Legitimacy
 Legitimate
 Legs
 Leisure
 Lemma
 Lemmas
 Lemon
+Lemonade
 Lemons
 Lend
 Lending
@@ -7135,6 +7180,7 @@ Made
 Madness
 Magazine
 Magazines
+Magenta
 Magic
 Magical
 Magically
@@ -7713,6 +7759,7 @@ Multitouch
 Multivariable
 Multivariate
 Multiverse
+Murdered
 Muscle
 Muscles
 Museums
@@ -7738,6 +7785,7 @@ My
 MySQL
 Myself
 Mysql
+Mysterious
 Mystery
 N-Dimensional
 N-Gram
@@ -7831,6 +7879,7 @@ Neighbors
 Neighbour
 Neighbours
 Neither
+Neon
 Nerds
 Nerve
 Nerves
@@ -8099,6 +8148,7 @@ Occupational
 Occupations
 Occupied
 Occupy
+Occupying
 Occur
 Occurred
 Occurrence
@@ -8258,6 +8308,7 @@ Orbit
 Orbital
 Orbiting
 Orbits
+Orchestra
 Orchestrated
 Order
 Ordered
@@ -8628,6 +8679,7 @@ Pencil
 Pending
 Penetrating
 Penetration
+Pens
 Pentium
 People
 People's
@@ -8655,6 +8707,7 @@ Performed
 Performers
 Performing
 Performs
+Perfume
 Perhaps
 Perimeter
 Period
@@ -8702,6 +8755,7 @@ Pet
 Pets
 Petting
 PhD
+Pharmaceutical
 Pharmacy
 Phase
 Phased
@@ -8807,6 +8861,7 @@ Planned
 Planning
 Plans
 Plant
+Planted
 Plants
 Plasma
 Plastic
@@ -8838,6 +8893,7 @@ Pleasantly
 Please
 Pleased
 Pleasing
+Pleasurable
 Pleasure
 Pleasures
 Pledge
@@ -8869,6 +8925,7 @@ Podcast
 Podcasts
 Pods
 Poem
+Poetry
 Point
 Pointed
 Pointer
@@ -8876,6 +8933,7 @@ Pointers
 Pointing
 Pointless
 Points
+Pointy
 Poison
 Poisoning
 Poker
@@ -9093,6 +9151,7 @@ Press
 Pressed
 Pressing
 Pressure
+Prestige
 Presumably
 Presume
 Presuming
@@ -9143,6 +9202,7 @@ Prioritize
 Prioritized
 Priority
 Prison
+Prisons
 Privacy
 Private
 Privately
@@ -9266,6 +9326,7 @@ Proof
 Proofing
 Proofreading
 Proofs
+Prop
 Propagate
 Propagates
 Propagating
@@ -9451,6 +9512,7 @@ Quaternion
 Quaternions
 Que
 Queen
+Queens
 Queer
 Query
 Quest
@@ -9677,6 +9739,7 @@ Reciprocally
 Reckless
 Reclaiming
 Reclassify
+Recognising
 Recognition
 Recognize
 Recognized
@@ -9755,6 +9818,7 @@ Reference
 Referenced
 References
 Referencing
+Referendum
 Referred
 Referrer
 Referring
@@ -10288,6 +10352,7 @@ Routines
 Routing
 Row
 Royal
+Royalties
 Rub
 Rubber
 Ruby
@@ -11034,6 +11099,8 @@ Sms
 Smuggling
 Snack
 Snacks
+Snail
+Snails
 Snake
 Snakes
 Snap
@@ -11044,8 +11111,10 @@ Snapshot
 Snapshots
 Sneeze
 Sneezing
+Sniper
 Snitch
 Snow
+Snowflakes
 Snows
 Snowy
 So
@@ -11164,6 +11233,7 @@ Sparks
 Sparrow
 Sparrows
 Sparse
+Spasm
 Spatial
 Spawned
 Speak
@@ -11224,6 +11294,7 @@ Spices
 Spicy
 Spider
 Spiders
+Spies
 Spill
 Spilled
 Spills
@@ -11385,6 +11456,7 @@ Statistical
 Statistically
 Statistics
 Stats
+Statue
 Status
 Stay
 Stayed
@@ -11588,6 +11660,7 @@ Subsection
 Subsequent
 Subsequently
 Subsidiary
+Subsidies
 Subsistence
 Substance
 Substances
@@ -11736,9 +11809,11 @@ Surfaces
 Surfer
 Surfing
 Surge
+Surgeries
 Surgery
 Surges
 Surgical
+Surname
 Surpass
 Surplus
 Surprise
@@ -11891,6 +11966,7 @@ Takeover
 Takeovers
 Takes
 Taking
+Tale
 Talent
 Talented
 Tales
@@ -11985,10 +12061,12 @@ Temperatures
 Tempered
 Tempers
 Template
+Temple
 Temporal
 Temporally
 Temporarily
 Temporary
+Temps
 Temptation
 Ten
 Tenacious
@@ -12001,6 +12079,7 @@ Tennis
 Tense
 Tenses
 Tension
+Tensions
 Tensor
 TensorFlow
 Tensors
@@ -12168,6 +12247,7 @@ Tick
 Ticket
 Ticketing
 Tickets
+Tickle
 Ticks
 Tide
 Tides
@@ -12175,6 +12255,7 @@ Tied
 Tier
 Ties
 Tiger
+Tigers
 Tight
 Tighten
 Tightening
@@ -12246,6 +12327,7 @@ Toolbox
 Tooling
 Tools
 Tooth
+Toothbrush
 Toothpaste
 Toothpastes
 Top
@@ -12265,7 +12347,9 @@ Torch
 Tore
 Torn
 Torrent
+Torrents
 Tortoise
+Torture
 Toss
 Tossed
 Tosses
@@ -12316,6 +12400,7 @@ Trademark
 Trademarks
 Tradeoff
 Traders
+Trades
 Trading
 Tradition
 Traditional
@@ -12363,6 +12448,7 @@ Transformer
 Transformers
 Transforming
 Transforms
+Transgender
 Transient
 Transiently
 Transistor
@@ -12900,6 +12986,7 @@ Validated
 Validation
 Validity
 Valley
+Valleys
 Valuable
 Valuation
 Value
@@ -12913,6 +13000,8 @@ Vanishes
 Vanishing
 Vanities
 Vanity
+Vaporize
+Vaporizing
 Vapour
 Var
 Variability
@@ -13157,6 +13246,7 @@ Watering
 Watermarks
 Watermelon
 Watermelons
+Waterproof
 Waters
 Wav
 Wave
@@ -13221,6 +13311,7 @@ Weighing
 Weight
 Weight-loss
 Weighted
+Weightless
 Weights
 Weird
 Weirder
@@ -13998,6 +14089,7 @@ advocates
 adware
 adwares
 adwords
+aerial
 aesthetic
 aesthetically
 aesthetics
@@ -14299,6 +14391,7 @@ allowed
 allowing
 allows
 alloy
+alloys
 allude
 alluded
 alludes
@@ -14788,6 +14881,7 @@ arm64
 armed
 armor
 armored
+armpits
 arms
 armv7
 army
@@ -15341,6 +15435,7 @@ baffled
 bag
 bag-of-words
 bags
+bake
 baked
 baker
 baking
@@ -15413,6 +15508,7 @@ battery-powered
 battle
 battlegrounds
 battles
+bay
 bayes
 bayesian
 bdd
@@ -15591,6 +15687,7 @@ bigram
 bigrams
 bike
 bikes
+bile
 bilinear
 bilingual
 bilinguals
@@ -15927,6 +16024,7 @@ breathe
 breathed
 breathes
 breathing
+breaths
 breeding
 breeze
 brevity
@@ -15946,6 +16044,7 @@ bright
 brightened
 brighter
 brightest
+brightly
 brightness
 brilliant
 bring
@@ -16270,6 +16369,7 @@ captious
 captivate
 captivated
 captivating
+captivity
 capture
 captured
 captures
@@ -16309,6 +16409,7 @@ cart
 cartesian
 cartoon
 cartoons
+cartridges
 carve
 carved
 carves
@@ -16532,6 +16633,7 @@ chatting
 cheap
 cheaper
 cheapest
+cheaply
 cheat
 cheated
 cheating
@@ -16575,6 +16677,7 @@ cheese
 chemical
 chemically
 chemicals
+chemist
 chemistry
 cherries
 cherry
@@ -16643,6 +16746,7 @@ ci
 ciently
 cigarette
 cigarettes
+cinema
 cinnamon
 ciphertext
 circle
@@ -17669,6 +17773,8 @@ constant
 constant-time
 constantly
 constants
+constellation
+constellations
 consternation
 constexpr
 constituency
@@ -17933,6 +18039,7 @@ cooked
 cookie
 cookies
 cooking
+cooks
 cool
 cooled
 cooler
@@ -19262,6 +19369,7 @@ detonate
 detonated
 detonates
 detonating
+detonation
 detour
 detract
 detracted
@@ -19297,6 +19405,7 @@ deviations
 device
 device's
 devices
+devil
 devise
 devised
 devising
@@ -20078,6 +20187,7 @@ draggable
 dragged
 dragging
 dragon
+dragons
 drain
 drained
 drains
@@ -20113,6 +20223,7 @@ dressed
 dresses
 dressing
 drew
+drier
 dries
 drift
 drifted
@@ -20162,6 +20273,7 @@ drowns
 drug
 drugs
 drum
+drums
 drunk
 drupal
 dry
@@ -20396,6 +20508,8 @@ elapsed
 elapses
 elastic
 elasticsearch
+elbow
+elbows
 elder
 elderly
 eldest
@@ -20432,6 +20546,7 @@ elegantly
 element
 element's
 element-node
+elemental
 elementary
 elements
 elephant
@@ -20442,6 +20557,7 @@ elevates
 elevating
 elevation
 elevator
+elevators
 eleven
 elicit
 elicited
@@ -21021,6 +21137,7 @@ ethics
 ethnic
 ethnicity
 etl
+etymology
 euclidean
 euler
 eulerian
@@ -21038,6 +21155,7 @@ evaluations
 evaluator
 evaluators
 evaporate
+evaporated
 evaporates
 evaporating
 evaporation
@@ -21328,6 +21446,7 @@ exploratory
 explore
 explored
 explorer
+explorers
 explores
 exploring
 explosion
@@ -21561,6 +21680,7 @@ far-between
 faraway
 farewell
 farm
+farmer
 farmers
 farming
 farms
@@ -21702,6 +21822,7 @@ fiasco
 fiber
 fibers
 fibonacci
+fibre
 fickle
 fiction
 fictional
@@ -21868,6 +21989,7 @@ flagged
 flags
 flagship
 flagships
+flakes
 flame
 flames
 flammable
@@ -21894,6 +22016,7 @@ flatteries
 flattering
 flattery
 flavour
+flavours
 flaw
 flawed
 flawless
@@ -22089,6 +22212,7 @@ foregoing
 foreground
 forehead
 foreign
+foreigners
 foremost
 forerunner
 foresaw
@@ -22305,6 +22429,8 @@ frightened
 frightening
 frightful
 frightfully
+frog
+frogs
 from
 from-scratch
 front
@@ -22317,6 +22443,7 @@ frontend-developer
 frontend-oriented
 frontier
 frontpage
+fronts
 froze
 frozen
 frugally
@@ -22436,6 +22563,7 @@ futures
 futuring
 futuristic
 fuzzy
+fyi
 g++
 gadget
 gadgets
@@ -22705,6 +22833,8 @@ go-to
 goal
 goal-directed
 goals
+goat
+goats
 goer
 goers
 goes
@@ -22833,8 +22963,10 @@ gratify
 gratifying
 gratitude
 grave
+gravel
 graver
 graveyard
+gravitation
 gravitational
 gravity
 gravy
@@ -23057,6 +23189,7 @@ harder
 hardest
 hardlinks
 hardly
+hardness
 hardship
 hardships
 hardskills
@@ -23155,6 +23288,7 @@ headhunter
 headhunting
 heading
 headings
+headlights
 headline
 headlines
 headphone
@@ -23249,6 +23383,7 @@ heretofore
 hereupon
 heritage
 hero
+heroes
 hers
 herself
 hesitant
@@ -23687,6 +23822,7 @@ identify
 identifying
 identities
 identity
+ideological
 ideology
 ides
 idiom
@@ -24475,6 +24611,7 @@ insets
 inside
 insider
 insiders
+insides
 insidious
 insight
 insightful
@@ -24989,6 +25126,7 @@ irrespective
 irrespectively
 irresponsible
 irritable
+irritant
 irritate
 irritated
 irritates
@@ -25252,6 +25390,7 @@ juggled
 juggles
 juggling
 juice
+juices
 july
 jumble
 jump
@@ -25636,6 +25775,7 @@ legendary
 legible
 legibly
 legislative
+legitimacy
 legitimate
 legitimates
 legitimize
@@ -25652,6 +25792,7 @@ lemmatizer
 lemmatizes
 lemmatizing
 lemon
+lemonade
 lemons
 lend
 lending
@@ -26138,6 +26279,7 @@ made-up
 madness
 magazine
 magazines
+magenta
 magento
 magic
 magical
@@ -26534,6 +26676,7 @@ messages
 messaging
 messed
 messenger
+messes
 messing
 messy
 met
@@ -27249,6 +27392,7 @@ multiverse
 multiversion
 multiview
 murder
+murdered
 murmured
 murmurs
 muscle
@@ -27308,6 +27452,7 @@ mySQL
 myself
 mysql
 mysqli
+mysterious
 mysteriously
 mystery
 mystical
@@ -27441,6 +27586,7 @@ neighbourly
 neighbours
 neither
 neo4j
+neon
 ner
 nerd
 nerds
@@ -27990,6 +28136,7 @@ occupations
 occupied
 occupies
 occupy
+occupying
 occur
 occurred
 occurrence
@@ -28268,6 +28415,7 @@ orbit
 orbital
 orbiting
 orbits
+orchestra
 orchestrate
 orchestrated
 orchestrates
@@ -28981,6 +29129,7 @@ penetrates
 penetrating
 penetration
 penitence
+pens
 pensive
 pent
 pentium
@@ -29025,6 +29174,7 @@ performer
 performers
 performing
 performs
+perfume
 perhaps
 perimeter
 period
@@ -29132,6 +29282,7 @@ petrol
 pets
 petting
 pgp
+pharmaceutical
 pharmacy
 phase
 phased
@@ -29303,6 +29454,7 @@ planner
 planning
 plans
 plant
+planted
 plants
 plasma
 plastic
@@ -29348,6 +29500,7 @@ please
 pleased
 pleases
 pleasing
+pleasurable
 pleasure
 pleasures
 pled
@@ -29399,6 +29552,7 @@ podcast
 podcasts
 pods
 poem
+poetry
 poignant
 point
 point-in-time
@@ -29413,6 +29567,7 @@ pointing
 pointless
 points
 pointwise
+pointy
 poison
 poisoning
 poisonous
@@ -29840,6 +29995,7 @@ pressing
 pressingly
 pressure
 pressured
+prestige
 presumably
 presume
 presumed
@@ -29930,6 +30086,7 @@ priority
 priors
 prism
 prison
+prisons
 privacy
 private
 privately
@@ -30132,6 +30289,7 @@ proofing
 proofread
 proofreading
 proofs
+prop
 propagate
 propagated
 propagates
@@ -30461,6 +30619,7 @@ quaternion
 quaternions
 que
 queen
+queens
 queer
 queered
 queering
@@ -30936,6 +31095,10 @@ recode
 recoded
 recodes
 recoding
+recognise
+recognised
+recognises
+recognising
 recognition
 recognizable
 recognize
@@ -31153,6 +31316,7 @@ referenced
 referenceless
 references
 referencing
+referendum
 referential
 referral
 referrals
@@ -31284,6 +31448,7 @@ regroup
 regrouped
 regrouping
 regroups
+regrow
 regular
 regularities
 regularity
@@ -32314,6 +32479,7 @@ row-major
 row-wise
 rows
 royal
+royalties
 royalty
 rpc
 rpg
@@ -32657,6 +32823,7 @@ seconds
 secrecy
 secret
 secretary
+secreted
 secretly
 secrets
 section
@@ -33508,6 +33675,8 @@ smtp
 smuggling
 snack
 snacks
+snail
+snails
 snake
 snakes
 snap
@@ -33528,6 +33697,7 @@ sniffed
 sniffer
 sniffing
 sniffs
+sniper
 snippet
 snippets
 snitch
@@ -33536,6 +33706,7 @@ snoozed
 snow
 snowboard
 snowed
+snowflakes
 snowing
 snows
 snowy
@@ -33727,6 +33898,7 @@ sparsely
 sparseness
 sparsification
 sparsity
+spasm
 spatial
 spatialized
 spatially
@@ -33822,6 +33994,7 @@ spices
 spicy
 spider
 spiders
+spies
 spike
 spikes
 spill
@@ -34082,6 +34255,7 @@ statistical
 statistically
 statistics
 stats
+statue
 status
 stay
 stayed
@@ -34488,6 +34662,7 @@ subside
 subsided
 subsides
 subsidiary
+subsidies
 subsidy
 subsistence
 subspace
@@ -34736,6 +34911,7 @@ surfer
 surfing
 surge
 surged
+surgeries
 surgery
 surges
 surgical
@@ -34743,6 +34919,7 @@ surging
 surmise
 surmised
 surmises
+surname
 surpass
 surpassed
 surpasses
@@ -34989,6 +35166,7 @@ takeover
 takeovers
 takes
 taking
+tale
 talent
 talented
 talents
@@ -35166,10 +35344,12 @@ templates
 templating
 templatize
 templatized
+temple
 temporal
 temporally
 temporarily
 temporary
+temps
 tempt
 temptation
 temptations
@@ -35196,6 +35376,7 @@ tense
 tensed
 tenses
 tension
+tensions
 tensor
 tensor's
 tensor-based
@@ -35492,6 +35673,9 @@ ticket
 ticketing
 tickets
 ticking
+tickle
+tickled
+tickles
 ticks
 tide
 tides
@@ -35502,6 +35686,7 @@ tier
 tiered
 ties
 tiger
+tigers
 tight
 tighten
 tightening
@@ -35637,6 +35822,7 @@ toolkits
 tools
 toolset
 tooth
+toothbrush
 toothpaste
 toothpastes
 top
@@ -35676,7 +35862,10 @@ torn
 tornado
 torque
 torrent
+torrents
 tortoise
+torture
+tortures
 toss
 tossed
 tosses
@@ -35757,6 +35946,7 @@ trademarks
 tradeoff
 tradeoffs
 traders
+trades
 tradesman
 trading
 tradition
@@ -35794,6 +35984,7 @@ trance
 tranquil
 tranquillised
 tranquillity
+transGENDER
 transact
 transaction
 transactional
@@ -35845,6 +36036,7 @@ transformer-based
 transformers
 transforming
 transforms
+transgender
 transgressed
 transgression
 transient
@@ -37146,6 +37338,7 @@ validators
 validity
 validly
 valley
+valleys
 valuable
 valuably
 valuation
@@ -37167,6 +37360,9 @@ vanishes
 vanishing
 vanities
 vanity
+vaporize
+vaporized
+vaporizing
 vapour
 var
 varchar
@@ -37556,6 +37752,7 @@ was
 wash
 washed
 washed-out
+washes
 washing
 wasm
 wasmer
@@ -37582,6 +37779,7 @@ watermarking
 watermarks
 watermelon
 watermelons
+waterproof
 waters
 wav
 wave
@@ -37763,6 +37961,7 @@ weightage
 weighted
 weighting
 weightings
+weightless
 weights
 weightset
 weird
