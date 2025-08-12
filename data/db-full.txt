@@ -376,6 +376,7 @@ Affirmation
 Affirmative
 Affirms
 Affix
+Affluent
 Affordable
 Affording
 Afraid
@@ -753,6 +754,7 @@ Arcade
 Arch
 Archaeologist
 Arched
+Archeological
 Archeologists
 Archeology
 Arches
@@ -855,6 +857,7 @@ Assembly
 Assent
 Assert
 Assertive
+Asses
 Assess
 Assessment
 Assessments
@@ -935,6 +938,7 @@ Attenuated
 Attenuation
 Attestation
 Attested
+Attire
 Attitude
 Attitudes
 Attorney
@@ -1224,6 +1228,7 @@ Beliefs
 Believe
 Believed
 Believer
+Believers
 Believes
 Believing
 Bell
@@ -1266,6 +1271,7 @@ Bias
 Biased
 Bible
 Bicycle
+Bicycles
 Bid
 Bidding
 Big
@@ -1358,6 +1364,7 @@ Blink
 Blinking
 Blizzard
 Blob
+Blobs
 Block
 Blockbuster
 Blockchain
@@ -1415,6 +1422,7 @@ Books
 Boolean
 Boom
 Boomerang
+Boomers
 Boost
 Booster
 Boosting
@@ -1462,6 +1470,7 @@ Bow
 Bowel
 Bowl
 Bowling
+Bowls
 Bows
 Box
 Boxed
@@ -1515,7 +1524,10 @@ Breed
 Breeding
 Breeze
 Brevity
+Brewed
 Brewery
+Bribe
+Bribes
 Bricks
 Bride
 Brides
@@ -1902,6 +1914,7 @@ Channel
 Channels
 Chaos
 Chaotic
+Chapped
 Chapter
 Chapters
 Char
@@ -1950,6 +1963,7 @@ Checks
 Checksum
 Checksums
 Cheeks
+Cheers
 Cheese
 Chemical
 Chemically
@@ -2260,6 +2274,8 @@ Combining
 Combustible
 Combustion
 Come
+Comedian
+Comedians
 Comedy
 Comes
 Comfort
@@ -2811,6 +2827,7 @@ Couple
 Coupled
 Couples
 Coupling
+Coupons
 Courage
 Course
 Courses
@@ -2860,6 +2877,7 @@ Crawls
 Crayons
 Crazy
 Cream
+Creams
 Creamy
 Creases
 Create
@@ -2882,6 +2900,7 @@ Credited
 Credits
 Creep
 Creepy
+Crest
 Crew
 Cried
 Crime
@@ -2944,6 +2963,7 @@ Cryptocurrency
 Cryptographic
 Cryptography
 Crystal
+Crystallized
 Crystals
 Cube
 Cubes
@@ -3497,6 +3517,7 @@ Dialogue
 Dialogues
 Diameter
 Diamond
+Diaries
 Diary
 Dick
 Dictated
@@ -3573,9 +3594,11 @@ Dip
 Diploma
 Diplomacy
 Diplomas
+Diplomat
 Diplomatic
 Dipping
 Dir
+Dire
 Direct
 Direct3D
 DirectX
@@ -3772,6 +3795,7 @@ Disturb
 Disturbance
 Disturbing
 Disturbs
+Ditch
 Div
 Dive
 Diver
@@ -3870,6 +3894,7 @@ Doubtful
 Doubts
 Dove
 Down
+Downfall
 Downhill
 Download
 Downloaded
@@ -4395,6 +4420,7 @@ Erratic
 Error
 Errors
 Escalation
+Escalator
 Escape
 Escaped
 Escapes
@@ -4415,6 +4441,7 @@ Establishing
 Establishment
 Establishments
 Estate
+Estates
 Esteemed
 Estimate
 Estimated
@@ -4439,6 +4466,7 @@ Etymology
 Euclidean
 Euler
 Eulerian
+Euphoria
 Euro
 Europe
 European
@@ -4864,6 +4892,7 @@ Festival
 Festivals
 Fetch
 Fever
+Fevers
 Few
 Fewer
 Fiasco
@@ -4907,6 +4936,7 @@ Filter
 Filtered
 Filtering
 Filters
+Filthy
 Filtration
 Final
 Finale
@@ -4979,6 +5009,7 @@ Flag
 Flagged
 Flags
 Flail
+Flake
 Flakes
 Flame
 Flames
@@ -5005,6 +5036,8 @@ Flavours
 Flaw
 Flawed
 Flaws
+Flea
+Fleas
 Flee
 Fleet
 Flew
@@ -5031,6 +5064,7 @@ Flooded
 Flooding
 Floods
 Floor
+Flopped
 Flopping
 Floppy
 Flops
@@ -5062,6 +5096,7 @@ Flutter
 Fly
 Flying
 Foam
+Foaming
 Foamy
 Focal
 Focus
@@ -5069,6 +5104,7 @@ Focused
 Focuses
 Focusing
 Fog
+Foggy
 Fold
 Folded
 Folder
@@ -5182,6 +5218,8 @@ Founded
 Founder
 Founders
 Founding
+Fountain
+Fountains
 Four
 Fourier
 Fourteen
@@ -5388,6 +5426,7 @@ Gay
 Gaze
 Gb
 Gear
+Gearing
 Geek
 Geeks
 Gels
@@ -5444,6 +5483,7 @@ Geometric
 Geometrical
 Geometrically
 Geometry
+Geopolitical
 Geoscience
 Geospatial
 German
@@ -6329,6 +6369,7 @@ Inappropriately
 Inasmuch
 Inattentive
 Inauguration
+Inbetween
 Inbox
 Inc
 Incentive
@@ -6506,6 +6547,7 @@ Inherited
 Inheriting
 Inhibit
 Inhibited
+Inhibition
 Inhibits
 Initial
 Initially
@@ -6569,6 +6611,7 @@ Insignificant
 Insisting
 Insofar
 Insolvency
+Insomnia
 Inspect
 Inspection
 Inspections
@@ -6813,6 +6856,7 @@ Ipv6
 Ireland
 Iris
 Iron
+Ironic
 Ironically
 Irradiated
 Irradiation
@@ -6826,6 +6870,7 @@ Irresistible
 Irrespective
 Irresponsible
 Irritable
+Irritants
 Irritated
 Irritating
 Irritation
@@ -7018,6 +7063,7 @@ Kiss
 Kissing
 Kit
 Kitchen
+Kitchens
 Kits
 Kitten
 Kittens
@@ -7071,6 +7117,7 @@ Lake
 Lakes
 Lamb
 Lambda
+Lame
 Lamp
 Lan
 Lance
@@ -7350,6 +7397,8 @@ Loaded
 Loaders
 Loading
 Loads
+Loaf
+Loafer
 Loan
 Loaning
 Lobby
@@ -7427,6 +7476,7 @@ Lots
 Lottery
 Loud
 Louder
+Loudest
 Loudly
 Loudness
 Lounge
@@ -7460,6 +7510,7 @@ Luck
 Luckily
 Lucky
 Luggage
+Lumber
 Luminous
 Lunch
 Lungs
@@ -7770,6 +7821,7 @@ Merely
 Merge
 Merger
 Merging
+Meridian
 Merit
 Meritorious
 Mesh
@@ -8122,6 +8174,7 @@ Multivariable
 Multivariate
 Multiverse
 Murdered
+Murdering
 Muscle
 Muscles
 Museums
@@ -8150,6 +8203,8 @@ Mysql
 Mysteries
 Mysterious
 Mystery
+Myth
+Myths
 N-Dimensional
 N-Gram
 N-dimensional
@@ -8543,6 +8598,7 @@ Off-site
 Off-topic
 Offences
 Offended
+Offenders
 Offense
 Offensive
 Offer
@@ -8629,6 +8685,7 @@ Openness
 Opens
 Opensource
 Opera
+Operas
 Operate
 Operated
 Operating
@@ -9017,6 +9074,8 @@ Pause
 Pausing
 Pavement
 Paving
+Paw
+Paws
 Pay
 PayPal
 Payable
@@ -9274,6 +9333,7 @@ Player
 Player's
 Players
 Playfulness
+Playground
 Playing
 Playlist
 Playoff
@@ -10019,6 +10079,8 @@ Railway
 Railways
 Rain
 Rainbows
+Raindrop
+Raindrops
 Rainfall
 Raining
 Rainy
@@ -10448,6 +10510,8 @@ Reopening
 Repair
 Repairing
 Repairs
+Repeal
+Repealing
 Repeat
 Repeatability
 Repeated
@@ -10696,6 +10760,7 @@ Rewrite
 Rewritten
 Rewrote
 Rho
+Rhythmic
 Ribbon
 Ribbons
 Rice
@@ -10827,6 +10892,7 @@ Rule
 Ruled
 Rules
 Ruling
+Rumble
 Rumors
 Rumour
 Rumours
@@ -10844,6 +10910,7 @@ Rush
 Rushed
 Rust
 Rusting
+Rusty
 SAAS
 SAFE
 SAP
@@ -11033,6 +11100,7 @@ Scripts
 Scroll
 Scrolling
 Scrolls
+Scrubbing
 Scrum
 Scrutiny
 Sculpture
@@ -11263,6 +11331,7 @@ Shameful
 Shamelessly
 Shaming
 Shampoo
+Shampoos
 Shape
 Shaped
 Shapes
@@ -11327,6 +11396,7 @@ Shoes
 Shook
 Shoot
 Shooter
+Shooters
 Shooting
 Shoots
 Shop
@@ -11816,6 +11886,7 @@ Spied
 Spies
 Spill
 Spilled
+Spilling
 Spills
 Spin
 Spine
@@ -11903,6 +11974,7 @@ Squished
 Squishes
 Squishing
 Src
+Stabbing
 Stability
 Stabilization
 Stabilizer
@@ -12162,6 +12234,8 @@ Stunt
 Stupid
 Stupidity
 Stupidly
+Stutter
+Stuttering
 Style
 Styles
 Stylesheet
@@ -12321,6 +12395,7 @@ Superior
 Superiority
 Superiors
 Supermarket
+Supermarkets
 Superstar
 Supervisor
 Supper
@@ -12762,6 +12837,7 @@ Thine
 Thing
 Things
 Think
+Thinkers
 Thinking
 Thinks
 Thinner
@@ -13151,6 +13227,7 @@ Truck
 Trucks
 True
 Truly
+Trumpet
 Trunk
 Trust
 Trusted
@@ -13462,6 +13539,7 @@ Unrequited
 Unrestricted
 Unsafe
 Unsatisfying
+Unsaturated
 Unscientific
 Unsecured
 Unseen
@@ -13623,6 +13701,7 @@ Vary
 Varying
 Vast
 Vastly
+Vault
 Vector
 Vectors
 Vegans
@@ -13685,6 +13764,7 @@ Vibrations
 Vice
 Vice-President
 Vice-versa
+Vicious
 Victim
 Victims
 Video
@@ -13819,6 +13899,7 @@ Wanting
 Wants
 War
 Warcraft
+Ward
 Wardrobe
 Ware
 Warehouse
@@ -13839,6 +13920,7 @@ Warns
 Warp
 Warped
 Warrant
+Warrants
 Warranty
 Warring
 Warrior
@@ -13891,6 +13973,7 @@ Weakly
 Weakness
 Weaknesses
 Wealth
+Wealthiest
 Wealthy
 Weapon
 Weapons
@@ -13899,6 +13982,7 @@ Wearing
 Wears
 Weary
 Weather
+Weathering
 Weaving
 Web
 WebApps
@@ -14043,6 +14127,7 @@ Wiki
 WikiPedia
 Wikipedia
 Wild
+Wilderness
 Wildest
 Wildfire
 Wildly
@@ -14786,6 +14871,7 @@ affix
 affixed
 afflicted
 affliction
+affluent
 afford
 affordability
 affordable
@@ -15510,6 +15596,7 @@ arcade
 arch
 archaeologist
 arched
+archeological
 archeologists
 archeology
 arches
@@ -15694,6 +15781,7 @@ assertions
 assertive
 assertiveness
 asserts
+asses
 assess
 assessed
 assesses
@@ -15842,6 +15930,7 @@ attest
 attestation
 attested
 attests
+attire
 attitude
 attitudes
 attorney
@@ -16327,6 +16416,7 @@ believable
 believe
 believed
 believer
+believers
 believes
 believing
 bell
@@ -16404,6 +16494,7 @@ biases
 biasing
 bible
 bicycle
+bicycles
 bid
 bidden
 bidding
@@ -16538,6 +16629,7 @@ blinking
 blinks
 blizzard
 blob
+blobs
 block
 block-chain
 block-scoped
@@ -16625,6 +16717,7 @@ boolean
 booleans
 boom
 boomerang
+boomers
 boon
 boost
 boost-up
@@ -16700,6 +16793,7 @@ bowel
 bowels
 bowl
 bowling
+bowls
 bows
 box
 boxed
@@ -16772,7 +16866,10 @@ breed
 breeding
 breeze
 brevity
+brewed
 brewery
+bribe
+bribes
 brick
 bricks
 bride
@@ -17196,6 +17293,7 @@ cased
 cases
 cash
 cashing
+casing
 casino
 cassandra
 cassette
@@ -17355,6 +17453,7 @@ channel
 channels
 chaos
 chaotic
+chapped
 chapter
 chapters
 char
@@ -17452,6 +17551,7 @@ cheerfulness
 cheering
 cheerless
 cheerlessness
+cheers
 cheese
 chemical
 chemically
@@ -18007,6 +18107,8 @@ combustible
 combustion
 come
 comeback
+comedian
+comedians
 comedy
 comes
 comfort
@@ -19018,6 +19120,8 @@ couple
 coupled
 couples
 coupling
+coupon
+coupons
 courage
 course
 coursed
@@ -19097,6 +19201,7 @@ crawls
 crayons
 crazy
 cream
+creams
 creamy
 crease
 creases
@@ -19125,6 +19230,7 @@ credits
 creep
 creeped
 creepy
+crest
 crew
 cried
 cries
@@ -19212,6 +19318,7 @@ crowdsource
 crowdsourced
 crowdsourcing
 crown
+crowned
 crowns
 crucial
 crucible
@@ -19253,6 +19360,10 @@ cryptomining
 cryptosystem
 cryptotrading
 crystal
+crystallize
+crystallized
+crystallizes
+crystallizing
 crystals
 csharp
 csi
@@ -19659,6 +19770,7 @@ decisioning
 decisions
 decisive
 decisively
+decks
 declaration
 declarations
 declarative
@@ -20351,6 +20463,7 @@ dials
 diameter
 diamond
 diamonds
+diaries
 diary
 dick
 dictate
@@ -20477,9 +20590,11 @@ dip
 diploma
 diplomacy
 diplomas
+diplomat
 diplomatic
 dipping
 dir
+dire
 direct
 direct3D
 direct3d
@@ -20876,6 +20991,7 @@ disturbed
 disturbing
 disturbs
 disutility
+ditch
 div
 dive
 dived
@@ -21045,6 +21161,7 @@ down
 down-sample
 downcasting
 downcasts
+downfall
 downgrade
 downgraded
 downgrading
@@ -22023,6 +22140,7 @@ escalated
 escalates
 escalating
 escalation
+escalator
 escape
 escaped
 escapes
@@ -22048,6 +22166,7 @@ establishing
 establishment
 establishments
 estate
+estates
 esteem
 esteemed
 esteeming
@@ -22079,6 +22198,7 @@ etymology
 euclidean
 euler
 eulerian
+euphoria
 euphoric
 european
 europeans
@@ -22770,6 +22890,7 @@ fetched
 fetches
 fetching
 fever
+fevers
 few
 few-shot
 fewer
@@ -22837,6 +22958,7 @@ filter
 filtered
 filtering
 filters
+filthy
 filtrate
 filtrated
 filtrates
@@ -22952,6 +23074,7 @@ flags
 flagship
 flagships
 flail
+flake
 flakes
 flame
 flames
@@ -22989,6 +23112,8 @@ flawed
 flawless
 flawlessly
 flaws
+flea
+fleas
 fled
 flee
 fleet
@@ -23038,6 +23163,8 @@ flooding
 floods
 floor
 floors
+flop
+flopped
 flopping
 floppy
 flops
@@ -23090,6 +23217,7 @@ fluttered
 fly
 flying
 foam
+foaming
 foamy
 focal
 focus
@@ -23099,6 +23227,7 @@ focuses
 focusing
 focusout
 fog
+foggy
 fogs
 fold
 foldable
@@ -23311,6 +23440,8 @@ founder
 founders
 founding
 founds
+fountain
+fountains
 four
 fourier
 fourteen
@@ -23326,6 +23457,7 @@ fraction
 fractional
 fractionally
 fractions
+fractured
 fragile
 fragment
 fragmentation
@@ -23627,6 +23759,7 @@ gcc
 gdb
 gear
 geared
+gearing
 gears
 geek
 geeks
@@ -23716,6 +23849,7 @@ geometrically
 geometrics
 geometries
 geometry
+geopolitical
 geos
 geoscience
 geospatial
@@ -24093,6 +24227,7 @@ gzip
 gzipped
 habit
 habitation
+habitats
 habits
 habitual
 hack
@@ -25173,6 +25308,7 @@ inaugurate
 inaugurated
 inaugurates
 inauguration
+inbetween
 inbound
 inbox
 inboxes
@@ -25541,6 +25677,8 @@ inheriting
 inherits
 inhibit
 inhibited
+inhibition
+inhibitions
 inhibits
 ini
 inimitable
@@ -25686,6 +25824,7 @@ insolent
 insolve
 insolvency
 insolvent
+insomnia
 inspect
 inspected
 inspecting
@@ -26163,6 +26302,7 @@ irked
 irksome
 irksomeness
 iron
+ironic
 ironically
 ironpython
 irradiate
@@ -26186,6 +26326,7 @@ irrespectively
 irresponsible
 irritable
 irritant
+irritants
 irritate
 irritated
 irritates
@@ -26595,6 +26736,7 @@ kiss
 kissing
 kit
 kitchen
+kitchens
 kits
 kitten
 kittens
@@ -26677,6 +26819,8 @@ lamb
 lambda
 lambda-expression
 lambdas
+lame
+lames
 lamp
 lamps
 lan
@@ -27134,6 +27278,9 @@ loaders
 loading
 loadout
 loads
+loaf
+loafer
+loafers
 loan
 loaned
 loaning
@@ -27254,6 +27401,7 @@ loosely
 loosened
 loosening
 loosens
+looser
 loosing
 lose
 loser
@@ -27270,6 +27418,7 @@ lots
 lottery
 loud
 louder
+loudest
 loudly
 loudness
 lounge
@@ -27327,6 +27476,7 @@ luckily
 lucky
 lucrative
 luggage
+lumber
 luminous
 lump
 lumps
@@ -27770,6 +27920,7 @@ merger
 merges
 mergetool
 merging
+meridian
 merit
 merited
 meritorious
@@ -28380,6 +28531,10 @@ much-improved
 much-memed
 muffin
 muffins
+muffle
+muffled
+muffles
+muffling
 mui
 mule
 mules
@@ -28547,6 +28702,7 @@ multiversion
 multiview
 murder
 murdered
+murdering
 murmured
 murmurs
 muscle
@@ -28611,6 +28767,8 @@ mysterious
 mysteriously
 mystery
 mystical
+myth
+myths
 n-digit
 n-dimensional
 n-gram
@@ -29133,6 +29291,7 @@ nowhere
 nozzle
 npm
 ntfs
+nuance
 nuanced
 nuances
 nuclear
@@ -29157,6 +29316,7 @@ numbered
 numbering
 numberless
 numbers
+numbness
 numeracy
 numeral
 numerals
@@ -29344,6 +29504,7 @@ offences
 offend
 offended
 offender
+offenders
 offending
 offends
 offense
@@ -29506,6 +29667,7 @@ opera
 operable
 operand
 operands
+operas
 operate
 operated
 operates
@@ -29917,6 +30079,7 @@ overtaking
 overthinking
 overthrew
 overthrow
+overthrown
 overtime
 overtook
 overturn
@@ -30236,6 +30399,8 @@ paved
 pavement
 paves
 paving
+paw
+paws
 pay
 payable
 paycheck
@@ -30679,6 +30844,7 @@ playframework
 playful
 playfully
 playfulness
+playground
 playing
 playlist
 playlists
@@ -30832,6 +30998,7 @@ pooling
 pools
 poor
 poorer
+poorest
 poorly
 pop
 pop-up
@@ -31971,6 +32138,8 @@ railways
 rain
 rainbow
 rainbows
+raindrop
+raindrops
 rained
 rainfall
 raining
@@ -33054,6 +33223,10 @@ reparsing
 repast
 repay
 repayment
+repeal
+repealed
+repealing
+repeals
 repeat
 repeatability
 repeatable
@@ -33603,6 +33776,7 @@ rewrote
 rfc
 rgb
 rho
+rhythmic
 ribbon
 ribbons
 rice
@@ -33822,6 +33996,7 @@ rule-based
 ruled
 rules
 ruling
+rumble
 rumination
 rumor
 rumored
@@ -33850,6 +34025,7 @@ rushed
 rushing
 rust
 rusting
+rusty
 rvalue
 rvalues
 rwd
@@ -34092,6 +34268,7 @@ scrollbars
 scrolled
 scrolling
 scrolls
+scrubbing
 scrum
 scrum-master
 scrums
@@ -34322,6 +34499,7 @@ semiconductor
 semiconductors
 seminars
 senate
+senator
 senators
 send
 sender
@@ -34507,6 +34685,7 @@ shamefully
 shamelessly
 shaming
 shampoo
+shampoos
 shan't
 shape
 shaped
@@ -34546,6 +34725,7 @@ she'll
 she's
 shear
 shearing
+sheath
 shed
 shedding
 sheds
@@ -34596,6 +34776,7 @@ shone
 shook
 shoot
 shooter
+shooters
 shooting
 shoots
 shop
@@ -35402,6 +35583,7 @@ spikes
 spill
 spill-over
 spilled
+spilling
 spillover
 spills
 spin
@@ -35546,6 +35728,7 @@ ssh
 ssis
 ssl
 stabbed
+stabbing
 stability
 stabilization
 stabilize
@@ -35956,6 +36139,9 @@ stupid
 stupidest
 stupidity
 stupidly
+stutter
+stuttered
+stuttering
 style
 styled
 styles
@@ -36302,6 +36488,7 @@ superior
 superiority
 superiors
 supermarket
+supermarkets
 supermodel
 superpowers
 superscaling
@@ -37054,6 +37241,8 @@ thing
 things
 thingy
 think
+thinker
+thinkers
 thinking
 thinking-through
 thinks
@@ -37677,6 +37866,7 @@ triangulations
 tribal
 tribute
 trick
+tricked
 tricking
 tricks
 tricky
@@ -37733,6 +37923,7 @@ true
 trueness
 truer
 truly
+trumpet
 truncate
 truncated
 truncates
@@ -38510,6 +38701,7 @@ unsafe
 unsaid
 unsatisfied
 unsatisfying
+unsaturated
 unsaved
 unsay
 unscaling
@@ -38923,6 +39115,7 @@ vary
 varying
 vast
 vastly
+vault
 vaunted
 vb
 vb.net
@@ -39050,6 +39243,8 @@ vice
 vice-president
 vice-versa
 vicinity
+vicious
+viciously
 victim
 victims
 video
@@ -39273,6 +39468,7 @@ wantonness
 wants
 war
 warcraft
+ward
 wardrobe
 ware
 warehouse
@@ -39299,6 +39495,7 @@ warp
 warped
 warping
 warrant
+warrants
 warranty
 warring
 warrior
@@ -39372,6 +39569,7 @@ weakly
 weakness
 weaknesses
 wealth
+wealthiest
 wealthy
 weapon
 weapons
@@ -39385,6 +39583,7 @@ wears
 weary
 wearying
 weather
+weathering
 weaving
 web
 web's
@@ -39716,6 +39915,7 @@ wikidata
 wikipedia
 wild
 wildcard
+wilderness
 wildest
 wildfire
 wildly
