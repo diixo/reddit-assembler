@@ -651,6 +651,7 @@ Antialiasing
 Anticipate
 Anticipating
 Anticipation
+Antidepressant
 Antifreeze
 Antiparticles
 Antivirus
@@ -1059,6 +1060,7 @@ Background
 Backgrounds
 Backing
 Backlight
+Backpack
 Backs
 Backside
 Backslash
@@ -1266,6 +1268,8 @@ Billboard
 Billboards
 Billing
 Billion
+Billionaire
+Billionaires
 Billions
 Bills
 Bin
@@ -1815,6 +1819,7 @@ Causers
 Causes
 Causing
 Caution
+Caveats
 Cavity
 Cease
 Ceases
@@ -2811,6 +2816,8 @@ Cracks
 Craft
 Crafted
 Crafting
+Cramping
+Cramps
 Cranking
 Crap
 Crappy
@@ -2893,6 +2900,7 @@ Crucial
 Crucible
 Crude
 Cruel
+Cruelty
 Cruise
 Crumbling
 Crumple
@@ -2920,6 +2928,8 @@ Cucumbers
 Cuddle
 Cuddling
 Cues
+Cuff
+Cuffs
 Culled
 Culling
 Cultivating
@@ -3722,6 +3732,7 @@ Distributing
 Distribution
 Distributions
 Distributive
+Distributor
 Distributors
 District
 Distros
@@ -3809,6 +3820,7 @@ Doomed
 Door
 Doors
 Dope
+Dorsal
 Dos
 Dose
 Doses
@@ -4325,6 +4337,7 @@ Equate
 Equation
 Equations
 Equator
+Equinox
 Equipment
 Equipments
 Equity
@@ -5325,6 +5338,7 @@ Gb
 Gear
 Geek
 Geeks
+Gels
 Gem
 Gemini
 Gems
@@ -5606,6 +5620,7 @@ HCL
 HCl
 HD
 HDD
+HDDs
 HDMI
 HEX
 HP
@@ -6000,6 +6015,7 @@ Hugs
 Hull
 Human
 Humane
+Humanitarian
 Humanity
 Humans
 Humble
@@ -6794,6 +6810,7 @@ JAM
 JAR
 JAVA
 JBoss
+JELLO
 JPEG
 JPG
 JQuery
@@ -6823,6 +6840,7 @@ Jazz
 Jboss
 Jealousy
 Jeans
+Jello
 Jenkins
 Jerk
 Jet
@@ -7133,6 +7151,7 @@ Lenses
 Lent
 Leopard
 Leopards
+Lesbian
 Less
 Lessen
 Lesson
@@ -7703,6 +7722,7 @@ Meta-data
 Metadata
 Metal
 Metals
+Metamorphoses
 Metaphor
 Metaphors
 Metaprogramming
@@ -7785,6 +7805,7 @@ Miniature
 Minimal
 Minimalistic
 Minimally
+Minimise
 Minimize
 Minimizing
 Minimum
@@ -8730,6 +8751,7 @@ Owns
 Oxygen
 P2P
 PAD
+PATRIOT
 PC
 PC's
 PCA
@@ -8906,8 +8928,10 @@ Pathways
 Patience
 Patient
 Patients
+Patriot
 Patriotic
 Patriotism
+Patriots
 Patronage
 Pattern
 Pattern-matching
@@ -9222,6 +9246,7 @@ Podcasts
 Pods
 Poem
 Poet
+Poetic
 Poetry
 Poets
 Point
@@ -9718,6 +9743,7 @@ Psychology
 Psychopath
 Psychopaths
 Psychopathy
+Psychosis
 PubliC
 Public
 Public-key
@@ -9749,6 +9775,7 @@ Punch
 Punctuation
 Punish
 Punished
+Punishing
 Punishment
 Pupil
 Pupils
@@ -9892,6 +9919,7 @@ Racists
 Rack
 Radar
 Radial
+Radiant
 Radiation
 Radiator
 Radical
@@ -11125,6 +11153,7 @@ Shadowed
 Shadowing
 Shadows
 Shady
+Shafts
 Shake
 Shaken
 Shakes
@@ -11389,6 +11418,8 @@ Skype
 Slack
 Slam
 Slang
+Slant
+Slanted
 Slash
 Slashes
 Slate
@@ -11502,6 +11533,7 @@ Socializing
 Socially
 Societal
 Society
+Sociological
 Sociopath
 Sociopaths
 Socket
@@ -12119,6 +12151,7 @@ Suffice
 Sufficient
 Sufficiently
 Suffixes
+Suffocating
 Suffocation
 Sugar
 Suggest
@@ -12257,6 +12290,7 @@ Sustaining
 Sv
 Swallow
 Swallowing
+Swamp
 Swan
 Swans
 Swap
@@ -12390,6 +12424,7 @@ Tall
 Taller
 Tame
 Tamed
+Tandem
 Tangent
 Tangential
 Tangentially
@@ -12734,6 +12769,7 @@ Tomatoes
 Tomcat
 Tomorrow
 Ton
+Tonal
 Tone
 Tones
 Tongue
@@ -12988,6 +13024,7 @@ Troubles
 Troubleshoot
 Troublesome
 Troubling
+Trousers
 Truck
 Trucks
 True
@@ -13051,6 +13088,7 @@ Type
 Type-C
 Typed
 Types
+Typewriter
 Typical
 Typically
 Typing
@@ -13508,6 +13546,8 @@ Vertex
 Vertical
 Vertically
 Very
+Vest
+Vests
 Veto
 Via
 Viable
@@ -13657,6 +13697,7 @@ Warcraft
 Wardrobe
 Ware
 Warehouse
+Warehouses
 Warfare
 Wargaming
 Warm
@@ -14076,6 +14117,7 @@ Yummy
 ZERO
 ZEROS
 ZIP
+ZOOs
 Zeal
 Zebra
 Zebras
@@ -14097,6 +14139,7 @@ Zoo
 Zoom
 Zoomed
 Zooming
+Zoos
 a
 a's
 a2dp
@@ -15155,6 +15198,7 @@ anticipated
 anticipates
 anticipating
 anticipation
+antidepressant
 antifreeze
 antimalware
 antiparticle
@@ -15924,6 +15968,7 @@ backlinks
 backlog
 backlogs
 backoff
+backpack
 backplane
 backpropagated
 backpropagating
@@ -15950,6 +15995,7 @@ bacteria
 bacterial
 bacterias
 bad
+badass
 bade
 badges
 badly
@@ -16239,6 +16285,8 @@ billboards
 billed
 billing
 billion
+billionaire
+billionaires
 billions
 bills
 bin
@@ -17050,6 +17098,7 @@ cautious
 cautiously
 cautiousness
 cave
+caveats
 caves
 cavities
 cavity
@@ -17312,6 +17361,7 @@ choosing
 chop
 chopped
 chopping
+choppy
 chord
 chores
 chose
@@ -18860,7 +18910,10 @@ cracks
 craft
 crafted
 crafting
+cramp
 cramped
+cramping
+cramps
 cranking
 crap
 crappy
@@ -19005,6 +19058,7 @@ crucify
 crucifying
 crude
 cruel
+cruelty
 cruise
 crumble
 crumbled
@@ -19058,6 +19112,8 @@ cuddles
 cuddling
 cudnn
 cues
+cuff
+cuffs
 cull
 culled
 culling
@@ -20519,6 +20575,7 @@ disproportionate
 disproportionately
 disprove
 disproved
+disproven
 disproves
 disputable
 dispute
@@ -20634,6 +20691,7 @@ distributionally
 distributions
 distributive
 distributivity
+distributor
 distributors
 district
 distro
@@ -20775,6 +20833,7 @@ doomed
 door
 doors
 dope
+dorsal
 dos
 dose
 dosed
@@ -21727,6 +21786,7 @@ equational
 equations
 equator
 equidistant
+equinox
 equip
 equipment
 equipments
@@ -23377,6 +23437,7 @@ gears
 geek
 geeks
 gel
+gels
 gem
 gemini
 gems
@@ -24460,6 +24521,7 @@ hull
 human
 humane
 humanely
+humanitarian
 humanity
 humanly
 humans
@@ -26095,6 +26157,7 @@ jdo
 jealous
 jealousy
 jeans
+jello
 jenkins
 jerk
 jerks
@@ -26618,6 +26681,7 @@ lenses
 lent
 leopard
 leopards
+lesbian
 less
 less-commonly
 lessen
@@ -27524,6 +27588,8 @@ metagpt
 metal
 metallic
 metals
+metamorphose
+metamorphoses
 metaphor
 metaphorical
 metaphors
@@ -27699,6 +27765,10 @@ minimalist
 minimalistic
 minimality
 minimally
+minimise
+minimised
+minimises
+minimising
 minimization
 minimize
 minimized
@@ -27933,6 +28003,7 @@ module's
 modules
 modulus
 mold
+molded
 mole
 molecular
 molecule
@@ -29917,8 +29988,10 @@ patience
 patient
 patiently
 patients
+patriot
 patriotic
 patriotism
+patriots
 patronage
 patroness
 pattern
@@ -30458,6 +30531,7 @@ podcasts
 pods
 poem
 poet
+poetic
 poetry
 poets
 poignant
@@ -31363,6 +31437,8 @@ psychology
 psychopath
 psychopaths
 psychopathy
+psychoses
+psychosis
 pthread
 pthreads
 public
@@ -31410,6 +31486,7 @@ punctuators
 punish
 punished
 punishes
+punishing
 punishment
 pupil
 pupils
@@ -31640,6 +31717,7 @@ racists
 rack
 radar
 radial
+radiant
 radiate
 radiation
 radiator
@@ -32304,6 +32382,7 @@ reflecting
 reflection
 reflections
 reflective
+reflector
 reflects
 reflex
 reflexes
@@ -33503,6 +33582,7 @@ ruled
 rules
 ruling
 rumination
+rumor
 rumored
 rumors
 rumour
@@ -34159,6 +34239,7 @@ shadowing
 shadows
 shady
 shaft
+shafts
 shake
 shaked
 shaken
@@ -34575,6 +34656,10 @@ slain
 slam
 slammed
 slang
+slant
+slanted
+slanting
+slants
 slapped
 slash
 slashes
@@ -34768,6 +34853,7 @@ socializing
 socially
 societal
 society
+sociological
 sociopath
 sociopathic
 sociopaths
@@ -35848,6 +35934,8 @@ sufficiently
 suffix
 suffixed
 suffixes
+suffocating
+suffocatingly
 suffocation
 sugar
 suggest
@@ -36073,6 +36161,7 @@ swallowed
 swallowing
 swallows
 swam
+swamp
 swan
 swans
 swap
@@ -36289,6 +36378,7 @@ taller
 tame
 tamed
 tampered
+tandem
 tangent
 tangential
 tangentially
@@ -36921,6 +37011,7 @@ tomcat
 toml
 tomorrow
 ton
+tonal
 tone
 toned
 tones
@@ -37347,6 +37438,7 @@ troubleshoot
 troubleshooting
 troublesome
 troubling
+trousers
 truck
 trucks
 true
@@ -37479,6 +37571,7 @@ typesafe
 typescript
 typeset
 typestate
+typewriter
 typical
 typicality
 typically
@@ -38631,6 +38724,10 @@ verticals
 vertices
 very
 vessel
+vest
+vested
+vesting
+vests
 veto
 vex
 vexation
@@ -38887,6 +38984,7 @@ warcraft
 wardrobe
 ware
 warehouse
+warehouses
 warfare
 wargame
 wargaming
@@ -39444,6 +39542,7 @@ wonderfully
 wondering
 wonderings
 wonders
+wonky
 wont
 wood
 wooded
@@ -39698,3 +39797,4 @@ zoomable
 zoomed
 zooming
 zooms
+zoos
