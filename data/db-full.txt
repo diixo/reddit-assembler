@@ -780,6 +780,7 @@ Argument's
 Arguments
 Arise
 Arising
+Aristocratic
 Arithmetic
 Arithmetically
 Arm
@@ -891,6 +892,7 @@ Astonishing
 Astonishingly
 Astrology
 Astronomer
+Astronomically
 Astrophysics
 Asymmetric
 Asymmetrical
@@ -901,6 +903,8 @@ Asynchronous
 At
 Ate
 Atheism
+Atheist
+Atheists
 Athlete
 Athletic
 Atlas
@@ -1082,6 +1086,7 @@ Bacteria
 Bacterial
 Bacterias
 Bad
+Badge
 Badges
 Badly
 Bag
@@ -1222,6 +1227,7 @@ Believer
 Believes
 Believing
 Bell
+Bells
 Belong
 Belonging
 Beloved
@@ -1330,6 +1336,7 @@ Blamed
 Blank
 Blanket
 Blanks
+Blast
 Blazing
 Bleach
 Bleached
@@ -1616,6 +1623,7 @@ Bushes
 Business
 Businesses
 Businessman
+Busses
 Busted
 Busy
 But
@@ -1909,6 +1917,8 @@ Charger
 Chargers
 Charges
 Charging
+Charisma
+Charismatic
 Charities
 Charity
 Charm
@@ -2096,6 +2106,7 @@ Clinging
 Clinic
 Clinical
 Clinically
+Clinics
 Clip
 Clipped
 Clipping
@@ -3296,6 +3307,7 @@ Demanding
 Demands
 Demo
 Democracy
+Democrat
 Democratic
 Democratizing
 Democrats
@@ -4692,6 +4704,7 @@ FFmpeg
 FLOPS
 FLOPs
 FLOps
+FORAGING
 FPGA
 FPS
 FPU
@@ -4844,6 +4857,7 @@ Females
 Feminine
 Femininity
 Feminism
+Feminist
 Feminists
 Fence
 Festival
@@ -4980,6 +4994,7 @@ Flashing
 Flask
 Flat
 Flatness
+Flats
 Flatscreen
 Flatten
 Flattened
@@ -5085,6 +5100,7 @@ Footprint
 Footprints
 Footsteps
 For
+Foraging
 Forbearance
 Forbidden
 Force
@@ -6733,6 +6749,8 @@ Intuitive
 Intuitively
 Invade
 Invaded
+Invader
+Invaders
 Invalid
 Invalids
 Invariably
@@ -6869,6 +6887,7 @@ Jamming
 January
 Japan
 Jar
+Jargon
 Java
 Java's
 Java-based
@@ -6919,6 +6938,7 @@ Judgments
 Juggling
 Juice
 Juices
+Juicy
 July
 Jump
 Jumped
@@ -6976,10 +6996,12 @@ Killed
 Killer
 Killers
 Killing
+Killings
 Kills
 KiloBytes
 Kilobytes
 Kilogram
+Kilometer
 Kilometers
 Kind
 Kind-of
@@ -7869,6 +7891,7 @@ Minute
 Minutes
 Miracle
 Miracles
+Mirage
 Mirror
 Mirrored
 Mirroring
@@ -9775,6 +9798,7 @@ Providers
 Provides
 Providing
 Province
+Provincial
 Proving
 Provision
 Provisions
@@ -10217,6 +10241,8 @@ Reductions
 Redundancy
 Redundant
 Redux
+Reef
+Reefs
 Reels
 Reentry
 Ref
@@ -10884,6 +10910,7 @@ San
 Sanctions
 Sand
 Sandwich
+Sandwiches
 Sang
 Sank
 Sap
@@ -10900,6 +10927,9 @@ Saturated
 Saturation
 Saturday
 Sauce
+Sauces
+Sauna
+Saunas
 Sausage
 Save
 Saved
@@ -11532,6 +11562,8 @@ Slowing
 Slowly
 Slowness
 Slows
+Slug
+Slugs
 Smack
 Small
 Small-sized
@@ -11691,6 +11723,7 @@ Southern
 Space
 SpaceX's
 Spacecraft
+Spacecrafts
 Spaced
 Spaces
 Spaceship
@@ -11842,6 +11875,9 @@ Sprinkles
 Sprint
 Sprinting
 Sprints
+Sprout
+Sprouted
+Sprouts
 Spruce
 Spurious
 Spy
@@ -12327,6 +12363,7 @@ Surgeries
 Surgery
 Surges
 Surgical
+Surgically
 Surname
 Surpass
 Surplus
@@ -12400,6 +12437,8 @@ Swimming
 Swimsuit
 Swing
 Swipe
+Swirl
+Swirling
 Switch
 Switched
 Switcher
@@ -12691,6 +12730,7 @@ Theoretically
 Theories
 Theorists
 Theory
+Therapies
 Therapy
 There
 There'll
@@ -12796,6 +12836,7 @@ Tile
 Tiles
 Till
 Tilt
+Tilting
 Timber
 Time
 Timed
@@ -13097,6 +13138,7 @@ Trips
 Triumph
 Trivially
 Trojan
+Troop
 Troops
 Trouble
 Troubled
@@ -13176,6 +13218,7 @@ Typo
 Typography
 Typos
 Tyranny
+Tyre
 UDP
 UI
 UI's
@@ -13267,6 +13310,7 @@ Undeclared
 Undefined
 Undeniably
 Under
+Underage
 Undercover
 Undercut
 Underestimated
@@ -13723,6 +13767,7 @@ Voters
 Votes
 Voting
 Vowel
+Voyager
 Vram
 Vs
 Vue
@@ -13961,6 +14006,7 @@ Whistles
 Whistling
 White
 Whitening
+Whiter
 Who
 Who're
 Who's
@@ -14574,6 +14620,7 @@ addressed
 addresses
 addressing
 adds
+adept
 adeptly
 adequate
 adequately
@@ -15507,6 +15554,7 @@ arise
 arisen
 arises
 arising
+aristocratic
 arithmetic
 arithmetical
 arithmetically
@@ -15718,6 +15766,7 @@ astray
 astrology
 astronaut
 astronomer
+astronomically
 astronomy
 astrophysics
 asunder
@@ -15736,6 +15785,8 @@ asynctask
 at
 ate
 atheism
+atheist
+atheists
 athlete
 athletic
 atlas
@@ -16088,6 +16139,7 @@ bacterias
 bad
 badass
 bade
+badge
 badges
 badly
 baffled
@@ -16278,6 +16330,7 @@ believer
 believes
 believing
 bell
+bells
 belong
 belonged
 belonging
@@ -16454,6 +16507,8 @@ blaming
 blank
 blanket
 blanks
+blast
+blasted
 blazing
 blazingly
 bleach
@@ -16891,6 +16946,7 @@ business-people
 business-school
 businesses
 businessman
+busses
 busspecifically
 busted
 bustle
@@ -17325,6 +17381,8 @@ charger
 chargers
 charges
 charging
+charisma
+charismatic
 charities
 charity
 charm
@@ -17627,6 +17685,7 @@ clings
 clinic
 clinical
 clinically
+clinics
 clip
 clipboard
 clipped
@@ -18391,6 +18450,7 @@ confluence
 confluent
 conform
 conformance
+conformation
 conformed
 conforming
 conformity
@@ -19659,6 +19719,7 @@ decorates
 decorating
 decoration
 decorations
+decorative
 decorator
 decorators
 decouple
@@ -19881,6 +19942,7 @@ demands
 demerits
 demo
 democracy
+democrat
 democratic
 democratize
 democratized
@@ -22694,6 +22756,7 @@ females
 feminine
 femininity
 feminism
+feminist
 feminists
 fence
 fenced
@@ -22906,6 +22969,7 @@ flask
 flat
 flatmap
 flatness
+flats
 flatscreen
 flatten
 flattened
@@ -23087,6 +23151,7 @@ foppery
 for
 for-each
 for-loop
+foraging
 forall
 foray
 forayed
@@ -25974,6 +26039,8 @@ inutility
 inv
 invade
 invaded
+invader
+invaders
 invades
 invalid
 invalidate
@@ -26257,6 +26324,7 @@ jamming
 january
 japan
 jar
+jargon
 jasmine
 java
 java's
@@ -26386,6 +26454,7 @@ juggles
 juggling
 juice
 juices
+juicy
 july
 jumble
 jump
@@ -26503,9 +26572,11 @@ killed
 killer
 killers
 killing
+killings
 kills
 kilobytes
 kilogram
+kilometer
 kilometers
 kind
 kind-of
@@ -27183,6 +27254,7 @@ loosely
 loosened
 loosening
 loosens
+loosing
 lose
 loser
 losers
@@ -27939,6 +28011,7 @@ minutes
 mips
 miracle
 miracles
+mirage
 mirror
 mirrored
 mirroring
@@ -31548,6 +31621,8 @@ providers
 provides
 providing
 province
+provincial
+provincialism
 proving
 provise
 provised
@@ -32481,6 +32556,8 @@ redundancy
 redundant
 redundantly
 redux
+reef
+reefs
 reelection
 reels
 reenter
@@ -33823,6 +33900,7 @@ sanction
 sanctions
 sand
 sandwich
+sandwiches
 sang
 sanity
 sank
@@ -33848,8 +33926,11 @@ saturates
 saturation
 saturday
 sauce
+sauces
 sauciness
 saucy
+sauna
+saunas
 sauntering
 sausage
 save
@@ -34903,7 +34984,9 @@ slowing
 slowly
 slowness
 slows
+slug
 sluggish
+slugs
 slumbering
 slung
 sly
@@ -35173,6 +35256,7 @@ sp2
 sp3
 space
 spacecraft
+spacecrafts
 spaced
 spaces
 spaceship
@@ -35409,6 +35493,9 @@ sprinting
 sprints
 sprite-kit
 spritekit
+sprout
+sprouted
+sprouts
 spruce
 sprung
 spurious
@@ -36283,6 +36370,7 @@ surgeries
 surgery
 surges
 surgical
+surgically
 surging
 surmise
 surmised
@@ -36402,6 +36490,10 @@ swing
 swipe
 swiped
 swiping
+swirl
+swirled
+swirling
+swirls
 swish
 switch
 switch-over
@@ -36923,6 +37015,7 @@ theoretically
 theories
 theorists
 theory
+therapies
 therapy
 there
 there'll
@@ -37094,6 +37187,7 @@ tiling
 till
 tilt
 tilted
+tilting
 timber
 time
 time-based
@@ -37622,6 +37716,7 @@ trivially
 trod
 trodden
 trojan
+troop
 troops
 tropical
 trouble
@@ -37727,6 +37822,7 @@ twins
 twist
 twisted
 twisting
+twists
 twitch
 twitching
 twitter
@@ -37774,6 +37870,7 @@ typographical
 typography
 typos
 tyranny
+tyre
 uTorrent
 ubiquitous
 ubiquitously
@@ -37963,6 +38060,7 @@ undeniable
 undeniably
 undeploy
 under
+underage
 underbred
 undercover
 undercoverage
@@ -39097,6 +39195,7 @@ vouchsafed
 vouchsafing
 vowed
 vowel
+voyager
 vpn
 vr
 vr-game
@@ -39551,6 +39650,7 @@ whiteboard
 whiten
 whitening
 whitepaper
+whiter
 whitespace
 whitespaces
 whither
