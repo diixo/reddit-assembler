@@ -589,6 +589,7 @@ Ancestor
 Anchor
 Anchors
 Ancient
+Ancients
 And
 Android
 Android's
@@ -650,6 +651,7 @@ Antialiasing
 Anticipate
 Anticipating
 Anticipation
+Antifreeze
 Antiparticles
 Antivirus
 Antonyms
@@ -675,6 +677,7 @@ Aperture
 Api
 Apis
 Apocalypse
+Apocalyptic
 Apologies
 Apologize
 Apology
@@ -995,6 +998,8 @@ Avalanche
 Avatar
 Avatars
 Avengers
+Avenue
+Avenues
 Average
 Averaged
 Averages
@@ -1247,6 +1252,7 @@ Biased
 Bible
 Bicycle
 Bid
+Bidding
 Big
 Bigger
 Biggest
@@ -1543,6 +1549,7 @@ Brute
 Btw
 Bubble
 Bubbles
+Bubbling
 Bucket
 Bucks
 Budget
@@ -1566,7 +1573,9 @@ Buildup
 Built
 Bulb
 Bulk
+Bull
 Bullet
+Bulls
 Bullshit
 Bump
 Bumping
@@ -1821,6 +1830,7 @@ Cellphone
 Cellphones
 Cells
 Cellular
+Censoring
 Censorship
 Center
 Centered
@@ -1961,6 +1971,7 @@ Chord
 Chose
 Chosen
 Christmas
+Chromatic
 Chrome
 Chrome's
 Chromebooks
@@ -2069,6 +2080,7 @@ Cling
 Clinging
 Clinic
 Clinical
+Clinically
 Clip
 Clipped
 Clipping
@@ -2817,6 +2829,7 @@ Crayons
 Crazy
 Cream
 Creamy
+Creases
 Create
 Created
 Creates
@@ -3087,6 +3100,7 @@ Decay
 Decayed
 Decaying
 Decays
+Decelerating
 Deceleration
 December
 Decent
@@ -3309,6 +3323,7 @@ Depreciation
 Depressed
 Depressing
 Depression
+Depressive
 Deprivation
 Deprive
 Deprived
@@ -4627,6 +4642,7 @@ Eye
 Eyeball
 Eyebrow
 Eyebrows
+Eyeglasses
 Eyes
 FAQ
 FAQS
@@ -5624,6 +5640,8 @@ Hallucinations
 Halt
 Halting
 Halve
+Hamburger
+Hamburgers
 Hamper
 Hand
 Hand-to-hand
@@ -5740,6 +5758,7 @@ Hearing
 Heart
 Heartbreak
 Heartbreakers
+Heartbroken
 Hearted
 Heartily
 Hearts
@@ -5848,6 +5867,7 @@ Him
 Himself
 Hinder
 Hindering
+Hinges
 Hint
 Hints
 Hip
@@ -6810,6 +6830,7 @@ Jewelry
 Jitter
 Job
 Jobs
+Jogging
 Join
 Joined
 Joining
@@ -6969,6 +6990,8 @@ Lamb
 Lambda
 Lamp
 Lan
+Lance
+Lances
 Land
 Landed
 Landing
@@ -7137,6 +7160,7 @@ Liable
 Lib
 Liberal
 Liberality
+Liberals
 Liberties
 Liberty
 Libraries
@@ -7742,6 +7766,7 @@ Mill
 Millennial
 Millennials
 Million
+Millionaires
 Millions
 Millisecond
 Milliseconds
@@ -8882,6 +8907,7 @@ Patience
 Patient
 Patients
 Patriotic
+Patriotism
 Patronage
 Pattern
 Pattern-matching
@@ -9029,6 +9055,7 @@ Philosophical
 Philosophy
 Phishing
 Phobia
+Phobias
 Phone
 Phones
 Phonetic
@@ -9299,6 +9326,7 @@ Post
 Postage
 Posted
 Poster
+Posterior
 Posters
 Posting
 Postponing
@@ -9461,6 +9489,7 @@ Primes
 Priming
 Primitive
 Prince
+Princess
 Principal
 Principally
 Principle
@@ -10158,6 +10187,7 @@ Regarding
 Regardless
 Regards
 Regenerated
+Regenerating
 Regeneration
 Regime
 Regimes
@@ -10970,6 +11000,7 @@ Self-Made
 Self-Organization
 Self-Sufficient
 Self-Taught
+Self-aware
 Self-driving
 Self-made
 Self-monitoring
@@ -11142,6 +11173,7 @@ Shells
 Shelter
 Shelters
 Shelves
+Sheriff
 Shield
 Shields
 Shift
@@ -11912,6 +11944,7 @@ Strategy
 Stratification
 Stratified
 Stratum
+Strawberries
 Strawberry
 Stray
 Stream
@@ -12321,6 +12354,7 @@ Taboo
 Tabs
 Tabular
 Tabulated
+Tack
 Tackle
 Tackling
 Tact
@@ -12738,6 +12772,7 @@ Torn
 Torrent
 Torrents
 Tortoise
+Tortoises
 Torture
 Toss
 Tossed
@@ -12761,6 +12796,7 @@ Tourism
 Tourists
 Tournament
 Tournaments
+Tours
 Tout
 Toward
 Towards
@@ -13380,6 +13416,7 @@ Vacancies
 Vacation
 Vacations
 Vaccination
+Vaccines
 Vacuum
 Vague
 Vaguely
@@ -13446,6 +13483,7 @@ Venues
 Veracity
 Verb
 Verbal
+Verbally
 Verbs
 Verdict
 Verge
@@ -13497,6 +13535,7 @@ Views
 Village
 Villain
 Vim
+Vine
 Vintage
 Violate
 Violating
@@ -13752,6 +13791,7 @@ Weren't
 West
 Western
 Wet
+Wetting
 Whale
 What
 What'll
@@ -13971,6 +14011,7 @@ Wraps
 Wretched
 Wright
 Wrist
+Wrists
 Write
 Writer
 Writers
@@ -14036,6 +14077,8 @@ ZERO
 ZEROS
 ZIP
 Zeal
+Zebra
+Zebras
 Zero
 Zeroes
 Zeros
@@ -14997,6 +15040,7 @@ anchor-text
 anchored
 anchors
 ancient
+ancients
 and
 and_eq
 android
@@ -15111,6 +15155,7 @@ anticipated
 anticipates
 anticipating
 anticipation
+antifreeze
 antimalware
 antiparticle
 antiparticles
@@ -15149,6 +15194,7 @@ apiece
 apis
 apk
 apocalypse
+apocalyptic
 apologies
 apologise
 apologised
@@ -15779,6 +15825,8 @@ avails
 avalanche
 avatar
 avatars
+avenue
+avenues
 average
 averaged
 averages
@@ -16168,6 +16216,7 @@ bible
 bicycle
 bid
 bidden
+bidding
 bidirectional
 bifurcates
 big
@@ -16611,6 +16660,7 @@ btree
 btw
 bubble
 bubbles
+bubbling
 bucket
 bucks
 budget
@@ -16644,7 +16694,9 @@ bulb
 bulbs
 bulging
 bulk
+bull
 bullet
+bulls
 bullshit
 bump
 bumped
@@ -17024,6 +17076,7 @@ cellphone
 cellphones
 cells
 cellular
+censoring
 censorship
 center
 centered
@@ -17202,6 +17255,10 @@ chemically
 chemicals
 chemist
 chemistry
+cherish
+cherished
+cherishes
+cherishing
 cherries
 cherry
 chess
@@ -17259,6 +17316,7 @@ chord
 chores
 chose
 chosen
+chromatic
 chrome
 chrome's
 chromebooks
@@ -17422,6 +17480,7 @@ clinging
 clings
 clinic
 clinical
+clinically
 clip
 clipboard
 clipped
@@ -18735,6 +18794,7 @@ countermeasure
 countermeasures
 counterpart
 counterparts
+counterproductive
 counters
 counting
 countless
@@ -18823,6 +18883,8 @@ crayons
 crazy
 cream
 creamy
+crease
+creases
 create
 created
 creates
@@ -19344,6 +19406,7 @@ deceived
 deceivers
 deceives
 deceiving
+decelerating
 deceleration
 december
 decencies
@@ -19780,6 +19843,7 @@ depressed
 depresses
 depressing
 depression
+depressive
 deprivation
 deprive
 deprived
@@ -22198,6 +22262,7 @@ eye
 eyeball
 eyebrow
 eyebrows
+eyeglasses
 eyeing
 eyelids
 eyes
@@ -23805,6 +23870,8 @@ halt
 halted
 halting
 halve
+hamburger
+hamburgers
 hammer
 hamper
 hampered
@@ -24014,6 +24081,7 @@ heartbreak
 heartbreaker
 heartbreakers
 heartbreaking
+heartbroken
 hearted
 heartedness
 heartfelt
@@ -24189,6 +24257,9 @@ hindered
 hindering
 hinders
 hindrance
+hinge
+hinged
+hinges
 hint
 hinted
 hinting
@@ -26045,6 +26116,7 @@ job
 job-hunting
 job-scheduler
 jobs
+jogging
 join
 joined
 joining
@@ -26335,6 +26407,9 @@ lambdas
 lamp
 lamps
 lan
+lance
+lanced
+lances
 land
 landed
 landing
@@ -26598,6 +26673,7 @@ libcurl
 liberal
 liberality
 liberally
+liberals
 liberties
 liberty
 libraries
@@ -27571,6 +27647,7 @@ mill
 millennial
 millennials
 million
+millionaires
 millions
 millisecond
 milliseconds
@@ -27696,6 +27773,7 @@ misguided
 mishaps
 misinfo
 misinformation
+misinformed
 misinterpret
 misinterpretation
 misinterpreted
@@ -29840,6 +29918,7 @@ patient
 patiently
 patients
 patriotic
+patriotism
 patronage
 patroness
 pattern
@@ -30113,6 +30192,7 @@ philosophical
 philosophy
 phishing
 phobia
+phobias
 phone
 phone's
 phones
@@ -30530,7 +30610,9 @@ post-processing
 postage
 posted
 poster
+posterior
 posteriori
+posteriorly
 posters
 postfiltering
 postfix
@@ -30890,6 +30972,7 @@ priming
 primitive
 primitives
 prince
+princess
 principal
 principally
 principals
@@ -32288,6 +32371,7 @@ regards
 regenerate
 regenerated
 regenerates
+regenerating
 regeneration
 regex
 regexp
@@ -32877,6 +32961,7 @@ residual
 residually
 residuals
 residue
+residues
 resign
 resignation
 resigned
@@ -33228,6 +33313,7 @@ rifle
 rifles
 right
 right-to-left
+rightful
 rightfully
 rightly
 rights
@@ -33829,6 +33915,7 @@ selenium-webdriver
 self
 self-assistance
 self-attention
+self-aware
 self-balancing
 self-contained
 self-correction
@@ -34142,6 +34229,7 @@ shelter
 sheltered
 shelters
 shelves
+sheriff
 shield
 shields
 shift
@@ -35390,6 +35478,7 @@ stratify
 stratifying
 stratum
 straw
+strawberries
 strawberry
 stray
 strayed
@@ -36147,6 +36236,7 @@ tabular
 tabulate
 tabulated
 tacitly
+tack
 tackle
 tackled
 tackling
@@ -36895,6 +36985,7 @@ torque
 torrent
 torrents
 tortoise
+tortoises
 torture
 tortures
 toss
@@ -36931,6 +37022,7 @@ tourism
 tourists
 tournament
 tournaments
+tours
 tout
 touted
 touting
@@ -37516,6 +37608,7 @@ uncertainties
 uncertainty
 unchained
 unchanged
+unchanging
 uncharged
 uncharted
 uncheck
@@ -38373,6 +38466,7 @@ vacant
 vacation
 vacations
 vaccination
+vaccines
 vacuum
 vagaries
 vague
@@ -38495,6 +38589,7 @@ veracious
 veracity
 verb
 verbal
+verbally
 verbatim
 verbose
 verbosity
@@ -38601,6 +38696,7 @@ vim
 vindicate
 vindicated
 vindicates
+vine
 vintage
 violate
 violated
@@ -39090,6 +39186,7 @@ weren't
 west
 western
 wet
+wetting
 whale
 whales
 what
@@ -39464,6 +39561,7 @@ wretchedness
 wretches
 wright
 wrist
+wrists
 writable
 write
 write-only
@@ -39567,6 +39665,8 @@ yummy
 z-index
 z-order
 zeal
+zebra
+zebras
 zend
 zend-framework
 zero
