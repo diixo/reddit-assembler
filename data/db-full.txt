@@ -585,6 +585,7 @@ Analytical
 Analytics
 Analyze
 Analyzing
+Anatomically
 Ancestor
 Anchor
 Anchors
@@ -654,6 +655,7 @@ Anticipation
 Antidepressant
 Antifreeze
 Antiparticles
+Antisemitism
 Antivirus
 Antonyms
 Ants
@@ -887,6 +889,9 @@ Assurance
 Assured
 Astonishing
 Astonishingly
+Astrology
+Astronomer
+Astrophysics
 Asymmetric
 Asymmetrical
 Asymmetry
@@ -1721,6 +1726,7 @@ Cancer
 Candidate
 Candidates
 Candidly
+Candies
 Candles
 Candour
 Candy
@@ -2240,6 +2246,7 @@ Combine
 Combined
 Combines
 Combining
+Combustible
 Combustion
 Come
 Comedy
@@ -2691,6 +2698,7 @@ Convolutions
 Cook
 Cookbook
 Cooked
+Cookery
 Cookie
 Cookies
 Cooking
@@ -2821,6 +2829,7 @@ Cracks
 Craft
 Crafted
 Crafting
+Crafts
 Cramping
 Cramps
 Cranking
@@ -2886,6 +2895,7 @@ Criticized
 Critics
 Critique
 Critiques
+Crooked
 Crop
 Cropping
 Crops
@@ -3396,6 +3406,7 @@ Destiny
 Destroy
 Destroyed
 Destroyer
+Destroyers
 Destroying
 Destroys
 Destruction
@@ -4144,6 +4155,7 @@ Emails
 Embark
 Embarrassing
 Embarrassment
+Embassies
 Embassy
 Embedded
 Ember
@@ -4430,6 +4442,7 @@ Evaporate
 Evaporated
 Evaporates
 Evaporation
+Evasion
 Evasive
 Even
 Evening
@@ -4808,6 +4821,7 @@ Featuring
 February
 Fed
 Federal
+Federation
 Fedora
 Fee
 Feed
@@ -4833,6 +4847,7 @@ Feminism
 Feminists
 Fence
 Festival
+Festivals
 Fetch
 Fever
 Few
@@ -4954,6 +4969,7 @@ Flakes
 Flame
 Flames
 Flammable
+Flapping
 Flare
 Flared
 Flares
@@ -5031,6 +5047,7 @@ Flutter
 Fly
 Flying
 Foam
+Foamy
 Focal
 Focus
 Focused
@@ -5502,6 +5519,7 @@ Google
 Google's
 Googled
 Googling
+Goose
 Gorgeous
 Got
 Goto
@@ -5589,6 +5607,7 @@ Grinding
 Grip
 Groceries
 Grocery
+Groom
 Grooming
 Groove
 Grooves
@@ -6077,6 +6096,7 @@ Hypothesis
 Hypothetical
 Hypothetically
 Hysteresis
+Hysteria
 Hz
 I
 I'd
@@ -7789,6 +7809,7 @@ Midi
 Midnight
 Midpoints
 Midsummer
+Midway
 Might
 Might've
 Mighty
@@ -7840,6 +7861,9 @@ Minor
 Minority
 Minors
 Mint
+Minting
+Mints
+Minty
 Minus
 Minute
 Minutes
@@ -7936,6 +7960,7 @@ Module
 Modules
 Modulus
 Mold
+Moldy
 Molecular
 Molecule
 Molecules
@@ -7972,6 +7997,7 @@ Monthly
 Months
 Monumental
 Mood
+Moods
 Moon
 Moonlight
 Moonshine
@@ -8098,6 +8124,7 @@ My
 MySQL
 Myself
 Mysql
+Mysteries
 Mysterious
 Mystery
 N-Dimensional
@@ -9258,6 +9285,7 @@ Plugins
 Plugs
 Plum
 Plumber
+Plume
 Plummet
 Plums
 Plural
@@ -9873,6 +9901,7 @@ Quantity
 Quantization
 Quantized
 Quantum
+Quarantine
 Quarrel
 Quarter
 Quarterback
@@ -9946,6 +9975,7 @@ Racist
 Racists
 Rack
 Radar
+Radars
 Radial
 Radiant
 Radiation
@@ -10734,8 +10764,10 @@ Rotating
 Rotation
 Rotational
 Rotations
+Rouge
 Rough
 Roughly
+Roughness
 Roulette
 Round
 Round-Up
@@ -10785,6 +10817,7 @@ Rural
 Rush
 Rushed
 Rust
+Rusting
 SAAS
 SAFE
 SAP
@@ -11328,6 +11361,7 @@ Sieges
 Sigh
 Sight
 Sights
+Sigma
 Sign
 Sign-On
 Signal
@@ -11424,7 +11458,9 @@ Skateboard
 Skating
 Skeleton
 Skeletons
+Skeptic
 Skeptical
+Skepticism
 Sketch
 Sketches
 Sketchup
@@ -11563,11 +11599,13 @@ Soap
 Sober
 Sobering
 Social
+Socialized
 Socializing
 Socially
 Societal
 Society
 Sociological
+Sociology
 Sociopath
 Sociopaths
 Socket
@@ -12131,6 +12169,7 @@ Subsequent
 Subsequently
 Subsidiary
 Subsidies
+Subsidized
 Subsistence
 Substance
 Substances
@@ -12825,6 +12864,7 @@ Tooling
 Tools
 Tooth
 Toothbrush
+Toothbrushes
 Toothpaste
 Toothpastes
 Top
@@ -12841,6 +12881,7 @@ Topology
 Topping
 Tops
 Torch
+Torches
 Tore
 Torn
 Torrent
@@ -12853,6 +12894,7 @@ Tossed
 Tosses
 Tossing
 Total
+Totalitarian
 Totality
 Totally
 Touch
@@ -13916,6 +13958,7 @@ Whispering
 Whispers
 Whistle
 Whistles
+Whistling
 White
 Whitening
 Who
@@ -14236,6 +14279,7 @@ abroad
 abrogate
 abrogated
 abrogates
+abrupt
 abruptly
 abs
 abscond
@@ -14682,6 +14726,7 @@ affects
 affiliate
 affiliated
 affiliates
+affiliation
 affine
 affinities
 affinity
@@ -15114,6 +15159,7 @@ analyzer
 analyzers
 analyzes
 analyzing
+anatomically
 anatomy
 ancestor
 ancestry
@@ -15242,6 +15288,7 @@ antifreeze
 antimalware
 antiparticle
 antiparticles
+antisemitism
 antivirus
 antonyms
 ants
@@ -15668,8 +15715,11 @@ astounding
 astoundingly
 astounds
 astray
+astrology
 astronaut
+astronomer
 astronomy
+astrophysics
 asunder
 asymmetric
 asymmetrical
@@ -16988,6 +17038,7 @@ cancer
 candidate
 candidates
 candidly
+candies
 candles
 candour
 candy
@@ -17893,6 +17944,7 @@ combined
 combines
 combining
 combobox
+combustible
 combustion
 come
 comeback
@@ -18754,6 +18806,8 @@ cooccurrence
 cook
 cookbook
 cooked
+cooker
+cookery
 cookie
 cookies
 cooking
@@ -18957,6 +19011,7 @@ cracks
 craft
 crafted
 crafting
+crafts
 cramp
 cramped
 cramping
@@ -19043,6 +19098,7 @@ critiqued
 critiques
 crm
 cron
+crooked
 crop
 cropped
 cropping
@@ -20075,6 +20131,7 @@ destiny
 destroy
 destroyed
 destroyer
+destroyers
 destroying
 destroys
 destruct
@@ -20974,6 +21031,7 @@ dragged
 dragging
 dragon
 dragons
+drags
 drain
 drained
 drains
@@ -21412,6 +21470,7 @@ embarking
 embarrassed
 embarrassing
 embarrassment
+embassies
 embassy
 embed
 embeddability
@@ -21978,6 +22037,7 @@ evaporated
 evaporates
 evaporating
 evaporation
+evasion
 evasions
 evasive
 even
@@ -22598,6 +22658,7 @@ featuring
 february
 fed
 federal
+federation
 fedora
 fee
 feeble
@@ -22639,6 +22700,7 @@ fenced
 fend
 fervour
 festival
+festivals
 festivity
 fetch
 fetched
@@ -22831,6 +22893,7 @@ flakes
 flame
 flames
 flammable
+flapping
 flare
 flared
 flares
@@ -22963,6 +23026,7 @@ fluttered
 fly
 flying
 foam
+foamy
 focal
 focus
 focus-driven
@@ -23736,6 +23800,8 @@ googled
 googlenet
 googletest
 googling
+goose
+gooses
 gorgeous
 got
 goto
@@ -23882,6 +23948,7 @@ grip
 gritty
 groceries
 grocery
+groom
 groomed
 grooming
 groove
@@ -24670,6 +24737,8 @@ hypothetic
 hypothetical
 hypothetically
 hysteresis
+hysteria
+hysterics
 i
 i'd
 i'll
@@ -27756,6 +27825,7 @@ midpoints
 midrange
 midst
 midsummer
+midway
 might
 might've
 mighty
@@ -27857,6 +27927,10 @@ minor
 minority
 minors
 mint
+minted
+minting
+mints
+minty
 minus
 minuses
 minute
@@ -28075,6 +28149,7 @@ modules
 modulus
 mold
 molded
+moldy
 mole
 molecular
 molecule
@@ -28130,6 +28205,7 @@ monthly
 months
 monumental
 mood
+moods
 moon
 moonlight
 moonshine
@@ -28457,6 +28533,7 @@ mySQL
 myself
 mysql
 mysqli
+mysteries
 mysterious
 mysteriously
 mystery
@@ -30582,6 +30659,7 @@ plugins
 plugs
 plum
 plumber
+plume
 plummet
 plums
 plunge
@@ -31695,6 +31773,7 @@ quantized
 quantizes
 quantizing
 quantum
+quarantine
 quarrel
 quarrelled
 quarrelling
@@ -31793,6 +31872,7 @@ racist
 racists
 rack
 radar
+radars
 radial
 radiant
 radiate
@@ -33596,8 +33676,11 @@ rotation
 rotational
 rotations
 rotor
+rouge
+rouged
 rough
 roughly
+roughness
 roulette
 round
 round-up
@@ -33689,6 +33772,7 @@ rush
 rushed
 rushing
 rust
+rusting
 rvalue
 rvalues
 rwd
@@ -33829,7 +33913,9 @@ scene
 scene's
 scenes
 scent
+sceptic
 sceptical
+scepticism
 schedule
 scheduled
 scheduler
@@ -34540,6 +34626,7 @@ sighting
 sightings
 sights
 sigint
+sigma
 sigmoid
 sign
 sign-in
@@ -34690,7 +34777,9 @@ skateboard
 skating
 skeleton
 skeletons
+skeptic
 skeptical
+skepticism
 sketch
 sketched
 sketches
@@ -34934,11 +35023,13 @@ social-networking
 socialism
 socialist
 socialize
+socialized
 socializing
 socially
 societal
 society
 sociological
+sociology
 sociopath
 sociopathic
 sociopaths
@@ -35926,6 +36017,10 @@ subsided
 subsides
 subsidiary
 subsidies
+subsidize
+subsidized
+subsidizes
+subsidizing
 subsidy
 subsistence
 subspace
@@ -37129,6 +37224,7 @@ tools
 toolset
 tooth
 toothbrush
+toothbrushes
 toothpaste
 toothpastes
 top
@@ -37161,6 +37257,7 @@ topped
 topping
 tops
 torch
+torches
 tore
 torment
 tormenting
@@ -37180,6 +37277,7 @@ tossing
 total
 totaled
 totaling
+totalitarian
 totality
 totally
 totals
@@ -39445,7 +39543,9 @@ whispered
 whispering
 whispers
 whistle
+whistled
 whistles
+whistling
 white
 whiteboard
 whiten
