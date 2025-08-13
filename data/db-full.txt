@@ -127,6 +127,7 @@ Abstract
 Abstracting
 Abstraction
 Abstracts
+Absurdly
 Abundance
 Abundant
 Abuse
@@ -540,6 +541,7 @@ Amazingly
 Amazon
 Amazon's
 Ambassador
+Amber
 Ambient
 Ambiguity
 Ambiguous
@@ -803,6 +805,7 @@ Armpits
 Arms
 Armv7
 Army
+Aromatic
 Around
 Arrange
 Arranged
@@ -1117,6 +1120,7 @@ Balances
 Balancing
 Bald
 Ball
+Ballast
 Ballot
 Ballots
 Balls
@@ -1171,6 +1175,7 @@ Bath
 Bathing
 Bathroom
 Bathrooms
+Baths
 Bats
 Batteries
 Battery
@@ -1360,6 +1365,7 @@ Blade
 Blades
 Blame
 Blamed
+Bland
 Blank
 Blanket
 Blanks
@@ -1839,6 +1845,7 @@ Carriage
 Carried
 Carries
 Carrot
+Carrots
 Carry
 Carrying
 Cars
@@ -1918,6 +1925,7 @@ Centos
 Central
 Centralized
 Centre
+Centrifuge
 Centroid
 Cents
 Centuries
@@ -2010,6 +2018,7 @@ Checksums
 Cheeks
 Cheers
 Cheese
+Chef
 Chefs
 Chemical
 Chemically
@@ -2749,6 +2758,7 @@ Controversial
 Controversially
 Controversy
 Conundrum
+Convective
 Convenience
 Convenient
 Conveniently
@@ -3106,6 +3116,7 @@ Cyclone
 Cyclones
 Cygwin
 Cylinder
+Cylindrical
 Cynic
 Cynical
 Cynically
@@ -3289,6 +3300,7 @@ Dedicated
 Dedication
 Deduced
 Deducing
+Deductible
 Deduction
 Deductions
 Deduplication
@@ -3422,8 +3434,10 @@ Density
 Dent
 Dental
 Dentist
+Dentists
 Deny
 Denying
+Deodorant
 Depart
 Departed
 Department
@@ -3903,6 +3917,7 @@ Do
 DoS
 Doable
 Doc
+Dock
 Docker
 Docking
 Docs
@@ -4113,6 +4128,7 @@ E-mails
 ECMAscript
 EOF
 EU
+EURO
 EXE
 Each
 Eager
@@ -4253,6 +4269,7 @@ Eliminated
 Eliminating
 Elimination
 Elite
+Elites
 Ellipse
 Ellipsis
 Ellipsoid
@@ -5200,6 +5217,7 @@ Folded
 Folder
 Folders
 Folding
+Folklore
 Folks
 Follow
 Follow-Up
@@ -5576,6 +5594,7 @@ GeoLocation
 Geographic
 Geographically
 Geolocation
+Geologic
 Geological
 Geologically
 Geology
@@ -5810,6 +5829,7 @@ Guides
 Guilt
 Guilty
 Guitar
+Guitars
 Gulp
 Gums
 Gun
@@ -6110,6 +6130,7 @@ Hockey
 Hold
 Holder
 Holding
+Holdings
 Hole
 Holes
 Holiday
@@ -6136,6 +6157,7 @@ Homogenous
 Homophobia
 Homosexual
 Homosexuality
+Homosexuals
 Honest
 Honestly
 Honesty
@@ -6168,6 +6190,7 @@ Hormones
 Horrible
 Horribly
 Horrid
+Horrific
 Horrifying
 Horror
 Horse
@@ -6382,6 +6405,7 @@ Illuminated
 Illuminating
 Illumination
 Illusion
+Illusions
 Illusory
 Illustrated
 Illustration
@@ -7071,6 +7095,7 @@ Jeans
 Jello
 Jenkins
 Jerk
+Jerky
 Jet
 Jewelry
 Jitter
@@ -7366,6 +7391,7 @@ Legally
 Legend
 Legendary
 Legends
+Legion
 Legislative
 Legitimacy
 Legitimate
@@ -7886,6 +7912,7 @@ Mechanically
 Mechanics
 Mechanism
 Mechanisms
+Medals
 Media
 Median
 Mediated
@@ -8025,6 +8052,7 @@ Midway
 Might
 Might've
 Mighty
+Migraine
 Migrants
 Migrate
 Migrating
@@ -8318,6 +8346,7 @@ Multitouch
 Multivariable
 Multivariate
 Multiverse
+Municipal
 Murdered
 Murdering
 Muscle
@@ -8330,6 +8359,7 @@ Musical
 Musician
 Musing
 Muslim
+Muslims
 Must
 Mustache
 Muster
@@ -8521,6 +8551,7 @@ Nineteen
 Ninety
 Nintendo's
 Ninth
+Nipple
 Nn
 No
 NoSQL
@@ -8717,6 +8748,7 @@ Obsession
 Obsessive
 Obstacle
 Obstacles
+Obstruction
 Obtain
 Obtained
 Obtaining
@@ -8918,6 +8950,8 @@ Organizer
 Organizers
 Organizing
 Organs
+Orgasm
+Orgasms
 Orient
 Orientation
 Oriented
@@ -9465,6 +9499,7 @@ Piping
 Pirates
 Pitch
 Pitched
+Pitcher
 Pitches
 Pitching
 Pity
@@ -9810,6 +9845,7 @@ Pressed
 Pressing
 Pressure
 Prestige
+Prestigious
 Presumably
 Presume
 Presuming
@@ -10545,6 +10581,7 @@ Refrain
 Refresh
 Refreshing
 Refrigerator
+Refrigerators
 Refugee
 Refund
 Refunds
@@ -10990,6 +11027,8 @@ Ring
 Ringing
 Rings
 Rinsing
+Riot
+Riots
 Rip
 Rise
 Risen
@@ -12060,6 +12099,7 @@ Spear
 Spears
 Spec
 Special
+Specialised
 Specialist
 Specialists
 Speciality
@@ -12305,6 +12345,7 @@ Statistics
 Stats
 Statue
 Status
+Statute
 Stay
 Stayed
 Staying
@@ -13275,6 +13316,7 @@ Tougher
 Toughness
 Tour
 Tourism
+Tourist
 Tourists
 Tournament
 Tournaments
@@ -14535,6 +14577,8 @@ Wrapping
 Wraps
 Wretched
 Wright
+Wrinkle
+Wrinkles
 Wrist
 Wrists
 Write
@@ -14715,6 +14759,7 @@ abstractive
 abstractly
 abstracts
 absurd
+absurdly
 abundance
 abundant
 abundantly
@@ -15479,6 +15524,7 @@ amazon
 amazon's
 amazon-web-services
 ambassador
+amber
 ambient
 ambiguate
 ambiguities
@@ -15938,6 +15984,7 @@ armpits
 arms
 armv7
 army
+aromatic
 arose
 around
 arrange
@@ -16533,6 +16580,7 @@ balances
 balancing
 bald
 ball
+ballast
 ballot
 ballots
 balls
@@ -16603,6 +16651,7 @@ bath
 bathing
 bathroom
 bathrooms
+baths
 bats
 batteries
 battery
@@ -16895,6 +16944,8 @@ blamed
 blameless
 blames
 blaming
+bland
+blandness
 blank
 blanket
 blanks
@@ -17264,6 +17315,7 @@ bubbles
 bubbling
 buck
 bucket
+buckets
 bucks
 buddies
 buddy
@@ -17589,6 +17641,7 @@ carriages
 carried
 carries
 carrot
+carrots
 carry
 carry-on
 carrying
@@ -17719,6 +17772,7 @@ centralizing
 centrally
 centre
 centric
+centrifuge
 centroid
 centroids
 cents
@@ -17880,6 +17934,7 @@ cheerless
 cheerlessness
 cheers
 cheese
+chef
 chefs
 chemical
 chemically
@@ -19244,6 +19299,7 @@ controversy
 conundrum
 conundrums
 conv
+convective
 convene
 convened
 convenes
@@ -19461,6 +19517,7 @@ countless
 countries
 country
 country's
+countryside
 counts
 county
 couple
@@ -19863,6 +19920,7 @@ cyclones
 cygwin
 cylinder
 cylinders
+cylindrical
 cynic
 cynical
 cynically
@@ -20222,6 +20280,7 @@ deduces
 deducing
 deduct
 deducted
+deductible
 deducting
 deduction
 deductions
@@ -20474,8 +20533,10 @@ dent
 dental
 dented
 dentist
+dentists
 deny
 denying
+deodorant
 depart
 departed
 departing
@@ -21417,6 +21478,7 @@ doating
 doatingly
 doc
 docile
+dock
 docked
 docker
 docker-based
@@ -21980,6 +22042,7 @@ eliminating
 elimination
 eliminator
 elite
+elites
 ellipse
 ellipses
 ellipsis
@@ -22569,6 +22632,7 @@ euler
 eulerian
 euphoria
 euphoric
+euro
 european
 europeans
 evacuate
@@ -23617,6 +23681,7 @@ folders
 folding
 folds
 folk
+folklore
 folks
 follies
 follow
@@ -24231,6 +24296,7 @@ geography
 geoinformatics
 geoinformation
 geolocation
+geologic
 geological
 geologically
 geology
@@ -24613,6 +24679,7 @@ guileless
 guilt
 guilty
 guitar
+guitars
 gulp
 gum
 gums
@@ -25095,6 +25162,7 @@ holded
 holder
 holders
 holding
+holdings
 holdover
 holds
 hole
@@ -25129,6 +25197,7 @@ homogenous
 homophobia
 homosexual
 homosexuality
+homosexuals
 honest
 honestly
 honesty
@@ -25169,6 +25238,7 @@ hormones
 horrible
 horribly
 horrid
+horrific
 horrified
 horrifying
 horror
@@ -25474,6 +25544,7 @@ illuminates
 illuminating
 illumination
 illusion
+illusions
 illusory
 illustrate
 illustrated
@@ -26880,6 +26951,7 @@ j2se
 jQuery
 jacket
 jackets
+jagged
 jail
 jam
 jammed
@@ -26930,6 +27002,7 @@ jello
 jenkins
 jerk
 jerks
+jerky
 jest
 jestjs
 jet
@@ -27427,6 +27500,7 @@ legendary
 legends
 legible
 legibly
+legion
 legislative
 legitimacy
 legitimate
@@ -28249,6 +28323,7 @@ mechanically
 mechanics
 mechanism
 mechanisms
+medals
 meddle
 meddled
 meddles
@@ -28492,6 +28567,7 @@ midway
 might
 might've
 mighty
+migraine
 migrant
 migrants
 migrate
@@ -29149,6 +29225,7 @@ multivariate
 multiverse
 multiversion
 multiview
+municipal
 murder
 murdered
 murdering
@@ -29166,6 +29243,7 @@ musician
 musicians
 musing
 muslim
+muslims
 must
 must've
 must-attend
@@ -29473,6 +29551,7 @@ nineteen
 ninety
 nintendo's
 ninth
+nipple
 nipples
 nlp
 nltk
@@ -29893,6 +29972,7 @@ obstruct
 obstructed
 obstructes
 obstructing
+obstruction
 obtain
 obtainable
 obtained
@@ -30238,6 +30318,8 @@ organizers
 organizes
 organizing
 organs
+orgasm
+orgasms
 orient
 orientable
 orientate
@@ -31020,6 +31102,7 @@ perl's
 permalink
 permanent
 permanently
+permeable
 permeate
 permeated
 permeates
@@ -31250,6 +31333,7 @@ pitch
 pitch-battle
 pitch-training
 pitched
+pitcher
 pitches
 pitching
 pitfall
@@ -31878,6 +31962,7 @@ pressingly
 pressure
 pressured
 prestige
+prestigious
 presumably
 presume
 presumed
@@ -33334,6 +33419,7 @@ refreshingly
 refreshment
 refreshments
 refrigerator
+refrigerators
 refugee
 refund
 refundable
@@ -33454,6 +33540,7 @@ reinforcements
 reinforces
 reinforcing
 reinitialization
+reinitialize
 reinitialized
 reinitializes
 reinitializing
@@ -34330,6 +34417,8 @@ ring
 ringing
 rings
 rinsing
+riot
+riots
 rip
 ripped
 rise
@@ -34758,6 +34847,7 @@ scorpion
 scorpions
 scouted
 scouting
+scrab
 scrabble
 scramble
 scrambled
@@ -35888,6 +35978,7 @@ solely
 solemn
 solemnity
 solemnly
+soles
 solicit
 solicitation
 solicited
@@ -36039,6 +36130,10 @@ spec
 specflow
 special
 special-purpose
+specialise
+specialised
+specialises
+specialising
 specialist
 specialists
 specialities
@@ -36419,6 +36514,7 @@ statistics
 stats
 statue
 status
+statute
 stay
 stayed
 staying
@@ -38157,6 +38253,7 @@ toughest
 toughness
 tour
 tourism
+tourist
 tourists
 tournament
 tournaments
@@ -38806,6 +38903,7 @@ unconsciously
 unconstrained
 uncontested
 uncontrollable
+uncontrollably
 uncontrolled
 unconventional
 unconvinced
@@ -40759,6 +40857,8 @@ wretchedly
 wretchedness
 wretches
 wright
+wrinkle
+wrinkles
 wrist
 wrists
 writable
