@@ -366,6 +366,7 @@ Adware
 Adwords
 Aerial
 Aerobic
+Aerodynamic
 Aerodynamics
 Aesthetic
 Aesthetically
@@ -419,6 +420,7 @@ Aging
 Agitating
 Agitation
 Ago
+Agrarian
 Agree
 Agreeableness
 Agreed
@@ -509,6 +511,7 @@ Alloy
 Alloys
 Alluding
 Allusions
+Ally
 Almost
 Alone
 Along
@@ -620,6 +623,7 @@ Anecdotal
 Anecdotally
 Anecdote
 Anecdotes
+Anesthesia
 Angel
 Angeles
 Angels
@@ -939,6 +943,7 @@ Astonishing
 Astonishingly
 Astrology
 Astronomer
+Astronomical
 Astronomically
 Astrophysics
 Asymmetric
@@ -1147,6 +1152,7 @@ Badges
 Badly
 Bag
 Bags
+Bail
 Bake
 Baked
 Baker
@@ -1176,6 +1182,7 @@ Banging
 Bangs
 Bank
 Banking
+Bankruptcy
 Banks
 Banned
 Banner
@@ -1860,6 +1867,7 @@ Candies
 Candles
 Candour
 Candy
+Cannabis
 Cannibalism
 Cannot
 Canonical
@@ -2054,6 +2062,7 @@ Characteristics
 Characterization
 Characterized
 Characters
+Charcoal
 Charge
 Charged
 Charger
@@ -2359,6 +2368,7 @@ Cohesion
 Cohesive
 Coil
 Coiling
+Coils
 Coin
 Coincidence
 Coincidentally
@@ -2432,6 +2442,7 @@ Comedian
 Comedians
 Comedy
 Comes
+Comets
 Comfort
 Comfortable
 Comfortably
@@ -2798,6 +2809,7 @@ Containers
 Containing
 Containment
 Contains
+Contaminated
 Contemporary
 Contempt
 Contemptible
@@ -2996,6 +3008,7 @@ Country
 Country's
 Counts
 County
+Coup
 Couple
 Coupled
 Couples
@@ -3373,6 +3386,7 @@ Deciphered
 Decision
 Decisions
 Decisive
+Deck
 Declaration
 Declarations
 Declarative
@@ -3740,6 +3754,7 @@ Died
 Dielectric
 Dies
 Diet
+Dietary
 Dieting
 Diets
 Diff
@@ -4038,6 +4053,7 @@ Divisions
 Divisor
 Divorce
 Dizziness
+Dizzy
 Django
 Dll
 Dna
@@ -4323,6 +4339,8 @@ Economy
 Ecosystem
 Ecosystems
 Edge
+Edible
+Edibles
 Edit
 Edited
 Editing
@@ -4384,6 +4402,7 @@ Elected
 Electing
 Election
 Elections
+Electoral
 Electorate
 Electric
 Electrical
@@ -5306,6 +5325,7 @@ Flash
 Flashed
 Flashes
 Flashing
+Flashlight
 Flask
 Flat
 Flatness
@@ -6014,6 +6034,7 @@ Growth
 Grunt
 Guaranteed
 Guard
+Guards
 Guess
 Guesses
 Guessing
@@ -6396,6 +6417,7 @@ Hopping
 Horizon
 Horizons
 Horizontal
+Hormonal
 Hormone
 Hormones
 Horrible
@@ -6405,6 +6427,7 @@ Horrific
 Horrifying
 Horror
 Horse
+Horsepower
 Hospital
 Hospitality
 Host
@@ -6856,6 +6879,7 @@ Infinitely
 Infinity
 Inflamed
 Inflammation
+Inflammatory
 Inflate
 Inflated
 Inflating
@@ -7166,6 +7190,7 @@ Invade
 Invaded
 Invader
 Invaders
+Invading
 Invalid
 Invalids
 Invariably
@@ -7394,6 +7419,7 @@ KILLERS
 Kafka
 Kanban
 Kangaroo
+Karma
 Keen
 Keep
 Keeper
@@ -7560,9 +7586,11 @@ Latino
 Latitude
 Latitudes
 Latter
+Lattice
 Laugh
 Laughing
 Laughs
+Laughter
 Launch
 Launched
 Launcher
@@ -8060,6 +8088,7 @@ Manufacturing
 Many
 Map
 MapReduce
+Maple
 Mapped
 Mapper
 Mapping
@@ -8094,6 +8123,7 @@ Marriages
 Married
 Marry
 Marrying
+Martial
 Mash
 Mask
 Masked
@@ -9615,6 +9645,8 @@ Peak
 Peaked
 Peaks
 Peanut
+Pearl
+Pearls
 Peas
 Peasant
 Peasants
@@ -10075,6 +10107,7 @@ Pottery
 Poultry
 Pound
 Pour
+Pouring
 Pours
 Poverty
 Pow
@@ -10513,6 +10546,7 @@ Punished
 Punishing
 Punishment
 Punishments
+Punk
 Pupil
 Pupils
 Puppet
@@ -10671,6 +10705,7 @@ Radically
 Radicals
 Radio
 Radioactive
+Radios
 Radius
 Rag
 Rage
@@ -11353,6 +11388,7 @@ Revelation
 Revelations
 Revenge
 Revenue
+Revere
 Reversal
 Reverse
 Reversed
@@ -11723,6 +11759,7 @@ Schemas
 Schematic
 Scheme
 Schemes
+Schizophrenia
 Scholar
 Scholarly
 Scholars
@@ -12349,6 +12386,8 @@ Smartwatch
 Smarty
 Smash
 Smashing
+Smear
+Smears
 Smell
 Smelled
 Smelling
@@ -12772,6 +12811,7 @@ Starting
 Starts
 Startup
 Startups
+Starvation
 Stash
 State
 State-of-the-art
@@ -13482,6 +13522,7 @@ TensorFlow
 Tensors
 Tentative
 Tentatively
+Tenure
 Terabyte
 Terabytes
 Term
@@ -13984,6 +14025,7 @@ Trigonometric
 Trigonometry
 Trigram
 Trillion
+Trillions
 Trilogy
 Trim
 Trimmed
@@ -14972,6 +15014,7 @@ Windows
 Windows-based
 Windows10
 Winds
+Windshield
 Windy
 Wine
 Wines
@@ -15003,6 +15046,7 @@ Witches
 With
 WithOut
 Withdraw
+Withdrawal
 Withdrawing
 Within
 Without
@@ -15673,6 +15717,7 @@ adwares
 adwords
 aerial
 aerobic
+aerodynamic
 aerodynamics
 aesthetic
 aesthetically
@@ -15776,6 +15821,7 @@ agitating
 agitation
 aglow
 ago
+agrarian
 agree
 agreeable
 agreeableness
@@ -15993,6 +16039,7 @@ alludes
 alluding
 allusion
 allusions
+ally
 almost
 almost-complete
 alone
@@ -16169,6 +16216,7 @@ anecdotal
 anecdotally
 anecdote
 anecdotes
+anesthesia
 anew
 angel
 angels
@@ -16733,6 +16781,7 @@ astray
 astrology
 astronaut
 astronomer
+astronomical
 astronomically
 astronomy
 astrophysics
@@ -17122,6 +17171,7 @@ baffled
 bag
 bag-of-words
 bags
+bail
 bake
 baked
 baker
@@ -17155,6 +17205,7 @@ banished
 bank
 banking
 bankrupt
+bankruptcy
 banks
 banned
 banner
@@ -18149,6 +18200,7 @@ candles
 candour
 candy
 cann't
+cannabis
 cannibalism
 cannot
 canonical
@@ -18450,6 +18502,7 @@ characterized
 characterizes
 characterizing
 characters
+charcoal
 charge
 charged
 charger
@@ -18991,6 +19044,7 @@ cohesion
 cohesive
 coil
 coiling
+coils
 coin
 coincide
 coincided
@@ -19117,6 +19171,7 @@ comedian
 comedians
 comedy
 comes
+comets
 comfort
 comfortable
 comfortably
@@ -19799,6 +19854,7 @@ containers
 containing
 containment
 contains
+contaminated
 contemplate
 contemplated
 contemplates
@@ -20144,6 +20200,7 @@ country's
 countryside
 counts
 county
+coup
 couple
 coupled
 couples
@@ -20828,6 +20885,7 @@ decisioning
 decisions
 decisive
 decisively
+deck
 decks
 declaration
 declarations
@@ -21554,6 +21612,7 @@ dielectrics
 dies
 diesel
 diet
+dietary
 dieting
 diets
 diff
@@ -22116,6 +22175,7 @@ divisory
 divorce
 divorced
 dizziness
+dizzy
 django
 django-forms
 django-models
@@ -22397,6 +22457,7 @@ drove
 drown
 drowned
 drowns
+drowsiness
 drowsy
 drug
 drugs
@@ -22580,6 +22641,8 @@ ecosystems
 ecu
 edge
 edges
+edible
+edibles
 edit
 editable
 edited
@@ -22668,6 +22731,7 @@ elected
 electing
 election
 elections
+electoral
 electorate
 electric
 electrical
@@ -24257,6 +24321,7 @@ flash
 flashed
 flashes
 flashing
+flashlight
 flask
 flat
 flatmap
@@ -25410,6 +25475,7 @@ guard
 guarded
 guardedly
 guarding
+guards
 guess
 guessed
 guesses
@@ -25995,6 +26061,7 @@ horizon
 horizons
 horizontal
 horizontally
+hormonal
 hormone
 hormones
 horrible
@@ -26006,6 +26073,7 @@ horrifying
 horror
 horrors
 horse
+horsepower
 horses
 hospitable
 hospital
@@ -26829,6 +26897,7 @@ infinity
 inflame
 inflamed
 inflammation
+inflammatory
 inflate
 inflated
 inflates
@@ -27451,6 +27520,7 @@ invaded
 invader
 invaders
 invades
+invading
 invalid
 invalidate
 invalidated
@@ -27931,6 +28001,7 @@ kafka
 kaggle
 kanban
 kangaroo
+karma
 kd-tree
 kde
 keen
@@ -28189,11 +28260,13 @@ latitudes
 latter
 latter's
 latterly
+lattice
 laugh
 laughed
 laughes
 laughing
 laughs
+laughter
 launch
 launched
 launcher
@@ -28789,6 +28862,9 @@ lstm
 ltd
 lua
 lubricant
+lubricate
+lubricated
+lubricates
 lubuntu
 lucene
 lucid
@@ -28972,6 +29048,7 @@ many
 many-to-many
 map
 map-function
+maple
 mapped
 mapper
 mapping
@@ -29017,6 +29094,7 @@ marry
 marrying
 marshalled
 marshalling
+martial
 mash
 mash-up
 mashable
@@ -31867,6 +31945,8 @@ peaking
 peaks
 peanut
 peanuts
+pearl
+pearls
 peas
 peasant
 peasants
@@ -32601,6 +32681,7 @@ poultry
 pound
 pour
 poured
+pouring
 pours
 poverty
 pow
@@ -33405,6 +33486,8 @@ punishes
 punishing
 punishment
 punishments
+punk
+punks
 pupil
 pupils
 puppet
@@ -33652,6 +33735,7 @@ radically
 radicals
 radio
 radioactive
+radios
 radish
 radius
 rag
@@ -35258,7 +35342,11 @@ revels
 revenge
 revenue
 revenues
+revere
+revered
+reveres
 reverie
+revering
 reversal
 reverse
 reverse-engineering
@@ -35797,6 +35885,7 @@ schematics
 scheme
 schemed
 schemes
+schizophrenia
 scholar
 scholarly
 scholars
@@ -36841,7 +36930,10 @@ smarty
 smash
 smashed
 smashing
+smear
 smeared
+smearing
+smears
 smell
 smelled
 smelling
@@ -37508,6 +37600,7 @@ startup-accelerator
 startup-community
 startuppers
 startups
+starvation
 starve
 starving
 stash
@@ -38768,6 +38861,7 @@ tensorflow.js
 tensors
 tentative
 tentatively
+tenure
 terabyte
 terabytes
 term
@@ -38917,6 +39011,7 @@ theoretical
 theoretically
 theories
 theorists
+theorize
 theorized
 theory
 therapeutic
@@ -39145,6 +39240,7 @@ timidly
 timing
 timings
 tingling
+tiniest
 tinkered
 tinkering
 tinkers
@@ -39629,6 +39725,7 @@ trigonometry
 trigram
 trilinear
 trillion
+trillions
 trilogy
 trim
 trimmed
@@ -41334,6 +41431,7 @@ waves
 waveshaping
 wavy
 wax
+waxy
 way
 wayland
 waypoints
@@ -41748,6 +41846,7 @@ windows10
 windows7
 windowscommand
 winds
+windshield
 windstorm
 windy
 wine
@@ -41795,6 +41894,7 @@ witch
 witches
 with
 withdraw
+withdrawal
 withdrawing
 withdrawn
 withdrew
