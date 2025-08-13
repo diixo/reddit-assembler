@@ -264,7 +264,6 @@ damn
 Scotland
 Russians
 arteries
-domesticated
 denser
 digestion
 Planck
@@ -368,7 +367,6 @@ climates
 Coke
 Vikings
 Einstein
-primates
 Apollo
 lithium
 methane
@@ -570,7 +568,6 @@ condensation
 treating
 toes
 roman
-kingdoms
 paralysis
 nm
 Hawaii
@@ -1148,7 +1145,6 @@ antibody
 hereditary
 sunglasses
 12th
-ridges
 Andrew
 mercenaries
 additives
@@ -1369,7 +1365,6 @@ militia
 motorcycle
 Philip
 oxidizer
-domestication
 halves
 eyeballs
 psi
@@ -1763,7 +1758,6 @@ MPH
 staple
 God's
 Libya
-prion
 non-human
 renaissance
 hazardous
@@ -1901,7 +1895,6 @@ Nile
 prosecute
 rebel
 Frank
-Treasury
 MLB
 geostationary
 Titanic
@@ -2172,21 +2165,16 @@ telegraph
 exile
 vikings
 phosphorus
-bitch
 caveat
 Isles
 quo
 militarily
 Ethanol
-therapist
 urination
 Genetics
 metre
 geosynchronous
-downvote
-menstruation
 100k
-vaccinations
 ecliptic
 Monsanto
 positrons
@@ -2196,67 +2184,41 @@ stranded
 Karl
 tenth
 markings
-necks
-domesticate
 squint
 Marshall
 nutritious
 doppler
 organised
-parasitic
-fainting
 limestone
 Balkans
 Neanderthal
-pinhole
 Faraday
-Kingdoms
 vestigial
-defenders
-mustard
 Romney
 Wilhelm
 NASA's
 40s
-dishwasher
 osmotic
-ripping
 photoreceptors
 shorthand
 holocaust
-nests
-primate
 pubic
-booze
-ducks
 sulfate
-immortal
 melanocytes
 cilia
-treasury
-citrus
 cannons
 halo
 musket
 VP
-cannibalism
 neuronal
 Jew
 Sicily
 Rome's
-tolerances
-fizzy
 fraudulent
-cartels
-creditors
 Tibet
 Allen
-prions
 counterfeit
-longevity
 Stalingrad
-ridge
-ingesting
 tendon
 Tokyo
 1600s
@@ -2286,17 +2248,13 @@ Stalin's
 Boeing
 ms
 breaker
-concerts
-physiologically
 televisions
 immoral
 Alan
 occuring
-paranoid
 clots
 therefor
 wreck
-stink
 resistive
 Spartan
 Indiana
@@ -3844,7 +3802,6 @@ perihelion
 Austro-Hungarian
 chickenpox
 tiniest
-ripening
 Simpson
 high-pitched
 adverts
@@ -3959,7 +3916,6 @@ lymphatic
 lender
 exacerbated
 1890s
-ripen
 russia
 Mormon
 cashier
@@ -5163,7 +5119,6 @@ halved
 prophets
 businessmen
 mushy
-cartel
 cosmetics
 AOL
 shitting
@@ -7558,7 +7513,6 @@ somatosensory
 parish
 Costa
 humanoid
-Prions
 Angola
 exacerbate
 stark
@@ -7583,7 +7537,6 @@ aristocrat
 Entente
 proton-proton
 NaOH
-Ridge
 Tasmanian
 cuneiform
 abundances
@@ -7657,7 +7610,6 @@ suppressant
 glassware
 fads
 ulnar
-Physiologically
 mead
 reed
 overpowers
@@ -8692,7 +8644,6 @@ Helium-3
 spacewalk
 monstrous
 touchdown
-stinks
 insurmountable
 endowment
 Buoyancy
@@ -8774,7 +8725,6 @@ creeping
 pasture
 gig
 PACs
-Domesticated
 Teller
 menstruate
 Dodge
@@ -9323,7 +9273,6 @@ unscrew
 PT
 overstimulated
 ferromagnetism
-Domestication
 rhetorical
 leash
 pies
@@ -9369,7 +9318,6 @@ non-moving
 Roland
 Dunno
 Sioux
-dishwashers
 Namibia
 anaphylactic
 Tawil
@@ -9456,7 +9404,6 @@ resonator
 Archaeological
 Plateau
 spawning
-Primates
 Eugene
 Chuck
 Saladin
@@ -10363,7 +10310,6 @@ rallies
 profiting
 theocracy
 senescence
-domesticating
 Mantis
 hypnotized
 NS
@@ -10852,7 +10798,6 @@ infront
 Psych
 Anarchy
 Rothschild
-ripens
 scalping
 dukes
 Esperanto
@@ -10990,7 +10935,6 @@ Cement
 modding
 VFX
 tyrannical
-creditor
 lien
 Umm
 delirium
@@ -13742,7 +13686,6 @@ screen's
 quicksand
 Resistive
 exterminated
-Mustard
 Nukes
 HGH
 MI5
@@ -14843,7 +14786,6 @@ railing
 saffron
 Fentanyl
 unscrupulous
-Ducks
 soothes
 NSAIDS
 mollusks
@@ -16076,7 +16018,6 @@ Mast
 hijackers
 Donnie
 Ataturk
-Fainting
 mantra
 South's
 meteoric
@@ -16574,7 +16515,6 @@ bonobo
 hoverboard
 VMs
 Vince
-Cartels
 half-hour
 sheared
 Salisbury
@@ -16725,7 +16665,6 @@ SciShow
 picnic
 escorting
 brittleness
-Vaccinations
 willow
 fairer
 pro-choice
@@ -17847,7 +17786,6 @@ basale
 Patricia
 orangutan
 6k
-stinking
 macaques
 WIMP
 reprogram
@@ -18004,7 +17942,6 @@ doggy
 vying
 kindof
 Autobahn
-Prion
 timetables
 Medicines
 Aus
@@ -21433,7 +21370,6 @@ Safeway
 dentition
 Enquirer
 Amway
-Cartel
 thug
 Mud
 eggshell
@@ -21843,7 +21779,6 @@ Infact
 misogynistic
 preying
 Ike
-Menstruation
 Gran
 Erectus
 gripped
@@ -22225,7 +22160,6 @@ Battalions
 classism
 weaning
 Emigration
-ingests
 Reno
 Drano
 pinball
@@ -23950,7 +23884,6 @@ workpiece
 B9
 Pulmonary
 palpebrae
-Parasitic
 MF
 whiz
 a-b
@@ -25378,7 +25311,6 @@ fabled
 Laurel
 Empiricism
 antiaircraft
-Citrus
 Viacom
 freakishly
 duds
@@ -26882,7 +26814,6 @@ pro-Israel
 hydrazine
 recirculation
 homeworkhelp
-Bitch
 Almonds
 Sovereignty
 unwatchable
@@ -27121,7 +27052,6 @@ repellents
 supermodels
 extra-solar
 Hawkins
-stank
 damming
 Whey
 Oumuamua
@@ -27678,7 +27608,6 @@ mouth's
 magentic
 boos
 out-of-plane
-ripened
 near-constant
 oil's
 Jerry's
@@ -28815,7 +28744,6 @@ Acetylene
 disulphide
 5-Year
 charioteer
-Immortal
 pop-sci
 mistletoe
 short-ranged
@@ -30826,7 +30754,6 @@ wrod
 breadcrumbs
 blackening
 MLP
-Cannibalism
 Farts
 benzo
 stubble
@@ -31021,7 +30948,6 @@ bondsmen
 unibody
 Jurors
 PowerPC
-Ingesting
 joists
 hashish
 CST
@@ -31040,7 +30966,6 @@ corvids
 Garner
 shitter
 raged
-Creditors
 Scandanavia
 dinosaur's
 Reykjavik
@@ -31757,7 +31682,6 @@ Cambodians
 peaceably
 Novo
 cyanosis
-Therapist
 molecues
 Iscariot
 LMG
@@ -33010,7 +32934,6 @@ Falcons
 latinos
 skylines
 overexpose
-Primate
 Skippy
 Whitman
 boeing
@@ -38050,7 +37973,6 @@ nirvana
 leapfrog
 corvettes
 Gomez
-Domesticating
 Autos
 habanero
 Skylake
@@ -38322,7 +38244,6 @@ Tibet's
 1p
 10p
 tenner
-Paranoid
 maneuvered
 Lint
 NCLB
@@ -39103,7 +39024,6 @@ Intolerance
 4abx
 quagga
 lsd
-Ripping
 itemnumber
 EMG
 personas
@@ -40933,7 +40853,6 @@ Tso's
 honourary
 Ender's
 Additives
-Longevity
 myeloperoxidase
 life-form
 pharyngitis
@@ -43231,7 +43150,6 @@ FEL
 weathermen
 Tinfoil
 zero's
-Defenders
 Endocannabinoid
 Pap
 spiritualist
@@ -45546,7 +45464,6 @@ aftertastes
 saluted
 Elks
 wolf-like
-Dishwasher
 trotted
 Adelaide
 overcompensation
@@ -46619,7 +46536,6 @@ technocratic
 coset
 heat-detecting
 Alfredo
-Ridges
 Singaporeans
 Tramadol
 pedigrees
@@ -47898,7 +47814,6 @@ compund
 divorcee
 non-noble
 backhaul
-Downvote
 Gallons
 ine
 Britannic
@@ -48461,7 +48376,6 @@ unstretched
 D20
 Kin
 aphrodisiacs
-Pinhole
 Bufus
 Otter
 uptaking
@@ -52569,7 +52483,6 @@ lowish
 night-shift
 non-gamer
 commode
-Dishwashers
 ain
 Conor
 catfood
@@ -56420,7 +56333,6 @@ good-quality
 Calluses
 Hemorrhoids
 genius-level
-Stink
 Mohammad's
 transduces
 192kbps
@@ -58028,7 +57940,6 @@ anti-sex
 Nitpick
 ruminate
 superorganisms
-Booze
 subcommittee
 Outta
 D6
@@ -58892,7 +58803,6 @@ diced
 commentating
 heat-related
 6-year
-Fizzy
 BEREC
 1980-2000
 Ringers
@@ -59851,7 +59761,6 @@ Riyadh
 wordless
 frequences
 re-color
-Concerts
 wholely
 full-term
 Fly's
@@ -69648,7 +69557,6 @@ Blot
 University-level
 phoning
 600Hz
-Necks
 seer
 108MHz
 200KHz
@@ -71292,7 +71200,6 @@ Bioplastics
 urself
 schizophrenic's
 Houseplants
-Tolerances
 copy-cat
 enquiries
 Barks
@@ -73532,7 +73439,6 @@ congesting
 iMovie
 waaaaaaaay
 shouter
-Ripening
 waaaaaaay
 sub-reddit's
 Aldosterone
@@ -74566,7 +74472,6 @@ foamier
 differnet
 pathogen-associated
 re-surface
-stunk
 45min
 unfocuses
 Garfield's
@@ -81994,7 +81899,6 @@ face-level
 Hindsight
 Silencers
 Guard's
-Nests
 woomf
 Hershel
 basilisks
@@ -86033,7 +85937,6 @@ Stono
 Kampfgruppe
 Fleury
 Corbie
-domesticates
 ill-tempered
 Nemet-Nejat
 Soboul's
@@ -147890,7 +147793,6 @@ Lampart
 985kg
 15kg
 1020kg
-Ripened
 MEG
 confection
 generally-you
@@ -185536,7 +185438,6 @@ Gallician
 schismatic
 Donatists
 Winnebago
-Stinking
 XI-XIV
 interspersing
 Revena
@@ -200929,7 +200830,6 @@ superseeds
 cotransmitter
 191Bi
 creds
-Domesticate
 Kording
 Odontocetes
 jellyfish-like
