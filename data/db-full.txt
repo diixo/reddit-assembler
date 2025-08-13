@@ -627,6 +627,7 @@ Animations
 Animators
 Anime
 Anisotropic
+Ankle
 Annexed
 Anniversary
 Annotated
@@ -690,6 +691,7 @@ Apartments
 Apathy
 Ape
 Aperture
+Apes
 Apex
 Api
 Apis
@@ -847,6 +849,7 @@ Ascent
 Ascii
 Ashes
 Asia
+Asian
 Aside
 Ask
 Asked
@@ -932,6 +935,7 @@ Atmospheric
 Atom
 Atomic
 Atoms
+Atrophy
 Attach
 Attached
 Attaching
@@ -1070,6 +1074,7 @@ Axis
 Aye
 Azure
 B2B
+BARBARIAN
 BASH
 BBQ
 BDD
@@ -1123,6 +1128,7 @@ Balanced
 Balances
 Balancing
 Bald
+Baldness
 Ball
 Ballast
 Ballot
@@ -1148,6 +1154,8 @@ Banners
 Banning
 Bans
 Bar
+Barbarian
+Barbarians
 Barcode
 Barely
 Bargain
@@ -1168,6 +1176,7 @@ Bash
 Basic
 Basically
 Basics
+Basin
 Basing
 Basis
 Basket
@@ -1366,7 +1375,9 @@ Bits
 Bizarre
 Black
 BlackBerry
+BlackOut
 Blackberry
+Blackout
 Blade
 Blades
 Blame
@@ -1443,6 +1454,7 @@ Bold
 Bolt
 Boltzmann
 Bomb
+Bombed
 Bombing
 Bond
 Bonded
@@ -1914,6 +1926,7 @@ Causers
 Causes
 Causing
 Caution
+Caveat
 Caveats
 Cavity
 Cease
@@ -1947,6 +1960,7 @@ Centroid
 Cents
 Centuries
 Century
+Ceremonial
 Ceremonies
 Ceremony
 Certain
@@ -2309,6 +2323,7 @@ Collapse
 Collapsed
 Collapses
 Collapsing
+Collateral
 Colleague
 Collect
 Collected
@@ -2559,6 +2574,7 @@ Concurrent
 Concurrently
 Condense
 Condensed
+Condensing
 Condescending
 Condition
 Conditional
@@ -2566,6 +2582,8 @@ Conditioned
 Conditioners
 Conditioning
 Conditions
+Condom
+Condoms
 Conduct
 Conducted
 Conducting
@@ -3437,6 +3455,7 @@ Delving
 Demand
 Demanding
 Demands
+Dementia
 Demo
 Democracy
 Democrat
@@ -3929,6 +3948,7 @@ Diver
 Divergence
 Divergent
 Diverging
+Divers
 Diverse
 Diversification
 Diversity
@@ -4040,6 +4060,7 @@ Downstream
 Downtime
 Downtown
 Downvote
+Downvoted
 Downward
 Dozens
 Dr
@@ -4157,6 +4178,7 @@ Dynamical
 Dynamically
 Dynamics
 Dynamite
+Dynasties
 Dynasty
 E-Commerce
 E-Ink
@@ -4741,6 +4763,7 @@ Existing
 Exists
 Exit
 Exiting
+Exoskeleton
 Exotic
 Expand
 Expandable
@@ -5147,6 +5170,7 @@ Fiscal
 Fish
 Fishes
 Fishing
+Fissile
 Fission
 Fist
 Fit
@@ -6505,6 +6529,7 @@ Imperial
 Imperialism
 Impersonating
 Implant
+Implants
 Implement
 Implementation
 Implementations
@@ -7152,6 +7177,7 @@ Jboss
 Jealousy
 Jeans
 Jello
+Jellyfish
 Jenkins
 Jerk
 Jerky
@@ -7297,6 +7323,7 @@ Kubernetes
 LCD
 LDA
 LED
+LICKING
 LIFO
 LaGrange
 LaGrangian
@@ -7521,6 +7548,7 @@ License
 Licensed
 Licenses
 Licensing
+Licking
 Lidar
 Lie
 Lied
@@ -7837,6 +7865,7 @@ Managerial
 Managers
 Manages
 Managing
+Mandate
 Mandatory
 Maneuver
 Maneuvering
@@ -7868,6 +7897,8 @@ Mapreduce
 Maps
 Marathon
 March
+Marches
+Marching
 Margin
 Marginal
 Marginally
@@ -8764,6 +8795,7 @@ Numerous
 Nurse
 Nursery
 Nursing
+Nurture
 Nut
 Nuts
 Nutshell
@@ -9144,6 +9176,7 @@ Overwhelmingly
 Overworked
 Overworking
 Overwriting
+Ovulation
 Owe
 Owed
 Owes
@@ -9578,6 +9611,7 @@ Ping
 Pinging
 Pinhole
 Pink
+Pinky
 Pinning
 Pinpoint
 Pins
@@ -9781,6 +9815,7 @@ Portioning
 Portions
 Portrait
 Portraits
+Portrayal
 Ports
 Pose
 Posed
@@ -9968,6 +10003,7 @@ Prices
 Pricing
 Pride
 Prideful
+Priest
 Primarily
 Primary
 Primate
@@ -11394,6 +11430,7 @@ Scanners
 Scanning
 Scans
 Scarcely
+Scarcity
 Scare
 Scared
 Scares
@@ -11798,6 +11835,7 @@ Shoulder
 Shoulders
 Shouldn't
 Shout
+Shouting
 Shoutout
 Show
 Showcase
@@ -11994,6 +12032,7 @@ Slight
 Slightly
 Slim
 Sling
+Slingshot
 Slip
 Slippery
 Slipping
@@ -12362,6 +12401,7 @@ Squeezed
 Squeezes
 Squeezing
 Squid
+Squinting
 Squirrel
 Squish
 Squished
@@ -12547,6 +12587,8 @@ Stoves
 Straight
 Straightforward
 Strain
+Stranded
+Strands
 Strange
 Strangely
 Strangeness
@@ -13300,6 +13342,7 @@ Thumb
 Thumbs
 Thunder
 Thunderbird
+Thunderstorm
 Thursday
 Thus
 Thwarting
@@ -13569,6 +13612,7 @@ Transversal
 Transverse
 Trap
 Trapped
+Trapping
 Trash
 Trauma
 Traumatic
@@ -15809,6 +15853,7 @@ animations
 animators
 anime
 anisotropic
+ankle
 anneal
 annealed
 annealing
@@ -15912,12 +15957,15 @@ apartments
 apathetic
 apathy
 ape
+aped
 aperture
+apes
 apex
 api
 api's
 api-design
 apiece
+aping
 apis
 apk
 apocalypse
@@ -16196,6 +16244,7 @@ ascribes
 asf
 ashamed
 ashes
+asian
 aside
 ask
 asked
@@ -16359,6 +16408,7 @@ atomically
 atomicity
 atoms
 atonement
+atrophy
 attach
 attached
 attaches
@@ -16719,6 +16769,7 @@ balanced
 balances
 balancing
 bald
+baldness
 ball
 ballast
 ballot
@@ -16748,6 +16799,8 @@ banners
 banning
 bans
 bar
+barbarian
+barbarians
 barcode
 bard
 bare
@@ -16776,6 +16829,7 @@ bash
 basic
 basically
 basics
+basin
 basing
 basis
 basket
@@ -17079,6 +17133,7 @@ blackbox
 blacklist
 blacklisted
 blacklists
+blackout
 blade
 blades
 blame
@@ -17193,6 +17248,7 @@ bold
 bolt
 boltzmann
 bomb
+bombed
 bombing
 bombs
 bond
@@ -17878,6 +17934,7 @@ cautious
 cautiously
 cautiousness
 cave
+caveat
 caveats
 caves
 cavities
@@ -17935,6 +17992,7 @@ centuries
 century
 ceo
 ceramic
+ceremonial
 ceremonies
 ceremony
 certain
@@ -18473,6 +18531,7 @@ coarsens
 coast
 coaster
 coasters
+coastline
 coasts
 coat
 coats
@@ -18577,6 +18636,7 @@ collapsible
 collapsing
 collate
 collated
+collateral
 collates
 collating
 collation
@@ -19035,6 +19095,7 @@ condemns
 condense
 condensed
 condenses
+condensing
 condescending
 condescension
 condition
@@ -19047,6 +19108,8 @@ conditioners
 conditioning
 conditions
 condolence
+condom
+condoms
 conduce
 conducive
 conduct
@@ -20642,6 +20705,7 @@ demand
 demanded
 demanding
 demands
+dementia
 demerits
 demo
 democracy
@@ -21610,6 +21674,7 @@ divergence
 divergent
 diverges
 diverging
+divers
 diverse
 diversely
 diversification
@@ -21806,6 +21871,7 @@ downtime's
 downtown
 downturn
 downvote
+downvoted
 downward
 downwards
 doxygen
@@ -21998,6 +22064,7 @@ dynamically-linked
 dynamics
 dynamite
 dynamodb
+dynasties
 dynasty
 e-Data
 e-book
@@ -23051,6 +23118,7 @@ exit
 exited
 exiting
 exits
+exoskeleton
 exotic
 expand
 expandable
@@ -23627,6 +23695,7 @@ fine-tunable
 fine-tune
 fine-tuned
 fine-tuning
+fined
 finer
 finery
 fines
@@ -23685,6 +23754,7 @@ fiscal
 fish
 fishes
 fishing
+fissile
 fission
 fist
 fit
@@ -24283,6 +24353,8 @@ fully-remote
 fullyconvolutional
 fumble
 fumbles
+fume
+fumes
 fun
 func
 function
@@ -25869,6 +25941,7 @@ impetuous
 impinging
 implant
 implanted
+implants
 implausible
 implement
 implementable
@@ -25924,6 +25997,7 @@ imprimed
 imprint
 imprinted
 imprints
+imprisoned
 improbable
 improper
 improperly
@@ -27211,6 +27285,8 @@ jealous
 jealousy
 jeans
 jello
+jellyfish
+jellyfishes
 jenkins
 jerk
 jerks
@@ -27827,6 +27903,7 @@ licensed
 licenses
 licensing
 licentiousness
+licking
 lidar
 lie
 lied
@@ -28339,6 +28416,7 @@ managerial
 managers
 manages
 managing
+mandate
 mandatory
 maneuver
 maneuvering
@@ -28382,6 +28460,9 @@ maps
 marathon
 marble
 march
+marched
+marches
+marching
 margin
 marginal
 marginally
@@ -30101,6 +30182,7 @@ nurse
 nursed
 nursery
 nursing
+nurture
 nut
 nuts
 nutshell
@@ -30890,6 +30972,7 @@ overwrites
 overwriting
 overwritten
 overwrote
+ovulation
 owe
 owed
 owes
@@ -31558,6 +31641,7 @@ pinging
 pings
 pinhole
 pink
+pinky
 pinned
 pinning
 pinpoint
@@ -31876,6 +31960,7 @@ portionless
 portions
 portrait
 portraits
+portrayal
 ports
 pose
 posed
@@ -32269,6 +32354,7 @@ pride
 prided
 prideful
 prides
+priest
 primarily
 primary
 primate
@@ -34693,6 +34779,7 @@ ripening
 ripens
 ripped
 ripping
+ripple
 rise
 risen
 rises
@@ -34803,6 +34890,7 @@ rotation
 rotational
 rotations
 rotor
+rotors
 rouge
 rouged
 rough
@@ -35043,6 +35131,7 @@ scantily
 scanty
 scarce
 scarcely
+scarcity
 scare
 scared
 scares
@@ -35644,6 +35733,7 @@ shelters
 shelves
 sheriff
 shield
+shielded
 shields
 shift
 shifted
@@ -35717,6 +35807,7 @@ shouldn't
 shout
 shout-out
 shouted
+shouting
 shoutout
 show
 show-stopper
@@ -36047,6 +36138,7 @@ slightingly
 slightly
 slim
 sling
+slingshot
 slip
 slip-up
 slipped
@@ -36643,6 +36735,8 @@ squeezed
 squeezes
 squeezing
 squid
+squint
+squinting
 squirrel
 squish
 squished
@@ -36931,6 +37025,9 @@ strain
 strained
 straive
 strand
+stranded
+stranding
+strands
 strange
 strangely
 strangeness
@@ -38288,6 +38385,7 @@ thumbnails
 thumbs
 thunder
 thunderbird
+thunderstorm
 thunk
 thunks
 thus
@@ -38752,6 +38850,7 @@ transversed
 transverses
 trap
 trapped
+trapping
 traps
 trash
 trashed
@@ -40527,6 +40626,7 @@ watermelon
 watermelons
 waterproof
 waters
+watery
 wav
 wave
 waveform
