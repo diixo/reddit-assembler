@@ -805,7 +805,6 @@ Denmark
 abdomen
 Carthage
 expel
-rot
 Mongol
 mud
 Kim
@@ -891,15 +890,12 @@ coup
 fingernails
 conservatives
 stiff
-pond
 toxin
 beers
-camouflage
 van
 faucet
 monetary
 Walmart
-theorized
 man-made
 QM
 graphene
@@ -920,7 +916,6 @@ Turkish
 epidermis
 2+
 hypothalamus
-toxicity
 sunscreen
 Cuban
 magnesium
@@ -940,10 +935,8 @@ fertilized
 supernovae
 cereal
 scars
-acidity
 Na
 Arabs
-fallout
 supermassive
 Philippines
 Vietnamese
@@ -951,7 +944,6 @@ rinse
 dyes
 pagan
 jack
-runny
 Al
 benign
 ovens
@@ -960,60 +952,33 @@ adenosine
 cortisol
 x-ray
 estrogen
-scalp
 depictions
 subs
-barrels
 Jones
-dormant
-volcanoes
-treaties
 ammonia
 plutonium
 colonists
 census
 Nitrogen
-cartridge
-imperfections
 SS
 german
 Fahrenheit
 Jefferson
 ore
-abdominal
-polymers
-pedal
-craters
 Athens
 nostrils
 plaque
 Duke
-peeing
 1-2
-posture
-vagina
-aquatic
-ripples
-sediment
-gills
-porous
-eardrum
-annihilate
 l
 blankets
-saltwater
 endorphins
-habitat
 sphincter
 AFAIK
 Tl
 nbsp
 byproducts
-yards
 Reich
-adaptations
-coastal
-piracy
 Lorentz
 richer
 seizures
@@ -1032,20 +997,14 @@ suction
 Siberia
 Moscow
 meds
-vinyl
-prosecution
 lipids
-flicker
-mines
 Germany's
 Hungary
 Detroit
 indistinguishable
 Normandy
 Japan's
-historiography
 Titan
-rotting
 monoxide
 cannon
 1920s
@@ -1172,7 +1131,6 @@ cue
 X-rays
 numb
 readings
-frowned
 fins
 layman
 80's
@@ -2783,7 +2741,6 @@ Phoenicians
 Copenhagen
 perturbations
 Vol
-ponds
 mutant
 til
 stitches
@@ -4846,7 +4803,6 @@ accelerometer
 wrench
 uninhabited
 PAL
-Piracy
 jarring
 Cruz
 mo
@@ -5247,7 +5203,6 @@ Bahamas
 Chimps
 tau
 cannonball
-frown
 anabolic
 Carolingian
 lightspeed
@@ -6384,7 +6339,6 @@ Montgomery
 globular
 vivo
 STP
-Historiography
 Moors
 Teutonic
 shavings
@@ -6832,7 +6786,6 @@ COPD
 8+
 slur
 teeny
-Fallout
 paler
 20-25
 rapper
@@ -7375,7 +7328,6 @@ virgins
 Meth
 combating
 resins
-rots
 37C
 optimised
 mexican
@@ -8435,7 +8387,6 @@ androgens
 halving
 incarceration
 Il
-Saltwater
 Emancipation
 Cong
 Seneca
@@ -9927,7 +9878,6 @@ Visceral
 smashes
 visor
 arrhythmias
-rotted
 mosquito's
 braided
 puppets
@@ -11141,7 +11091,6 @@ rythm
 merry-go-round
 Philips
 dulling
-Volcanoes
 tractors
 Attenborough
 sprained
@@ -11352,7 +11301,6 @@ peacekeeping
 2a
 collegiate
 knock-off
-Vinyl
 communicable
 militarized
 hypoglycemia
@@ -11882,7 +11830,6 @@ Noam
 Half-Life
 seagulls
 cognitively
-Peeing
 paywalled
 malpractice
 phasing
@@ -12408,7 +12355,6 @@ fathered
 Yorkers
 Seawater
 Spencer
-Aquatic
 elf
 mongering
 stroma
@@ -12984,7 +12930,6 @@ xenophobic
 ps
 Glaciers
 Boehner
-Gills
 UHF
 Terra
 Cattle
@@ -15629,7 +15574,6 @@ Royals
 ta
 sulfides
 Heinz
-Camouflage
 RNC
 Johann
 hydrogenation
@@ -16045,7 +15989,6 @@ aerated
 aerator
 miscalculation
 gazelle
-Coastal
 old's
 replant
 urethral
@@ -16451,7 +16394,6 @@ everest
 Aleve
 bb
 seasonings
-Polymers
 dishwashing
 philtrum
 extinguishing
@@ -20023,7 +19965,6 @@ cultivar
 tine
 N+
 torpedoed
-frowning
 Vasopressin
 radiolab
 ies
@@ -20858,7 +20799,6 @@ Belgium's
 slowdowns
 dehumanizing
 resuscitated
-Rotting
 staircases
 barbiturate
 thiopental
@@ -22585,7 +22525,6 @@ cocking
 petal
 cutouts
 contorted
-frowns
 celeb
 Abbasids
 accomplice
@@ -24105,7 +24044,6 @@ DOTA
 10ths
 prolapse
 pre-arranged
-Mines
 Dem
 tumescence
 Gatling
@@ -25067,7 +25005,6 @@ compacts
 Clark's
 upstate
 War's
-fawn
 interwebs
 columbus
 octonions
@@ -25129,7 +25066,6 @@ pro-union
 impulsively
 homogenize
 Gecko
-Sediment
 ARDS
 Mojave
 hijabs
@@ -25319,7 +25255,6 @@ proclaiming
 membranous
 Alcohols
 scrapie
-Toxicity
 Cray
 pre-agricultural
 Contrails
@@ -26057,7 +25992,6 @@ Shi'ites
 100kph
 gizmos
 Duct
-Treaties
 Casein
 NFL's
 employable
@@ -30073,7 +30007,6 @@ epsom
 self-propelled
 xerox
 Bombardier
-Acidity
 d-day
 swordsmanship
 antonym
@@ -30736,7 +30669,6 @@ Recon
 pre-emptively
 part's
 Snapdragon
-Pond
 alto
 curvatures
 learnmath
@@ -30830,7 +30762,6 @@ Cindy
 homeschooled
 fearmongering
 pureed
-Imperfections
 intermarrying
 Stool
 Joanna
@@ -32125,7 +32056,6 @@ Inhalation
 aloof
 Dinah
 Sasha
-Barrels
 terrace
 second-most
 infirm
@@ -32363,7 +32293,6 @@ ooo
 Arent
 intervertebral
 toxoid
-Vagina
 prevalently
 out-of-state
 earrings
@@ -38788,7 +38717,6 @@ tills
 hangul
 EFI
 miniaturize
-Cartridge
 ganglionic
 Bluff
 cleanroom
@@ -39151,7 +39079,6 @@ Compartmentalization
 Rationing
 Ionising
 anti-heroes
-Rot
 Concussion
 high-explosive
 Incendiary
@@ -39855,7 +39782,6 @@ Camus
 NIMBY
 non-solar
 wayward
-Habitat
 pharm
 intermix
 caricatured
@@ -40415,7 +40341,6 @@ Leukocyte
 windowsill
 Becquerel
 professionalization
-Runny
 ao
 pi's
 visualised
@@ -49541,7 +49466,6 @@ light-cone
 platinum-iridium
 Silanes
 Froude
-Craters
 delta-T
 terrestrials
 moa
@@ -51718,7 +51642,6 @@ newly-printed
 Lenscrafters
 unpoppable
 senates
-Abdominal
 freshly-cut
 15mg
 30mg
@@ -51824,7 +51747,6 @@ Trickle-down
 oxigenated
 low-brow
 BlueRay
-Scalp
 them-self
 Aviv
 F14
@@ -52352,7 +52274,6 @@ Frankenstein's
 Bagged
 Conchita
 Neuwirth
-Flicker
 coelacanth
 oft-used
 ETAP
@@ -53276,7 +53197,6 @@ self-regulatory
 gunked
 mid-30s
 antinodes
-Ripples
 gyrocopter
 phreaking
 Assads
@@ -54368,7 +54288,6 @@ two-seaters
 Squirting
 Ophiocordyceps
 hm
-Yards
 huf
 Alanine
 1700-1800's
@@ -54568,7 +54487,6 @@ jousters
 respawn
 letterboxed
 neuroses
-Ponds
 750k
 enforceability
 Zermelo
@@ -54688,7 +54606,6 @@ allah
 random-number
 LBGT
 self-incriminate
-Prosecution
 transluscent
 paycheck-to-paycheck
 HIV-virus
@@ -57879,7 +57796,6 @@ x-a
 Lorien
 discus
 Ziess
-Posture
 Mermaids
 hook-flash
 Qualia
@@ -66680,7 +66596,6 @@ bridgegate
 Crytek
 sweatshirts
 punch-cards
-Frowns
 calamities
 PED's
 Gelfand
@@ -68295,7 +68210,6 @@ Ceasars
 Yanny
 injuriously
 print-out
-Annihilate
 IHS
 Bystander
 Striders
@@ -80422,7 +80336,6 @@ weighless
 Atonia
 lymphatics
 watchpeopledie
-cringed
 Self-referential
 pager-like
 constant's
@@ -84625,7 +84538,6 @@ coterminous
 1000bc
 NDH
 sphagnum
-Fawn
 Bainbridge
 Kirtland
 F6F
@@ -89653,7 +89565,6 @@ Galvani
 hypergravity
 plantaris
 antimagnetic
-Porous
 misattribute
 atrio-ventricular
 wolverines
@@ -102403,7 +102314,6 @@ jaffa
 peoble
 vibrayions
 gets's
-Frowning
 pulvinar
 no-kill
 nightowls
@@ -109530,7 +109440,6 @@ culligan
 spot-free
 grand-children
 tectonically-active
-Theorized
 jigglging
 frothed
 non-frothed
@@ -121881,7 +121790,6 @@ folder-helper
 Cruetzfeld-Jakob
 pre-SP2
 milliampere-hour
-VAGINA
 haaaaaa
 pfffffffffff
 6-character
@@ -131493,7 +131401,6 @@ foursquare
 MBS
 sluggards
 butt-chins
-Rots
 Acetylsalicylic
 TheScamr
 near-sterile
@@ -135426,7 +135333,6 @@ lingue
 egualmente
 defragments
 lionheart
-Adaptations
 Nudist
 lower-input
 domesticateable
@@ -148930,7 +148836,6 @@ antiobiotics
 5-panel
 9-panel
 debarked
-Frown
 fesasable
 Tugging
 vechiles
@@ -149986,7 +149891,6 @@ atlatls
 Paraphilias
 necrophelia
 bingeable
-Rotted
 springtails
 vitemens
 Monotone
@@ -151615,7 +151519,6 @@ sea-war
 Pola
 Spalato
 Forty-seven
-fawning
 Braithwaite's
 fact-checker
 Eyemakeup
@@ -208654,7 +208557,6 @@ ellipiticity
 c-36
 Lactobacilli
 cremating
-Frowned
 mitochondial
 autopoetic
 haptens
