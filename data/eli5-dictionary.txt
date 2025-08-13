@@ -1215,7 +1215,6 @@ incandescent
 Schwarzschild
 arctic
 populace
-rebels
 cue
 X-rays
 numb
@@ -1223,77 +1222,48 @@ readings
 frowned
 fins
 layman
-LSD
 80's
-antidepressants
 Francisco
 canned
 Persians
-menthol
 vegetation
 Marijuana
 star's
-annihilation
-radiating
-unconstitutional
 Mt
 tin
-passages
 Wow
-catalyst
 glycogen
 aids
-anecdotal
 buoyant
 lb
 Hannibal
-ritual
-scratches
 children's
 Uber
 ibuprofen
 electrolyte
-sovereignty
 AU
 transplants
-sugary
-stains
 cardiovascular
-crater
-energetically
 amp
-gag
 Kennedy
 itching
 repercussions
 swinging
-medically
-stimulants
-lobbying
-crews
 Taylor
-vortex
-captain
 light-years
 tinnitus
-conquests
-tangled
-lawsuits
 phosphate
 PTSD
 CDs
 fructose
 Nintendo
 Easter
-fracture
 rabies
 childbirth
-ladder
 arousal
 helmets
 clot
 intestinal
-solubility
 IRA
 iodine
 Italians
@@ -1307,7 +1277,6 @@ Scientology
 ducts
 Vatican
 AB
-poke
 secular
 governor
 tub
@@ -1320,18 +1289,15 @@ aluminium
 animal's
 hiccups
 radiates
-beds
 lensing
 trope
 telomeres
 11th
 sec
 dermis
-oceanic
 stigma
 1900s
 Harry
-visa
 apparatus
 Crusades
 sewage
@@ -1339,8 +1305,6 @@ Quebec
 prosecuted
 Christopher
 wasps
-poisons
-fetal
 Putin
 IMO
 livestock
@@ -1348,27 +1312,21 @@ vascular
 drowning
 hydraulic
 militia
-motorcycle
 Philip
 oxidizer
 halves
 eyeballs
 psi
-pissed
 Adams
 genus
 keratin
 poo
-flap
-hop
 H+
 trough
-segregation
 parasympathetic
 fasting
 70's
 ma
-sharper
 portray
 Lithium
 frankly
@@ -1383,8 +1341,6 @@ lightbulb
 octave
 Centauri
 oscillation
-lol
-anal
 capita
 Mach
 FDR
@@ -1392,7 +1348,6 @@ ln
 Alexandria
 vents
 Jim
-atrocities
 Mao
 Danish
 bombers
@@ -1758,7 +1713,6 @@ Herodotus
 sores
 Nile
 prosecute
-rebel
 Frank
 MLB
 geostationary
@@ -1790,7 +1744,6 @@ anesthetic
 coral
 bombings
 human's
-Captain
 Pennsylvania
 ancestral
 geothermal
@@ -1991,7 +1944,6 @@ pre-existing
 ATM
 amygdala
 wartime
-Visa
 eyelid
 academia
 asylum
@@ -2311,7 +2263,6 @@ nuclides
 Monty
 palate
 rash
-poking
 Hulu
 wholesale
 theology
@@ -3013,7 +2964,6 @@ drinkable
 psychologists
 saints
 lingua
-Menthol
 tow
 haul
 canon
@@ -5867,7 +5817,6 @@ curry
 hallucinogens
 impetus
 circus
-poked
 litigation
 MPa
 m1
@@ -6407,7 +6356,6 @@ interracial
 NYT
 urbanization
 XIV
-Lobbying
 Swedes
 conical
 comrades
@@ -7783,7 +7731,6 @@ winged
 biomolecules
 hydrates
 bubonic
-Anecdotally
 nanoparticles
 ravens
 nosebleeds
@@ -7853,7 +7800,6 @@ Wilson's
 uric
 Vespucci
 land-based
-Oceanic
 Roosevelt's
 forested
 Prussians
@@ -8136,7 +8082,6 @@ jesus
 socio-economic
 Disney's
 doctorate
-Lol
 feud
 coasting
 portrayals
@@ -9183,7 +9128,6 @@ cadmium
 wastewater
 terminator
 flailing
-Crater
 slow-motion
 webbing
 Freeman
@@ -9224,7 +9168,6 @@ Kurt
 fly's
 habitually
 8K
-Fetal
 purifying
 proverbial
 excruciating
@@ -9274,7 +9217,6 @@ Koko
 DoD
 half-way
 citizenry
-Medically
 bellow
 sloth
 entangle
@@ -9528,7 +9470,6 @@ oversimplifying
 1x
 pooped
 bikini
-pokes
 feline
 hotdogs
 Usain
@@ -9859,7 +9800,6 @@ handlebars
 prosthesis
 suckers
 rearview
-Stimulants
 bureau
 paranormal
 lingers
@@ -10864,7 +10804,6 @@ BPM
 hollowed
 absentee
 browns
-anecdotally
 meddling
 jackass
 howling
@@ -10881,7 +10820,6 @@ IVF
 redline
 carvings
 blue-shifted
-Hop
 Indonesian
 eumelanin
 70F
@@ -11064,7 +11002,6 @@ lantern
 bleep
 villagers
 pylons
-Rebels
 redshifting
 sunrises
 PPI
@@ -11489,7 +11426,6 @@ conjure
 Paralysis
 candidacy
 Ash
-Anecdotal
 saver
 tremor
 capping
@@ -11989,7 +11925,6 @@ commando
 walmart
 outsides
 blowers
-LOL
 rammed
 patchwork
 sattelites
@@ -12227,7 +12162,6 @@ LH
 Burj
 Mel
 maglev
-VISA
 hypotonic
 Godel's
 1000mph
@@ -12260,7 +12194,6 @@ McDonald
 lymphoma
 pier
 pamphlets
-LoL
 ironing
 Marxists
 NSFL
@@ -12522,7 +12455,6 @@ bookies
 Pouring
 grieving
 las
-Antidepressants
 Colt
 giggles
 Rum
@@ -17178,7 +17110,6 @@ Sweden's
 Gini
 Kroger
 Marbury
-Poisons
 gnat
 Whoops
 Eli
@@ -18137,7 +18068,6 @@ Radiocarbon
 toothache
 Barcodes
 great-grandfather
-Solubility
 tetani
 strewn
 32nd
@@ -18448,7 +18378,6 @@ strongmen
 Cockney
 queen's
 bi-product
-Segregation
 Oooh
 biochem
 Li-Ion
@@ -18630,7 +18559,6 @@ Mercenary
 figurine
 leftmost
 bedside
-Anal
 carpool
 reciting
 saxophones
@@ -20320,7 +20248,6 @@ TCM
 HDPE
 Acetic
 ES
-Annihilation
 teething
 Haber
 flashbang
@@ -20795,7 +20722,6 @@ lagers
 FPTP
 bittorrent
 belch
-Vortex
 preheated
 Rigor
 Johannesburg
@@ -21229,7 +21155,6 @@ Rhineland
 Elk
 glamorous
 antenna's
-Motorcycle
 undercarriage
 Terraforming
 Orson
@@ -23059,7 +22984,6 @@ sanctioning
 antipathy
 cauldron
 anti-intellectualism
-atrocity
 WBCs
 dredge
 toxoplasmosis
@@ -23300,7 +23224,6 @@ Sodas
 nubs
 heaver
 butyric
-Rebel
 redbull
 Tuscany
 Bo
@@ -26448,7 +26371,6 @@ hydrazine
 recirculation
 homeworkhelp
 Almonds
-Sovereignty
 unwatchable
 sleeplessness
 dishonor
@@ -27266,7 +27188,6 @@ pre-human
 musicologists
 Japanese-American
 cowpox
-Sugary
 BGP
 Paganini
 vane
@@ -27940,7 +27861,6 @@ abbeys
 Carpathian
 dragonfly
 Chamberlain's
-Ritual
 petrochemicals
 XBMC
 luckier
@@ -28328,7 +28248,6 @@ Lightening
 immunologist
 foreign-born
 illuminance
-Ladder
 blindsight
 anti-cancer
 650nm
@@ -32609,7 +32528,6 @@ menswear
 octanes
 Prayers
 Horatio
-Tangled
 Hum
 LEGOs
 telecine
@@ -33061,7 +32979,6 @@ layman-accessible
 gar
 knock-on
 700k
-Poking
 2-3x
 Elmer
 deceased's
@@ -33876,7 +33793,6 @@ work's
 handrail
 tetraethyl
 pre-detonation
-Lawsuits
 irrelevent
 stupendous
 ACP
@@ -36052,7 +35968,6 @@ Arminius
 boreal
 Omo
 Quirite
-Conquests
 Oscan
 Degeneracy
 Romanum
@@ -36486,7 +36401,6 @@ tumbled
 Taekwondo
 eastbound
 ea
-Poke
 System32
 open-world
 plopped
@@ -38589,7 +38503,6 @@ millenials
 over-tired
 kayaking
 spinnerets
-Unconstitutional
 HZ
 choppiness
 stirrer
@@ -40201,7 +40114,6 @@ expert's
 enormity
 shakiness
 conscripting
-Scratches
 silhouetted
 Albans
 oxygen-free
@@ -44598,7 +44510,6 @@ AHCA
 mass-market
 roadwork
 implicates
-GAG
 1-year
 antsy
 sibilants
@@ -46206,7 +46117,6 @@ coverts
 weaved
 Keyes
 fornication
-Crews
 sRGB
 2S
 Hirst
@@ -47212,7 +47122,6 @@ corrosives
 Zambia
 regretting
 dinosaurian
-Beds
 thereon
 virus-like
 less-developed
@@ -51709,7 +51618,6 @@ free-to-air
 serviceability
 slitting
 escapade
-Sharper
 McKenna
 jamais
 Allergen
@@ -72638,7 +72546,6 @@ flyingjam
 formalities
 Adblockers
 2008-09
-Stains
 MicroUSB
 NWO
 20000Hz
@@ -73711,7 +73618,6 @@ foreshortening
 turn-over
 oligopeptide
 Trinitarian
-Flap
 Gramm
 Referee
 Umpire
@@ -85373,7 +85279,6 @@ kunya
 al-Ghazali
 Erfurt
 Greenblatt
-Atrocities
 Unalaska
 praetexta
 buttressed
@@ -91805,7 +91710,6 @@ neuroanatomical
 towelettes
 greenish-blue
 microcrystalline
-Fracture
 Rel
 Shadwick
 Gosline
@@ -92236,7 +92140,6 @@ duck-beaver
 0cm
 fimbriae
 bromism
-Catalyst
 neucleons
 mAbs
 photosystem
@@ -98599,7 +98502,6 @@ Steenkamp
 FPA
 strops
 sharpeners
-Gag
 home-country's
 goosebumped
 person-hood
@@ -123002,7 +122904,6 @@ sulk
 sulks
 driftin
 Yon
-Pissed
 harken
 Quiverfull
 pro-havingasmanykidsasyoucan
@@ -125920,7 +125821,6 @@ scientology's
 ske105
 weeaboos
 Touchdowns
-PISSED
 recallable
 Exotropia
 exotropia
@@ -171248,7 +171148,6 @@ Katholic
 de'Medicis
 Waley
 City-Republics
-Passages
 Sozin
 Valentinians
 varletry
@@ -194143,7 +194042,6 @@ location-dependent
 Osymandius
 disturbe
 in-so-much
-Radiating
 adviser-to-Hitler
 boundar
 detectes

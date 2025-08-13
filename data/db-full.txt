@@ -583,6 +583,7 @@ Amusement
 Amusing
 An
 Anaconda
+Anal
 Analog
 Analog-to-Digital
 Analogies
@@ -611,6 +612,8 @@ And
 Android
 Android's
 Androids
+Anecdotal
+Anecdotally
 Anecdote
 Anecdotes
 Angel
@@ -634,6 +637,7 @@ Anime
 Anisotropic
 Ankle
 Annexed
+Annihilation
 Anniversary
 Annotated
 Annotations
@@ -671,6 +675,7 @@ Anticipate
 Anticipating
 Anticipation
 Antidepressant
+Antidepressants
 Antifreeze
 Antiparticles
 Antisemitism
@@ -945,6 +950,7 @@ Atmospheric
 Atom
 Atomic
 Atoms
+Atrocities
 Atrophy
 Attach
 Attached
@@ -1238,6 +1244,7 @@ Becomes
 Becoming
 Bed
 Bedroom
+Beds
 Bee
 Been
 Beep
@@ -1857,6 +1864,7 @@ Capitalistic
 Capitalize
 Capitalized
 CapsLock
+Captain
 Captcha
 Captchas
 Caption
@@ -1922,6 +1930,7 @@ Casualty
 Cat
 Catalog
 Catalogue
+Catalyst
 Catastrophe
 Catastrophic
 Catch
@@ -2683,6 +2692,7 @@ Conquering
 Conqueror
 Conquerors
 Conquest
+Conquests
 Cons
 Conscience
 Conscious
@@ -3017,6 +3027,7 @@ Crash
 Crashed
 Crashes
 Crashing
+Crater
 Crave
 Craving
 Crawl
@@ -3053,6 +3064,7 @@ Creep
 Creepy
 Crest
 Crew
+Crews
 Cried
 Crime
 Crimes
@@ -5123,6 +5135,7 @@ Fence
 Fermented
 Festival
 Festivals
+Fetal
 Fetch
 Fetish
 Fever
@@ -5255,6 +5268,7 @@ Flakes
 Flame
 Flames
 Flammable
+Flap
 Flapping
 Flare
 Flared
@@ -5478,6 +5492,7 @@ Fractals
 Fraction
 Fractional
 Fractions
+Fracture
 Fractures
 Fragile
 Fragment
@@ -5638,6 +5653,7 @@ GUID
 GaN
 Gadget
 Gadgets
+Gag
 Gain
 Gained
 Gaining
@@ -6325,6 +6341,7 @@ Hood
 Hook
 Hooking
 Hooks
+Hop
 Hope
 Hoped
 Hopeful
@@ -7414,6 +7431,8 @@ LDA
 LED
 LICKING
 LIFO
+LOL
+LSD
 LaGrange
 LaGrangian
 LaTeX
@@ -7432,6 +7451,7 @@ Labs
 Lack
 Lacking
 Lacks
+Ladder
 Ladies
 Lady
 Lag
@@ -7510,6 +7530,7 @@ Lawmakers
 Lawn
 Laws
 Lawsuit
+Lawsuits
 Lawyer
 Lawyers
 Lay
@@ -7731,6 +7752,7 @@ Lives
 Livestream
 Living
 Llama
+LoL
 Load
 Loaded
 Loaders
@@ -7741,6 +7763,7 @@ Loafer
 Loan
 Loaning
 Lobby
+Lobbying
 Lobster
 Lobsters
 Local
@@ -7777,6 +7800,7 @@ Logo
 Logon
 Logos
 Logs
+Lol
 London
 Loneliness
 Lonely
@@ -8117,6 +8141,7 @@ Median
 Mediated
 Mediates
 Medical
+Medically
 Medicine
 Medieval
 Mediocre
@@ -8170,6 +8195,7 @@ Menstruation
 Mental
 Mentality
 Mentally
+Menthol
 Mention
 Mentioned
 Mentioning
@@ -8491,6 +8517,7 @@ Motivations
 Motive
 Motives
 Motor
+Motorcycle
 Motorcycles
 Motors
 Mould
@@ -8992,6 +9019,7 @@ Occurrences
 Occurring
 Occurs
 Ocean
+Oceanic
 Oceans
 Octahedral
 Octahedron
@@ -9462,6 +9490,7 @@ Party
 Pascal
 Pass
 Passage
+Passages
 Passcode
 Passed
 Passengers
@@ -9743,6 +9772,7 @@ Pipelines
 Pipes
 Piping
 Pirates
+Pissed
 Pitch
 Pitched
 Pitcher
@@ -9864,7 +9894,10 @@ Pointy
 Poison
 Poisoned
 Poisoning
+Poisons
+Poke
 Poker
+Poking
 Polar
 Polarity
 Polarization
@@ -10564,6 +10597,7 @@ Radial
 Radians
 Radiant
 Radiated
+Radiating
 Radiation
 Radiator
 Radical
@@ -10703,7 +10737,9 @@ Reassessment
 Reassignment
 Reassurance
 Rebates
+Rebel
 Rebellion
+Rebels
 Reboot
 Rebooting
 Reborn
@@ -11332,6 +11368,7 @@ Rising
 Risk
 Risks
 Risky
+Ritual
 Rituals
 Rival
 Rivalry
@@ -11643,6 +11680,7 @@ Scramble
 Scrambled
 Scrape
 Scratch
+Scratches
 Scream
 Screaming
 Screams
@@ -11738,6 +11776,7 @@ Segmentation
 Segmented
 Segmenting
 Segregating
+Segregation
 Seize
 Seized
 Seizing
@@ -11913,6 +11952,7 @@ Sharks
 Sharp
 Sharpen
 Sharpening
+Sharper
 Sharpness
 Shave
 Shaved
@@ -12329,6 +12369,7 @@ Solitary
 Solitude
 Solo
 Solstice
+Solubility
 Solution
 Solutions
 Solve
@@ -12378,6 +12419,7 @@ Sources
 Sourcing
 South
 Southern
+Sovereignty
 Space
 SpaceX's
 Spacecraft
@@ -12603,6 +12645,7 @@ Staging
 Stain
 Stained
 Stainless
+Stains
 Staircase
 Stairs
 Stakes
@@ -12710,6 +12753,7 @@ Sticking
 Sticky
 Stiffness
 Still
+Stimulants
 Stimulated
 Stimulates
 Stimulating
@@ -12951,6 +12995,7 @@ Suffixes
 Suffocating
 Suffocation
 Sugar
+Sugary
 Suggest
 Suggested
 Suggesting
@@ -13240,6 +13285,7 @@ Tandem
 Tangent
 Tangential
 Tangentially
+Tangled
 Tank
 Tanks
 Tap
@@ -14027,6 +14073,7 @@ Uncompressed
 Uncompressing
 Unconditional
 Unconscious
+Unconstitutional
 Uncontested
 Uncontrollable
 Uncontrolled
@@ -14303,6 +14350,7 @@ VBA
 VBScript
 VGA
 VHDL
+VISA
 VMWare
 VMware
 VOIP
@@ -14467,6 +14515,7 @@ Virtue
 Virtues
 Virus
 Viruses
+Visa
 Visibility
 Visible
 Visibly
@@ -14511,6 +14560,7 @@ Voluminous
 Voluntary
 Volunteer
 Volunteers
+Vortex
 Vote
 Voter
 Voters
@@ -15962,6 +16012,7 @@ an't
 anaconda
 anagram
 anagrams
+anal
 analog
 analog-to-digital
 analogical
@@ -16015,6 +16066,8 @@ android-studio
 android-view
 android-webview
 androids
+anecdotal
+anecdotally
 anecdote
 anecdotes
 anew
@@ -16052,6 +16105,7 @@ annealed
 annealing
 anneals
 annexed
+annihilation
 anniversary
 annotate
 annotated
@@ -16117,6 +16171,7 @@ anticipates
 anticipating
 anticipation
 antidepressant
+antidepressants
 antifreeze
 antimalware
 antiparticle
@@ -16606,6 +16661,8 @@ atomically
 atomicity
 atoms
 atonement
+atrocities
+atrocity
 atrophy
 attach
 attached
@@ -17095,6 +17152,7 @@ becomes
 becoming
 bed
 bedroom
+beds
 bee
 beef
 been
@@ -18011,6 +18069,7 @@ caps
 capslock
 capsule
 capsules
+captain
 captcha
 captchas
 caption
@@ -18103,6 +18162,7 @@ cataloged
 catalogs
 catalogue
 catalogues
+catalyst
 catapults
 catastrophe
 catastrophic
@@ -19483,6 +19543,7 @@ conqueror
 conquerors
 conquers
 conquest
+conquests
 cons
 conscience
 conscious
@@ -20046,6 +20107,7 @@ crash
 crashed
 crashes
 crashing
+crater
 crave
 craved
 craves
@@ -20093,6 +20155,7 @@ creeped
 creepy
 crest
 crew
+crews
 cried
 cries
 crime
@@ -22777,6 +22840,7 @@ enduring
 enemies
 enemy
 energetic
+energetically
 energized
 energy
 enforce
@@ -23846,6 +23910,7 @@ fervour
 festival
 festivals
 festivity
+fetal
 fetch
 fetched
 fetches
@@ -24050,6 +24115,7 @@ flakes
 flame
 flames
 flammable
+flap
 flapping
 flare
 flared
@@ -24434,6 +24500,7 @@ fraction
 fractional
 fractionally
 fractions
+fracture
 fractured
 fractures
 fragile
@@ -24676,6 +24743,7 @@ fyi
 g++
 gadget
 gadgets
+gag
 gain
 gained
 gainer
@@ -25767,6 +25835,7 @@ hooked
 hooking
 hooks
 hookup
+hop
 hope
 hoped
 hopeful
@@ -27880,6 +27949,7 @@ lack
 lacked
 lacking
 lacks
+ladder
 ladies
 lady
 lag
@@ -27992,6 +28062,7 @@ lawmakers
 lawn
 laws
 lawsuit
+lawsuits
 lawyer
 lawyers
 lay
@@ -28375,6 +28446,7 @@ loaned
 loaning
 loans
 lobby
+lobbying
 lobster
 lobsters
 local
@@ -28449,6 +28521,7 @@ logon
 logos
 logout
 logs
+lol
 loneliness
 lonely
 long
@@ -28935,6 +29008,7 @@ mediate
 mediated
 mediates
 medical
+medically
 medicine
 medieval
 mediocre
@@ -29008,6 +29082,7 @@ menstruation
 mental
 mentality
 mentally
+menthol
 mention
 mentioned
 mentioning
@@ -29623,6 +29698,7 @@ motive
 motived
 motives
 motor
+motorcycle
 motorcycles
 motors
 motto
@@ -30633,6 +30709,7 @@ occurrences
 occurring
 occurs
 ocean
+oceanic
 oceans
 ocr
 octagonal
@@ -31521,6 +31598,7 @@ pass-by-value
 pass-through
 passable
 passage
+passages
 passcode
 passed
 passenger
@@ -31983,6 +32061,7 @@ piping
 pique
 pirate
 pirates
+pissed
 pit
 pitch
 pitch-battle
@@ -32177,7 +32256,12 @@ poison
 poisoned
 poisoning
 poisonous
+poisons
+poke
+poked
 poker
+pokes
+poking
 polar
 polarity
 polarization
@@ -33390,6 +33474,7 @@ radians
 radiant
 radiate
 radiated
+radiating
 radiation
 radiator
 radical
@@ -33702,9 +33787,11 @@ rebases
 rebasing
 rebate
 rebates
+rebel
 rebelled
 rebelling
 rebellion
+rebels
 rebind
 rebinded
 rebinding
@@ -35143,6 +35230,7 @@ risked
 risking
 risks
 risky
+ritual
 rituals
 rival
 rivaled
@@ -35585,6 +35673,7 @@ scrapped
 scrapy
 scratch
 scratched
+scratches
 scratching
 scream
 screamed
@@ -35744,6 +35833,7 @@ segregate
 segregated
 segregates
 segregating
+segregation
 segue
 segued
 segueing
@@ -36064,6 +36154,7 @@ sharp
 sharpen
 sharpened
 sharpening
+sharper
 sharpest
 sharply
 sharpness
@@ -36735,6 +36826,7 @@ solitude
 solo
 solr
 solstice
+solubility
 solute
 solution
 solution-focused
@@ -36810,6 +36902,7 @@ sourcing
 south
 southern
 sovereign
+sovereignty
 sp1
 sp2
 sp3
@@ -37166,6 +37259,7 @@ staid
 stain
 stained
 stainless
+stains
 staircase
 stairs
 stake
@@ -37326,6 +37420,7 @@ sticky
 stiffness
 stifle
 still
+stimulants
 stimulate
 stimulated
 stimulates
@@ -37812,6 +37907,7 @@ suffocating
 suffocatingly
 suffocation
 sugar
+sugary
 suggest
 suggested
 suggesting
@@ -38276,6 +38372,7 @@ tangential
 tangentially
 tangible
 tangle
+tangled
 tank
 tanks
 tap
@@ -39680,6 +39777,7 @@ unconfirmed
 unconnected
 unconscious
 unconsciously
+unconstitutional
 unconstrained
 uncontested
 uncontrollable
@@ -40785,6 +40883,7 @@ virtuous
 virtuously
 virus
 viruses
+visa
 visibilities
 visibility
 visible
@@ -40858,6 +40957,7 @@ voluntarily
 voluntary
 volunteer
 volunteers
+vortex
 vote
 voted
 voter
