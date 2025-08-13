@@ -688,6 +688,7 @@ Apart
 Apartment
 Apartments
 Apathy
+Ape
 Aperture
 Apex
 Api
@@ -1449,6 +1450,7 @@ Bone
 Bones
 Bonus
 Bonuses
+Boobs
 Book
 Booked
 Booking
@@ -1470,6 +1472,7 @@ Bootstrap
 Bootstrapping
 Border
 Borders
+Bore
 Bored
 Boring
 Born
@@ -1690,12 +1693,14 @@ Butterflies
 Butterfly
 Button
 Buttons
+Butts
 Buy
 Buyer
 Buyers
 Buying
 Buys
 Buzz
+Buzzing
 By
 Bye
 Bypass
@@ -1920,6 +1925,8 @@ Cellphone
 Cellphones
 Cells
 Cellular
+Censor
+Censored
 Censoring
 Censorship
 Center
@@ -2317,6 +2324,7 @@ Colloquial
 Colluded
 Collusion
 Colon
+Colonial
 Colonies
 Colonized
 Colonizing
@@ -2929,6 +2937,8 @@ Coworker
 Cows
 Cpu
 Cpus
+Crab
+Crabs
 Crack
 Crackdown
 Cracked
@@ -3113,6 +3123,7 @@ Cuts
 Cutting
 Cuttings
 Cyan
+Cyanide
 Cyber
 Cyberattack
 Cybernetics
@@ -3474,6 +3485,8 @@ Deposit
 Deposition
 Depot
 Depreciation
+Depressant
+Depressants
 Depressed
 Depressing
 Depression
@@ -4297,6 +4310,7 @@ Elusive
 Emacs
 Email
 Emails
+Embargo
 Embark
 Embarrassing
 Embarrassment
@@ -5082,6 +5096,7 @@ Finger
 Fingerprint
 Fingerprints
 Fingers
+Fingertips
 Finish
 Finished
 Finishes
@@ -5318,6 +5333,7 @@ Formulating
 Formulation
 Forth
 Fortification
+Fortifications
 Fortified
 Fortitude
 Fortran
@@ -5926,6 +5942,7 @@ Haptic
 Harass
 Harassing
 Harassment
+Harbor
 Hard
 Hard-coded
 Hardcoded
@@ -5956,6 +5973,7 @@ Harness
 Harnessing
 Harsh
 Harvest
+Harvesting
 Has
 Hash
 Hashes
@@ -6621,6 +6639,7 @@ Inductive
 Inductively
 Indulging
 Industrial
+Industrialization
 Industrialized
 Industries
 Industry
@@ -6932,6 +6951,9 @@ Intimate
 Into
 Intolerable
 Intonation
+Intoxicated
+Intoxicates
+Intoxication
 Intranet
 Intransitive
 Intrigue
@@ -7127,6 +7149,7 @@ Joints
 Joke
 Jokes
 Journal
+Journalism
 Journalist
 Journalists
 Journals
@@ -7211,6 +7234,7 @@ Kills
 KiloBytes
 Kilobytes
 Kilogram
+Kilograms
 Kilometer
 Kilometers
 Kind
@@ -7411,6 +7435,7 @@ Legion
 Legislative
 Legitimacy
 Legitimate
+Legitimately
 Legs
 Legume
 Legumes
@@ -7681,6 +7706,7 @@ Loyal
 Loyalty
 Ltd
 Lua
+Lubricant
 Lubuntu
 Luck
 Luckily
@@ -8072,6 +8098,7 @@ Might
 Might've
 Mighty
 Migraine
+Migraines
 Migrants
 Migrate
 Migrating
@@ -8176,6 +8203,7 @@ Mixer
 Mixes
 Mixing
 Mixture
+Mixtures
 MoD
 Mobile
 Mobiles
@@ -8449,6 +8477,7 @@ Nascent
 Nasty
 Nation
 National
+Nationalist
 Nationality
 Nationally
 Nations
@@ -8997,6 +9026,7 @@ Other's
 Others
 Otherwise
 Ought
+Ounces
 Our
 Ours
 Ourselves
@@ -9292,6 +9322,7 @@ Patriot
 Patriotic
 Patriotism
 Patriots
+Patrol
 Patronage
 Pattern
 Pattern-matching
@@ -9354,6 +9385,8 @@ Penetrating
 Penetration
 Penguin
 Penguins
+Penis
+Penises
 Pens
 Pentium
 People
@@ -9506,6 +9539,8 @@ Pillows
 Pills
 Pilot
 Pim
+Pimple
+Pimples
 Pin
 Pinched
 Pineapple
@@ -9563,6 +9598,7 @@ Plate
 Plates
 Platform
 Platforms
+Platinum
 Plausibility
 Plausible
 Play
@@ -9727,6 +9763,7 @@ Positivity
 Possessed
 Possessing
 Possession
+Possessions
 Possibilities
 Possibility
 Possible
@@ -10610,6 +10647,7 @@ Reformed
 Reforms
 Refraction
 Refractive
+Refracts
 Refrain
 Refresh
 Refreshing
@@ -11064,6 +11102,7 @@ Rinsing
 Riot
 Riots
 Rip
+Ripe
 Rise
 Risen
 Rises
@@ -11263,6 +11302,7 @@ Sandwich
 Sandwiches
 Sang
 Sanitary
+Sanitizer
 Sank
 Sap
 Sarcasm
@@ -11440,6 +11480,7 @@ Securing
 Security
 Sedan
 Sedative
+Sedentary
 Seduce
 Seduced
 Seduction
@@ -11863,6 +11904,7 @@ Sketch
 Sketches
 Sketchup
 Skewing
+Skies
 Skiing
 Skill
 Skilled
@@ -13931,6 +13973,7 @@ Upgrade
 Upgraded
 Upgrades
 Upgrading
+Uphill
 Uplifting
 Upload
 Uploading
@@ -14057,6 +14100,7 @@ Vegetable
 Vegetables
 Vegetarian
 Vegetarians
+Veggies
 Vehicle
 Vehicles
 Velocity
@@ -14099,6 +14143,8 @@ Vertically
 Very
 Vest
 Vests
+Veteran
+Veterans
 Veto
 Via
 Viable
@@ -15819,6 +15865,7 @@ apartment
 apartments
 apathetic
 apathy
+ape
 aperture
 apex
 api
@@ -17109,6 +17156,7 @@ bone
 bones
 bonus
 bonuses
+boobs
 book
 booked
 booking
@@ -17148,6 +17196,7 @@ border
 bordered
 bordering
 borders
+bore
 bored
 boring
 born
@@ -17472,6 +17521,7 @@ butterflies
 butterfly
 button
 buttons
+butts
 buy
 buyer
 buyers
@@ -17480,6 +17530,7 @@ buyings
 buys
 buzz
 buzzer
+buzzing
 by
 by-passing
 by-value
@@ -17804,6 +17855,8 @@ cellphone
 cellphones
 cells
 cellular
+censor
+censored
 censoring
 censorship
 center
@@ -18511,6 +18564,7 @@ colocate
 colocated
 colocation
 colon
+colonial
 colonies
 colonization
 colonize
@@ -18548,8 +18602,12 @@ combined
 combines
 combining
 combobox
+combust
+combusted
 combustible
+combusting
 combustion
+combusts
 come
 comeback
 comedian
@@ -19624,6 +19682,8 @@ cpu-cache
 cpu-only
 cpus
 cpython
+crab
+crabs
 crack
 crackdown
 cracked
@@ -19948,6 +20008,7 @@ cutting
 cutting-edge
 cuttings
 cyan
+cyanide
 cyber
 cyber-attacks
 cyber-criminals
@@ -20653,6 +20714,8 @@ depreciated
 depreciates
 depreciating
 depreciation
+depressant
+depressants
 depressed
 depresses
 depressing
@@ -22136,6 +22199,7 @@ emailed
 emailing
 emails
 embarassing
+embargo
 embark
 embarked
 embarking
@@ -23511,6 +23575,8 @@ finger
 fingerprint
 fingerprints
 fingers
+fingertip
+fingertips
 finish
 finished
 finishes
@@ -23914,6 +23980,7 @@ forth
 forthcome
 forthcoming
 fortification
+fortifications
 fortified
 fortify
 fortitude
@@ -24862,6 +24929,7 @@ harass
 harassed
 harassing
 harassment
+harbor
 hard
 hard-coded
 hardcode
@@ -24908,6 +24976,7 @@ harnessing
 harsh
 harshly
 harvest
+harvesting
 has
 hash
 hash-collisions
@@ -26051,6 +26120,7 @@ indulgent
 indulges
 indulging
 industrial
+industrialization
 industrialized
 industrials
 industries
@@ -26684,6 +26754,11 @@ intimidating
 into
 intolerable
 intonation
+intoxicate
+intoxicated
+intoxicates
+intoxicating
+intoxication
 intra-cluster
 intract
 intractable
@@ -27105,6 +27180,7 @@ jotted
 jotting
 journal
 journaling
+journalism
 journalist
 journalists
 journals
@@ -27281,6 +27357,7 @@ killings
 kills
 kilobytes
 kilogram
+kilograms
 kilometer
 kilometers
 kind
@@ -27571,6 +27648,7 @@ legion
 legislative
 legitimacy
 legitimate
+legitimately
 legitimates
 legitimize
 legitimized
@@ -28044,6 +28122,7 @@ lssvm
 lstm
 ltd
 lua
+lubricant
 lubuntu
 lucene
 luck
@@ -28638,6 +28717,7 @@ might
 might've
 mighty
 migraine
+migraines
 migrant
 migrants
 migrate
@@ -28871,6 +28951,7 @@ mixer
 mixes
 mixing
 mixture
+mixtures
 mixup
 ml
 mlops
@@ -29414,6 +29495,7 @@ nasty
 nation
 national
 nationalism
+nationalist
 nationality
 nationally
 nations
@@ -30440,6 +30522,8 @@ other's
 others
 otherwise
 ought
+ounce
+ounces
 our
 ours
 ourself
@@ -31010,6 +31094,7 @@ patriot
 patriotic
 patriotism
 patriots
+patrol
 patronage
 patroness
 pattern
@@ -31117,6 +31202,8 @@ penetrating
 penetration
 penguin
 penguins
+penis
+penises
 penitence
 pens
 pensive
@@ -31380,6 +31467,8 @@ pilot
 pilots
 pim
 pimpl
+pimple
+pimples
 pin
 pinched
 pinches
@@ -31481,6 +31570,7 @@ platform-specific
 platforming
 platformization
 platforms
+platinum
 platter
 plausibility
 plausible
@@ -31726,6 +31816,7 @@ possessed
 possesses
 possessing
 possession
+possessions
 possibilities
 possibility
 possible
@@ -33491,6 +33582,7 @@ reformulation
 reformulations
 refraction
 refractive
+refracts
 refrain
 refrained
 refrains
@@ -34508,6 +34600,7 @@ rinsing
 riot
 riots
 rip
+ripe
 ripped
 rise
 risen
@@ -34781,6 +34874,7 @@ sandwich
 sandwiches
 sang
 sanitary
+sanitizer
 sanity
 sank
 sap
@@ -35064,6 +35158,7 @@ sed
 sedan
 sedate
 sedative
+sedentary
 seduce
 seduced
 seduces
@@ -35772,6 +35867,7 @@ sketchy
 skew
 skewed
 skewing
+skies
 skiing
 skilful
 skill
@@ -39654,6 +39750,7 @@ upgrading
 upgrow
 upheaval
 upheld
+uphill
 uphold
 upkeep
 upkeeping
@@ -39929,6 +40026,7 @@ vegetable
 vegetables
 vegetarian
 vegetarians
+veggies
 vehicle
 vehicles
 velocity
@@ -39998,6 +40096,8 @@ vest
 vested
 vesting
 vests
+veteran
+veterans
 veto
 vex
 vexation
