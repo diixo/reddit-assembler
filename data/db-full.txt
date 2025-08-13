@@ -489,6 +489,7 @@ Alleged
 Allegedly
 Allegory
 Allergic
+Allergies
 Allergy
 Alleviate
 Alleviating
@@ -940,6 +941,8 @@ Assumption
 Assumptions
 Assurance
 Assured
+Asteroid
+Asteroids
 Asthma
 Astonishing
 Astonishingly
@@ -1170,6 +1173,8 @@ Baldness
 Ball
 Ballast
 Ballistic
+Balloon
+Balloons
 Ballot
 Ballots
 Balls
@@ -1202,6 +1207,7 @@ Bargain
 Bargaining
 Barn
 Barrels
+Barrier
 Barriers
 Bars
 Bart
@@ -1424,6 +1430,7 @@ BlackBerry
 BlackOut
 Blackberry
 Blackout
+Bladder
 Blade
 Blades
 Blame
@@ -1438,6 +1445,7 @@ Bleach
 Bleached
 Bleaching
 Bleed
+Bleeding
 Blend
 Blended
 Blender
@@ -1618,6 +1626,7 @@ Breaks
 Breakthrough
 Breakthroughs
 Breakup
+Breast
 Breasts
 Breath
 Breathe
@@ -1698,6 +1707,7 @@ Buddy
 Budget
 Budgeting
 Budgets
+Buds
 Buffer
 Buffered
 Buffering
@@ -1819,6 +1829,7 @@ Cable
 Cables
 Cache
 Caching
+Caffeine
 Cage
 Cake
 Cakes
@@ -1879,6 +1890,7 @@ Candidate
 Candidates
 Candidly
 Candies
+Candle
 Candles
 Candour
 Candy
@@ -2285,6 +2297,7 @@ Client
 Clients
 Cliffs
 Climate
+Climates
 Climb
 Climbing
 Climbs
@@ -2358,6 +2371,7 @@ Coaster
 Coasters
 Coasts
 Coat
+Coating
 Coats
 Coaxial
 Cobol
@@ -2956,6 +2970,7 @@ Coordinator
 Copied
 Copies
 Coping
+Copper
 Cops
 Copy
 Copying
@@ -3179,6 +3194,7 @@ Crush
 Crushed
 Crushes
 Crushing
+Crust
 Crux
 Cry
 Crying
@@ -3228,6 +3244,7 @@ Currencies
 Currency
 Current
 Currently
+Currents
 Curriculum
 Curse
 Cursed
@@ -3763,6 +3780,7 @@ Dialogue
 Dialogues
 Diameter
 Diamond
+Diaphragm
 Diaries
 Diarrhea
 Diary
@@ -5007,6 +5025,7 @@ Extent
 Exterior
 External
 Externally
+Extinct
 Extinction
 Extinguish
 Extra
@@ -5157,6 +5176,7 @@ Fatal
 Father
 Fathers
 Fatigue
+Fats
 Fatty
 Fault
 Faults
@@ -5218,6 +5238,7 @@ Festivals
 Fetal
 Fetch
 Fetish
+Fetus
 Fever
 Fevers
 Few
@@ -5896,6 +5917,7 @@ Giving
 Glad
 Glancing
 Gland
+Glands
 Glare
 Glass
 Glasses
@@ -6125,6 +6147,7 @@ Hadoop
 Hailing
 Hair
 Haircut
+Hairs
 Hairy
 Half
 Halfway
@@ -7645,6 +7668,7 @@ Launcher
 Launches
 Launching
 Laundry
+Lava
 Law
 Law's
 Lawful
@@ -8011,6 +8035,7 @@ Lumber
 Luminosity
 Luminous
 Lunch
+Lung
 Lungs
 Lurk
 Lurking
@@ -8153,6 +8178,7 @@ Margin
 Marginal
 Marginally
 Margins
+Marijuana
 Marine
 Maritime
 Mark
@@ -8311,6 +8337,7 @@ Member
 Members
 Membership
 Membrane
+Membranes
 Meme
 Memes
 Memorable
@@ -8578,6 +8605,7 @@ Moldy
 Molecular
 Molecule
 Molecules
+Molten
 Mom
 Mom's
 Moment
@@ -8767,6 +8795,7 @@ Myths
 N-Dimensional
 N-Gram
 N-dimensional
+NASA
 NAZI
 NAZIS
 NAZIs
@@ -9409,6 +9438,8 @@ Outsourcing
 Outstanding
 Outward
 Outwardly
+Oven
+Ovens
 Over
 Over-the-air
 OverDrive
@@ -9896,6 +9927,7 @@ Pigs
 Pike
 Pile
 Piles
+Pill
 Pillar
 Pillars
 Pillow
@@ -10063,6 +10095,7 @@ Polarization
 Polarized
 Polarizing
 Pole
+Poles
 Police
 Policeman
 Policies
@@ -10300,6 +10333,7 @@ Press
 Pressed
 Pressing
 Pressure
+Pressures
 Prestige
 Prestigious
 Presumably
@@ -10486,6 +10520,7 @@ Proofing
 Proofreading
 Proofs
 Prop
+Propaganda
 Propagate
 Propagates
 Propagating
@@ -10580,6 +10615,7 @@ Psychopaths
 Psychopathy
 Psychosis
 Pub
+Puberty
 PubliC
 Public
 Public-key
@@ -11583,6 +11619,7 @@ Rod
 Rode
 Rodent
 Rodents
+Rods
 Rogue
 Role
 Roles
@@ -12531,6 +12568,7 @@ Socialized
 Socializing
 Socially
 Societal
+Societies
 Society
 Sociological
 Sociology
@@ -12571,6 +12609,7 @@ Solitude
 Solo
 Solstice
 Solubility
+Soluble
 Solution
 Solutions
 Solve
@@ -13319,6 +13358,7 @@ Surrogates
 Surround
 Surrounded
 Surrounding
+Surroundings
 Surveillance
 Survey
 Surveys
@@ -13569,6 +13609,7 @@ Telegram
 Telemetry
 Telephone
 Telephones
+Telescopes
 Television
 Tell
 Telling
@@ -13641,6 +13682,7 @@ Testers
 Testifying
 Testimony
 Testing
+Testosterone
 Tests
 Tether
 Tethering
@@ -13942,6 +13984,8 @@ Town
 Towns
 Toxic
 Toxicity
+Toxin
+Toxins
 Toy
 Toys
 Trace
@@ -13953,6 +13997,7 @@ Tracked
 Tracker
 Tracking
 Tracks
+Tract
 Traction
 Trade
 Trade-offs
@@ -14153,8 +14198,10 @@ Truthful
 Truths
 Try
 Trying
+Tubes
 Tuesday
 Tumble
+Tumor
 Tune
 Tuned
 Tunes
@@ -14592,6 +14639,7 @@ Vaccinate
 Vaccinated
 Vaccination
 Vaccinations
+Vaccine
 Vaccines
 Vacuum
 Vagina
@@ -14617,6 +14665,7 @@ Vanishes
 Vanishing
 Vanities
 Vanity
+Vapor
 Vaporize
 Vaporizing
 Vapour
@@ -14768,6 +14817,7 @@ Visually
 Visuals
 Vital
 Vitamin
+Vitamins
 Vivid
 VoIP
 Vocabulary
@@ -16098,6 +16148,7 @@ alleging
 allegorical
 allegory
 allergic
+allergies
 allergy
 alleviate
 alleviated
@@ -16866,6 +16917,8 @@ assure
 assured
 assures
 assuring
+asteroid
+asteroids
 asthma
 astonish
 astonished
@@ -17288,6 +17341,8 @@ baldness
 ball
 ballast
 ballistic
+balloon
+balloons
 ballot
 ballots
 balls
@@ -17329,6 +17384,7 @@ barge
 barn
 barrel
 barrels
+barrier
 barriers
 bars
 bart
@@ -17658,6 +17714,7 @@ blacklist
 blacklisted
 blacklists
 blackout
+bladder
 blade
 blades
 blame
@@ -17680,6 +17737,7 @@ bleached
 bleaching
 bleak
 bleed
+bleeding
 blend
 blended
 blender
@@ -17944,6 +18002,7 @@ breaks
 breakthrough
 breakthroughs
 breakup
+breast
 breasts
 breath
 breathe
@@ -18056,6 +18115,7 @@ buddy
 budget
 budgeting
 budgets
+buds
 buffer
 buffered
 buffering
@@ -18222,6 +18282,7 @@ cached
 caches
 caching
 cad
+caffeine
 cage
 cake
 cakes
@@ -18308,6 +18369,7 @@ candidate
 candidates
 candidly
 candies
+candle
 candles
 candour
 candy
@@ -18936,6 +18998,7 @@ clientside
 clientview
 cliffs
 climate
+climates
 climb
 climbed
 climbing
@@ -19094,6 +19157,7 @@ coasters
 coastline
 coasts
 coat
+coating
 coats
 coauthor
 coauthors
@@ -20203,6 +20267,7 @@ copies
 copilot
 coping
 copious
+copper
 coprocessor
 coprocessors
 coproduct
@@ -20565,6 +20630,7 @@ crush
 crushed
 crushes
 crushing
+crust
 crusty
 crux
 cry
@@ -20660,6 +20726,7 @@ currency
 current
 currentdate
 currently
+currents
 curriculum
 curse
 cursed
@@ -20768,6 +20835,7 @@ damage
 damaged
 damages
 damaging
+damn
 damned
 damped
 damper
@@ -21714,6 +21782,7 @@ dials
 diameter
 diamond
 diamonds
+diaphragm
 diaries
 diarrhea
 diary
@@ -23913,6 +23982,7 @@ extern
 external
 externally
 externals
+extinct
 extinction
 extinguish
 extinguished
@@ -24137,6 +24207,7 @@ fatigue
 fatigued
 fatigues
 fatiguing
+fats
 fatty
 fault
 fault-tolerance
@@ -24242,6 +24313,7 @@ fetched
 fetches
 fetching
 fetish
+fetus
 fever
 fevers
 few
@@ -25313,6 +25385,7 @@ glanced
 glances
 glancing
 gland
+glands
 glare
 glaring
 glass
@@ -25669,6 +25742,7 @@ hailing
 hails
 hair
 haircut
+hairs
 hairy
 half
 halfway
@@ -28421,6 +28495,7 @@ launches
 launching
 laundry
 laurels
+lava
 lavished
 law
 law's
@@ -29030,6 +29105,7 @@ lump
 lumps
 lunch
 lunches
+lung
 lungs
 lurk
 lurked
@@ -29216,6 +29292,7 @@ marginal
 marginally
 margins
 mariadb
+marijuana
 marine
 maritime
 mark
@@ -29433,6 +29510,7 @@ members
 members-only
 membership
 membrane
+membranes
 memcache
 memcpy
 meme
@@ -29968,6 +30046,7 @@ molecular
 molecule
 molecules
 moles
+molten
 mom
 mom's
 moment
@@ -31584,6 +31663,8 @@ outwardly
 outwards
 outweigh
 outweighs
+oven
+ovens
 over
 over-commitment
 over-engineering
@@ -32424,6 +32505,7 @@ piles
 pilfered
 pilfering
 pilfers
+pill
 pillar
 pillars
 pillow
@@ -32680,6 +32762,7 @@ polarized
 polarizes
 polarizing
 pole
+poles
 police
 policeman
 policies
@@ -33128,6 +33211,7 @@ pressing
 pressingly
 pressure
 pressured
+pressures
 prestige
 prestigious
 presumably
@@ -33442,6 +33526,7 @@ proofread
 proofreading
 proofs
 prop
+propaganda
 propagate
 propagated
 propagates
@@ -33604,6 +33689,7 @@ psychosis
 pthread
 pthreads
 pub
+puberty
 public
 public-cloud
 public-key
@@ -35723,6 +35809,7 @@ rod
 rode
 rodent
 rodents
+rods
 rogue
 roi
 role
@@ -37215,6 +37302,7 @@ socialized
 socializing
 socially
 societal
+societies
 society
 sociological
 sociology
@@ -37287,6 +37375,7 @@ solo
 solr
 solstice
 solubility
+soluble
 solute
 solution
 solution-focused
@@ -38559,6 +38648,7 @@ surrogates
 surround
 surrounded
 surrounding
+surroundings
 surrounds
 surveillance
 survey
@@ -38982,6 +39072,7 @@ telephones
 telephony
 teleport
 telescope
+telescopes
 television
 tell
 telling
@@ -39115,6 +39206,7 @@ testimonial
 testimonials
 testimony
 testing
+testosterone
 tests
 tether
 tethered
@@ -39621,6 +39713,8 @@ town
 towns
 toxic
 toxicity
+toxin
+toxins
 toy
 toys
 tpu
@@ -39641,6 +39735,7 @@ tracking
 trackpad
 trackpoint
 tracks
+tract
 tractability
 tractable
 traction
@@ -39988,8 +40083,10 @@ tryout
 tryouts
 tshirt
 tsql
+tubes
 tuesday
 tumble
+tumor
 tunable
 tune
 tuned
@@ -41100,6 +41197,7 @@ vaccinates
 vaccinating
 vaccination
 vaccinations
+vaccine
 vaccines
 vacuum
 vagaries
@@ -41143,6 +41241,7 @@ vanishes
 vanishing
 vanities
 vanity
+vapor
 vaporize
 vaporized
 vaporizing
@@ -41410,6 +41509,7 @@ visualstudio
 vital
 vitality
 vitamin
+vitamins
 vivacity
 vivid
 vividly
