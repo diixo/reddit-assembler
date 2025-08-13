@@ -47,6 +47,7 @@
 3ds
 3g
 3rd
+4D
 4G
 4K
 4g
@@ -361,6 +362,8 @@ Advocates
 Adware
 Adwords
 Aerial
+Aerobic
+Aerodynamics
 Aesthetic
 Aesthetically
 Aesthetics
@@ -914,6 +917,7 @@ Assumption
 Assumptions
 Assurance
 Assured
+Asthma
 Astonishing
 Astonishingly
 Astrology
@@ -1459,6 +1463,7 @@ Boiler
 Boiling
 Bold
 Bolt
+Bolts
 Boltzmann
 Bomb
 Bombed
@@ -2067,6 +2072,7 @@ Chemically
 Chemicals
 Chemist
 Chemistry
+Chemotherapy
 Cherries
 Cherry
 Chess
@@ -2088,6 +2094,7 @@ Chill
 Chilled
 Chilling
 Chills
+Chimpanzees
 China
 Chinese
 Chip
@@ -2186,6 +2193,8 @@ Classify
 Classroom
 Clause
 Clauses
+Claw
+Claws
 Clean
 Cleaner
 Cleaners
@@ -2400,6 +2409,8 @@ Comma-Separated
 Command
 Command's
 Commanded
+Commander
+Commanders
 Commanding
 Commands
 Commas
@@ -4307,6 +4318,7 @@ Eighteen
 Eighth
 Eighty
 Either
+Ejaculation
 Eject
 Ejected
 Ejecting
@@ -4461,6 +4473,7 @@ End
 End-Point
 End-User
 End-to-End
+Endangered
 Endeavor
 Endeavour
 Endeavours
@@ -4570,6 +4583,7 @@ Envision
 Envy
 Epic
 Epics
+Epidemic
 Epilogue
 Episode
 Episodes
@@ -4598,6 +4612,7 @@ Equivalently
 Equivalents
 Era
 Eradicating
+Eras
 Erasable
 Erase
 Erased
@@ -4990,6 +5005,7 @@ Faithful
 Fake
 Faked
 Fall
+Fallacy
 Fallen
 Falling
 Falls
@@ -6725,6 +6741,7 @@ Indoors
 Induce
 Induced
 Induces
+Inducing
 Inductance
 Induction
 Inductive
@@ -6810,6 +6827,7 @@ Ingress
 Inhabitants
 Inhabited
 Inhale
+Inhaled
 Inhaling
 Inherent
 Inherently
@@ -7080,6 +7098,7 @@ Invariably
 Invariance
 Invariant
 Invasion
+Invasions
 Invasive
 Invent
 Invented
@@ -7768,6 +7787,7 @@ Loopholes
 Loops
 Loose
 Loosely
+Lord
 Los
 Lose
 Loser
@@ -7815,11 +7835,13 @@ Ltd
 Lua
 Lubricant
 Lubuntu
+Lucid
 Luck
 Luckily
 Lucky
 Luggage
 Lumber
+Luminosity
 Luminous
 Lunch
 Lungs
@@ -7921,6 +7943,7 @@ Managerial
 Managers
 Manages
 Managing
+Mandarin
 Mandate
 Mandatory
 Maneuver
@@ -8190,6 +8213,7 @@ Microphones
 Microprocessor
 Microprocessors
 Microscope
+Microscopes
 Microscopic
 Microsoft
 Microsoft's
@@ -9203,6 +9227,7 @@ Overeating
 Overfitting
 Overflow
 Overhead
+Overheating
 Overlap
 Overlapping
 Overlaying
@@ -9659,6 +9684,7 @@ Pigments
 Pigs
 Pike
 Pile
+Piles
 Pillar
 Pillars
 Pillow
@@ -9669,7 +9695,9 @@ Pim
 Pimple
 Pimples
 Pin
+Pinch
 Pinched
+Pinching
 Pineapple
 Ping
 Pinging
@@ -9693,6 +9721,7 @@ Pitched
 Pitcher
 Pitches
 Pitching
+Pits
 Pity
 Pivot
 Pixel
@@ -10503,6 +10532,7 @@ Radars
 Radial
 Radians
 Radiant
+Radiated
 Radiation
 Radiator
 Radical
@@ -11024,6 +11054,7 @@ Reprogramming
 Reptile
 Republic
 Republican
+Republicans
 Republics
 Repulsion
 Repurposing
@@ -11219,7 +11250,9 @@ Rewrote
 Rhetoric
 Rhetorical
 Rho
+Rhythm
 Rhythmic
+Rhythms
 Ribbon
 Ribbons
 Rice
@@ -11346,6 +11379,8 @@ Routine
 Routinely
 Routines
 Routing
+Rover
+Rovers
 Row
 Royal
 Royalties
@@ -11379,6 +11414,8 @@ Runners
 Running
 Runs
 Runtime
+Runway
+Runways
 Rural
 Rush
 Rushed
@@ -12084,6 +12121,8 @@ Skirts
 Sky
 Skydiving
 Skype
+Skyscraper
+Skyscrapers
 Slack
 Slam
 Slamming
@@ -12252,6 +12291,7 @@ Soliloquy
 Solitary
 Solitude
 Solo
+Solstice
 Solution
 Solutions
 Solve
@@ -12279,6 +12319,7 @@ Sons
 Sony
 Soon
 Sooner
+Soot
 Sophisticated
 Sorrow
 Sorry
@@ -12964,6 +13005,8 @@ Surfaces
 Surfer
 Surfing
 Surge
+Surgeon
+Surgeons
 Surgeries
 Surgery
 Surges
@@ -13120,6 +13163,7 @@ Tackle
 Tackling
 Tact
 Tactic
+Tactical
 Tactics
 Tactile
 Tag
@@ -13285,6 +13329,7 @@ Terrible
 Terribly
 Terrific
 Terrifying
+Territorial
 Territories
 Territory
 Terror
@@ -13329,6 +13374,7 @@ That's
 Thats
 The
 Theater
+Theatre
 Theatres
 Theft
 Their
@@ -13360,6 +13406,7 @@ Therefore
 Therein
 Theres
 Thermal
+Thermodynamic
 Thermometer
 Thesaurus
 These
@@ -13507,6 +13554,7 @@ Tokens
 Told
 Tolerance
 Tolerances
+Toll
 Tomato
 Tomatoes
 Tomb
@@ -14717,6 +14765,7 @@ Wild
 Wilderness
 Wildest
 Wildfire
+Wildlife
 Wildly
 Wile
 Wiles
@@ -15432,6 +15481,8 @@ adware
 adwares
 adwords
 aerial
+aerobic
+aerodynamics
 aesthetic
 aesthetically
 aesthetics
@@ -16460,6 +16511,7 @@ assure
 assured
 assures
 assuring
+asthma
 astonish
 astonished
 astonishing
@@ -17194,6 +17246,7 @@ biologically
 biologist
 biologists
 biology
+biomass
 bionic
 bios
 biotech
@@ -17349,6 +17402,7 @@ boiler
 boiling
 bold
 bolt
+bolts
 boltzmann
 bomb
 bombed
@@ -18261,6 +18315,7 @@ chemically
 chemicals
 chemist
 chemistry
+chemotherapy
 cherish
 cherished
 cherishes
@@ -18289,8 +18344,10 @@ chill
 chilled
 chilling
 chills
+chimpanzees
 chin
 china
+chinese
 chip
 chip's
 chipmaker
@@ -18438,6 +18495,8 @@ classmates
 classroom
 clause
 clauses
+claw
+claws
 clay
 clean
 clean-up
@@ -18852,6 +18911,8 @@ command's
 command-line
 command-specific
 commanded
+commander
+commanders
 commanding
 commandingly
 commandline
@@ -22338,6 +22399,7 @@ eighteen
 eighth
 eighty
 either
+ejaculation
 eject
 ejected
 ejecting
@@ -22630,6 +22692,7 @@ end-to-end
 end-user
 end-users
 endanger
+endangered
 endeared
 endeavor
 endeavored
@@ -22865,6 +22928,7 @@ eof
 epic
 epically
 epics
+epidemic
 epilogue
 episode
 episodes
@@ -22917,6 +22981,7 @@ eradicate
 eradicated
 eradicates
 eradicating
+eras
 erasable
 erase
 erased
@@ -23535,6 +23600,7 @@ fake
 faked
 fakes
 fall
+fallacy
 fallback
 fallen
 falling
@@ -26391,6 +26457,7 @@ induced
 inducement
 inducements
 induces
+inducing
 induct
 inductance
 inducted
@@ -26575,6 +26642,7 @@ inhabited
 inhabiting
 inhabits
 inhale
+inhaled
 inhaling
 inhere
 inherent
@@ -27118,6 +27186,7 @@ invariances
 invariant
 invariants
 invasion
+invasions
 invasive
 invent
 invented
@@ -28359,6 +28428,7 @@ loosening
 loosens
 looser
 loosing
+lord
 lose
 loser
 losers
@@ -28427,6 +28497,7 @@ lua
 lubricant
 lubuntu
 lucene
+lucid
 luck
 lucked
 luckiest
@@ -28435,6 +28506,7 @@ lucky
 lucrative
 luggage
 lumber
+luminosity
 luminous
 lump
 lumps
@@ -28569,6 +28641,7 @@ managerial
 managers
 manages
 managing
+mandarin
 mandate
 mandatory
 maneuver
@@ -28984,6 +29057,7 @@ microprocessor
 microprocessors
 micropython
 microscope
+microscopes
 microscopic
 microsd
 microsecond
@@ -31026,6 +31100,8 @@ overhear
 overheard
 overhearing
 overheat
+overheating
+overheatings
 overkill
 overlaid
 overlap
@@ -31779,6 +31855,7 @@ pigs
 pike
 pile
 piled
+piles
 pilfered
 pilfering
 pilfers
@@ -31794,8 +31871,10 @@ pimpl
 pimple
 pimples
 pin
+pinch
 pinched
 pinches
+pinching
 pineapple
 ping
 pinged
@@ -31837,6 +31916,7 @@ pitiable
 pitied
 pitiful
 pitifullest
+pits
 pity
 pivot
 pivotal
@@ -33224,6 +33304,7 @@ radial
 radians
 radiant
 radiate
+radiated
 radiation
 radiator
 radical
@@ -34458,6 +34539,7 @@ reproofs
 reprove
 reptile
 republic
+republicans
 republics
 republished
 repugnance
@@ -34902,7 +34984,9 @@ rgb
 rhetoric
 rhetorical
 rho
+rhythm
 rhythmic
+rhythms
 ribbon
 ribbons
 rice
@@ -35097,6 +35181,8 @@ routine
 routinely
 routines
 routing
+rover
+rovers
 row
 row-major
 row-wise
@@ -35168,6 +35254,8 @@ runtime
 runtime-error
 runtimeerror
 runtimes
+runway
+runways
 rural
 rush
 rushed
@@ -36264,6 +36352,8 @@ sky
 skydiving
 skyline
 skype
+skyscraper
+skyscrapers
 slack
 slackened
 slain
@@ -36551,6 +36641,7 @@ solitary
 solitude
 solo
 solr
+solstice
 solute
 solution
 solution-focused
@@ -36588,6 +36679,7 @@ sony
 soon
 sooner
 soonest
+soot
 soothe
 soothing
 soothings
@@ -37777,6 +37869,8 @@ surfer
 surfing
 surge
 surged
+surgeon
+surgeons
 surgeries
 surgery
 surges
@@ -38030,6 +38124,7 @@ tackled
 tackling
 tact
 tactic
+tactical
 tactics
 tactile
 tag
@@ -38319,6 +38414,7 @@ terrified
 terrifies
 terrify
 terrifying
+territorial
 territories
 territory
 terror
@@ -38416,6 +38512,7 @@ thaws
 the
 theater
 theaters
+theatre
 theatres
 theft
 their
@@ -38456,6 +38553,7 @@ thereout
 theres
 thereupon
 thermal
+thermodynamic
 thermometer
 thesaurus
 these
@@ -38722,6 +38820,7 @@ tolerances
 tolerant
 tolerate
 tolerated
+toll
 tomato
 tomatoes
 tomb
@@ -41212,6 +41311,7 @@ wildcard
 wilderness
 wildest
 wildfire
+wildlife
 wildly
 wile
 wiles
