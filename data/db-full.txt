@@ -768,6 +768,7 @@ Arbitrary
 Arcade
 Arch
 Archaeologist
+Archaic
 Arched
 Archeological
 Archeologists
@@ -797,6 +798,7 @@ Argument's
 Arguments
 Arise
 Arising
+Aristocracy
 Aristocratic
 Arithmetic
 Arithmetically
@@ -1044,6 +1046,7 @@ Averages
 Averaging
 Aversion
 Averted
+Aviation
 Avocado
 Avocados
 Avoid
@@ -1698,6 +1701,7 @@ Business
 Businesses
 Businessman
 Busses
+Bust
 Busted
 Busy
 But
@@ -1776,6 +1780,7 @@ Calculus
 Calendar
 Calendars
 Calf
+Caliber
 Calibrating
 Calibration
 California
@@ -1920,6 +1925,7 @@ Cats
 Caught
 Causal
 Causality
+Causation
 Cause
 Caused
 Causers
@@ -2177,6 +2183,7 @@ Clause
 Clauses
 Clean
 Cleaner
+Cleaners
 Cleanest
 Cleaning
 Cleans
@@ -2977,6 +2984,7 @@ Crafting
 Crafts
 Cramping
 Cramps
+Crank
 Cranking
 Crap
 Crappy
@@ -3286,6 +3294,7 @@ Decay
 Decayed
 Decaying
 Decays
+Deceased
 Decelerating
 Deceleration
 December
@@ -3737,6 +3746,7 @@ Diplomacy
 Diplomas
 Diplomat
 Diplomatic
+Diplomats
 Dipping
 Dir
 Dire
@@ -3966,6 +3976,7 @@ Division
 Divisions
 Divisor
 Divorce
+Dizziness
 Django
 Dll
 Dna
@@ -4074,6 +4085,7 @@ Dragging
 Dragon
 Dragons
 Drain
+Draining
 Drains
 Drama
 Dramatic
@@ -5062,6 +5074,7 @@ Feminism
 Feminist
 Feminists
 Fence
+Fermented
 Festival
 Festivals
 Fetch
@@ -5188,6 +5201,8 @@ Flag
 Flagged
 Flags
 Flail
+Flair
+Flairs
 Flake
 Flakes
 Flame
@@ -5218,6 +5233,7 @@ Flaws
 Flea
 Fleas
 Flee
+Fleeing
 Fleet
 Flew
 Flex
@@ -5415,6 +5431,7 @@ Fractals
 Fraction
 Fractional
 Fractions
+Fractures
 Fragile
 Fragment
 Fragmentation
@@ -5489,6 +5506,7 @@ Frontier
 Frontline
 Frontpage
 Fronts
+Frost
 Frosted
 Froze
 Frozen
@@ -5499,6 +5517,7 @@ Frustrate
 Frustrated
 Frustrating
 Fry
+Frying
 Fuck
 Fucked
 Fucking
@@ -5721,6 +5740,7 @@ Gives
 Giving
 Glad
 Glancing
+Glare
 Glass
 Glasses
 Glee
@@ -5773,6 +5793,8 @@ Googled
 Googling
 Goose
 Gorgeous
+Gorilla
+Gorillas
 Got
 Goto
 Gotta
@@ -5839,6 +5861,7 @@ Gravitational
 Gravity
 Gravy
 Gray
+Greasy
 Great
 Greater
 Greatest
@@ -6016,6 +6039,7 @@ Harness
 Harnessing
 Harsh
 Harvest
+Harvested
 Harvesting
 Has
 Hash
@@ -6704,6 +6728,7 @@ Infamous
 Infamously
 Infancy
 Infant
+Infantry
 Infect
 Infected
 Infecting
@@ -6770,6 +6795,7 @@ Inherited
 Inheriting
 Inhibit
 Inhibited
+Inhibiting
 Inhibition
 Inhibits
 Initial
@@ -6996,6 +7022,7 @@ Intimacy
 Intimate
 Into
 Intolerable
+Intolerance
 Intonation
 Intoxicated
 Intoxicates
@@ -7074,6 +7101,9 @@ Inward
 IoT
 Ion
 Ionic
+Ionized
+Ionizes
+Ionizing
 Ions
 Ipad
 Ipads
@@ -7087,6 +7117,7 @@ Iris
 Iron
 Ironic
 Ironically
+Irony
 Irradiated
 Irradiation
 Irrational
@@ -7172,6 +7203,7 @@ JavaScript
 JavaScript's
 Javascript
 Jaw
+Jaws
 Jazz
 Jboss
 Jealousy
@@ -8337,6 +8369,7 @@ Monochromatic
 Monochrome
 Monogamy
 Monologue
+Monopolies
 Monopoly
 Monster
 Monsters
@@ -8354,6 +8387,7 @@ Moonshine
 Moore's
 Moot
 Moral
+Morale
 Morality
 Morally
 More
@@ -8453,6 +8487,7 @@ Multiverse
 Municipal
 Murdered
 Murdering
+Murders
 Muscle
 Muscles
 Museums
@@ -8794,6 +8829,7 @@ Numerically
 Numerous
 Nurse
 Nursery
+Nurses
 Nursing
 Nurture
 Nut
@@ -9965,6 +10001,7 @@ Presenting
 Presently
 Presents
 Preservation
+Preservatives
 Preserve
 Preserved
 Preserves
@@ -10490,6 +10527,7 @@ Rapidity
 Rapidly
 Rare
 Rarely
+Rarer
 Rarity
 Raspberries
 Raspberry
@@ -10597,6 +10635,7 @@ Reception
 Receptive
 Receptors
 Recessive
+Rechargeable
 Recharging
 Recipe
 Recipes
@@ -11141,6 +11180,8 @@ Rewritable
 Rewrite
 Rewritten
 Rewrote
+Rhetoric
+Rhetorical
 Rho
 Rhythmic
 Ribbon
@@ -11566,6 +11607,7 @@ Seed
 Seeded
 Seeder
 Seeding
+Seedless
 Seeds
 Seeing
 Seek
@@ -11798,6 +11840,7 @@ Shit
 Shits
 Shitty
 Shiver
+Shivering
 Shock
 Shocked
 Shocking
@@ -12008,6 +12051,7 @@ Slamming
 Slang
 Slant
 Slanted
+Slap
 Slash
 Slashes
 Slate
@@ -12224,6 +12268,7 @@ Spacecrafts
 Spaced
 Spaces
 Spaceship
+Spaceships
 Spacex's
 Spacing
 Spaghetti
@@ -13073,6 +13118,7 @@ Tank
 Tanks
 Tap
 Tape
+Tapes
 Tapping
 Taps
 Tar
@@ -13171,6 +13217,7 @@ Tends
 Tennis
 Tense
 Tenses
+Tensile
 Tension
 Tensions
 Tensor
@@ -14244,6 +14291,7 @@ Vibrate
 Vibrates
 Vibrating
 Vibration
+Vibrational
 Vibrations
 Vice
 Vice-President
@@ -14333,6 +14381,7 @@ Voters
 Votes
 Voting
 Vowel
+Vowels
 Voyage
 Voyager
 Voyages
@@ -16107,6 +16156,7 @@ arbitrary
 arcade
 arch
 archaeologist
+archaic
 arched
 archeological
 archeologists
@@ -16153,6 +16203,7 @@ arise
 arisen
 arises
 arising
+aristocracy
 aristocratic
 arithmetic
 arithmetical
@@ -16635,6 +16686,7 @@ avert
 averted
 averting
 averts
+aviation
 avocado
 avocados
 avocation
@@ -17615,6 +17667,7 @@ businesses
 businessman
 busses
 busspecifically
+bust
 busted
 bustle
 busy
@@ -17703,6 +17756,7 @@ calculus
 calendar
 calendars
 calf
+caliber
 calibrate
 calibrated
 calibrates
@@ -17919,6 +17973,7 @@ cats
 caught
 causal
 causality
+causation
 cause
 cause-effect
 caused
@@ -18336,6 +18391,7 @@ clean
 clean-up
 cleaned
 cleaner
+cleaners
 cleanest
 cleaning
 cleanly
@@ -19815,6 +19871,7 @@ cramp
 cramped
 cramping
 cramps
+crank
 cranking
 crap
 crappy
@@ -20382,6 +20439,7 @@ decay
 decayed
 decaying
 decays
+deceased
 deceit
 deceitful
 deceive
@@ -21259,6 +21317,7 @@ diplomacy
 diplomas
 diplomat
 diplomatic
+diplomats
 dipping
 dir
 dire
@@ -21706,6 +21765,7 @@ divisors
 divisory
 divorce
 divorced
+dizziness
 django
 django-forms
 django-models
@@ -21894,6 +21954,7 @@ dragons
 drags
 drain
 drained
+draining
 drains
 dram
 drama
@@ -23585,6 +23646,7 @@ feminists
 fence
 fenced
 fend
+fermented
 fervour
 festival
 festivals
@@ -23785,6 +23847,8 @@ flags
 flagship
 flagships
 flail
+flair
+flairs
 flake
 flakes
 flame
@@ -23827,6 +23891,7 @@ flea
 fleas
 fled
 flee
+fleeing
 fleet
 fleeting
 fleetly
@@ -24174,6 +24239,7 @@ fractional
 fractionally
 fractions
 fractured
+fractures
 fragile
 fragment
 fragmentation
@@ -24280,6 +24346,7 @@ frontier
 frontline
 frontpage
 fronts
+frost
 frosted
 froze
 frozen
@@ -24296,6 +24363,7 @@ frustrating
 frustration
 frustum
 fry
+frying
 fsb
 fscanf
 fstream
@@ -24642,6 +24710,7 @@ glance
 glanced
 glances
 glancing
+glare
 glaring
 glass
 glasses
@@ -24736,6 +24805,8 @@ googletest
 googling
 goose
 gorgeous
+gorilla
+gorillas
 got
 goto
 gotta
@@ -24849,6 +24920,7 @@ gravity
 gravy
 gray
 grayscale
+greasy
 great
 greater
 greatest
@@ -25115,6 +25187,7 @@ harnessing
 harsh
 harshly
 harvest
+harvested
 harvesting
 has
 hash
@@ -26304,6 +26377,7 @@ infamous
 infamously
 infancy
 infant
+infantry
 infants
 infatuation
 infeasible
@@ -26443,6 +26517,7 @@ inheriting
 inherits
 inhibit
 inhibited
+inhibiting
 inhibition
 inhibitions
 inhibits
@@ -26897,6 +26972,7 @@ intimation
 intimidating
 into
 intolerable
+intolerance
 intonation
 intoxicate
 intoxicated
@@ -27046,6 +27122,10 @@ io-bound
 ion
 ionic
 ionic-framework
+ionize
+ionized
+ionizes
+ionizing
 ions
 ios
 ios7
@@ -27079,6 +27159,7 @@ iron
 ironic
 ironically
 ironpython
+irony
 irradiate
 irradiated
 irradiation
@@ -27274,6 +27355,7 @@ javascript-related
 javaserver
 javax
 jaw
+jaws
 jazz
 jboss
 jdbc
@@ -29242,6 +29324,7 @@ monolingual
 monolithic
 monolithically
 monologue
+monopolies
 monopoly
 monotonic
 monotonically
@@ -29266,6 +29349,7 @@ moot
 mooted
 moots
 moral
+morale
 moralised
 moralising
 morality
@@ -29536,6 +29620,7 @@ municipal
 murder
 murdered
 murdering
+murders
 murmured
 murmurs
 muscle
@@ -30181,6 +30266,7 @@ numpy
 nurse
 nursed
 nursery
+nurses
 nursing
 nurture
 nut
@@ -30946,6 +31032,7 @@ overthrown
 overtime
 overtook
 overturn
+overturned
 overturning
 overturns
 overuse
@@ -32277,6 +32364,7 @@ presenting
 presently
 presents
 preservation
+preservatives
 preserve
 preserved
 preserves
@@ -33136,6 +33224,7 @@ rapturous
 rare
 rared
 rarely
+rarer
 raring
 rarity
 raspberries
@@ -33431,6 +33520,7 @@ recertify
 recession
 recessive
 recharge
+rechargeable
 recharged
 recharges
 recharging
@@ -34725,6 +34815,8 @@ rewritten
 rewrote
 rfc
 rgb
+rhetoric
+rhetorical
 rho
 rhythmic
 ribbon
@@ -35350,6 +35442,7 @@ seed-stage
 seeded
 seeder
 seeding
+seedless
 seeds
 seeing
 seek
@@ -35756,6 +35849,7 @@ shit
 shits
 shitty
 shiver
+shivering
 shock
 shocked
 shocking
@@ -36094,6 +36188,7 @@ slant
 slanted
 slanting
 slants
+slap
 slapped
 slash
 slashes
@@ -36451,6 +36546,7 @@ spacecrafts
 spaced
 spaces
 spaceship
+spaceships
 spacex's
 spacing
 spacious
@@ -37899,6 +37995,7 @@ tank
 tanks
 tap
 tape
+tapes
 tappable
 tapped
 tapping
@@ -38086,6 +38183,7 @@ tennis
 tense
 tensed
 tenses
+tensile
 tension
 tensions
 tensor
@@ -40323,6 +40421,7 @@ vibrated
 vibrates
 vibrating
 vibration
+vibrational
 vibrations
 vice
 vice-president
@@ -40477,6 +40576,7 @@ vouchsafed
 vouchsafing
 vowed
 vowel
+vowels
 voyage
 voyager
 voyages
