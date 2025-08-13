@@ -3,7 +3,7 @@ import json
 from datasets import load_dataset
 from collections import Counter
 from pathlib import Path
-from utils import read_embedded_dict, filter_dictionary, clean_text, str_tokenize_words
+from utils import read_embedded_dict, filter_dictionary, clean_text, str_tokenize_words, save_embedded_dict
 
 
 path = Path("data/empathic-dictionary-counter.json")
@@ -37,15 +37,32 @@ if __name__ == "__main__":
             dictionary = Counter(json.load(f))
 
 
-    skip_words = read_embedded_dict()
+    embedded_words = read_embedded_dict()
 
     processing(dictionary)
 
     ############# save results
 
     if len(dictionary.items()) > 0:
-        dictionary = Counter(filter_dictionary(dictionary, skip_words))
-        print("Saved json.sz=", len(dictionary.items()))
+        dictionary = Counter(filter_dictionary(dictionary, embedded_words))
+
+        if False:
+            new_dict = dict()
+
+            for word, count in dictionary.items():
+                word = word.strip()
+                if word not in embedded_words:
+                    if word.lower() in embedded_words:
+                        embedded_words.add(word)
+                        #print(f"added: [{word}]")
+                    else:
+                        new_dict[word] = count
+
+            dictionary = Counter(new_dict)
+            save_embedded_dict(embedded_words)
+
+        print(f"Saved json.sz={len(dictionary.items())}")
+        #####################################################
 
         with path.open("w", encoding="utf-8") as f:
             json.dump(dictionary, f, indent=2)
@@ -60,3 +77,4 @@ if __name__ == "__main__":
             f.write(word + "\n")
 
 
+# 13271
