@@ -729,6 +729,7 @@ Apocalyptic
 Apologies
 Apologize
 Apology
+Apostrophes
 App
 App's
 Apparent
@@ -823,6 +824,7 @@ Area
 Areas
 Aren't
 Arena
+Arenas
 Arguable
 Arguably
 Argue
@@ -1263,6 +1265,8 @@ Bayesian
 Be
 Beach
 Beaches
+Beacon
+Beacons
 Beads
 Beam
 Beaming
@@ -1417,6 +1421,7 @@ Biologically
 Biologist
 Biologists
 Biology
+Biometric
 Bionic
 Bios
 Biotech
@@ -1553,6 +1558,7 @@ Books
 Boolean
 Boom
 Boomerang
+Boomerangs
 Boomers
 Boost
 Booster
@@ -1615,6 +1621,7 @@ Boy
 Boyfriend
 Boys
 Brace
+Bracelets
 Braces
 Bracket
 Brackets
@@ -1633,6 +1640,7 @@ Brand
 Branded
 Branding
 Brands
+Brandy
 Brass
 Brave
 Braves
@@ -3162,6 +3170,7 @@ Crawlers
 Crawling
 Crawls
 Crayons
+Craziest
 Crazy
 Cream
 Creams
@@ -3228,6 +3237,7 @@ Crossed
 Crosses
 Crossing
 Crossover
+Crossroads
 Crossy
 Crow
 Crowd
@@ -3235,6 +3245,7 @@ Crowded
 Crowdfunding
 Crows
 Crucial
+Crucially
 Crucible
 Crude
 Cruel
@@ -3392,6 +3403,8 @@ Dance
 Dancers
 Dances
 Dancing
+Dandelion
+Dandelions
 Danger
 Dangerous
 Dangerously
@@ -4242,6 +4255,7 @@ Doubt
 Doubtful
 Doubts
 Dove
+Doves
 Down
 Downfall
 Downhill
@@ -4251,6 +4265,7 @@ Downloader
 Downloading
 Downloads
 Downs
+Downshifting
 Downside
 Downsides
 Downstream
@@ -4625,6 +4640,7 @@ Enabled
 Enables
 Enabling
 Enact
+Enacting
 Enamel
 Encapsulate
 Encapsulation
@@ -4669,6 +4685,9 @@ Enemies
 Enemy
 Energetic
 Energized
+Energizer
+Energizers
+Energizing
 Energy
 Enforced
 Enforcement
@@ -4971,6 +4990,8 @@ Exercises
 Exercising
 Exertion
 Exhale
+Exhaled
+Exhaling
 Exhaust
 Exhaustive
 Exhibit
@@ -5187,6 +5208,8 @@ Faith
 Faithful
 Fake
 Faked
+Falcon
+Falcons
 Fall
 Fallacy
 Fallen
@@ -5413,6 +5436,7 @@ Fishes
 Fishing
 Fissile
 Fission
+Fissioning
 Fist
 Fit
 Fitness
@@ -5659,6 +5683,7 @@ Four
 Fourier
 Fourteen
 Fourth
+Fowl
 Fox
 Foxes
 Fractal
@@ -5729,6 +5754,7 @@ Friendly
 Friends
 Friendship
 Fries
+Frigate
 Fright
 Frightening
 Fringe
@@ -6482,6 +6508,7 @@ Hinges
 Hint
 Hints
 Hip
+Hippy
 Hips
 Hire
 Hired
@@ -6986,6 +7013,7 @@ Indirect
 Indirectly
 Indispensable
 Individual
+Individuality
 Individually
 Individuals
 Indoor
@@ -7420,6 +7448,7 @@ Iris
 Iron
 Ironic
 Ironically
+Irons
 Irony
 Irradiated
 Irradiation
@@ -7533,6 +7562,7 @@ Joint
 Joints
 Joke
 Jokes
+Jostling
 Journal
 Journalism
 Journalist
@@ -7825,6 +7855,7 @@ Left
 Leftover
 Leftovers
 Leg
+Legacies
 Legacy
 Legal
 Legality
@@ -8736,6 +8767,7 @@ Monogamy
 Monologue
 Monopolies
 Monopoly
+Monotone
 Monster
 Monsters
 Month
@@ -9806,6 +9838,7 @@ Patch
 Patches
 Patent
 Patented
+Patently
 Patents
 Paternal
 Path
@@ -10058,6 +10091,7 @@ Pinch
 Pinched
 Pinching
 Pineapple
+Pineapples
 Ping
 Pinging
 Pinhole
@@ -10268,6 +10302,7 @@ Popularity
 Populated
 Population
 Populations
+Populism
 Populist
 Porcelain
 Pore
@@ -10471,6 +10506,7 @@ Preventable
 Prevented
 Preventing
 Prevention
+Preventive
 Prevents
 Preview
 Previews
@@ -10625,6 +10661,7 @@ Promise
 Promised
 Promises
 Promising
+Promo
 Promote
 Promoting
 Promotion
@@ -10759,6 +10796,7 @@ Puck
 Puddle
 Puddles
 Puff
+Puffing
 Puffy
 Pull
 Pulled
@@ -10917,6 +10955,7 @@ RSS
 Rabbit
 Rabbits
 Rabies
+Raccoons
 Race
 Racers
 Races
@@ -11113,6 +11152,8 @@ Recipient
 Recipients
 Reciprocal
 Reciprocally
+Recirculating
+Recirculation
 Reckless
 Reclaiming
 Reclassify
@@ -11491,6 +11532,7 @@ Requirements
 Requires
 Requiring
 Requisite
+Reruns
 Resale
 Resampling
 Reschedule
@@ -11701,6 +11743,7 @@ Rigged
 Right
 Rightly
 Rights
+Righty
 Rigid
 Rigorous
 Rim
@@ -11743,6 +11786,7 @@ Roast
 Roasted
 Roasting
 Rob
+Robberies
 Robbery
 Robbing
 Robot
@@ -11826,6 +11870,7 @@ Rubber
 Rubbery
 Rubbing
 Rubbish
+Rubicon
 Ruby
 Rude
 Rudeness
@@ -11918,6 +11963,7 @@ Sails
 Saint
 Sake
 Salad
+Salami
 Salaries
 Salary
 Sale
@@ -11936,6 +11982,7 @@ Samsung
 San
 Sanctions
 Sand
+Sandal
 Sandwich
 Sandwiches
 Sang
@@ -12040,6 +12087,8 @@ Scissors
 Scold
 Scoop
 Scooping
+Scooter
+Scooters
 Scope
 Scopes
 Score
@@ -12610,6 +12659,7 @@ Slept
 Sliced
 Slices
 Slick
+Slicks
 Slide
 Slider
 Sliders
@@ -13035,6 +13085,7 @@ Staff
 Staffed
 Staffers
 Staffing
+Staffs
 Stage
 Staged
 Stages
@@ -13207,6 +13258,8 @@ Stout
 Stove
 Stoves
 Straight
+Straighten
+Straightening
 Straightforward
 Strain
 Strains
@@ -13502,6 +13555,7 @@ Surf
 Surface
 Surfaces
 Surfer
+Surfers
 Surfing
 Surge
 Surgeon
@@ -13717,6 +13771,7 @@ Targeting
 Targets
 Tariff
 Tariffs
+Tart
 Tartar
 Task
 Tasks
@@ -14435,6 +14490,7 @@ Typed
 Types
 Typewriter
 Typewriters
+Typhoon
 Typical
 Typically
 Typing
@@ -14507,6 +14563,7 @@ Unborn
 Unbound
 Unbreakable
 Unbroken
+Uncensored
 Uncertain
 Uncertainties
 Uncertainty
@@ -14842,6 +14899,7 @@ Valued
 Values
 Vampire
 Vandalism
+Vane
 Vanilla
 Vanish
 Vanished
@@ -14926,9 +14984,11 @@ Vertically
 Very
 Vest
 Vests
+Vet
 Veteran
 Veterans
 Veto
+Vets
 Via
 Viable
 Vibe
@@ -15303,6 +15363,7 @@ Wholesome
 Wholly
 Whom
 Whomever
+Whooping
 Whopper
 Whore
 Whose
@@ -15341,7 +15402,9 @@ Will
 Willing
 Willingness
 Wills
+Wilt
 Win
+Win-win
 Win32
 Win64
 Win7
@@ -15419,6 +15482,7 @@ Wooded
 Wooden
 Woods
 Wool
+Wooly
 Word
 WordPress
 Wording
@@ -16125,6 +16189,7 @@ afterwards
 again
 against
 age
+age-old
 aged
 agencies
 agency
@@ -16642,6 +16707,8 @@ ansible
 ansistring
 answer
 answered
+answerer
+answerers
 answering
 answers
 antagonist
@@ -16725,6 +16792,7 @@ apologizes
 apologizing
 apology
 apostrophe
+apostrophes
 app
 app's
 app-based
@@ -16888,6 +16956,7 @@ area
 areas
 aren't
 arena
+arenas
 arguable
 arguably
 argue
@@ -16977,6 +17046,7 @@ artlessly
 artlessness
 arts
 artwork
+artworks
 as
 as-is
 asap
@@ -17640,6 +17710,8 @@ bdd
 be
 beach
 beaches
+beacon
+beacons
 bead
 beads
 beam
@@ -17879,6 +17951,7 @@ biologist
 biologists
 biology
 biomass
+biometric
 bionic
 bios
 biotech
@@ -17950,6 +18023,7 @@ bleep
 bleeped
 bleeping
 bleeps
+blemish
 blend
 blended
 blender
@@ -18072,6 +18146,7 @@ boolean
 booleans
 boom
 boomerang
+boomerangs
 boomers
 boon
 boost
@@ -18166,6 +18241,8 @@ boyish
 boys
 brace
 braced
+bracelet
+bracelets
 braces
 bracket
 brackets
@@ -18190,6 +18267,7 @@ brand-new
 branded
 branding
 brands
+brandy
 brass
 brave
 bravely
@@ -18201,6 +18279,7 @@ breaching
 bread
 break
 break-even
+breakable
 breakage
 breakdown
 breakdowns
@@ -18443,6 +18522,7 @@ buying
 buyings
 buys
 buzz
+buzzed
 buzzer
 buzzing
 by
@@ -18553,6 +18633,7 @@ camel
 camels
 camera
 camera-equipped
+cameraman
 cameraphone
 cameraphones
 cameras
@@ -18617,6 +18698,7 @@ capitalistic
 capitalization
 capitalize
 capitalized
+capitalizing
 caps
 capslock
 capsule
@@ -19433,7 +19515,9 @@ coefficient
 coefficients
 coerced
 coexist
+coexisted
 coexistence
+coexisting
 coexists
 coffee
 cofounded
@@ -20624,6 +20708,7 @@ courage
 course
 coursed
 courses
+coursework
 court
 courtesy
 courts
@@ -20704,6 +20789,7 @@ crawlers
 crawling
 crawls
 crayons
+craziest
 crazy
 cream
 creams
@@ -20807,9 +20893,12 @@ crossed
 crossed-out
 crossentropy
 crosses
+crosshair
 crossing
 crossover
 crossplay
+crossroad
+crossroads
 crosswalk
 crossy
 crow
@@ -20834,6 +20923,7 @@ crowned
 crowns
 crows
 crucial
+crucially
 crucible
 crucified
 crucifies
@@ -21072,6 +21162,8 @@ dancer
 dancers
 dances
 dancing
+dandelion
+dandelions
 danger
 dangerous
 dangerously
@@ -22733,6 +22825,7 @@ doubtingly
 doubtlessly
 doubts
 dove
+doves
 down
 down-sample
 downcasting
@@ -22755,6 +22848,10 @@ downs
 downsample
 downsampling
 downscaling
+downshift
+downshifted
+downshifting
+downshifts
 downside
 downsides
 downsize
@@ -23362,6 +23459,7 @@ enables
 enabling
 enact
 enacted
+enacting
 enacts
 enamel
 encapsulate
@@ -23455,7 +23553,11 @@ enemies
 enemy
 energetic
 energetically
+energize
 energized
+energizer
+energizers
+energizing
 energy
 enforce
 enforced
@@ -24023,6 +24125,9 @@ exerting
 exertion
 exertions
 exhale
+exhaled
+exhales
+exhaling
 exhaust
 exhausted
 exhausting
@@ -24349,6 +24454,8 @@ faithfully
 fake
 faked
 fakes
+falcon
+falcons
 fall
 fallacy
 fallback
@@ -24714,6 +24821,9 @@ fishes
 fishing
 fissile
 fission
+fissioned
+fissioning
+fissions
 fist
 fit
 fitness
@@ -24732,6 +24842,7 @@ fixed-length
 fixed-point
 fixed-price
 fixed-size
+fixer
 fixes
 fixing
 fixture
@@ -24803,6 +24914,7 @@ flexible
 flexibly
 flexing
 flick
+flicked
 flicker
 flickering
 flies
@@ -24814,6 +24926,7 @@ flinging
 flings
 flip
 flip-flop
+flip-flops
 flip-foldable
 flip-up
 flipboard
@@ -25019,6 +25132,7 @@ forfeit
 forfeited
 forgave
 forge
+forgeries
 forgery
 forget
 forgets
@@ -25127,6 +25241,8 @@ four
 fourier
 fourteen
 fourth
+fowl
+fowls
 fox
 foxes
 fpga
@@ -25225,6 +25341,7 @@ friendly
 friends
 friendship
 fries
+frigate
 fright
 frighten
 frightened
@@ -25361,6 +25478,7 @@ funeral
 fungible
 funky
 funnel
+funneling
 funny
 furious
 furniture
@@ -25605,6 +25723,7 @@ girl
 girlfriend
 girlfriends
 girls
+girly
 gist
 git
 git-based
@@ -26412,6 +26531,7 @@ hinted
 hinting
 hints
 hip
+hippy
 hips
 hire
 hired
@@ -27257,6 +27377,7 @@ indisputable
 indistinct
 indistinctness
 individual
+individuality
 individualize
 individualized
 individually
@@ -28117,11 +28238,13 @@ iron
 ironic
 ironically
 ironpython
+irons
 irony
 irradiate
 irradiated
 irradiation
 irrational
+irrationally
 irreduce
 irreducible
 irrefutable
@@ -28364,6 +28487,10 @@ joke
 joked
 jokes
 joomla
+jostle
+jostled
+jostles
+jostling
 jotted
 jotting
 journal
@@ -28566,6 +28693,7 @@ kingdom
 kingdoms
 kings
 kiss
+kissed
 kisses
 kissing
 kit
@@ -28834,6 +28962,7 @@ left-to-right
 leftover
 leftovers
 leg
+legacies
 legacy
 legal
 legality
@@ -29505,6 +29634,7 @@ manipulates
 manipulating
 manipulation
 manipulations
+manipulative
 manipulator
 manipulators
 manned
@@ -30341,6 +30471,7 @@ monolithically
 monologue
 monopolies
 monopoly
+monotone
 monotonic
 monotonically
 monotonically-increasing
@@ -30440,6 +30571,7 @@ moveable
 moved
 movement
 movements
+mover
 moves
 movie
 movies
@@ -32092,8 +32224,10 @@ overwhelmed
 overwhelming
 overwhelmingly
 overwhelms
+overwork
 overworked
 overworking
+overworks
 overwrite
 overwrites
 overwriting
@@ -32368,6 +32502,7 @@ patchify
 patching
 patent
 patented
+patently
 patents
 paternal
 path
@@ -32408,6 +32543,7 @@ pavement
 paves
 paving
 paw
+pawl
 paws
 pay
 payable
@@ -32675,6 +32811,7 @@ phases
 phenomena
 phenomenal
 phenomenon
+phenomenons
 philosopher
 philosophers
 philosophic
@@ -32781,6 +32918,7 @@ pinched
 pinches
 pinching
 pineapple
+pineapples
 ping
 pinged
 pinging
@@ -33102,6 +33240,7 @@ populates
 populating
 population
 populations
+populism
 populist
 populous
 popup
@@ -33448,6 +33587,8 @@ present
 presentation
 presentations
 presented
+presenter
+presenters
 presenting
 presently
 presents
@@ -33512,6 +33653,7 @@ preventable
 prevented
 preventing
 prevention
+preventive
 prevents
 preview
 previewed
@@ -33762,6 +33904,7 @@ promise-based
 promised
 promises
 promising
+promo
 promote
 promoted
 promoter
@@ -33916,6 +34059,7 @@ provisioning
 provisions
 provocation
 provocations
+provocative
 provoke
 provoked
 provokes
@@ -33976,6 +34120,7 @@ puck
 puddle
 puddles
 puff
+puffing
 puffy
 pull
 pull-away
@@ -34236,6 +34381,8 @@ rabbit
 rabbitmq
 rabbits
 rabies
+raccoon
+raccoons
 race
 racers
 races
@@ -34653,6 +34800,11 @@ reciprocally
 reciprocate
 reciprocated
 reciprocity
+recirculate
+recirculated
+recirculates
+recirculating
+recirculation
 recital
 recitation
 recite
@@ -34863,6 +35015,8 @@ redownloads
 redraw
 redrawing
 redrawn
+redress
+redressal
 reduce
 reduced
 reduces
@@ -35494,6 +35648,7 @@ reproducible
 reproducing
 reproduction
 reproductive
+reproductively
 reprogrammable
 reprogrammed
 reprogramming
@@ -35540,6 +35695,7 @@ requiring
 requisite
 requisition
 requisitions
+reran
 rerank
 reranked
 reranking
@@ -35549,6 +35705,8 @@ reroute
 rerouted
 rerouting
 rerun
+rerunning
+reruns
 resale
 resample
 resampled
@@ -35961,6 +36119,7 @@ rhetorical
 rho
 rhythm
 rhythmic
+rhythmically
 rhythms
 ribbon
 ribbons
@@ -35994,6 +36153,7 @@ rightful
 rightfully
 rightly
 rights
+righty
 rigid
 rigidly
 rigorous
@@ -36059,6 +36219,7 @@ roasted
 roasting
 rob
 robbed
+robberies
 robbers
 robbery
 robbing
@@ -36188,6 +36349,7 @@ rubbers
 rubbery
 rubbing
 rubbish
+rubicon
 rubric
 rubs
 ruby
@@ -36286,6 +36448,7 @@ sails
 saint
 sake
 salad
+salami
 salaries
 salary
 sale
@@ -36309,6 +36472,8 @@ samsung
 sanction
 sanctions
 sand
+sandal
+sandals
 sandwich
 sandwiches
 sang
@@ -36337,6 +36502,7 @@ satisfying
 saturate
 saturated
 saturates
+saturating
 saturation
 saturday
 sauce
@@ -36457,6 +36623,8 @@ scoop
 scooped
 scooping
 scoops
+scooter
+scooters
 scope
 scoped
 scopely
@@ -37392,6 +37560,7 @@ sleeping
 sleepless
 sleeps
 sleepwalk
+sleepwalker
 sleepy
 sleety
 slept
@@ -37401,6 +37570,7 @@ sliced
 slices
 slicing
 slick
+slicks
 slid
 slide
 slided
@@ -37433,6 +37603,7 @@ slithering
 slogan
 slope
 slopes
+sloping
 sloppy
 slot
 slots
@@ -37959,6 +38130,7 @@ sporadic
 sport
 sporting
 sports
+sporty
 spot
 spotify
 spotlight
@@ -38079,6 +38251,7 @@ staffed
 staffer
 staffers
 staffing
+staffs
 stage
 staged
 stages
@@ -38330,6 +38503,10 @@ stoves
 straggling
 straight
 straight-forward
+straighten
+straightened
+straightening
+straightens
 straighter
 straightforward
 straightforwardly
@@ -38903,6 +39080,7 @@ surface
 surfaced
 surfaces
 surfer
+surfers
 surfing
 surge
 surged
@@ -39238,6 +39416,7 @@ targeting
 targets
 tariff
 tariffs
+tart
 tartar
 task
 task-oriented
@@ -39948,6 +40127,7 @@ torn
 tornado
 tornadoes
 torque
+torques
 torrent
 torrents
 tortoise
@@ -40377,6 +40557,7 @@ tryout
 tryouts
 tshirt
 tsql
+tubers
 tubes
 tuesday
 tumble
@@ -40483,6 +40664,7 @@ typeset
 typestate
 typewriter
 typewriters
+typhoon
 typical
 typicality
 typically
@@ -40611,6 +40793,7 @@ uncached
 uncaring
 uncategorized
 uncaught
+uncensored
 unceremoniousness
 uncertain
 uncertainties
@@ -41529,6 +41712,8 @@ valve
 valves
 vampire
 vandalism
+vane
+vanes
 vanilla
 vanish
 vanished
@@ -41670,9 +41855,13 @@ vest
 vested
 vesting
 vests
+vet
 veteran
 veterans
 veto
+vets
+vetted
+vetting
 vex
 vexation
 vexations
@@ -41732,6 +41921,7 @@ viewpoints
 viewport
 viewports
 views
+vigor
 vigorous
 vigorously
 vigour
@@ -41832,6 +42022,7 @@ volatileness
 volatiles
 volatility
 volcanic
+volcanically
 volcano
 volcanoes
 volleyball
@@ -42260,6 +42451,7 @@ weren't
 west
 western
 wet
+wetted
 wetting
 whale
 whales
@@ -42355,6 +42547,7 @@ wholly
 whom
 whomever
 whooped
+whooping
 whop
 whopper
 whopping
@@ -42418,7 +42611,12 @@ willing
 willingly
 willingness
 wills
+wilt
+wilted
+wilting
+wilts
 win
+win-win
 win-x64
 win-x86
 win2000
@@ -42544,6 +42742,7 @@ wooded
 wooden
 woods
 wool
+wooly
 word
 word2vec
 wordcloud
@@ -42657,6 +42856,7 @@ wretches
 wright
 wrinkle
 wrinkles
+wrinkling
 wrist
 wrists
 writable
