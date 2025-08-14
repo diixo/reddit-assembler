@@ -1442,6 +1442,7 @@ Biologically
 Biologist
 Biologists
 Biology
+Biomechanical
 Biometric
 Bionic
 Bios
@@ -1473,6 +1474,7 @@ Bits
 Bitter
 Bittersweet
 Bizarre
+Bizarrely
 Black
 BlackBerry
 BlackOut
@@ -1767,6 +1769,7 @@ Buck
 Bucket
 Bucks
 Bud
+Buddhist
 Buddy
 Budget
 Budgeting
@@ -2023,6 +2026,7 @@ Careful
 Carefully
 Carelessly
 Cargo
+Caricature
 Caring
 Carpet
 Carpets
@@ -2109,6 +2113,7 @@ Celebrated
 Celebrating
 Celebrities
 Celebrity
+Celery
 Celestial
 Cell
 Cellphone
@@ -2246,6 +2251,7 @@ Cherry
 Chess
 Chest
 Chew
+Chewable
 Chewed
 Chewing
 Chick
@@ -3854,6 +3860,7 @@ Desperate
 Despite
 Dessert
 Desserts
+Destabilizes
 Destination
 Destiny
 Destroy
@@ -4723,6 +4730,7 @@ Empathy
 Emperors
 Emphasis
 Emphasized
+Emphatic
 Empire
 Empires
 Empirical
@@ -4893,6 +4901,7 @@ Epilogue
 Episode
 Episodes
 Episodic
+Epithets
 Epoch
 Epsilon
 Equal
@@ -5394,6 +5403,7 @@ Favour
 Favourite
 Fawn
 Fax
+Faxes
 Fear
 Fearful
 Fearing
@@ -5941,6 +5951,7 @@ Funded
 Funder
 Funding
 Fundraise
+Fundraiser
 Fundraising
 Funds
 Funeral
@@ -6182,6 +6193,7 @@ Goats
 God
 God's
 Godfather
+Godless
 Goes
 Going
 Gold
@@ -6304,6 +6316,7 @@ Grilling
 Grind
 Grinding
 Grip
+Gripping
 Groceries
 Grocery
 Groom
@@ -6609,6 +6622,7 @@ Hides
 Hiding
 Hierarchical
 Hierarchy
+Hieroglyphs
 High
 High-Energy
 High-Frequency
@@ -6741,6 +6755,7 @@ Horizon
 Horizons
 Horizontal
 Hormonal
+Hormonally
 Hormone
 Hormones
 Horrible
@@ -7218,6 +7233,7 @@ Inference
 Inferior
 Infinite
 Infinitely
+Infinitives
 Infinity
 Inflamed
 Inflammation
@@ -8686,6 +8702,7 @@ Menus
 Meow
 Meowing
 Mercantile
+Mercantilism
 Merchandise
 Merchant
 Mere
@@ -9192,6 +9209,7 @@ Naturally
 Nature
 Naughty
 Nausea
+Nautical
 Navigate
 Navigating
 Navigation
@@ -9665,6 +9683,7 @@ Operator
 Operators
 Opinion
 Opinions
+Opioid
 Opponent
 Opponents
 Opportunities
@@ -9890,6 +9909,7 @@ PIN
 PINs
 PIP
 PL
+PM
 PNG
 POP
 POP3
@@ -9934,6 +9954,9 @@ Paired
 Pairing
 Pairs
 Pale
+Paleontologist
+Paleontologists
+Paleontology
 Palette
 Pallets
 Palm
@@ -9941,6 +9964,7 @@ Pancake
 Pancakes
 Panda
 Pandas
+Pandemic
 Panel
 Panels
 Pangs
@@ -9980,6 +10004,7 @@ Paraphrasing
 Parasite
 Parasites
 Parasitic
+Parasitism
 Pardon
 Parent
 Parentheses
@@ -10215,6 +10240,7 @@ Pertinent
 Pervasive
 Pervasiveness
 Pesky
+Pessimism
 Pest
 Pests
 Pet
@@ -11207,6 +11233,7 @@ Radiating
 Radiation
 Radiator
 Radical
+Radicalism
 Radically
 Radicals
 Radio
@@ -11878,6 +11905,7 @@ Results
 Resume
 Resumes
 Resurgence
+Resurrection
 Retail
 Retailer
 Retailers
@@ -12612,6 +12640,7 @@ Shallow
 Shallower
 Shame
 Shameful
+Shameless
 Shamelessly
 Shaming
 Shampoo
@@ -14109,6 +14138,7 @@ Technologists
 Technology
 Techs
 Tectonic
+Tectonically
 Teen
 Teenage
 Teenagers
@@ -14195,6 +14225,7 @@ Tested
 Tester
 Testers
 Testifying
+Testimonies
 Testimony
 Testing
 Testosterone
@@ -14937,6 +14968,7 @@ Undone
 Undoubtedly
 Undue
 Uneasy
+Unedited
 Uneducated
 Unemployed
 Unemployment
@@ -17354,6 +17386,7 @@ arrogance
 arrogant
 arrogantly
 arrow
+arrowheads
 arrows
 art
 art-development
@@ -18309,6 +18342,7 @@ biologist
 biologists
 biology
 biomass
+biomechanical
 biometric
 bionic
 bios
@@ -18347,6 +18381,7 @@ bittersweet
 bitwise
 bivariate
 bizarre
+bizarrely
 black
 black-box
 blackberry
@@ -18775,6 +18810,7 @@ bucket
 buckets
 bucks
 bud
+buddhist
 buddies
 buddy
 budget
@@ -19131,6 +19167,8 @@ caress
 caresses
 caressing
 cargo
+caricature
+caricatures
 caring
 carpet
 carpets
@@ -19205,6 +19243,10 @@ catching
 catchy
 categorical
 categories
+categorise
+categorised
+categorises
+categorising
 categorization
 categorize
 categorized
@@ -19262,6 +19304,7 @@ celebration
 celebrations
 celebrities
 celebrity
+celery
 celestial
 cell
 celled
@@ -19398,6 +19441,7 @@ chars
 charsets
 chart
 chart-drawing
+charted
 charting
 charts
 chase
@@ -19484,6 +19528,7 @@ chess
 chest
 chests
 chew
+chewable
 chewed
 chewing
 chews
@@ -21356,6 +21401,7 @@ crossplay
 crossroad
 crossroads
 crosswalk
+crosswalks
 crossy
 crow
 crowd
@@ -22405,6 +22451,7 @@ dessert
 desserts
 destabilize
 destabilized
+destabilizes
 destabilizing
 destination
 destinations
@@ -23919,6 +23966,7 @@ emphasize
 emphasized
 emphasizes
 emphasizing
+emphatic
 emphatically
 empire
 empires
@@ -24169,6 +24217,7 @@ entailment
 entails
 entangled
 entanglement
+entangling
 enter
 entered
 entering
@@ -24276,6 +24325,8 @@ epilogue
 episode
 episodes
 episodic
+epithet
+epithets
 epoch
 epochs
 epsilon
@@ -24895,6 +24946,7 @@ facebook
 facebook's
 faced
 faceless
+faceoff
 faces
 facet
 facetime
@@ -24962,6 +25014,7 @@ fairly
 fairness
 fairs
 fairy
+fairytale
 faith
 faithful
 faithfully
@@ -25098,6 +25151,7 @@ fawned
 fawning
 fawns
 fax
+faxes
 fear
 feared
 fearful
@@ -25694,6 +25748,10 @@ form-based
 form-factor
 form-feed
 formal
+formalise
+formalised
+formalises
+formalising
 formality
 formalization
 formalize
@@ -26013,6 +26071,7 @@ funded
 funder
 funding
 fundraise
+fundraiser
 fundraising
 funds
 funeral
@@ -26357,6 +26416,7 @@ goals
 goat
 goats
 godfather
+godless
 godmother
 goer
 goers
@@ -26559,6 +26619,8 @@ grinder
 grinding
 grinds
 grip
+gripped
+gripping
 gritty
 groceries
 grocery
@@ -27023,6 +27085,8 @@ hierarchical
 hierarchically
 hierarchies
 hierarchy
+hieroglyph
+hieroglyphs
 high
 high-availability
 high-capacity
@@ -27221,6 +27285,7 @@ horizons
 horizontal
 horizontally
 hormonal
+hormonally
 hormone
 hormones
 horrible
@@ -27743,6 +27808,7 @@ impudent
 impulse
 impulses
 impulsive
+impulsively
 impure
 impurities
 impurity
@@ -28068,6 +28134,7 @@ infills
 infinite
 infinitely
 infinitive
+infinitives
 infinity
 inflame
 inflamed
@@ -28875,6 +28942,8 @@ islands
 isn't
 iso
 isocell
+isoform
+isoforms
 isogeometric
 isolate
 isolated
@@ -28885,6 +28954,7 @@ isometric
 isometrically
 isometry
 isotropic
+isotropy
 isp
 issuance
 issue
@@ -28995,6 +29065,7 @@ j2se
 jQuery
 jacket
 jackets
+jacking
 jackpot
 jagged
 jail
@@ -30580,6 +30651,7 @@ meowed
 meowing
 meows
 mercantile
+mercantilism
 merchandise
 merchant
 merchants
@@ -30707,6 +30779,7 @@ microsoft
 microsoft's
 microsoft-specific
 microstructure
+microstructures
 microsystem
 microsystems
 microwave
@@ -31511,6 +31584,7 @@ naive
 naively
 naivete
 naked
+nakedness
 name
 named
 namely
@@ -31561,6 +31635,7 @@ nature
 natured
 naughty
 nausea
+nautical
 navbar
 navigate
 navigated
@@ -32456,6 +32531,7 @@ operators
 opinion
 opinionated
 opinions
+opioid
 opponent
 opponents
 opportune
@@ -32980,6 +33056,10 @@ pairs
 pairwise
 palatable
 pale
+paleontological
+paleontologist
+paleontologists
+paleontology
 pales
 palette
 paling
@@ -32994,6 +33074,7 @@ pancake
 pancakes
 panda
 pandas
+pandemic
 pane
 panel
 panels
@@ -33059,6 +33140,11 @@ paraphrasing
 parasite
 parasites
 parasitic
+parasitism
+parasitize
+parasitized
+parasitizes
+parasitizing
 parcel
 parcels
 pardon
@@ -33469,6 +33555,7 @@ pervading
 pervasive
 pervasiveness
 pesky
+pessimism
 pessimistic
 pessimistically
 pessimization
@@ -34530,6 +34617,7 @@ profiling
 profit
 profitability
 profitable
+profitably
 profits
 profound
 profoundly
@@ -35113,6 +35201,7 @@ radiating
 radiation
 radiator
 radical
+radicalism
 radically
 radicals
 radio
@@ -36651,6 +36740,7 @@ resurgence
 resurrect
 resurrected
 resurrecting
+resurrection
 resurrects
 resync
 resynced
@@ -37864,6 +37954,7 @@ shame
 shamed
 shameful
 shamefully
+shameless
 shamelessly
 shaming
 shampoo
@@ -38727,6 +38818,7 @@ spanning
 spans
 spare
 spared
+sparing
 sparingly
 spark
 sparked
@@ -39547,6 +39639,7 @@ subelement
 subelements
 subexpression
 subexpressions
+subfamily
 subfield
 subfolder
 subfolders
@@ -40354,6 +40447,8 @@ technovation
 techpoint
 techs
 tectonic
+tectonical
+tectonically
 tedious
 tediously
 teen
@@ -40507,6 +40602,7 @@ testify
 testifying
 testimonial
 testimonials
+testimonies
 testimony
 testing
 testosterone
@@ -40796,6 +40892,7 @@ time-differenced
 time-domain
 time-series
 time-to-time
+timecode
 timed
 timeframe
 timeframes
@@ -40933,6 +41030,8 @@ toothbrush
 toothbrushes
 toothpaste
 toothpastes
+toothpick
+toothpicks
 top
 top-10
 top-down
@@ -41837,6 +41936,7 @@ undue
 undulatory
 uneasiness
 uneasy
+unedited
 uneducated
 unemployed
 unemployment
