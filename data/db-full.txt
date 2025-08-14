@@ -1447,6 +1447,7 @@ Biting
 Bitmap
 Bitrate
 Bits
+Bittersweet
 Bizarre
 Black
 BlackBerry
@@ -10840,6 +10841,7 @@ Purposely
 Purposes
 Purr
 Purring
+Purse
 Purses
 Pursue
 Pursuit
@@ -10955,6 +10957,7 @@ RSS
 Rabbit
 Rabbits
 Rabies
+Raccoon
 Raccoons
 Race
 Racers

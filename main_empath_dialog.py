@@ -46,7 +46,7 @@ if __name__ == "__main__":
     if len(dictionary.items()) > 0:
         dictionary = Counter(filter_dictionary(dictionary, embedded_words))
 
-        if False:
+        if True:
             new_dict = dict()
 
             for word, count in dictionary.items():
