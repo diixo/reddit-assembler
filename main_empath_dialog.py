@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
     embedded_words = read_embedded_dict()
 
-    processing(dictionary)
+    #processing(dictionary)
 
     ############# save results
 
@@ -67,14 +67,14 @@ if __name__ == "__main__":
         with path.open("w", encoding="utf-8") as f:
             json.dump(dictionary, f, indent=2)
 
-    most_common = dictionary.most_common()
+        most_common = dictionary.most_common()
 
-    sorted_words = [word for word, _ in most_common]
+        sorted_words = [word for word, _ in most_common]
 
 
-    with open(f"data/empathic-dictionary.txt", "w", encoding="utf-8") as f:
-        for word in sorted_words:
-            f.write(word + "\n")
+        with open(f"data/empathic-dictionary.txt", "w", encoding="utf-8") as f:
+            for word in sorted_words:
+                f.write(word + "\n")
 
 
 # 13271
