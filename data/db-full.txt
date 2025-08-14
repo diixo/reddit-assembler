@@ -953,6 +953,7 @@ Asthma
 Astonishing
 Astonishingly
 Astrology
+Astronauts
 Astronomer
 Astronomers
 Astronomical
@@ -1052,6 +1053,7 @@ AutoCAD
 Autobiography
 Autocad
 Autocorrect
+Autocratic
 Autodesk
 Autofill
 Autofocus
@@ -1265,6 +1267,7 @@ Bean
 Beans
 Bear
 Beard
+Bearded
 Beards
 Bearer
 Bearing
@@ -1963,6 +1966,7 @@ Caring
 Carpet
 Carriage
 Carried
+Carrier
 Carries
 Carrot
 Carrots
@@ -2014,6 +2018,7 @@ Category
 Cater
 Catering
 Catholic
+Catholicism
 Cats
 Caught
 Causal
@@ -2254,6 +2259,7 @@ Citizenship
 Citrus
 City
 City's
+Civic
 Civil
 Civilian
 Civilizations
@@ -3040,6 +3046,7 @@ Correspondent
 Corresponding
 Correspondingly
 Corridor
+Corridors
 Corroborating
 Corrupt
 Corrupted
@@ -5648,6 +5655,7 @@ Fracture
 Fractures
 Fragile
 Fragment
+Fragmentary
 Fragmentation
 Fragmented
 Fragments
@@ -7610,6 +7618,7 @@ Kingdom
 Kingdoms
 Kings
 Kiss
+Kisses
 Kissing
 Kit
 Kitchen
@@ -8362,6 +8371,7 @@ Mechanism
 Mechanisms
 Medal
 Medals
+Meddling
 Media
 Median
 Mediated
@@ -8870,6 +8880,7 @@ N-Dimensional
 N-Gram
 N-dimensional
 NASA
+NATO
 NAZI
 NAZIS
 NAZIs
@@ -9229,6 +9240,7 @@ Obligate
 Obligatory
 Obliquity
 Oblivion
+Oblong
 Obscure
 Obscuring
 Obscurity
@@ -9323,6 +9335,7 @@ Older
 Oldest
 Olds
 Ole
+Oligarchy
 Olympic
 Omission
 On
@@ -10212,6 +10225,7 @@ Pond
 Ponder
 Ponds
 Pony
+Poof
 Pool
 Pooled
 Pooling
@@ -10620,6 +10634,7 @@ Prophecy
 Prophet
 Proponents
 Proportional
+Proportionality
 Proportionally
 Proportions
 Proposal
@@ -10651,6 +10666,7 @@ Protects
 Protein
 Proteins
 Protest
+Protestants
 Protesters
 Protesting
 Protests
@@ -10761,6 +10777,7 @@ Purposely
 Purposes
 Purr
 Purring
+Purses
 Pursue
 Pursuit
 Push
@@ -11323,6 +11340,7 @@ Remarkable
 Remarkably
 Remarks
 Remastered
+Remastering
 Remedies
 Remember
 Remembered
@@ -12357,6 +12375,8 @@ Shortly
 Shortness
 Shorts
 Shot
+Shotgun
+Shotguns
 Shots
 Should
 Should've
@@ -13028,6 +13048,7 @@ Starch
 Starcraft
 Stare
 Stared
+Starfish
 Staring
 Starlight
 Starring
@@ -13062,6 +13083,7 @@ Stations
 Statistic
 Statistical
 Statistically
+Statisticians
 Statistics
 Stats
 Statue
@@ -14784,6 +14806,7 @@ Value
 Valued
 Values
 Vampire
+Vandalism
 Vanilla
 Vanish
 Vanished
@@ -14816,6 +14839,7 @@ Vastly
 Vault
 Vector
 Vectors
+Vegan
 Vegans
 Vegetable
 Vegetables
@@ -15144,6 +15168,7 @@ Weed
 Weeds
 Week
 Week's
+Weekdays
 Weekend
 Weekends
 Weekly
@@ -15219,6 +15244,7 @@ Whipped
 Whipping
 Whirl
 Whirling
+Whirlpool
 WhiskEy
 Whiskey
 Whisky
@@ -16066,6 +16092,7 @@ aged
 agencies
 agency
 agenda
+agendas
 agent
 agent-based
 agents
@@ -17066,6 +17093,7 @@ astounds
 astray
 astrology
 astronaut
+astronauts
 astronomer
 astronomers
 astronomical
@@ -17254,6 +17282,7 @@ autocorrect
 autocorrection
 autocorrelation
 autocorrelations
+autocratic
 autodesk
 autodiff
 autoencoded
@@ -17540,6 +17569,7 @@ basing
 basis
 basket
 basketball
+baskets
 bass
 bat
 batch
@@ -17577,6 +17607,7 @@ beans
 bear
 bearable
 beard
+bearded
 beards
 bearer
 bearing
@@ -17834,6 +17865,7 @@ bitmaps
 bitrate
 bits
 bitset
+bittersweet
 bitwise
 bivariate
 bizarre
@@ -18583,6 +18615,7 @@ carpet
 carriage
 carriages
 carried
+carrier
 carries
 carrot
 carrots
@@ -18656,6 +18689,7 @@ catered
 catering
 caters
 catholic
+catholicism
 cats
 caught
 causal
@@ -18938,6 +18972,7 @@ chip's
 chipmaker
 chipmakers
 chipmaking
+chipping
 chips
 chipset
 chipsets
@@ -19028,6 +19063,7 @@ citizenship
 citrus
 city
 city's
+civic
 civil
 civilian
 civilians
@@ -20455,6 +20491,7 @@ corresponding
 correspondingly
 corresponds
 corridor
+corridors
 corroborate
 corroborated
 corroborates
@@ -23595,6 +23632,7 @@ equations
 equator
 equatorial
 equidistant
+equilateral
 equinox
 equip
 equipment
@@ -23626,6 +23664,7 @@ erasers
 erases
 erasing
 erasure
+erected
 erection
 ergonomic
 ergonomics
@@ -25038,6 +25077,7 @@ fractured
 fractures
 fragile
 fragment
+fragmentary
 fragmentation
 fragmented
 fragments
@@ -25410,6 +25450,7 @@ genial
 genius
 geniuses
 genkey
+genocidal
 genocide
 genre
 genres
@@ -27720,6 +27761,7 @@ interleaved
 interleaves
 interleaving
 interlinear
+interlock
 interlocking
 intermediary
 intermediate
@@ -28450,6 +28492,7 @@ kingdom
 kingdoms
 kings
 kiss
+kisses
 kissing
 kit
 kitchen
@@ -28625,6 +28668,7 @@ launched
 launcher
 launches
 launching
+launder
 laundry
 laurels
 lava
@@ -28731,6 +28775,7 @@ legible
 legibly
 legion
 legions
+legislate
 legislation
 legislative
 legitimacy
@@ -29590,6 +29635,7 @@ medals
 meddle
 meddled
 meddles
+meddling
 media
 media's
 median
@@ -31242,6 +31288,7 @@ obliterated
 obliterates
 obliterating
 oblivion
+oblong
 obscure
 obscured
 obscuring
@@ -31406,6 +31453,7 @@ olds
 ole
 oled
 oledb
+oligarchy
 olympic
 omission
 omit
@@ -32942,6 +32990,8 @@ pondering
 ponders
 ponds
 pony
+poof
+poofs
 pool
 pooled
 pooling
@@ -33684,6 +33734,7 @@ proponents
 proportion
 proportionably
 proportional
+proportionality
 proportionally
 proportionate
 proportionately
@@ -33727,6 +33778,7 @@ protects
 protein
 proteins
 protest
+protestants
 protestation
 protested
 protesters
@@ -33907,6 +33959,8 @@ purr
 purred
 purring
 purrs
+purse
+purses
 pursue
 pursued
 pursues
@@ -35132,6 +35186,7 @@ remarkably
 remarked
 remarks
 remastered
+remastering
 remediation
 remedied
 remedies
@@ -36925,6 +36980,8 @@ shortly
 shortness
 shorts
 shot
+shotgun
+shotguns
 shots
 should
 should've
@@ -37906,6 +37963,7 @@ stabilization
 stabilize
 stabilized
 stabilizer
+stabilizers
 stabilizes
 stabilizing
 stable
@@ -37985,6 +38043,7 @@ starch
 starcraft
 stare
 stared
+starfish
 staring
 starlight
 starring
@@ -38037,6 +38096,7 @@ stations
 statistic
 statistical
 statistically
+statisticians
 statistics
 stats
 statue
@@ -38829,6 +38889,7 @@ swallowing
 swallows
 swam
 swamp
+swamped
 swan
 swans
 swap
@@ -38995,6 +39056,7 @@ tables
 tablet
 tablets
 tableview
+tabloid
 taboo
 tabs
 tabular
@@ -39595,6 +39657,7 @@ tiger
 tigers
 tight
 tighten
+tightened
 tightening
 tighter
 tightly
@@ -39771,6 +39834,7 @@ topic-specific
 topical
 topically
 topics
+topless
 topological
 topologically
 topologies
@@ -41366,6 +41430,7 @@ values
 valve
 valves
 vampire
+vandalism
 vanilla
 vanish
 vanished
@@ -41428,6 +41493,7 @@ vectorizer
 vectorizes
 vectorizing
 vectors
+vegan
 vegans
 vegetable
 vegetables
@@ -42018,6 +42084,7 @@ weeds
 week
 week's
 weekday
+weekdays
 weekend
 weekends
 weekly
@@ -42154,6 +42221,7 @@ whipped
 whipping
 whirl
 whirling
+whirlpool
 whiskey
 whisky
 whisper
