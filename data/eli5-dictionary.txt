@@ -437,7 +437,6 @@ cellulose
 cop
 liquor
 lid
-Mexican
 marrow
 Switzerland
 buoyancy
@@ -537,7 +536,6 @@ lbs
 NYC
 cattle
 embryo
-dough
 antiquity
 hemoglobin
 testicles
@@ -1032,7 +1030,6 @@ poo
 H+
 trough
 parasympathetic
-fasting
 70's
 ma
 portray
@@ -1106,7 +1103,6 @@ larynx
 taxation
 JFK
 mammalian
-thunderstorms
 nomadic
 OP's
 ish
@@ -1191,7 +1187,6 @@ smallpox
 deg
 1's
 carbonation
-shrimp
 1990s
 herbivores
 left-handed
@@ -1489,7 +1484,6 @@ Marvel
 pox
 Ming
 hedge
-cardio
 silica
 Fukushima
 grenade
@@ -1532,7 +1526,6 @@ concussion
 Baltic
 Batman
 Quran
-cockroaches
 nocturnal
 subduction
 dependant
@@ -2129,7 +2122,6 @@ eukaryotic
 Heisenberg
 forts
 pre-Columbian
-eyed
 DHT
 payer
 Mario
@@ -2303,7 +2295,6 @@ dehydrogenase
 acetate
 stinging
 sanitation
-pooping
 denomination
 1g
 opioid
@@ -2627,7 +2618,6 @@ mortar
 borderline
 reflectivity
 eardrums
-incompetent
 aswell
 Perry
 Tesla's
@@ -3170,7 +3160,6 @@ Peru
 Yo
 carbon-14
 sacrificing
-family's
 ether
 rigidity
 voids
@@ -3223,7 +3212,6 @@ euros
 soapy
 borne
 dynamo
-shredded
 Reynolds
 thigh
 histamines
@@ -3416,7 +3404,6 @@ Marie
 Mercury's
 Franco
 ammonium
-disciplined
 GTA
 gladiators
 wagon
@@ -3654,7 +3641,6 @@ termites
 thermoelectric
 neanderthals
 Earthquakes
-grandchildren
 excretion
 Israelis
 Magna
@@ -3718,7 +3704,6 @@ libel
 canine
 bank's
 repopulate
-rapes
 lessens
 Braille
 libertarian
@@ -3795,7 +3780,6 @@ Zimmerman
 asphyxiation
 troposphere
 MLM
-shred
 kinetics
 haemoglobin
 Georgian
@@ -3927,7 +3911,6 @@ bodybuilders
 congenital
 Westminster
 turntable
-perks
 wildfires
 cider
 nomads
@@ -4228,7 +4211,6 @@ juries
 Kenya
 euphemism
 Vladimir
-bullying
 hurdles
 demon
 favoured
@@ -4606,7 +4588,6 @@ medial
 Mao's
 monotheistic
 airlock
-bunny
 noodle
 gatherer
 advertiser
@@ -4838,7 +4819,6 @@ clerk
 Torah
 crossings
 lousy
-scenery
 sliver
 t-shirts
 igneous
@@ -5105,7 +5085,6 @@ coalesced
 robes
 humanity's
 Joker
-poops
 magnetically
 abrasion
 yrs
@@ -5257,7 +5236,6 @@ methamphetamine
 Marx's
 brothels
 etched
-jog
 municipalities
 2000's
 growling
@@ -5694,7 +5672,6 @@ Scipio
 keel
 sausages
 Hepatitis
-Sundays
 basalt
 softens
 calves
@@ -5965,7 +5942,6 @@ sneaking
 retreating
 lefty
 coronation
-shreds
 hairless
 theorist
 blurs
@@ -6161,7 +6137,6 @@ hollywood
 Virgo
 plagues
 waiter
-grilled
 retroviruses
 Nebraska
 UFO
@@ -6182,7 +6157,6 @@ Jay
 airframe
 xpost
 Auschwitz
-raging
 fibroblasts
 Kg
 Caliph
@@ -6377,7 +6351,6 @@ Avogadro's
 crustaceans
 Templar
 bilayer
-manly
 Aristotle's
 rebellious
 x2
@@ -6621,7 +6594,6 @@ Guardian
 Tupperware
 EMF
 ocular
-bakery
 curvy
 V1
 farting
@@ -6631,7 +6603,6 @@ bled
 female's
 wasteland
 eczema
-millionaire
 caliph
 tenets
 cycled
@@ -6884,7 +6855,6 @@ Battlefield
 metamorphic
 inhumane
 fertilised
-creek
 bam
 skaters
 rainforests
@@ -6921,7 +6891,6 @@ fillers
 insecticide
 organelle
 Kiev
-milkshake
 pear
 mannerisms
 morbid
@@ -7007,7 +6976,6 @@ combating
 resins
 37C
 optimised
-mexican
 everybody's
 Pavlov's
 jewels
@@ -7450,7 +7418,6 @@ injectors
 metastasize
 EMPs
 electrocution
-bullied
 furs
 Musa
 Stewart
@@ -7847,7 +7814,6 @@ Miranda
 incriminating
 Scar
 Ha
-ghetto
 creatine
 nationalized
 fifths
@@ -8302,7 +8268,6 @@ EPO
 accomodate
 U235
 suppressors
-Creek
 overtone
 mediator
 laxatives
@@ -8410,7 +8375,6 @@ roadside
 Axe
 hydrofluoric
 1k
-Cockroaches
 maladaptive
 Chomsky
 whizzing
@@ -8782,7 +8746,6 @@ Glasgow
 laptop's
 Pollock
 Confucianism
-honors
 terminally
 T+
 EKG
@@ -9049,7 +9012,6 @@ Pyrex
 Vader
 taverns
 Amanda
-traumatized
 haggle
 socialization
 footwear
@@ -9335,7 +9297,6 @@ airtime
 neuropathy
 acrylic
 comcast
-Fasting
 indictment
 6s
 tapeworms
@@ -9431,7 +9392,6 @@ squirts
 classless
 cashback
 gallbladder
-Shrimp
 isopropanol
 hydrochloride
 radiowaves
@@ -10071,7 +10031,6 @@ PG-13
 HOAs
 trebuchet
 Ohm
-Thunderstorms
 heroine
 age-related
 scissor
@@ -11182,7 +11141,6 @@ rendezvous
 chemoreceptors
 ischemic
 Staphylococcus
-Bunny
 cactus
 Cox
 badgers
@@ -11366,7 +11324,6 @@ YY
 truely
 Smith's
 frontiers
-pathetic
 kinematics
 swatted
 doesn
@@ -13111,7 +13068,6 @@ laborer
 bona
 church's
 hypersonic
-lasagna
 rebounds
 DSLRs
 unplayable
@@ -13228,7 +13184,6 @@ metronomes
 heterosexuals
 pepsin
 katakana
-barista
 tibia
 pillage
 moire
@@ -14513,14 +14468,12 @@ USC
 Clive
 ointment
 Leone
-Cardio
 3m
 striatum
 jolted
 Proto-Germanic
 vide
 laminated
-majored
 Laffer
 Robertson
 weeding
@@ -14653,7 +14606,6 @@ iraq
 9s
 dicey
 waved
-pastor
 high-intensity
 Slovenia
 dm
@@ -15423,7 +15375,6 @@ adamantly
 satiated
 Admiralty
 SAE
-embarrass
 elephant's
 foetal
 Pubmed
@@ -15438,7 +15389,6 @@ grate
 80-100
 Cruisers
 Isopropyl
-cruises
 cheekbones
 centauri
 gel-like
@@ -16871,7 +16821,6 @@ broadside
 Lancet
 childbearing
 Cygnus
-Millionaire
 mazes
 Silphium
 demeaning
@@ -17211,7 +17160,6 @@ periodicals
 recoils
 characteristically
 Siblings
-grandkids
 fisheries
 Shi'ite
 oligodynamic
@@ -17400,7 +17348,6 @@ jailbreak
 SSNs
 condita
 stagnating
-nagging
 gander
 silky
 durring
@@ -17689,7 +17636,6 @@ Wendy's
 housecat
 retracting
 Dasani
-swerve
 trot
 spawns
 antiperspirants
@@ -17797,7 +17743,6 @@ Mercenary
 figurine
 leftmost
 bedside
-carpool
 reciting
 saxophones
 London's
@@ -19023,8 +18968,6 @@ soliciting
 ABCD
 eyewear
 kickback
-Mcdonalds
-mcdonalds
 kms
 secs
 non-black
@@ -19863,7 +19806,6 @@ Scripture
 defensively
 planed
 5A
-confrontational
 Joey
 unbeatable
 despot
@@ -22494,7 +22436,6 @@ litigious
 carp
 Indo-Aryan
 underhanded
-shrimps
 reprimand
 000K
 Dog's
@@ -24450,7 +24391,6 @@ hieroglyph
 IBD
 Operant
 long-held
-Ghetto
 non-life
 self-sufficiency
 pyrogens
@@ -30498,7 +30438,6 @@ re-arranged
 herpesviruses
 Virology
 Railgun
-in-laws
 diffracting
 blighted
 Haar
@@ -31710,7 +31649,6 @@ Seeders
 trapezoid
 evildoers
 unforeseeable
-Honors
 Sarkeesian
 al-qaeda
 pokey
@@ -31736,7 +31674,6 @@ lifeguards
 over-eat
 wads
 abductions
-shredder
 Somaliland
 MOSFETs
 handkerchiefs
@@ -33671,7 +33608,6 @@ anti-viral
 10log
 MIT's
 benefactor
-swerves
 water-cooled
 emollients
 chestnut
@@ -36788,7 +36724,6 @@ Hayfever
 allergist
 deoderant
 Euphemism
-hoarder
 Cremation
 teratogenic
 thar
@@ -37758,7 +37693,6 @@ poutine
 colonisers
 Akin
 irreversibility
-saddest
 DCI
 buckshot
 observances
@@ -38425,7 +38359,6 @@ Newman
 chaplain
 scaler
 monstrosities
-unfaithful
 overtop
 Stigma
 120FPS
@@ -42093,7 +42026,6 @@ trans-gendered
 Dalmatians
 fornix
 fiefdoms
-sundays
 Debussy
 Extremists
 AJ
@@ -42108,7 +42040,6 @@ slob
 think's
 Earnshaw's
 Romanised
-Perks
 post-revolutionary
 taxidermy
 rear-engine
@@ -43505,7 +43436,6 @@ Introverts
 easy-to-explain
 Pillsbury
 elevator's
-Bullying
 disc-like
 kong
 underwriters
@@ -43768,7 +43698,6 @@ felonious
 embezzling
 inheritors
 Illuvatar
-swerving
 Cogito
 littermates
 Terpenes
@@ -43915,7 +43844,6 @@ Dwayne
 lightswitches
 Paz
 child-like
-Dough
 CDEFGAB
 videography
 unidan
@@ -44084,7 +44012,6 @@ Forfeiture
 Jamaicans
 Cleo
 remorseful
-Pastor
 categorisation
 512mb
 libero
@@ -48182,7 +48109,6 @@ Pharsalus
 Graecia
 Pulaski
 park-like
-Swerve
 Mieroop
 Timurids
 Lang's
@@ -50391,7 +50317,6 @@ anti-russian
 child-friendly
 tx
 instillation
-Barista
 know-it-all
 Rotoscoping
 Abductive
@@ -52119,7 +52044,6 @@ Cheeto
 loose-fitting
 disinhibited
 pejoration
-Pooping
 optometrist's
 loggerheads
 stallion
@@ -52917,7 +52841,6 @@ grumbles
 Caretaker
 porsche
 M10
-embarrasses
 worng
 freak-out
 junked
@@ -56138,7 +56061,6 @@ Beardyman
 waists
 Hyphens
 spec'd
-Grilled
 unboiled
 CZ
 Ladin
@@ -56662,7 +56584,6 @@ Lombardi
 fullfilled
 LHR
 doozy
-Milkshake
 comminuted
 moguls
 mogul
@@ -57200,7 +57121,6 @@ Spiritual
 gruff
 Warhol's
 Ursus
-Family's
 mantids
 vinci
 already-established
@@ -57914,7 +57834,6 @@ Pastafarianism
 atomic-level
 incredulous
 Presbyterians
-Incompetent
 Cardinal's
 zettabytes
 maiming
@@ -63899,7 +63818,6 @@ kotakuinaction
 Uploaders
 wagers
 Allstate
-Bakery
 god-given
 Alda's
 TKD
@@ -64745,7 +64663,6 @@ Scherzo
 barnyards
 Ipomoea
 sideslopes
-Cruises
 Icahn
 24-7
 exhibitions
@@ -65694,7 +65611,6 @@ megavideo
 signature-based
 HealthPoints
 sendMessage
-Eyed
 l1
 bajillions
 ABraThatFits
@@ -66069,7 +65985,6 @@ unrecoverably
 keno
 Jarhead
 perferred
-swerved
 Humping
 safety-nets
 vidicon
@@ -66855,7 +66770,6 @@ flossed
 57M
 colombian
 chocolatey
-Manly
 IE-specific
 Tribalism
 hand-wringing
@@ -67812,7 +67726,6 @@ Hanguk
 intestins
 rekt
 cao
-Carpool
 Salerno
 Londres
 Tse
@@ -73853,7 +73766,6 @@ nicki
 minaj
 beyonce
 mardis
-DOUGH
 cross-handed
 Kelsey
 surce
@@ -78242,7 +78154,6 @@ Rickover
 MDR
 uncontracted
 yellowfin
-Lasagna
 18650s
 anti-nitrogen
 anti-oxygen
@@ -78495,7 +78406,6 @@ in't
 disributed
 runout
 heates
-Shred
 truthiness
 SHAZAM
 DJT
@@ -81631,7 +81541,6 @@ Spanish-language
 Remedia
 Amoris
 pectus
-Poops
 Yat-Sen
 Vogel
 k1990's
@@ -97505,7 +97414,6 @@ burbling
 security's
 450ppm
 N64's
-POOPING
 Art-history
 oh-so-seductive
 Mowgli
@@ -98612,7 +98520,6 @@ quadruplegia
 diapgram
 spazzes
 fruitarianism
-GRILLED
 Hinze
 four-children
 top-earning
@@ -99352,7 +99259,6 @@ knowlwdgeable
 anti-Communism
 not-so-rare-anymore
 shred-like
-Shreds
 Achromotrichia
 top-dead-centre
 con-rod
@@ -113191,7 +113097,6 @@ billon
 cuils
 Cuil
 mascerator
-Shredder
 backstopped
 Penzance
 Pinafore
@@ -117627,7 +117532,6 @@ behind-shake
 headcoverings
 Sensable
 Nitpicking
-Traumatized
 nonchalantly
 low-illumination
 vibrent
@@ -117732,7 +117636,6 @@ premediatated
 Scrimmage
 non-lineman
 Adoptions
-Disciplined
 mass-volleys
 marinda
 tendon-like
@@ -125041,7 +124944,6 @@ low-information
 gague
 allerglic
 bombshell
-Scenery
 pro-dog
 pro-cat
 ForceTouch
@@ -139573,7 +139475,6 @@ spellbound
 Ya'll
 thunder's
 Svithjod
-Embarrass
 anti-happiness
 trac
 gun-tooting
@@ -140113,7 +140014,6 @@ Sabres
 ef5
 meteorologies
 petro-geology
-MILKSHAKE
 Silliness
 Electroshocks
 Larimie
@@ -184549,7 +184449,6 @@ googlplex
 bz
 y1-b
 bullshitometer
-Shredded
 time-cloaking
 clausius
 Puncture
@@ -195354,7 +195253,6 @@ slalom
 envirionment
 Ti-6-2-4-6
 Dizzyness
-Jog
 endosome
 neon-like
 transisters
@@ -210831,7 +210729,6 @@ Pharmacologists
 Redlich-Kwong
 Peng-Robinson
 P-R
-Shrimps
 gph
 Meerkats
 self-heard
