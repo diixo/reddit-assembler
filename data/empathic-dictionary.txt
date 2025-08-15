@@ -137,7 +137,6 @@ ER
 meds
 Lakers
 ditched
-doctor's
 youre
 walmart
 WOW
@@ -213,15 +212,11 @@ reminisce
 hubby
 Ew
 gluten
-grandfathers
 mum
-surreal
 Donald
 5th
 infuriating
-Starbucks
 Ohhh
-winnings
 hasnt
 Taco
 Panama
@@ -238,15 +233,11 @@ roomate
 90's
 embarrasing
 camper
-elated
-dealership
-reliving
 hospice
 volunteered
 storming
 Ford
 Bahamas
-lonesome
 Japanese
 blankets
 brownies
@@ -254,7 +245,6 @@ Wao
 gotcha
 80s
 Harvard
-racking
 counselor
 distraught
 yup
@@ -274,7 +264,6 @@ cans
 texas
 yikes
 em
-costume
 medications
 Grandma
 Ohhhh
@@ -284,13 +273,11 @@ French
 FL
 Dallas
 thou
-trophy
 SUV
 canned
 neice
 devestated
 softball
-McDonald's
 eh
 mins
 momma
@@ -317,7 +304,6 @@ werent
 ben
 fur
 yah
-picky
 mosquitos
 soo
 CS
@@ -333,13 +319,11 @@ n
 humiliating
 superbowl
 7th
-doorstep
 oof
 Kong
 mommy
 Spain
 homesick
-clumsy
 grandmother's
 appartment
 Craigslist
@@ -426,11 +410,9 @@ FB
 sophomore
 British
 jack
-antsy
 freakin
 Jesus
 fron
-spooked
 LA
 Carolina
 lasy
@@ -438,7 +420,6 @@ NY
 dosen't
 interstate
 Atleast
-teary
 sooooo
 60s
 Grudge
@@ -568,7 +549,6 @@ YAY
 midwest
 hadnt
 brat
-america
 ooooh
 york
 Gee
@@ -588,7 +568,6 @@ Beyonce
 Barcelona
 2am
 HOA
-stroll
 Hut
 undescribeable
 Francisco
@@ -605,7 +584,6 @@ Huh
 Blackjack
 COD
 Hillary
-homeschooling
 underdog
 20's
 Outback
@@ -623,7 +601,6 @@ weightlifting
 curdle
 hoo
 Stephen
-backseat
 y
 Kansas
 Syracuse
@@ -632,7 +609,6 @@ ford
 biking
 Awwwww
 Michigan
-promotions
 possum
 lad
 Jeep
@@ -683,7 +659,6 @@ Turkey
 Congradulations
 cartwheel
 pupper
-costumes
 leather
 fam
 lego
@@ -764,7 +739,6 @@ sister-in-law
 undies
 couldve
 dmv
-cheeseburger
 caregiver
 Michael
 knit
@@ -775,7 +749,6 @@ goodwill
 tha
 Steve
 germs
-flashlights
 pears
 Ramen
 ed
@@ -783,7 +756,6 @@ tummy
 immature
 eve
 sweatshop
-dodged
 deli
 Audi
 h
@@ -819,7 +791,6 @@ hermit
 lifelong
 lonley
 eerie
-honeymoon
 SWAT
 handicapped
 gorcery
@@ -829,7 +800,6 @@ caterer
 roomie
 fonder
 padre
-overjoyed
 kudos
 trampoline
 embarasing
@@ -851,12 +821,10 @@ disneyland
 Einstein
 Harry
 Potter
-starbucks
 hmmm
 eggplant
 goof
 cheque
-adulting
 spraying
 2-3
 abductions
@@ -876,24 +844,18 @@ Chlorella
 autistic
 Mmm
 IKEA
-doctorate
 cookout
-bailed
 Riley
 heh
 K
 Legos
 stench
-scorching
 Tampa
 um
 KY
-walkway
 self-awareness
 ontop
 toenail
-tinier
-hangers
 studing
 bonkers
 untill
@@ -901,7 +863,6 @@ incharge
 crocheted
 mon
 tithes
-remission
 homeschooled
 ooo
 murcialago
@@ -998,14 +959,12 @@ bartender
 Ut
 vile
 thud
-custody
 shouldve
 sickened
 mishap
 Oooo
 moth
 Sox
-nastiness
 malnourished
 waist
 mutts
@@ -1014,7 +973,6 @@ deadbeat
 ouch
 50s
 Wii
-outbid
 EP
 Wentz
 Midwest
@@ -1028,7 +986,6 @@ isle
 tan
 grease
 pho
-funnier
 madman
 Hillbillies
 mid-60's
@@ -1043,7 +1000,6 @@ streak
 Unfortunatley
 completly
 UGH
-teasing
 ABC's
 Ya
 forgiveness
@@ -1168,7 +1124,6 @@ Beenie
 bugger
 ant
 Whoop
-dodge
 piercing
 schooled
 Matilda
@@ -2971,7 +2926,6 @@ nag
 dazzled
 chomping
 prod
-cheeseburgers
 zip-lining
 ferret
 heart-broken
@@ -3215,7 +3169,6 @@ hoodlums
 uhmnnn
 blurted
 unkept
-Doctor's
 solder
 burgled
 jilted
@@ -3678,7 +3631,6 @@ Benz
 keepsake
 memento
 jr
-Dodge
 cedar
 suburb
 TCU
@@ -3857,7 +3809,6 @@ monster-ish
 chiller
 trevor
 Trevor
-Promotions
 ooops
 McD's
 midweek
@@ -4670,7 +4621,6 @@ squids
 yakked
 outdoorsy
 girfriend
-scorched
 hone
 Martha
 Stewart
@@ -6047,7 +5997,6 @@ Kaitlyn
 Alyssa
 Archer
 xD
-glorified
 starte
 spaker
 sponged
@@ -6156,7 +6105,6 @@ gushing
 PTSD
 layman's
 withmyself
-Adulting
 apropos
 shunned
 arond
@@ -7252,7 +7200,6 @@ vineyard
 couches
 interned
 ballsy
-Doctorate
 chaps
 Toyotas
 villian
@@ -8333,7 +8280,6 @@ mater
 slaughter
 earthquakes
 godsend
-Costume
 explenation
 favoirte
 Applebee's
@@ -9353,7 +9299,6 @@ ice-climbing
 pix
 clamp-on
 1What
-raced
 yeaaa
 sonic
 hedgehog
@@ -9886,7 +9831,6 @@ butterfly's
 trumpets
 Armstrong
 stilling
-strolled
 storties
 incriminated
 Saul
@@ -10842,7 +10786,6 @@ voer
 PubG
 brussel
 Liver
-dodging
 deadbeats
 vacaion
 basal
