@@ -1148,7 +1148,6 @@ Axis
 Aye
 Azure
 B2B
-BARBARIAN
 BASH
 BBQ
 BDD
@@ -1923,7 +1922,6 @@ CD-ROM
 CD-Rom
 CEO
 CEOs
-CERTAIN
 CES
 CGI
 CI
@@ -5365,6 +5363,7 @@ FAQS
 FAQs
 FAT
 FAX
+FB
 FBI
 FFmpeg
 FLOPS
@@ -7948,7 +7947,6 @@ Justifications
 Justified
 Justify
 KDE
-KILLERS
 Kafka
 Kanban
 Kangaroo
@@ -8711,6 +8709,7 @@ Masks
 Mass
 Mass-produced
 Massage
+Massages
 Masses
 Massive
 Massively
@@ -16133,7 +16132,6 @@ Wishing
 Witch
 Witches
 With
-WithOut
 Withdraw
 Withdrawal
 Withdrawing
@@ -26897,6 +26895,7 @@ giants
 giddy
 gif
 gift
+giftcard
 gifted
 gifts
 gigabit
@@ -31113,6 +31112,7 @@ masks
 mass
 mass-produced
 massage
+massages
 masses
 massive
 massively
