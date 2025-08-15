@@ -21947,10 +21947,10 @@ cryptomining
 cryptosystem
 cryptotrading
 crystal
-crystalize
-crystalized
-crystalizes
-crystalizing
+crystallise
+crystallised
+crystallises
+crystallising
 crystallization
 crystallize
 crystallized
