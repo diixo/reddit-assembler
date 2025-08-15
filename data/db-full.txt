@@ -10106,7 +10106,6 @@ PERL
 PGP
 PHP
 PI
-PIG
 PIN
 PINs
 PIP
@@ -38048,6 +38047,7 @@ rudely
 rudeness
 rudimentary
 rued
+ruffle
 rugged
 ruin
 ruined
