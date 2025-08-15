@@ -1073,6 +1073,7 @@ Authors
 Autism
 Auto
 Auto-saved
+Auto-saves
 AutoCAD
 Autobiography
 Autocad
@@ -1614,6 +1615,8 @@ Book
 Bookcases
 Booked
 Booking
+Bookkeeper
+Bookkeeping
 Bookmarks
 Books
 Bookstore
@@ -4031,6 +4034,7 @@ Diaphragm
 Diaries
 Diarrhea
 Diary
+Dice
 Dick
 Dicks
 Dictated
@@ -5396,6 +5400,8 @@ Facilities
 Facility
 Facing
 Fact
+Faction
+Factions
 Factor
 Factorial
 Factories
@@ -6733,6 +6739,7 @@ Hero
 Heroes
 Heroic
 Heroin
+Herring
 Hers
 Heterogeneous
 Heuristic
@@ -8468,6 +8475,9 @@ Loops
 Loose
 Loosely
 Loosing
+Loot
+Looted
+Looting
 Lord
 Los
 Lose
@@ -9517,6 +9527,7 @@ Nightly
 Nightmare
 Nightmares
 Nights
+Nighttime
 Nil
 Nine
 Nineteen
@@ -9552,6 +9563,7 @@ Non-Disclosure
 Non-Existent
 Non-Member
 Non-Native
+Non-Player
 Non-Profit
 Non-Standard
 Non-Verbal
@@ -10173,6 +10185,7 @@ Panel
 Panels
 Pangs
 Panic
+Panics
 Panties
 Pants
 Papa
@@ -10301,7 +10314,9 @@ Patriotic
 Patriotism
 Patriots
 Patrol
+Patron
 Patronage
+Patrons
 Pattern
 Pattern-matching
 Patterns
@@ -10742,6 +10757,7 @@ Polymorphism
 Polynomial
 Polynomials
 Pomp
+Pompous
 Pond
 Ponder
 Ponds
@@ -12671,6 +12687,7 @@ Sealed
 Sealing
 Seals
 Search
+Searchable
 Searched
 Searches
 Searching
@@ -14846,6 +14863,7 @@ Tower
 Towers
 Town
 Towns
+Townspeople
 Toxic
 Toxicity
 Toxin
@@ -15680,6 +15698,7 @@ Views
 Village
 Villages
 Villain
+Villains
 Vim
 Vine
 Vinegar
@@ -18933,6 +18952,8 @@ bookcase
 bookcases
 booked
 booking
+bookkeeper
+bookkeeping
 booklet
 booklets
 bookmark
@@ -23125,6 +23146,7 @@ diaphragm
 diaries
 diarrhea
 diary
+dice
 dick
 dicks
 dictate
@@ -25500,6 +25522,8 @@ facility
 facing
 fact
 fact-checking
+faction
+factions
 factor
 factored
 factorial
@@ -27665,6 +27689,7 @@ hero
 heroes
 heroic
 heroin
+herring
 hers
 herself
 hesitant
@@ -30779,6 +30804,9 @@ loosening
 loosens
 looser
 loosing
+loot
+looted
+looting
 lord
 lose
 loser
@@ -32567,6 +32595,7 @@ nightly
 nightmare
 nightmares
 nights
+nighttime
 nil
 nine
 nineteen
@@ -32681,6 +32710,7 @@ non-operating
 non-overlapping
 non-parametric
 non-persistent
+non-player
 non-pointer
 non-portable
 non-positive
@@ -33850,6 +33880,7 @@ pangs
 panic
 panicked
 panicking
+panics
 panned
 panties
 pants
@@ -34056,8 +34087,10 @@ patriotic
 patriotism
 patriots
 patrol
+patron
 patronage
 patroness
+patrons
 pattern
 pattern-driven
 pattern-match
@@ -34768,6 +34801,7 @@ polysemous
 polysemy
 polysynth
 pomp
+pompous
 pond
 ponder
 pondered
@@ -42160,6 +42194,7 @@ tower
 towers
 town
 towns
+townspeople
 toxic
 toxicity
 toxin
@@ -43959,6 +43994,7 @@ vigour
 village
 villages
 villain
+villains
 vim
 vindicate
 vindicated
