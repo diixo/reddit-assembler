@@ -7085,6 +7085,7 @@ Id's
 Idea
 Ideal
 Idealism
+Idealistic
 Idealized
 Ideally
 Ideals
@@ -23964,7 +23965,6 @@ drawn
 draws
 drawtalking
 dread
-dread **
 dreaded
 dreadful
 dreading
@@ -28164,6 +28164,7 @@ ide
 idea
 ideal
 idealism
+idealistic
 idealize
 idealized
 idealizes
@@ -39586,7 +39587,6 @@ sociology
 sociopath
 sociopathic
 sociopaths
-sociopathн
 sock
 socket
 sockets
