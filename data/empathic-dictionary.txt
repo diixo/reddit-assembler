@@ -917,7 +917,6 @@ pawn
 weirdos
 idk
 20k
-honking
 gossip
 kindergarden
 Eek
@@ -1001,7 +1000,6 @@ ABC's
 Ya
 forgiveness
 fences
-shore
 pic
 coop
 peron
@@ -1287,17 +1285,14 @@ caveman
 weeked
 guacamole
 stellar
-sprain
 teacher's
 Tuesdays
 America's
-toothache
 cozumel
 scuba
 Argh
 gouvernment
 battlefield
-chainsaws
 vacay
 ust
 Sooo
@@ -1359,7 +1354,6 @@ Ick
 helmet
 jon
 Saturdays
-tourney
 tornados
 scar
 someting
@@ -1371,7 +1365,6 @@ uhoh
 lb
 ther
 con's
-retrace
 devils
 Siblings
 Knox
@@ -1381,7 +1374,6 @@ bank's
 Rugrats
 doo
 beacuse
-wriggling
 otehr
 Rangers
 Eibar
@@ -1391,7 +1383,6 @@ mugged
 aloof
 touring
 ins
-flirty
 OOO
 whatnot
 corvette
@@ -1467,7 +1458,6 @@ nosy
 cholesterol
 hail
 repared
-barber
 boo
 chicago
 ewwww
@@ -1487,7 +1477,6 @@ lookng
 leukemia
 disorganized
 doberman
-trunks
 Aretha
 50-50
 lovable
@@ -1504,25 +1493,17 @@ buggati
 Gf
 uninhabitable
 sequels
-accountant
-humorous
 rattle
 shepherd
-supernatural
-uninvited
 Elbert
-airbags
 souvenir
 Epcot
 Uhm
 Lola
 Tots
 incense
-voucher
 shoudl
-paranormal
 Wal-Mart
-salaried
 lid
 Spyro
 heart-breaking
@@ -1544,7 +1525,6 @@ keychain
 drooling
 Thanos
 goodies
-boils
 Mary
 MD
 exes
@@ -1561,11 +1541,9 @@ miffed
 favoritism
 throught
 vey
-joyed
 Splatoon
 relly
 gamecube
-faking
 chuffed
 Chik-Fil-A
 hard-working
@@ -1585,20 +1563,16 @@ Filipino
 Laguna
 Browns
 Jim
-angrily
 dues
 Eric
 becuase
 bachelorette
 ESL
 appetizer
-doubting
-faithfulness
 fathom
 th
 Dez
 Bryant
-oblivious
 demise
 wierd
 orlando
@@ -1660,22 +1634,16 @@ mee
 tooo
 7pm
 pts
-seniors
 bask
 40k
-breather
 jinx
 infomercials
 Mike
 Tyson
-oldie
 windfall
 Gameboy
-egging
 stalking
 Jeeze
-cent
-charter
 doofus
 Arkansas
 LSAT
@@ -1776,7 +1744,6 @@ desolate
 tuxedo
 shrieked
 R
-trophies
 seperated
 finnaly
 Wendy's
@@ -1791,7 +1758,6 @@ Dunno
 charlottes
 70's
 definatley
-kidnapped
 longs
 UTI
 bled
@@ -1807,12 +1773,9 @@ giggling
 fella
 Life's
 somthing
-delusional
 parvo
-booming
 mummy
 dint
-lash
 hoarders
 psycho
 comforter
@@ -1825,7 +1788,6 @@ sled
 lunatic
 Bermuda
 newegg
-speechless
 cousin's
 hammering
 7am
@@ -1835,7 +1797,6 @@ devil's
 ps4
 slackers
 VW
-honked
 superhero
 fifa
 doe
@@ -1848,16 +1809,12 @@ afriad
 argh
 Joel
 Ahhhh
-wed
-genetics
-shores
 chit
 craigslist
 Oregon
 silverfish
 cheerleading
 cosign
-uproot
 greens
 trepidation
 vigilant
@@ -1868,7 +1825,6 @@ repairman
 unphased
 Neurofeedback
 Baltimore
-fished
 blatantly
 Greek
 Gary
@@ -2149,7 +2105,6 @@ scrapbooking
 Han
 5-6
 borderline
-uprooted
 robert
 absolutly
 defeatist
@@ -2199,7 +2154,6 @@ healers
 overprepare
 Yeesh
 samaritan
-Honking
 chucky
 walker
 Lin
@@ -3417,7 +3371,6 @@ drive-thru
 Chanel
 Izzy
 bling
-hammers
 acrobats
 hypertension
 pro's
@@ -4436,7 +4389,6 @@ hoooooo
 thnik
 clsoe
 Ewwwwww
-spraining
 hikers
 better-half
 chool
@@ -4970,7 +4922,6 @@ improvments
 tere
 La
 Hacinda
-Boils
 sso
 hippie
 jersey
@@ -5638,7 +5589,6 @@ recenlt
 thougj
 sanctuary
 imigrants
-uprooting
 rockettes
 sundelly
 ut
@@ -6577,7 +6527,6 @@ whaat
 combinient
 miricle
 finace
-Shores
 odometer
 countywide
 sneaker
@@ -6809,7 +6758,6 @@ Ahhhhh
 weve
 waiver
 herer
-Accountant
 usher
 yippeee
 Kamara
@@ -7002,7 +6950,6 @@ bc
 answerd
 presnetation
 perharps
-oldies
 go9d
 appriciated
 joyfull
@@ -7974,7 +7921,6 @@ run-down
 Schnauzer
 preemie
 ponytail
-Seniors
 yayy
 nurturer
 mocassins
@@ -8620,7 +8566,6 @@ mender
 frisds
 wete
 sacked
-sprained
 obivously
 barnes
 chipotle
@@ -10242,7 +10187,6 @@ re-built
 benedryl
 RSVP'd
 dodgy
-Barber
 mullet
 Pinscher
 km
@@ -11085,7 +11029,6 @@ Hahahahahaha
 Chad
 ting
 sneek
-Paranormal
 cred
 crochet
 ovarian
