@@ -67,7 +67,6 @@
 A
 A's
 A2DP
-ABRASIVE
 AI
 AI's
 AID
@@ -1140,6 +1139,7 @@ Awful
 Awfully
 Awhile
 Awkward
+Awkwardly
 Axes
 Axiom
 Axioms
@@ -1733,6 +1733,7 @@ Breathed
 Breather
 Breathes
 Breathing
+Breathless
 Breaths
 Bred
 Breed
@@ -1872,6 +1873,7 @@ Burrow
 Burrowing
 Burrows
 Burst
+Bursting
 Bursts
 Bury
 Burying
@@ -1932,7 +1934,6 @@ CMOS
 CMS
 CNN
 COM
-COMMENTERS
 COPS
 CPU
 CPUS
@@ -5369,7 +5370,6 @@ FFmpeg
 FLOPS
 FLOPs
 FLOps
-FORAGING
 FPGA
 FPS
 FPU
@@ -7841,8 +7841,6 @@ J2EE
 JAM
 JAR
 JAVA
-JBoss
-JELLO
 JPEG
 JPG
 JQuery
@@ -8044,7 +8042,6 @@ Kubernetes
 LCD
 LDA
 LED
-LICKING
 LIFO
 LLM
 LOL
@@ -10094,7 +10091,6 @@ Oysters
 Ozone
 P2P
 PAD
-PATRIOT
 PC
 PC's
 PCA
@@ -10625,6 +10621,7 @@ Plates
 Platform
 Platforms
 Platinum
+Platonic
 Plausibility
 Plausible
 Play
@@ -12061,6 +12058,7 @@ Reset
 Resetting
 Reshaping
 Residence
+Residency
 Resident
 Residential
 Residents
@@ -12434,7 +12432,6 @@ SAAS
 SAFE
 SAP
 SAP's
-SASSY
 SATA
 SCRUM
 SCSI
@@ -12444,8 +12441,6 @@ SDK's
 SDKs
 SDL
 SDRAM
-SEALS
-SEALs
 SEO
 SEOs
 SFTP
@@ -12458,7 +12453,6 @@ SSD
 SSE
 SSH
 SSL
-STAMPS
 STD
 SVG
 SVGA
@@ -14323,7 +14317,6 @@ T-shirt
 TCP
 TDD
 TLS
-TREASON
 TV
 TVs
 TXT
@@ -15788,7 +15781,6 @@ Vulnerability
 Vulnerable
 W3C
 WCF
-WEAKEN
 WI-FI
 WIFI
 WIKI
@@ -16312,10 +16304,7 @@ Youthful
 Youtube
 Youtubers
 Yummy
-ZERO
-ZEROS
 ZIP
-ZOOs
 Zeal
 Zebra
 Zebras
@@ -18257,6 +18246,7 @@ awfully
 awhile
 awk
 awkward
+awkwardly
 awkwardness
 awkwardnesses
 awoke
@@ -19128,6 +19118,7 @@ breathed
 breather
 breathes
 breathing
+breathless
 breaths
 bred
 breed
@@ -19335,6 +19326,7 @@ burrow
 burrowing
 burrows
 burst
+bursting
 bursts
 bury
 burying
@@ -23841,6 +23833,7 @@ donuts
 doom
 doomed
 door
+doorbell
 doors
 doorstep
 dope
@@ -33698,6 +33691,7 @@ oversimplifies
 oversimplify
 oversized
 oversleep
+overspent
 overstate
 overstated
 overstates
@@ -34596,6 +34590,7 @@ platforming
 platformization
 platforms
 platinum
+platonic
 platter
 plausibility
 plausible
@@ -35329,6 +35324,7 @@ probable
 probably
 probation
 probe
+probed
 probes
 probing
 problem
@@ -37427,6 +37423,7 @@ reshuffling
 reside
 resided
 residence
+residency
 resident
 residential
 residents
@@ -39566,6 +39563,7 @@ soaps
 soar
 soared
 soaring
+soars
 sober
 sobered
 sobering
@@ -39955,6 +39953,7 @@ spoke
 spoken
 spokesperson
 sponge
+sponged
 sponges
 spongy
 sponsor
@@ -43573,6 +43572,7 @@ upskilling
 upstage
 upstages
 upstairs
+upstanding
 upstart
 upstarts
 upstream
