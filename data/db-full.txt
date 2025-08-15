@@ -778,6 +778,10 @@ Appoints
 Appraisal
 Appreciate
 Appreciating
+Apprentice
+Apprentices
+Apprenticeship
+Apprenticeships
 Approach
 Approaches
 Approaching
@@ -1068,6 +1072,7 @@ Authorized
 Authors
 Autism
 Auto
+Auto-saved
 AutoCAD
 Autobiography
 Autocad
@@ -2248,6 +2253,7 @@ Chases
 Chasing
 Chassis
 Chat
+ChatGPT
 Chatting
 Cheap
 Cheaper
@@ -2518,6 +2524,7 @@ Cmd
 Co
 Co-Director
 Co-creator
+Co-pilot
 Co-worker
 Co-workers
 CoM
@@ -2632,6 +2639,8 @@ Column
 Columns
 Com
 Combat
+Combatant
+Combatants
 Combination
 Combinations
 Combinatorial
@@ -4546,6 +4555,8 @@ Dumping
 Dumplings
 Dumps
 Dumpster
+Dungeon
+Dungeons
 Duo
 Duped
 Duplicated
@@ -5713,6 +5724,7 @@ Flooded
 Flooding
 Floods
 Floor
+Flooring
 Floors
 Flopped
 Flopping
@@ -5741,6 +5753,7 @@ Fluff
 Fluffed
 Fluffy
 Fluid
+Fluids
 Flush
 Flushing
 Flute
@@ -6263,6 +6276,8 @@ Goal
 Goals
 Goat
 Goats
+Goblin
+Goblins
 God
 God's
 Godfather
@@ -6655,6 +6670,7 @@ Height
 Heightened
 Heights
 Heir
+Heist
 Held
 Helicopter
 Helium
@@ -7173,6 +7189,11 @@ Improvement
 Improvements
 Improves
 Improving
+Improvisation
+Improvise
+Improvised
+Improvises
+Improvising
 Imprudent
 Impulse
 Impulsive
@@ -7824,6 +7845,7 @@ Jerks
 Jerky
 Jet
 Jets
+Jeweler
 Jewelry
 Jitter
 Jittery
@@ -7963,6 +7985,8 @@ Kitties
 Kitty
 Knew
 Knife
+Knit
+Knitting
 Knock
 Knocked
 Knocking
@@ -7981,6 +8005,7 @@ LDA
 LED
 LICKING
 LIFO
+LLM
 LOL
 LSD
 LaGrange
@@ -9306,8 +9331,13 @@ Napkins
 Naps
 Narcotic
 Narcotics
+Narrate
+Narrated
+Narrates
+Narrating
 Narrative
 Narratives
+Narrator
 Narrow
 Narrower
 Narrowing
@@ -9757,6 +9787,7 @@ One-Time
 One-day
 One-dimensional
 One-on-One
+One-time
 One-way
 OneDrive
 Onedrive
@@ -10749,6 +10780,8 @@ Potent
 Potential
 Potentially
 Potentials
+Potion
+Potions
 Pottery
 Poultry
 Pound
@@ -11282,6 +11315,8 @@ Quantization
 Quantized
 Quantum
 Quarantine
+Quard
+Quards
 Quarrel
 Quarter
 Quarterback
@@ -11302,6 +11337,7 @@ Questioning
 Questionnaire
 Questionnaires
 Questions
+Quests
 Queue
 Queues
 Quick
@@ -11314,6 +11350,7 @@ Quiet
 Quieter
 Quills
 Quintessential
+Quirky
 Quit
 Quite
 Quitting
@@ -12221,6 +12258,7 @@ Rodeo
 Rods
 Rogue
 Role
+Roleplay
 Roles
 Roll
 Rolled
@@ -12881,6 +12919,8 @@ Shooters
 Shooting
 Shoots
 Shop
+Shopkeeper
+Shopkeepers
 Shopped
 Shopping
 Shops
@@ -14288,6 +14328,8 @@ Tasting
 Tattling
 Tattoo
 Taught
+Tavern
+Taverns
 Tax
 Taxed
 Taxes
@@ -14473,6 +14515,7 @@ Therapies
 Therapist
 Therapy
 There
+There'd
 There'll
 There're
 There's
@@ -16051,6 +16094,7 @@ Wool
 Wooly
 Word
 WordPress
+Worded
 Wording
 Wordpress
 Words
@@ -16061,6 +16105,7 @@ Workaround
 Worked
 Worker
 Workers
+Workflow
 Workforce
 Working
 Workout
@@ -16766,6 +16811,8 @@ aftertime
 afterupdate
 afterward
 afterwards
+afterword
+afterwords
 again
 against
 age
@@ -17467,6 +17514,10 @@ apprehending
 apprehension
 apprehensive
 apprehensively
+apprentice
+apprentices
+apprenticeship
+apprenticeships
 approach
 approachability
 approachable
@@ -17980,6 +18031,7 @@ auto-grading
 auto-reconnection
 auto-related
 auto-restart
+auto-saved
 auto-scaling
 auto-tagging
 autobiography
@@ -20189,6 +20241,7 @@ co-organizes
 co-own
 co-owner
 co-owners
+co-pilot
 co-production
 co-routine
 co-routines
@@ -20400,6 +20453,8 @@ column
 columns
 com
 combat
+combatant
+combatants
 combated
 combination
 combinational
@@ -23899,6 +23954,8 @@ dumpling
 dumplings
 dumps
 dumpster
+dungeon
+dungeons
 duo
 dupe
 duped
@@ -25898,6 +25955,7 @@ flooding
 floods
 floor
 floored
+flooring
 floors
 flop
 flopped
@@ -25940,6 +25998,7 @@ fluffing
 fluffs
 fluffy
 fluid
+fluids
 flung
 flunk
 flunked
@@ -26794,6 +26853,8 @@ goal-directed
 goals
 goat
 goats
+goblin
+goblins
 godfather
 godless
 godmother
@@ -27403,6 +27464,7 @@ heightmap
 heights
 heir
 heiress
+heist
 held
 held-out
 held-up
@@ -28219,6 +28281,11 @@ improvements
 improves
 improvidently
 improving
+improvisation
+improvise
+improvised
+improvises
+improvising
 imprudence
 imprudent
 impudence
@@ -29552,6 +29619,7 @@ jestjs
 jet
 jetbrains
 jets
+jeweler
 jewelry
 jframe
 jinja
@@ -29822,6 +29890,10 @@ knew
 knife
 knight
 knights
+knit
+knits
+knitted
+knitting
 knives
 knn
 knock
@@ -31510,6 +31582,10 @@ mlops
 mmlu
 mnemonic
 mnist
+moan
+moaned
+moaning
+moans
 mobile
 mobile-development
 mobile-first
@@ -32066,9 +32142,14 @@ napkins
 naps
 narcotic
 narcotics
+narrate
+narrated
+narrates
+narrating
 narration
 narrative
 narratives
+narrator
 narrow
 narrowed
 narrower
@@ -34615,6 +34696,8 @@ potential
 potentially
 potentials
 potently
+potion
+potions
 pottery
 poultry
 pound
@@ -35625,6 +35708,7 @@ questioning
 questionnaire
 questionnaires
 questions
+quests
 queue
 queue-based
 queued
@@ -35654,6 +35738,7 @@ quintessential
 quire
 quired
 quires
+quirky
 quit
 quite
 quited
@@ -37608,6 +37693,7 @@ rods
 rogue
 roi
 role
+roleplay
 roles
 roleset
 roll
@@ -38146,7 +38232,10 @@ seasons
 seat
 seated
 seats
+seclude
 secluded
+secludes
+secluding
 seclusion
 second
 secondarily
@@ -38633,6 +38722,7 @@ shooting
 shoots
 shop
 shopkeeper
+shopkeepers
 shopped
 shopping
 shops
@@ -39065,6 +39155,10 @@ slug
 sluggish
 slugs
 slumbering
+slump
+slumped
+slumping
+slumps
 slung
 slurp
 slurped
@@ -39963,6 +40057,7 @@ stir
 stirred
 stirring
 stitch
+stitched
 stitches
 stl
 stochastic
@@ -40999,6 +41094,8 @@ tattoo
 tattooed
 tattoos
 taught
+tavern
+taverns
 tax
 taxed
 taxes
@@ -41336,6 +41433,7 @@ therapies
 therapist
 therapy
 there
+there'd
 there'll
 there're
 there's
@@ -43778,6 +43876,7 @@ walkway
 wall
 walled
 wallet
+wallmart
 wallpaper
 wallpapers
 walls
@@ -44073,6 +44172,7 @@ weirdest
 weirdly
 weirdness
 welcome
+welcome-back
 welcomed
 welcomes
 welcoming
@@ -44423,6 +44523,7 @@ wooly
 word
 word2vec
 wordcloud
+worded
 wordform
 wordforms
 wording
