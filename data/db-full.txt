@@ -1272,6 +1272,7 @@ Bathing
 Bathroom
 Bathrooms
 Baths
+Batman
 Bats
 Batteries
 Battery
@@ -1612,6 +1613,7 @@ Bootstrap
 Bootstrapping
 Booze
 Border
+Borderline
 Borders
 Bore
 Bored
@@ -1709,6 +1711,7 @@ Breathing
 Breaths
 Bred
 Breed
+Breeder
 Breeding
 Breeds
 Breeze
@@ -2135,6 +2138,7 @@ Cellphone
 Cellphones
 Cells
 Cellular
+Cemetery
 Censor
 Censored
 Censoring
@@ -2281,6 +2285,7 @@ Chiefly
 Chiefs
 Child
 Child's
+Childcare
 Childhood
 Children
 Childrens
@@ -3924,6 +3929,7 @@ Detour
 Dev
 Dev's
 Devalued
+Devastating
 Develop
 Developed
 Developer
@@ -5690,6 +5696,7 @@ Flops
 Florida
 Floss
 Flossing
+Flour
 Flourish
 Flourishing
 Flow
@@ -5756,6 +5763,7 @@ Fools
 Foot
 Footage
 Football
+Footed
 Footprint
 Footprints
 Footsteps
@@ -6299,6 +6307,7 @@ Grandparent
 Grandparents
 Grandson
 Granny
+Granola
 Grant
 Granted
 Granting
@@ -6402,6 +6411,7 @@ Guides
 Guilt
 Guilty
 Guitar
+Guitarist
 Guitars
 Gulp
 Gums
@@ -8520,6 +8530,7 @@ Maneuver
 Maneuvering
 Maneuvers
 Mango
+Mania
 Manifest
 Manifold
 Manipulate
@@ -9661,6 +9672,7 @@ Oh
 Oil
 Ok
 Okay
+Okey
 Old
 Old-Fashioned
 Old-fashioned
@@ -9941,6 +9953,8 @@ Ownership
 Owning
 Owns
 Oxygen
+Oyster
+Oysters
 Ozone
 P2P
 PAD
@@ -12138,6 +12152,7 @@ Rod
 Rode
 Rodent
 Rodents
+Rodeo
 Rods
 Rogue
 Role
@@ -12156,6 +12171,8 @@ Room
 Roommate
 Roommates
 Rooms
+Rooster
+Roosters
 Root
 Rooting
 Rootkit
@@ -12330,6 +12347,7 @@ Sang
 Sanitary
 Sanitizer
 Sank
+Santa
 Sap
 Sarcasm
 Sarcastic
@@ -12376,6 +12394,7 @@ Scalp
 Scam
 Scammer
 Scammers
+Scamp
 Scan
 Scandal
 Scanline
@@ -12837,12 +12856,14 @@ Shrinking
 Shrinks
 Shrugged
 Shrunk
+Shucks
 Shuffle
 Shuffling
 Shut
 Shutdown
 Shuts
 Shutter
+Shutters
 Shutting
 Shuttle
 Shuttles
@@ -13141,6 +13162,7 @@ Soap
 Soaps
 Sober
 Sobering
+Sobriety
 Social
 Socialize
 Socialized
@@ -13200,6 +13222,7 @@ Somatic
 Some
 Somebody
 Someday
+Somedays
 Somehow
 Someone
 Someone's
@@ -14850,6 +14873,7 @@ Try
 Trying
 Tube
 Tubes
+Tubing
 Tuesday
 Tumble
 Tumor
@@ -15759,6 +15783,7 @@ When's
 Whence
 Whenever
 Where
+Where'd
 Where's
 Whereabouts
 Whereas
@@ -18180,6 +18205,7 @@ bathing
 bathroom
 bathrooms
 baths
+batman
 bats
 batteries
 battery
@@ -18645,6 +18671,8 @@ boobs
 book
 booked
 booking
+booklet
+booklets
 bookmark
 bookmarked
 bookmarking
@@ -18686,6 +18714,7 @@ booze
 border
 bordered
 bordering
+borderline
 borders
 bore
 bored
@@ -18706,6 +18735,7 @@ bother
 bothered
 bothering
 bothers
+bothersome
 botnet
 botnets
 bots
@@ -18820,6 +18850,7 @@ breathing
 breaths
 bred
 breed
+breeder
 breeding
 breeds
 breeze
@@ -19432,6 +19463,7 @@ cellphone
 cellphones
 cells
 cellular
+cemetery
 censor
 censored
 censoring
@@ -19666,6 +19698,7 @@ chiefly
 chiefs
 child
 child's
+childcare
 childhood
 childless
 children
@@ -20243,6 +20276,7 @@ combine
 combined
 combines
 combining
+combo
 combobox
 combust
 combusted
@@ -21389,6 +21423,7 @@ crank
 cranking
 cranky
 crap
+crapped
 crappy
 crash
 crashed
@@ -21629,6 +21664,7 @@ cuddle
 cuddled
 cuddles
 cuddling
+cuddly
 cudnn
 cues
 cuff
@@ -21651,6 +21687,8 @@ cultural
 culturally
 culture
 cultures
+cumbersome
+cumbersomely
 cumulated
 cumulative
 cumulatively
@@ -22677,6 +22715,8 @@ devalued
 devalues
 devastate
 devastated
+devastates
+devastating
 devbook
 devbooks
 develop
@@ -25602,6 +25642,7 @@ flairs
 flake
 flaked
 flakes
+flaky
 flame
 flames
 flammable
@@ -25636,6 +25677,10 @@ flatterers
 flatteries
 flattering
 flattery
+flaunt
+flaunted
+flaunting
+flaunts
 flavour
 flavours
 flaw
@@ -25711,6 +25756,7 @@ flora
 floss
 flossing
 flossy
+flour
 flourish
 flourished
 flourishes
@@ -25816,6 +25862,7 @@ fools
 foot
 footage
 football
+footed
 footer
 footing
 footpath
@@ -26292,6 +26339,7 @@ gallon
 gamble
 gambled
 gambler
+gambles
 gambling
 game
 game's
@@ -26330,6 +26378,7 @@ garlic
 garment
 garnered
 gas
+gash
 gasoline
 gate
 gated
@@ -26703,6 +26752,7 @@ grandparent
 grandparents
 grandson
 granny
+granola
 grant
 granted
 granting
@@ -26867,6 +26917,7 @@ guileless
 guilt
 guilty
 guitar
+guitarist
 guitars
 gulp
 gum
@@ -28106,7 +28157,10 @@ incomparable
 incompatibilities
 incompatibility
 incompatible
+incompetence
+incompetency
 incompetent
+incompetently
 incomplete
 incompleted
 incompletely
@@ -30523,6 +30577,8 @@ maneuver
 maneuvering
 maneuvers
 mango
+mania
+maniac
 manifest
 manifested
 manifests
@@ -30886,6 +30942,7 @@ messaging
 messed
 messenger
 messes
+messiness
 messing
 messy
 met
@@ -31533,6 +31590,7 @@ muffle
 muffled
 muffles
 muffling
+muggy
 mui
 mule
 mules
@@ -32387,6 +32445,8 @@ oats
 oauth
 oauth2
 obedience
+obedient
+obediently
 obesity
 obey
 obeyed
@@ -32598,6 +32658,7 @@ oiled
 oils
 ok
 okay
+okey
 old
 old-fashioned
 old-school
@@ -33215,6 +33276,8 @@ ownership
 owning
 owns
 oxygen
+oyster
+oysters
 ozone
 p2p
 pace
@@ -34535,6 +34598,7 @@ prefix
 prefixed
 prefixes
 prefixing
+preform
 pregnancy
 pregnant
 prehistory
@@ -35504,6 +35568,10 @@ ranked
 ranking
 rankings
 ranks
+ransack
+ransacked
+ransacking
+ransacks
 ransomware
 rap
 rape
@@ -36348,6 +36416,8 @@ rejoins
 rejuvenated
 relaid
 relapse
+relapsed
+relapses
 relapsing
 relatable
 relate
@@ -36577,7 +36647,9 @@ repaints
 repair
 repairable
 repaired
+repairer
 repairing
+repairman
 repairs
 reparameterization
 reparameterize
@@ -37151,6 +37223,7 @@ reward
 rewarded
 rewarding
 rewards
+rewatching
 reweight
 reweighting
 rewind
@@ -37303,6 +37376,7 @@ rod
 rode
 rodent
 rodents
+rodeo
 rods
 rogue
 roi
@@ -37335,6 +37409,8 @@ room
 roommate
 roommates
 rooms
+rooster
+roosters
 root
 rooted
 rooting
@@ -37474,6 +37550,10 @@ rushes
 rushing
 rust
 rusting
+rustle
+rustled
+rustles
+rustling
 rusty
 rvalue
 rvalues
@@ -37550,6 +37630,7 @@ sanitary
 sanitizer
 sanity
 sank
+santa
 sap
 sap's
 sarcasm
@@ -37618,6 +37699,7 @@ scammed
 scammer
 scammers
 scammy
+scamp
 scams
 scan
 scandal
@@ -37932,6 +38014,7 @@ self-assistance
 self-attention
 self-aware
 self-balancing
+self-care
 self-conscious
 self-contained
 self-correction
@@ -38304,6 +38387,7 @@ shooters
 shooting
 shoots
 shop
+shopkeeper
 shopped
 shopping
 shops
@@ -38377,6 +38461,7 @@ shrinking
 shrinks
 shrugged
 shrunk
+shucks
 shuffle
 shuffled
 shuffles
@@ -38387,6 +38472,7 @@ shutdown
 shutdowns
 shuts
 shutter
+shutters
 shutting
 shuttle
 shuttles
@@ -38626,6 +38712,7 @@ skipping
 skips
 skirt
 skirts
+skis
 sklearn
 skull
 skulls
@@ -38840,6 +38927,8 @@ sniper
 snippet
 snippets
 snitch
+snitche
+snitched
 snooze
 snoozed
 snore
@@ -38874,6 +38963,7 @@ soaps
 soared
 sober
 sobering
+sobriety
 social
 social-media
 social-networking
@@ -38975,6 +39065,7 @@ some
 somebody
 somebody's
 someday
+somedays
 somefunction
 somehow
 someone
@@ -39059,6 +39150,7 @@ spammers
 spamming
 span
 spank
+spanked
 spanking
 spanned
 spanning
@@ -39809,6 +39901,7 @@ stubbornly
 stubs
 stuck
 student
+student's
 students
 studied
 studies
@@ -40680,6 +40773,7 @@ teapot
 teapots
 tear
 teardown
+teared
 tearing
 tears
 teary
@@ -41791,6 +41885,7 @@ tsql
 tube
 tubers
 tubes
+tubing
 tuesday
 tumble
 tumor
@@ -42181,6 +42276,7 @@ underwater
 underway
 underwear
 underwent
+underwhelming
 underwhelms
 undeservedly
 undesigned
@@ -43640,6 +43736,7 @@ webworkers
 webworks
 webxml
 wed
+wedded
 wedding
 weddings
 wedge
@@ -43757,6 +43854,7 @@ when's
 whence
 whenever
 where
+where'd
 where's
 whereabout
 whereabouts
@@ -44140,6 +44238,7 @@ wrecked
 wrecking
 wreckless
 wrecks
+wrestle
 wretch
 wretched
 wretchedest
