@@ -598,6 +598,7 @@ Amplitude
 Amusement
 Amusing
 An
+Anabolic
 Anaconda
 Anal
 Analog
@@ -1717,6 +1718,7 @@ Braves
 Breach
 Bread
 Break
+Break-Up
 Breakdown
 Breaker
 Breakfast
@@ -1892,6 +1894,7 @@ Busted
 Busting
 Busy
 But
+Butcher
 Butt
 Butter
 Butterflies
@@ -3494,6 +3497,8 @@ Curve
 Curved
 Curves
 Curvilinear
+Cuss
+Cussing
 Custody
 Custom
 Customary
@@ -3840,6 +3845,7 @@ Demonstrated
 Demonstrates
 Demonstrating
 Demonstration
+Demoralizing
 Demos
 Denial
 Denied
@@ -4426,6 +4432,7 @@ Donor
 Dont
 Donut
 Donuts
+Doodles
 Doom
 Doomed
 Door
@@ -5667,6 +5674,7 @@ First-hand
 First-order
 Firstly
 Fiscal
+Fiscally
 Fish
 Fishes
 Fishing
@@ -6560,6 +6568,7 @@ Handle
 Handler
 Handles
 Handling
+Handout
 Hands
 Hands-on
 Handshake
@@ -10026,6 +10035,7 @@ Outsourcing
 Outstanding
 Outward
 Outwardly
+Ovation
 Oven
 Ovens
 Over
@@ -10360,6 +10370,7 @@ Peasants
 Pebbles
 Peculiar
 Peculiarities
+Pedals
 Pedantic
 Pedestrian
 Pedestrians
@@ -11009,6 +11020,7 @@ Pride
 Prideful
 Priest
 Priests
+Primaries
 Primarily
 Primary
 Primate
@@ -11486,6 +11498,7 @@ Raffles
 Rag
 Rage
 Raid
+Raider
 Raiders
 Rail
 Railroad
@@ -11533,6 +11546,8 @@ Rap
 Rapid
 Rapidity
 Rapidly
+Raptor
+Raptors
 Rare
 Rarely
 Rarer
@@ -12658,6 +12673,7 @@ Screen
 Screening
 Screens
 Screensaver
+Screensavers
 Screenshot
 Screw
 Screwed
@@ -13058,6 +13074,7 @@ Shutting
 Shuttle
 Shuttles
 Shy
+Shyness
 Sibling
 Sick
 Sickest
@@ -17290,6 +17307,7 @@ amuses
 amusing
 an
 an't
+anabolic
 anaconda
 anagram
 anagrams
@@ -19004,6 +19022,7 @@ bore
 bored
 boring
 born
+borns
 borrow
 borrowed
 borrower
@@ -19113,6 +19132,7 @@ breaching
 bread
 break
 break-even
+break-up
 breakable
 breakage
 breakdown
@@ -19176,6 +19196,7 @@ brightest
 brightly
 brightness
 brilliant
+brindle
 bring
 bringing
 brings
@@ -19371,8 +19392,10 @@ bust
 busted
 busting
 bustle
+bustling
 busy
 but
+butcher
 butt
 butter
 butterflies
@@ -20194,6 +20217,7 @@ claws
 clay
 clean
 clean-up
+cleanable
 cleaned
 cleaner
 cleaners
@@ -21944,6 +21968,7 @@ crumbs
 crumple
 crunch
 crunchboard
+crunched
 crunching
 crunchy
 crush
@@ -22080,7 +22105,10 @@ curved
 curves
 curvilinear
 curving
+cuss
 cussed
+cusses
+cussing
 custodial
 custodian
 custody
@@ -22738,6 +22766,10 @@ demonstrating
 demonstration
 demonstrational
 demonstrations
+demoralize
+demoralized
+demoralizes
+demoralizing
 demos
 demote
 demoted
@@ -23850,6 +23882,7 @@ donor
 dont
 donut
 donuts
+doodles
 doom
 doomed
 door
@@ -25672,6 +25705,7 @@ fastening
 faster
 fastest
 fastest-growing
+fastfood
 fastidious
 fastified
 fastify
@@ -25966,6 +26000,7 @@ first-rate
 first-time
 firstly
 fiscal
+fiscally
 fish
 fished
 fishes
@@ -26466,6 +26501,7 @@ francaidl
 franchise
 frantic
 frantically
+frappe
 fraud
 freak
 freaked
@@ -27393,6 +27429,7 @@ hand-over
 hand-picked
 hand-to-hand
 hand-written
+handball
 handbook
 handbrake
 handed
@@ -27408,6 +27445,7 @@ handles
 handling
 handmade
 handoff
+handout
 handover
 hands
 hands-free
@@ -28097,6 +28135,7 @@ husband
 husbands
 hush
 hustle
+hustles
 hybrid
 hybrids
 hybris
@@ -29935,6 +29974,7 @@ juniors
 junit
 junit4
 junk
+junkyard
 jupyter
 jupyter-notebook
 jurisdiction
@@ -30075,6 +30115,7 @@ kissing
 kit
 kitchen
 kitchens
+kitchenware
 kits
 kitten
 kittens
@@ -30831,6 +30872,7 @@ loudness
 lounge
 lousy
 love
+loveable
 loved
 loveliness
 lovely
@@ -33575,6 +33617,8 @@ outwardly
 outwards
 outweigh
 outweighs
+ovation
+ovations
 oven
 ovens
 over
@@ -34163,6 +34207,7 @@ peculiarities
 peculiarity
 peculiarly
 pedal
+pedals
 pedantic
 pedestrian
 pedestrians
@@ -35264,6 +35309,7 @@ prevalence
 prevalent
 prevent
 preventable
+preventative
 prevented
 preventing
 prevention
@@ -35289,6 +35335,7 @@ prideful
 prides
 priest
 priests
+primaries
 primarily
 primary
 primate
@@ -36053,6 +36100,7 @@ rag
 rage
 raging
 raid
+raider
 raiders
 rail
 railroad
@@ -36131,6 +36179,8 @@ rappel
 rappelled
 rappelling
 rappels
+raptor
+raptors
 raptures
 rapturous
 rare
@@ -36743,6 +36793,7 @@ refillable
 refilled
 refilling
 refills
+refinance
 refinancing
 refine
 refined
@@ -38017,6 +38068,7 @@ rotty
 rouge
 rouged
 rough
+rougher
 roughly
 roughness
 roulette
@@ -38425,6 +38477,7 @@ screened
 screening
 screens
 screensaver
+screensavers
 screenshot
 screenshots
 screw
@@ -39094,6 +39147,7 @@ shutting
 shuttle
 shuttles
 shy
+shyness
 sibling
 sick
 sickest
@@ -39797,6 +39851,7 @@ spanning
 spans
 spare
 spared
+spares
 sparing
 sparingly
 spark
@@ -39939,6 +39994,7 @@ spills
 spilt
 spin
 spine
+spineless
 spines
 spinlock
 spinned
@@ -40064,6 +40120,7 @@ spunky
 spurious
 spurn
 spurned
+spurred
 sputter
 sputtered
 sputtering
@@ -40200,6 +40257,7 @@ standout
 standpoint
 stands
 standstill
+standup
 stanford
 stank
 staple
@@ -41144,6 +41202,7 @@ sweater
 sweaters
 sweating
 sweats
+sweatshirt
 sweaty
 sweep
 sweeped
@@ -41625,6 +41684,10 @@ terror
 terrorism
 terrorist
 terrorists
+terrorize
+terrorized
+terrorizes
+terrorizing
 terse
 tersely
 terseness
@@ -44960,6 +45023,7 @@ wreaks
 wreck
 wreckage
 wrecked
+wreckers
 wrecking
 wreckless
 wrecks
