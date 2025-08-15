@@ -875,6 +875,7 @@ Arriving
 Arrogance
 Arrow
 Arrows
+Arsenal
 Art
 Artefacts
 Article
@@ -1111,6 +1112,7 @@ Aviation
 Avocado
 Avocados
 Avoid
+Avoidable
 Avoidance
 Avoiding
 Avoids
@@ -1185,6 +1187,7 @@ Badge
 Badges
 Badly
 Bag
+Baggage
 Bags
 Bail
 Bailed
@@ -1349,6 +1352,7 @@ Behavioral
 Behaviorally
 Behaviors
 Behaviour
+Behavioural
 Behaviours
 Behind
 Behold
@@ -2019,6 +2023,7 @@ Capitalize
 Capitalized
 CapsLock
 Captain
+Captains
 Captcha
 Captchas
 Caption
@@ -2039,6 +2044,7 @@ Carbon
 Carbs
 Card
 Cardboard
+Cardinal
 Cardinality
 Cardio
 Cards
@@ -2556,6 +2562,7 @@ Coherent
 Cohesion
 Cohesive
 Coil
+Coiled
 Coiling
 Coils
 Coin
@@ -2603,6 +2610,7 @@ Colon
 Colonial
 Colonialism
 Colonies
+Colonisation
 Colonized
 Colonizing
 Colony
@@ -4357,6 +4365,7 @@ Dom
 Domain
 Domains
 Domestic
+Domestically
 Domesticate
 Domesticated
 Domesticating
@@ -4405,6 +4414,7 @@ Dough
 Dove
 Doves
 Down
+Downed
 Downfall
 Downhill
 Download
@@ -6651,8 +6661,10 @@ Helpful
 Helping
 Helpless
 Helps
+Hen
 Hence
 Henceforth
+Hens
 Her
 Herb
 Herbal
@@ -7950,6 +7962,7 @@ Knowingly
 Knowledge
 Known
 Knows
+Knuckles
 Korea
 Korean
 Kubernetes
@@ -8813,6 +8826,7 @@ Meta
 Meta-data
 Metadata
 Metal
+Metallurgy
 Metals
 Metamorphoses
 Metaphor
@@ -9030,6 +9044,7 @@ Module
 Modules
 Modulus
 Moist
+Moisture
 Mold
 Molding
 Molds
@@ -9212,6 +9227,7 @@ Must
 Must've
 Mustache
 Mustang
+Mustangs
 Mustard
 Muster
 Mutated
@@ -9275,6 +9291,8 @@ Nap
 Napkin
 Napkins
 Naps
+Narcotic
+Narcotics
 Narrative
 Narratives
 Narrow
@@ -9435,6 +9453,8 @@ Nodes
 Noise
 Noises
 Noisy
+Nomad
+Nomads
 Nominal
 Nominally
 Nominated
@@ -10401,6 +10421,7 @@ Picking
 Pickle
 Pickles
 Pickup
+Pickups
 Picky
 Pics
 Picture
@@ -10455,6 +10476,7 @@ Piping
 Piracy
 Pirate
 Pirates
+Piss
 Pissed
 Pisses
 Pit
@@ -10705,6 +10727,7 @@ Posting
 Postponing
 Posts
 Postulate
+Postulates
 Posture
 Potato
 Potatoes
@@ -11569,6 +11592,7 @@ Recurrent
 Recurring
 Recursion
 Recursive
+Recyclable
 Recycle
 Recycled
 Recycles
@@ -11633,6 +11657,7 @@ Reformed
 Reforms
 Refract
 Refracted
+Refracting
 Refraction
 Refractive
 Refracts
@@ -12519,6 +12544,7 @@ Scrubbing
 Scrubs
 Scrum
 Scrutiny
+Scuffed
 Sculpture
 Sculptures
 Scum
@@ -12565,6 +12591,7 @@ Secures
 Securing
 Security
 Sedan
+Sedans
 Sedative
 Sedentary
 Sediment
@@ -13134,6 +13161,7 @@ Smelling
 Smells
 Smelly
 Smelt
+Smelting
 Smile
 Smiles
 Smiling
@@ -13385,6 +13413,7 @@ Spheres
 Spherical
 Spice
 Spices
+Spiciness
 Spicy
 Spider
 Spiders
@@ -13489,6 +13518,7 @@ Squid
 Squinting
 Squirrel
 Squirrels
+Squirt
 Squish
 Squished
 Squishes
@@ -13535,6 +13565,7 @@ Stall
 Stalling
 Stalls
 Stamp
+Stamped
 Stamps
 Stance
 Stand
@@ -13641,6 +13672,7 @@ Sterile
 Stick
 Sticker
 Stickers
+Stickiness
 Sticking
 Sticks
 Sticky
@@ -14873,6 +14905,9 @@ Trips
 Triumph
 Trivially
 Trojan
+Troll
+Trolling
+Trolls
 Troop
 Troops
 Trophies
@@ -14908,6 +14943,7 @@ Tubes
 Tubing
 Tuesday
 Tumble
+Tumbling
 Tumor
 Tuna
 Tune
@@ -15132,6 +15168,7 @@ Unforgivable
 Unfortunate
 Unfortunately
 Unfulfilled
+Unharmed
 Unhealthy
 Unheard
 Unicode
@@ -15345,6 +15382,7 @@ VBScript
 VGA
 VHDL
 VISA
+VISAs
 VMWare
 VMware
 VOIP
@@ -15524,6 +15562,7 @@ Virtues
 Virus
 Viruses
 Visa
+Visas
 Visibility
 Visible
 Visibly
@@ -17549,6 +17588,7 @@ arrogantly
 arrow
 arrowheads
 arrows
+arsenal
 art
 art-development
 art-direction
@@ -18011,6 +18051,7 @@ avocados
 avocation
 avocations
 avoid
+avoidable
 avoidance
 avoided
 avoiding
@@ -18137,6 +18178,7 @@ badly
 baffled
 bag
 bag-of-words
+baggage
 bags
 bail
 bailed
@@ -18351,6 +18393,7 @@ behavioral
 behaviorally
 behaviors
 behaviour
+behavioural
 behaviourally
 behaviours
 beheld
@@ -18436,6 +18479,9 @@ betrays
 bets
 better
 better-defined
+bettered
+bettering
+betters
 betting
 between
 betweenness
@@ -18560,6 +18606,7 @@ blackbox
 blacklist
 blacklisted
 blacklists
+blackness
 blackout
 bladder
 blade
@@ -19318,6 +19365,7 @@ capslock
 capsule
 capsules
 captain
+captains
 captcha
 captchas
 caption
@@ -19341,6 +19389,7 @@ carbon
 carbs
 card
 cardboard
+cardinal
 cardinality
 cardio
 cards
@@ -20208,6 +20257,7 @@ coherently
 cohesion
 cohesive
 coil
+coiled
 coiling
 coils
 coin
@@ -20239,6 +20289,7 @@ collaborations
 collaborative
 collaboratively
 collage
+collages
 collapsable
 collapse
 collapsed
@@ -20290,6 +20341,7 @@ colon
 colonial
 colonialism
 colonies
+colonisation
 colonization
 colonize
 colonized
@@ -23526,6 +23578,7 @@ domain
 domain-specific
 domains
 domestic
+domestically
 domesticate
 domesticated
 domesticates
@@ -23606,6 +23659,7 @@ down
 down-sample
 downcasting
 downcasts
+downed
 downfall
 downgrade
 downgraded
@@ -24485,6 +24539,9 @@ enthusiast
 enthusiastic
 enthusiasts
 entice
+enticed
+enticement
+entices
 enticing
 entire
 entirely
@@ -25482,6 +25539,7 @@ fessed
 fesses
 festival
 festivals
+festive
 festivity
 fetal
 fetch
@@ -27322,9 +27380,11 @@ helping
 helpless
 helpmate
 helps
+hen
 hence
 henceforth
 henceforward
+hens
 her
 her's
 herb
@@ -29544,6 +29604,7 @@ juices
 juicy
 july
 jumble
+jumbled
 jump
 jumped
 jumper
@@ -29738,6 +29799,8 @@ knowledgeable
 knowledges
 known
 knows
+knuckle
+knuckles
 kotlin
 kpi-based
 kpi-open
@@ -31028,6 +31091,7 @@ metadata
 metagpt
 metal
 metallic
+metallurgy
 metals
 metamorphose
 metamorphoses
@@ -31477,6 +31541,7 @@ module's
 modules
 modulus
 moist
+moisture
 mold
 molded
 molding
@@ -31862,6 +31927,7 @@ must-haves
 must-visit
 mustache
 mustang
+mustangs
 mustard
 muster
 mustered
@@ -31944,6 +32010,8 @@ nap
 napkin
 napkins
 naps
+narcotic
+narcotics
 narration
 narrative
 narratives
@@ -32215,6 +32283,8 @@ noised
 noises
 noising
 noisy
+nomad
+nomads
 nominal
 nominally
 nominate
@@ -34016,6 +34086,7 @@ pickle
 pickles
 picks
 pickup
+pickups
 picky
 picnic
 pics
@@ -34090,6 +34161,7 @@ pique
 piracy
 pirate
 pirates
+piss
 pissed
 pisses
 pit
@@ -34475,6 +34547,7 @@ postprocess
 postprocessing
 posts
 postulate
+postulates
 posture
 potato
 potatoes
@@ -36132,6 +36205,10 @@ rectifier
 rectifies
 rectify
 rectifying
+recuperate
+recuperated
+recuperates
+recuperating
 recur
 recurrence
 recurrenced
@@ -36143,6 +36220,7 @@ recursion
 recursive
 recursively
 recursivity
+recyclable
 recycle
 recycled
 recycler
@@ -36301,6 +36379,7 @@ reformulation
 reformulations
 refract
 refracted
+refracting
 refraction
 refractive
 refracts
@@ -37702,6 +37781,7 @@ samples
 sampling
 samsung
 sanction
+sanctioned
 sanctions
 sand
 sandal
@@ -37951,6 +38031,8 @@ scrutinizes
 scrutinizing
 scrutiny
 scsi
+scuffed
+scuffing
 sculpture
 sculptures
 scum
@@ -38020,6 +38102,7 @@ securing
 security
 sed
 sedan
+sedans
 sedate
 sedative
 sedentary
@@ -38954,6 +39037,7 @@ smelling
 smells
 smelly
 smelt
+smelting
 smile
 smiled
 smiles
@@ -39369,6 +39453,7 @@ spherical
 sphericity
 spice
 spices
+spiciness
 spicing
 spicy
 spider
@@ -39539,6 +39624,7 @@ squint
 squinting
 squirrel
 squirrels
+squirt
 squish
 squished
 squishes
@@ -39610,6 +39696,7 @@ stalled
 stalling
 stalls
 stamp
+stamped
 stamps
 stance
 stand
@@ -39766,6 +39853,7 @@ stews
 stick
 sticker
 stickers
+stickiness
 sticking
 sticks
 sticky
@@ -39926,6 +40014,7 @@ stretchable
 stretched
 stretches
 stretching
+stretchy
 stricken
 strict
 strictly
@@ -40019,6 +40108,7 @@ stunning
 stunningly
 stunt
 stunting
+stunts
 stupid
 stupidest
 stupidity
@@ -40789,6 +40879,7 @@ tapping
 taps
 tar
 tarball
+tardiness
 target
 targeted
 targeting
@@ -41620,6 +41711,7 @@ tract
 tractability
 tractable
 traction
+tractor
 tractors
 trade
 trade-in
@@ -41923,6 +42015,10 @@ trivially
 trod
 trodden
 trojan
+troll
+trolled
+trolling
+trolls
 troop
 troops
 trophies
@@ -41982,6 +42078,7 @@ tubes
 tubing
 tuesday
 tumble
+tumbling
 tumor
 tuna
 tunable
@@ -42493,6 +42590,7 @@ unguessable
 unhandled
 unhappiness
 unhappy
+unharmed
 unhashable
 unhealthy
 unheard
@@ -43414,6 +43512,7 @@ virtuously
 virus
 viruses
 visa
+visas
 visibilities
 visibility
 visible
@@ -43457,6 +43556,7 @@ vocabularies
 vocabulary
 vocal
 vocals
+vocational
 voice
 voice-assistant
 voice-based
