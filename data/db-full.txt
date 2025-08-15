@@ -1255,6 +1255,7 @@ Basement
 Basements
 Bases
 Bash
+Bashing
 Basic
 Basically
 Basics
@@ -1518,6 +1519,7 @@ Bleu
 Blew
 Blind
 Blinded
+Blinding
 Blindness
 Blinds
 Blink
@@ -1554,6 +1556,7 @@ Blown
 Blows
 Blue
 BlueTooth
+Blueprint
 Bluetooth
 Blunt
 Bluntly
@@ -1891,6 +1894,8 @@ CAN
 CANCERS
 CCA
 CD
+CD-ROM
+CD-Rom
 CEO
 CEOs
 CERTAIN
@@ -2332,6 +2337,7 @@ Chronological
 Chronologically
 Chronology
 Chubby
+Chugging
 Chunk
 Chunking
 Chunks
@@ -3338,6 +3344,7 @@ Criticism
 Criticisms
 Criticize
 Criticized
+Criticizing
 Critics
 Critique
 Critiques
@@ -3426,6 +3433,7 @@ Curiosity
 Curious
 Curiously
 Curl
+Curling
 Currant
 Currencies
 Currency
@@ -4510,6 +4518,7 @@ DuckDuckGo
 Duckduckgo
 Ducks
 Dude
+Dudes
 Due
 Dug
 Dull
@@ -6078,6 +6087,7 @@ Gate
 Gates
 Gateway
 Gather
+Gatherers
 Gathering
 Gauge
 Gauges
@@ -6342,6 +6352,7 @@ Greater
 Greatest
 Greatly
 Greatness
+Greats
 Greed
 Greedy
 Green
@@ -6714,6 +6725,8 @@ Hijacking
 Hike
 Hiking
 Hilarious
+Hillbillies
+Hillbilly
 Hills
 Him
 Himself
@@ -6764,6 +6777,7 @@ Home
 Home-made
 Homeland
 Homeless
+Homelessness
 Homemade
 Homeopathy
 Homeowners
@@ -6917,6 +6931,8 @@ Hustle
 Hybrid
 Hybrids
 Hybris
+Hyena
+Hyenas
 Hype
 Hyper
 Hyper-V
@@ -7406,6 +7422,7 @@ Insect
 Insects
 Insecure
 Insensible
+Insensitivity
 Insert
 Inserted
 Inserting
@@ -7882,6 +7899,7 @@ Kicking
 Kid
 Kidding
 Kidnapped
+Kidnapper
 Kidnapping
 Kidney
 Kids
@@ -7957,6 +7975,8 @@ Laboratories
 Laboratory
 Labour
 Labs
+Lace
+Laces
 Lack
 Lacking
 Lacks
@@ -8332,6 +8352,7 @@ Logon
 Logos
 Logs
 Lol
+Lollipop
 London
 Loneliness
 Lonely
@@ -9057,6 +9078,7 @@ Monumental
 Monuments
 Mood
 Moods
+Moody
 Moon
 Moonlight
 Moonshine
@@ -11748,6 +11770,7 @@ Remark
 Remarkable
 Remarkably
 Remarks
+Remaster
 Remastered
 Remastering
 Remedies
@@ -11903,6 +11926,7 @@ Resetting
 Reshaping
 Residence
 Resident
+Residential
 Residents
 Residing
 Residual
@@ -12376,6 +12400,7 @@ Savers
 Saves
 Saving
 Savings
+Savory
 Savvy
 Saw
 Sawed
@@ -12489,7 +12514,9 @@ Scripts
 Scroll
 Scrolling
 Scrolls
+Scrub
 Scrubbing
+Scrubs
 Scrum
 Scrutiny
 Sculpture
@@ -12587,6 +12614,7 @@ Self-Organization
 Self-Sufficient
 Self-Taught
 Self-aware
+Self-checkout
 Self-driving
 Self-made
 Self-monitoring
@@ -13141,6 +13169,7 @@ Sneezing
 Sniff
 Sniper
 Snitch
+Snitches
 Snores
 Snoring
 Snow
@@ -14454,6 +14483,7 @@ Thresholds
 Threw
 Thrice
 Thrift
+Thriller
 Thrive
 Thrives
 Throat
@@ -14838,6 +14868,7 @@ Trip
 Triple
 Triples
 Tripped
+Trippy
 Trips
 Triumph
 Trivially
@@ -14868,6 +14899,7 @@ Trusting
 Trusts
 Truth
 Truthful
+Truthfully
 Truths
 Try
 Trying
@@ -15583,6 +15615,7 @@ Wagging
 Wagon
 Wait
 Waited
+Waiters
 Waiting
 Waiving
 Wake
@@ -15590,6 +15623,8 @@ Wakes
 Waking
 Walk
 Walked
+Walker
+Walkers
 Walking
 Walks
 Wall
@@ -16011,6 +16046,7 @@ Wrecks
 Wretched
 Wright
 Wrinkle
+Wrinkled
 Wrinkles
 Wrist
 Wrists
@@ -17828,6 +17864,7 @@ auditing
 audition
 auditions
 auditor
+auditorium
 auditory
 audits
 augment
@@ -18183,6 +18220,8 @@ basement
 basements
 bases
 bash
+bashed
+bashing
 basic
 basically
 basics
@@ -18565,6 +18604,7 @@ blew
 blind
 blinded
 blinder
+blinding
 blindly
 blindness
 blinds
@@ -18618,6 +18658,8 @@ blown
 blows
 blowup
 blue
+blueprint
+blueprints
 bluetooth
 bluish
 blunder
@@ -19441,6 +19483,7 @@ cbow
 cc1plus
 cca
 cd
+cd-rom
 cease
 ceased
 ceases
@@ -19658,6 +19701,7 @@ cheerfuller
 cheerfully
 cheerfulness
 cheering
+cheerleader
 cheerless
 cheerlessness
 cheers
@@ -19766,6 +19810,10 @@ chronologically
 chronology
 chubby
 chuckle
+chug
+chugged
+chugging
+chugs
 chunk
 chunked
 chunking
@@ -20092,6 +20140,7 @@ coauthor
 coauthors
 coaxial
 cobol
+coca
 cocaine
 cockroach
 cockroaches
@@ -21516,6 +21565,7 @@ criticisms
 criticize
 criticized
 criticizes
+criticizing
 critics
 critique
 critiqued
@@ -21716,6 +21766,8 @@ curious
 curiously
 curl
 curled
+curling
+curls
 currant
 currants
 currencies
@@ -23738,6 +23790,7 @@ duckduckgo
 duckduckgo's
 ducks
 dude
+dudes
 due
 dug
 dull
@@ -24431,6 +24484,7 @@ entertains
 enthusiast
 enthusiastic
 enthusiasts
+entice
 enticing
 entire
 entirely
@@ -26387,6 +26441,8 @@ gateway
 gateways
 gather
 gathered
+gatherer
+gatherers
 gathering
 gatherings
 gathers
@@ -26624,6 +26680,7 @@ glut
 glyph
 glyphs
 gmail
+gnarly
 gnns
 gnome
 gnu
@@ -26808,6 +26865,7 @@ greater
 greatest
 greatly
 greatness
+greats
 greed
 greedy
 green
@@ -27386,9 +27444,12 @@ hijacked
 hijacking
 hijacks
 hike
+hiked
 hiking
 hilarious
 hill
+hillbillies
+hillbilly
 hills
 him
 himself
@@ -27457,10 +27518,12 @@ hololens
 holy
 homage
 home
+home-cooked
 home-made
 home-office
 homeland
 homeless
+homelessness
 homely
 homemade
 homeopathy
@@ -27682,6 +27745,8 @@ hustle
 hybrid
 hybrids
 hybris
+hyena
+hyenas
 hype
 hyped
 hyper
@@ -28609,10 +28674,12 @@ inscrutable
 insect
 insects
 insecure
+insecurity
 insensibility
 insensible
 insensibly
 insensitive
+insensitivity
 insentient
 inseparably
 insert
@@ -29591,6 +29658,8 @@ kid
 kiddies
 kidding
 kidnapped
+kidnapper
+kidnappers
 kidnapping
 kidney
 kidneys
@@ -29621,6 +29690,8 @@ king
 kingdom
 kingdoms
 kings
+kiosk
+kiosks
 kiss
 kissed
 kisses
@@ -29691,6 +29762,8 @@ labourers
 labouring
 labours
 labs
+lace
+laces
 lack
 lacked
 lacking
@@ -30293,6 +30366,7 @@ logos
 logout
 logs
 lol
+lollipop
 loneliness
 lonely
 lonesome
@@ -31188,6 +31262,7 @@ minutes
 mips
 miracle
 miracles
+miraculously
 mirage
 mirror
 mirrored
@@ -31470,6 +31545,7 @@ monumental
 monuments
 mood
 moods
+moody
 moon
 moonlight
 moonshine
@@ -32760,6 +32836,8 @@ openbsd
 opencv
 opendns
 opened
+opener
+openers
 openflow
 opengl
 opengl-es
@@ -33365,6 +33443,8 @@ pang
 pangs
 panic
 panicked
+panicking
+panned
 panties
 pants
 papa
@@ -36541,8 +36621,10 @@ remarkable
 remarkably
 remarked
 remarks
+remaster
 remastered
 remastering
+remasters
 remediation
 remedied
 remedies
@@ -36892,6 +36974,7 @@ reside
 resided
 residence
 resident
+residential
 residents
 resides
 residing
@@ -37673,6 +37756,7 @@ savery
 saves
 saving
 savings
+savory
 savvy
 saw
 sawed
@@ -37851,7 +37935,9 @@ scrollbars
 scrolled
 scrolling
 scrolls
+scrub
 scrubbing
+scrubs
 scrum
 scrum-master
 scrums
@@ -38015,6 +38101,7 @@ self-attention
 self-aware
 self-balancing
 self-care
+self-checkout
 self-conscious
 self-contained
 self-correction
@@ -38748,6 +38835,7 @@ slavery
 slaves
 slay
 slayed
+sleazy
 sleek
 sleep
 sleeper
@@ -38929,6 +39017,7 @@ snippets
 snitch
 snitche
 snitched
+snitches
 snooze
 snoozed
 snore
@@ -39410,6 +39499,7 @@ sprouts
 spruce
 sprung
 spun
+spunky
 spurious
 spurn
 spurned
@@ -41169,6 +41259,8 @@ thrice
 thrift
 thrill
 thrilled
+thriller
+thrillers
 thrilling
 thrive
 thrived
@@ -41820,6 +41912,7 @@ triplet
 triplets
 tripped
 tripping
+trippy
 trips
 triumph
 triumphant
@@ -41870,6 +41963,7 @@ trustworthy
 trusty
 truth
 truthful
+truthfully
 truths
 try
 try-catch-finally
@@ -43462,6 +43556,7 @@ wagons
 wait
 waited
 waiter
+waiters
 waiting
 waitlist
 waitress
@@ -43478,6 +43573,8 @@ walk-through
 walkable
 walkaround
 walked
+walker
+walkers
 walking
 walks
 walkthrough
@@ -44239,6 +44336,7 @@ wrecking
 wreckless
 wrecks
 wrestle
+wrestled
 wretch
 wretched
 wretchedest
@@ -44251,8 +44349,10 @@ wriggles
 wriggling
 wright
 wrinkle
+wrinkled
 wrinkles
 wrinkling
+wrinkly
 wrist
 wrists
 writable
