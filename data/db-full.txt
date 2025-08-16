@@ -1468,6 +1468,7 @@ Biochemical
 Biochemistry
 Biography
 Bioinformatics
+Biologic
 Biological
 Biologically
 Biologist
@@ -1727,6 +1728,7 @@ Break
 Break-Up
 Breakdown
 Breaker
+Breakers
 Breakfast
 Breaking
 Breakout
@@ -2184,6 +2186,7 @@ Cellphone
 Cellphones
 Cells
 Cellular
+Cement
 Cemetery
 Censor
 Censored
@@ -3241,6 +3244,7 @@ Corruption
 Cortex
 Cosine
 Cosmetic
+Cosplay
 Cost
 Costs
 Costume
@@ -3378,6 +3382,7 @@ Creep
 Creeping
 Creepy
 Crest
+Crested
 Crew
 Crews
 Cricket
@@ -4429,6 +4434,7 @@ Dolphins
 Dom
 Domain
 Domains
+Dome
 Domestic
 Domestically
 Domesticate
@@ -4994,6 +5000,7 @@ Enterprise-level
 Enterprises
 Entertaining
 Entertainment
+Enthusiasm
 Enthusiastic
 Entire
 Entirely
@@ -5397,6 +5404,7 @@ FAQ
 FAQS
 FAQs
 FAT
+FAT32
 FAX
 FB
 FBI
@@ -5489,6 +5497,7 @@ Famine
 Famous
 Famously
 Fan
+Fanatics
 Fancy
 Fancying
 Fans
@@ -6110,6 +6119,7 @@ Furious
 Furniture
 Furry
 Further
+Furthering
 Furthermore
 Furthest
 Fuse
@@ -6528,6 +6538,7 @@ Guilt
 Guilty
 Guitar
 Guitarist
+Guitarists
 Guitars
 Gulp
 Gums
@@ -6899,6 +6910,7 @@ Homeopathy
 Homeowners
 Homepage
 Homes
+Homestead
 Homework
 Homogeneous
 Homogenous
@@ -7841,6 +7853,7 @@ Irony
 Irradiated
 Irradiation
 Irrational
+Irrationality
 Irreducible
 Irrefutable
 Irregular
@@ -7905,6 +7918,8 @@ JVM-based
 Jacket
 Jackets
 Jackpot
+Jaguar
+Jaguars
 Jail
 Jam
 Jammed
@@ -7937,6 +7952,7 @@ Jerky
 Jet
 Jets
 Jeweler
+Jewelers
 Jewelry
 Jitter
 Jittery
@@ -9236,6 +9252,7 @@ Moral
 Morale
 Morality
 Morally
+Morbidity
 More
 More-or-less
 Moreover
@@ -10699,6 +10716,7 @@ Player's
 Players
 Playfulness
 Playground
+Playgrounds
 Playing
 Playlist
 Playoff
@@ -11555,6 +11573,7 @@ Rainy
 Raise
 Raised
 Raises
+Raisin
 Raising
 Rally
 Ram
@@ -11562,6 +11581,7 @@ Rambler
 Ramification
 Ramifications
 Ramp
+Rampage
 Rampant
 Ramps
 Ran
@@ -11800,6 +11820,7 @@ Reels
 Reentry
 Ref
 Refer
+Referee
 Reference
 Referenced
 References
@@ -12429,6 +12450,7 @@ Rotting
 Rotty
 Rouge
 Rough
+Roughing
 Roughly
 Roughness
 Roulette
@@ -13091,6 +13113,7 @@ Showcase
 Showcased
 Shower
 Showing
+Showman
 Shown
 Shows
 Shred
@@ -13238,6 +13261,7 @@ Skeletons
 Skeptic
 Skeptical
 Skepticism
+Skeptics
 Sketch
 Sketchbook
 Sketches
@@ -13338,6 +13362,7 @@ Slurp
 Slurping
 Slurred
 Slurring
+Slushy
 Slut
 Smack
 Smacked
@@ -14507,6 +14532,7 @@ Teacher
 Teachers
 Teaches
 Teaching
+Teacup
 Team
 Teammates
 Teams
@@ -15757,6 +15783,7 @@ Vibrating
 Vibration
 Vibrational
 Vibrations
+Vicarious
 Vice
 Vice-President
 Vice-versa
@@ -15971,6 +15998,7 @@ Watch
 Watched
 Watchers
 Watches
+Watchful
 Watching
 Water
 Waterfall
@@ -17439,6 +17467,8 @@ anew
 angel
 angels
 anger
+angered
+angering
 angle
 angles
 angling
@@ -18268,6 +18298,7 @@ autonomic
 autonomous
 autonomously
 autonomy
+autopay
 autopilot
 autoplay
 autoregressive
@@ -18526,6 +18557,7 @@ base-point
 base64
 baseball
 based
+baseless
 baseline
 baselines
 basement
@@ -18831,6 +18863,7 @@ biochemical
 biochemistry
 biography
 bioinformatics
+biologic
 biological
 biologically
 biologist
@@ -19213,6 +19246,7 @@ breakage
 breakdown
 breakdowns
 breaker
+breakers
 breakfast
 breakfasts
 breaking
@@ -19872,6 +19906,7 @@ cellphone
 cellphones
 cells
 cellular
+cement
 cemetery
 censor
 censored
@@ -20398,6 +20433,7 @@ closer
 closes
 closest
 closet
+closets
 closing
 closure
 closures
@@ -21733,6 +21769,7 @@ cortex
 cosine
 cosmetic
 cosmic
+cosplay
 cost
 cost-effective
 costing
@@ -21911,6 +21948,7 @@ creational
 creations
 creative
 creatively
+creativeness
 creatives
 creativity
 creator
@@ -21933,6 +21971,7 @@ creeping
 creeps
 creepy
 crest
+crested
 crew
 crews
 cricket
@@ -23948,6 +23987,7 @@ dom
 domain
 domain-specific
 domains
+dome
 domestic
 domestically
 domesticate
@@ -24916,6 +24956,7 @@ entertaining
 entertainingly
 entertainment
 entertains
+enthusiasm
 enthusiast
 enthusiastic
 enthusiasts
@@ -25755,6 +25796,9 @@ famously
 fan
 fanatic
 fanatical
+fanatically
+fanaticism
+fanatics
 fancied
 fancies
 fanciest
@@ -26023,6 +26067,7 @@ fin-tech
 final
 finale
 finalist
+finalists
 finality
 finalize
 finalized
@@ -26380,6 +26425,7 @@ fools
 foot
 footage
 football
+footballer
 footed
 footer
 footing
@@ -26825,6 +26871,7 @@ furnishing
 furniture
 furry
 further
+furthering
 furthermore
 furthest
 fuse
@@ -27113,6 +27160,7 @@ glancing
 gland
 glands
 glare
+glared
 glaring
 glass
 glasses
@@ -27471,6 +27519,7 @@ guilt
 guilty
 guitar
 guitarist
+guitarists
 guitars
 gulp
 gum
@@ -27562,6 +27611,7 @@ handed
 handful
 handheld
 handily
+handiness
 handing
 handle
 handled
@@ -28048,6 +28098,7 @@ homepage
 homes
 homeschool
 homeschooling
+homestead
 hometown
 homewards
 homework
@@ -29775,6 +29826,7 @@ irradiate
 irradiated
 irradiation
 irrational
+irrationality
 irrationally
 irreduce
 irreducible
@@ -29936,6 +29988,8 @@ jackets
 jacking
 jackpot
 jagged
+jaguar
+jaguars
 jail
 jam
 jammed
@@ -29997,6 +30051,7 @@ jet
 jetbrains
 jets
 jeweler
+jewelers
 jewelry
 jframe
 jinja
@@ -30387,6 +30442,7 @@ largely
 larger
 largescale
 largest
+lark
 lasagna
 laser
 lasers
@@ -30441,6 +30497,7 @@ launcher
 launches
 launching
 launder
+laundered
 laundry
 laurels
 lava
@@ -32150,6 +32207,7 @@ moralised
 moralising
 morality
 morally
+morbidity
 morbidly
 more
 more-or-less
@@ -32579,6 +32637,7 @@ natural-language
 naturally
 nature
 natured
+naughtiness
 naughty
 nausea
 nautical
@@ -34833,6 +34892,7 @@ playful
 playfully
 playfulness
 playground
+playgrounds
 playing
 playlist
 playlists
@@ -35908,6 +35968,7 @@ psychologically
 psychologist
 psychology
 psychopath
+psychopathic
 psychopaths
 psychopathy
 psychoses
@@ -36273,6 +36334,7 @@ rainy
 raise
 raised
 raises
+raisin
 raising
 rallied
 rally
@@ -36285,6 +36347,7 @@ ramification
 ramifications
 ramp
 ramp-up
+rampage
 rampant
 rampdown
 ramps
@@ -36922,6 +36985,7 @@ refactoring-driven
 refactors
 refcount
 refer
+referee
 reference
 referenced
 referenceless
@@ -38226,6 +38290,7 @@ rouge
 rouged
 rough
 rougher
+roughing
 roughly
 roughness
 roulette
@@ -38687,6 +38752,10 @@ sculpture
 sculptures
 scum
 scummy
+scuttle
+scuttled
+scuttles
+scuttling
 sd
 sdk
 sdk's
@@ -38877,6 +38946,7 @@ self-respect
 self-service
 self-sizing
 self-starter
+self-study
 self-sufficient
 self-supervised
 self-taught
@@ -38887,6 +38957,7 @@ selfhosted
 selfhosting
 selfie
 selfish
+selfishly
 selfishness
 sell
 sell-off
@@ -39278,6 +39349,7 @@ showed
 shower
 showers
 showing
+showman
 shown
 shows
 showstopper
@@ -39306,6 +39378,7 @@ shutdown
 shutdowns
 shuts
 shutter
+shuttered
 shutters
 shutting
 shuttle
@@ -39509,6 +39582,7 @@ skeletons
 skeptic
 skeptical
 skepticism
+skeptics
 sketch
 sketchbook
 sketched
@@ -39676,6 +39750,8 @@ slurps
 slurred
 slurring
 slurry
+slush
+slushy
 slut
 sluts
 sly
@@ -39746,6 +39822,7 @@ sms
 smtp
 smuggling
 snack
+snacked
 snacks
 snag
 snail
@@ -40631,6 +40708,8 @@ stoop
 stooping
 stoops
 stop
+stopover
+stopovers
 stopped
 stopping
 stops
@@ -41393,7 +41472,11 @@ sweeping
 sweepingly
 sweeps
 sweet
+sweeten
+sweetened
 sweetener
+sweetening
+sweetens
 sweeter
 sweetest
 sweetheart
@@ -41675,6 +41758,7 @@ teacher
 teachers
 teaches
 teaching
+teacup
 team
 team's
 team-based
@@ -42422,6 +42506,10 @@ touchscreen
 touchscreens
 touchy
 tough
+toughen
+toughened
+toughening
+toughens
 tougher
 toughest
 toughness
@@ -42883,6 +42971,7 @@ tutored
 tutorial
 tutorials
 tutoring
+tutors
 tv
 tvos
 tvs
@@ -42912,6 +43001,9 @@ twink
 twinkle
 twinkling
 twins
+twirl
+twirled
+twirling
 twist
 twisted
 twisting
@@ -44214,6 +44306,8 @@ vibrating
 vibration
 vibrational
 vibrations
+vicarious
+vicariously
 vice
 vice-president
 vice-versa
@@ -44542,6 +44636,8 @@ watched
 watcher
 watchers
 watches
+watchful
+watchfulness
 watching
 watchos
 water
@@ -44832,6 +44928,8 @@ wheel
 wheelchair
 wheels
 wheely
+whelmed
+whelming
 when
 when's
 whence
@@ -45137,6 +45235,7 @@ workbook
 workbooks
 workcamping
 workday
+workdays
 worked
 worker
 workers
