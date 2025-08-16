@@ -1110,6 +1110,7 @@ Available
 Avalanche
 Avatar
 Avatars
+Avenger
 Avengers
 Avenue
 Avenues
@@ -1198,6 +1199,7 @@ Bad
 Badge
 Badges
 Badly
+Baffles
 Bag
 Baggage
 Bags
@@ -1752,6 +1754,7 @@ Breeze
 Brevity
 Brew
 Brewed
+Brewer
 Breweries
 Brewery
 Brewing
@@ -2221,6 +2224,7 @@ Chainsaw
 Chair
 Chairs
 Chalk
+Chalkboard
 Challenge
 Challenger
 Challenges
@@ -2577,6 +2581,7 @@ Cock
 Cockpit
 Cockroach
 Cockroaches
+Cocks
 Cocktail
 Cocoa
 Coconut
@@ -3198,6 +3203,7 @@ Copying
 Copyright
 Copyrighted
 Copyrights
+Cordless
 Core
 Cores
 Corn
@@ -3311,6 +3317,7 @@ Cracker
 Crackers
 Cracking
 Cracks
+Cradle
 Craft
 Crafted
 Crafting
@@ -3569,6 +3576,7 @@ DOS
 DPI
 DSL
 DVD
+DVDs
 DVI
 Dad
 Dad's
@@ -3654,6 +3662,7 @@ Dealt
 Dear
 Death
 Deaths
+Debatable
 Debate
 Debated
 Debates
@@ -6014,6 +6023,7 @@ Freshly
 Freshman
 Friction
 Friday
+Fridays
 Fridge
 Fridges
 Fried
@@ -6433,6 +6443,7 @@ Grave
 Gravel
 Graves
 Graveyard
+Gravitate
 Gravitation
 Gravitational
 Gravity
@@ -6471,6 +6482,7 @@ Gripping
 Groceries
 Grocery
 Groom
+Groomer
 Grooming
 Groove
 Grooves
@@ -6812,6 +6824,7 @@ Higher-level
 Higher-order
 Higher-resolution
 Highest
+Highland
 Highlight
 Highlighter
 Highlighting
@@ -6852,6 +6865,7 @@ Historically
 Historiography
 History
 Hit
+Hitchhiking
 Hits
 Hitting
 Hive
@@ -7348,6 +7362,7 @@ Incredibly
 Increment
 Incremental
 Incrementally
+Incrimination
 Incumbency
 Incumbent
 Incur
@@ -7560,6 +7575,7 @@ Insomnia
 Inspect
 Inspection
 Inspections
+Inspector
 Inspiration
 Inspired
 Inspiring
@@ -10643,6 +10659,7 @@ Placed
 Placement
 Places
 Placing
+Plagiarism
 Plain
 Plains
 Plaintext
@@ -12055,6 +12072,7 @@ Representatives
 Represented
 Representing
 Repressed
+Repression
 Reprocessing
 Reproduce
 Reproduces
@@ -12684,6 +12702,7 @@ Scouting
 Scrabble
 Scramble
 Scrambled
+Scrambles
 Scrape
 Scratch
 Scratched
@@ -13220,6 +13239,7 @@ Skeptic
 Skeptical
 Skepticism
 Sketch
+Sketchbook
 Sketches
 Sketchup
 Sketchy
@@ -13377,6 +13397,7 @@ Sneaky
 Sneeze
 Sneezes
 Sneezing
+Snickers
 Sniff
 Sniper
 Snitch
@@ -13556,6 +13577,7 @@ Specialization
 Specialized
 Specializing
 Specially
+Specials
 Specialties
 Specialty
 Species
@@ -13711,6 +13733,8 @@ Squinting
 Squirrel
 Squirrels
 Squirt
+Squirting
+Squirts
 Squish
 Squished
 Squishes
@@ -14408,6 +14432,7 @@ Tagging
 Tags
 Tail
 Tails
+Tainted
 Take
 Take-off
 TakeOff
@@ -14455,6 +14480,7 @@ Tariff
 Tariffs
 Tart
 Tartar
+Tarts
 Taser
 Task
 Tasks
@@ -14534,6 +14560,7 @@ Tempered
 Tempers
 Template
 Temple
+Temples
 Temporal
 Temporally
 Temporarily
@@ -15341,6 +15368,7 @@ Understandings
 Undervalued
 Underwater
 Underwear
+Undeserved
 Undesirable
 Undetectable
 Undetermined
@@ -15960,6 +15988,7 @@ Waves
 Waving
 Wavy
 Wax
+Waxed
 Way
 Ways
 We
@@ -16161,6 +16190,7 @@ Win64
 Win7
 Win95
 Wind
+Winded
 Winding
 Window
 Window's
@@ -16197,6 +16227,7 @@ Wiring
 Wisdom
 Wise
 Wish
+Wishful
 Wishing
 Witch
 Witches
@@ -18140,6 +18171,7 @@ augmentations
 augmented
 augmenting
 augments
+august
 aunt
 aunts
 auth
@@ -18262,6 +18294,8 @@ avails
 avalanche
 avatar
 avatars
+avenger
+avengers
 avenue
 avenues
 average
@@ -18405,7 +18439,10 @@ bade
 badge
 badges
 badly
+baffle
 baffled
+baffles
+baffling
 bag
 bag-of-words
 baggage
@@ -19177,6 +19214,7 @@ breakdown
 breakdowns
 breaker
 breakfast
+breakfasts
 breaking
 breakout
 breakouts
@@ -19208,6 +19246,7 @@ breezing
 brevity
 brew
 brewed
+brewer
 breweries
 brewery
 brewing
@@ -19685,6 +19724,7 @@ cargo
 caricature
 caricatures
 caring
+carpark
 carpet
 carpets
 carpool
@@ -19894,6 +19934,8 @@ chainsaws
 chair
 chairs
 chalk
+chalkboard
+chalkboards
 challenge
 challenged
 challenger
@@ -19982,6 +20024,7 @@ chatgpt's
 chatgpt-style
 chats
 chatted
+chatter
 chatting
 cheap
 cheaper
@@ -20484,6 +20527,7 @@ cock
 cockpit
 cockroach
 cockroaches
+cocks
 cocktail
 cocky
 cocoa
@@ -21629,6 +21673,7 @@ copyrights
 copywriter
 copywriters
 copywriting
+cordless
 cordova
 core
 core-data
@@ -21807,6 +21852,7 @@ cracker
 crackers
 cracking
 cracks
+cradle
 craft
 crafted
 crafting
@@ -22432,6 +22478,7 @@ dears
 death
 deathly
 deaths
+debatable
 debate
 debated
 debates
@@ -23887,6 +23934,7 @@ doesnt
 dog
 doggy
 dogs
+dogwalker
 doing
 doings
 doleful
@@ -24582,7 +24630,9 @@ emitting
 emoji
 emotion
 emotional
+emotionality
 emotionally
+emotioned
 emotions
 empathetic
 empathize
@@ -26609,6 +26659,7 @@ freshman
 freshness
 friction
 friday
+fridays
 fridge
 fridges
 fried
@@ -27290,6 +27341,10 @@ gravel
 graver
 graves
 graveyard
+gravitate
+gravitated
+gravitates
+gravitating
 gravitation
 gravitational
 gravity
@@ -27345,6 +27400,7 @@ groceries
 grocery
 groom
 groomed
+groomer
 grooming
 groove
 grooves
@@ -27452,6 +27508,10 @@ had
 hadn't
 hadoop
 hadoop2
+haggle
+haggled
+haggles
+haggling
 hailed
 hailing
 hails
@@ -27878,6 +27938,7 @@ higher-resolution
 higher-value
 highest
 highest-valued
+highland
 highlight
 highlighted
 highlighter
@@ -27936,6 +27997,7 @@ histories
 historiography
 history
 hit
+hitchhiking
 hitech
 hither
 hitherto
@@ -28752,6 +28814,11 @@ incrementation
 incremented
 incrementing
 increments
+incriminate
+incriminated
+incriminates
+incriminating
+incrimination
 incubated
 incubator
 incubators
@@ -29206,6 +29273,7 @@ inspected
 inspecting
 inspection
 inspections
+inspector
 inspects
 inspiration
 inspirational
@@ -30834,6 +30902,7 @@ locks
 lodged
 lodgings
 loft
+lofty
 log
 log-in
 log4j
@@ -31003,6 +31072,7 @@ luckily
 lucky
 lucrative
 luggage
+lullaby
 lumber
 luminosity
 luminous
@@ -31181,6 +31251,7 @@ manual
 manually
 manually-assembled
 manuals
+manufactor
 manufacture
 manufactured
 manufacturer
@@ -31324,6 +31395,7 @@ mattress
 mattresses
 mature
 matured
+maturely
 maturity
 maven
 max
@@ -34484,6 +34556,7 @@ pervasive
 pervasiveness
 pesky
 pessimism
+pessimist
 pessimistic
 pessimistically
 pessimization
@@ -34701,6 +34774,7 @@ placements
 places
 placidity
 placing
+plagiarism
 plague
 plagued
 plain
@@ -36325,6 +36399,7 @@ re
 re-acquire
 re-acquired
 re-analyzed
+re-arranged
 re-calculated
 re-checking
 re-combined
@@ -37445,6 +37520,8 @@ representing
 represents
 repressed
 repressing
+repression
+repressions
 reprioritization
 reproach
 reproached
@@ -38355,6 +38432,7 @@ sap
 sap's
 sarcasm
 sarcastic
+sarcastically
 sassy
 sat
 sata
@@ -38419,6 +38497,7 @@ scam
 scammed
 scammer
 scammers
+scamming
 scammy
 scamp
 scams
@@ -38487,6 +38566,7 @@ scholarship
 school
 schooling
 schools
+schoolwork
 sci-fi
 science
 science-based
@@ -38533,6 +38613,7 @@ scrab
 scrabble
 scramble
 scrambled
+scrambles
 scrambling
 scrap
 scrape
@@ -38566,6 +38647,7 @@ screwdrivers
 screwed
 screwing
 screws
+scribbled
 script
 script's
 script-based
@@ -39428,6 +39510,7 @@ skeptic
 skeptical
 skepticism
 sketch
+sketchbook
 sketched
 sketches
 sketchflow
@@ -39689,6 +39772,8 @@ sneeze
 sneezed
 sneezes
 sneezing
+snickered
+snickers
 sniff
 sniffed
 sniffer
@@ -39992,6 +40077,7 @@ specialized
 specializes
 specializing
 specially
+specials
 specialties
 specialty
 species
@@ -40254,6 +40340,9 @@ squinting
 squirrel
 squirrels
 squirt
+squirted
+squirting
+squirts
 squish
 squished
 squishes
@@ -40595,6 +40684,7 @@ stranger
 strangers
 strangest
 strap
+strapless
 strapped
 straps
 strategic
@@ -41178,6 +41268,7 @@ surf
 surface
 surfaced
 surfaces
+surfed
 surfer
 surfers
 surfing
@@ -41475,6 +41566,7 @@ tags
 tail
 tailored
 tails
+tainted
 take
 take-away
 take-aways
@@ -41540,6 +41632,7 @@ tariff
 tariffs
 tart
 tartar
+tarts
 taser
 task
 task-oriented
@@ -41695,6 +41788,7 @@ templating
 templatize
 templatized
 temple
+temples
 temporal
 temporally
 temporarily
@@ -42698,6 +42792,8 @@ tropical
 tropics
 trouble
 troubled
+troublemaker
+troublemakers
 troubles
 troubleshoot
 troubleshooting
@@ -43143,6 +43239,7 @@ underwear
 underwent
 underwhelming
 underwhelms
+undeserved
 undeservedly
 undesigned
 undesignedly
@@ -43356,6 +43453,7 @@ unix-like
 unjust
 unjustified
 unkind
+unkindly
 unknowable
 unknowingly
 unknown
@@ -44474,6 +44572,7 @@ waveshaping
 waving
 wavy
 wax
+waxed
 waxy
 way
 wayland
@@ -44898,6 +44997,7 @@ win98se
 win9x
 winapi
 wind
+winded
 winding
 window
 window's
@@ -44953,6 +45053,7 @@ wisest
 wish
 wished
 wishes
+wishful
 wishing
 wishround
 wishup
