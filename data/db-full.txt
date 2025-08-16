@@ -2133,6 +2133,7 @@ Cassette
 Cassettes
 Cast
 Caste
+Castes
 Casting
 Castle
 Castles
@@ -2947,6 +2948,7 @@ Confirmations
 Confirmed
 Confirming
 Confiscated
+Conflating
 Conflict
 Conflicting
 Conflicts
@@ -4039,6 +4041,7 @@ Device
 Device's
 Devices
 Devil
+Devils
 Devoting
 Devotion
 Devs
@@ -4120,6 +4123,7 @@ Digging
 Digit
 Digital
 Digitally
+Digitised
 Digitize
 Digitized
 Digitizer
@@ -5655,6 +5659,7 @@ Filing
 Fill
 Filled
 Filler
+Fillers
 Filling
 Fills
 Film
@@ -6232,6 +6237,8 @@ Gene
 Genealogy
 General
 General-purpose
+Generalised
+Generalising
 Generalizations
 Generalized
 Generally
@@ -6286,6 +6293,7 @@ Geoscience
 Geospatial
 German
 Germany
+Gerund
 Gesture
 Gestures
 Get
@@ -7467,6 +7475,7 @@ Inference
 Inferior
 Infinite
 Infinitely
+Infinitive
 Infinitives
 Infinity
 Inflamed
@@ -10006,6 +10015,7 @@ Optimal
 Optimality
 Optimally
 Optimisation
+Optimised
 Optimism
 Optimistic
 Optimistically
@@ -13801,6 +13811,8 @@ Squishing
 Squishy
 Src
 Stabbing
+Stabilised
+Stabilising
 Stability
 Stabilization
 Stabilizer
@@ -15881,6 +15893,7 @@ Visiting
 Visitor
 Visitors
 Visual
+Visualise
 Visualization
 Visualizations
 Visualize
@@ -19855,6 +19868,7 @@ cassettes
 cast
 caste
 casted
+castes
 casting
 castle
 castles
@@ -19969,6 +19983,10 @@ centimeter
 centimeters
 centos
 central
+centralise
+centralised
+centralises
+centralising
 centralization
 centralize
 centralized
@@ -21275,6 +21293,7 @@ confiscation
 conflate
 conflated
 conflates
+conflating
 conflation
 conflations
 conflict
@@ -22305,6 +22324,10 @@ customer-driven
 customer-facing
 customer-relationship
 customers
+customise
+customised
+customises
+customising
 customizability
 customizable
 customization
@@ -23303,6 +23326,7 @@ device
 device's
 devices
 devil
+devils
 devise
 devised
 devising
@@ -23442,6 +23466,10 @@ digitalized
 digitally
 digitals
 digitaltransformation
+digitise
+digitised
+digitises
+digitising
 digitization
 digitize
 digitized
@@ -24958,7 +24986,9 @@ enough
 enqueue
 enqueued
 enqueuing
+enquire
 enquired
+enquires
 enquiring
 enrage
 enraged
@@ -26106,6 +26136,7 @@ fill
 fillable
 filled
 filler
+fillers
 filling
 fills
 film
@@ -27056,6 +27087,10 @@ gene
 genealogy
 general
 general-purpose
+generalise
+generalised
+generalises
+generalising
 generality
 generalizable
 generalization
@@ -29232,6 +29267,10 @@ ini
 inimitable
 init
 initial
+initialise
+initialised
+initialises
+initialising
 initialization
 initializations
 initialize
@@ -33663,6 +33702,10 @@ optimal
 optimality
 optimally
 optimisation
+optimise
+optimised
+optimises
+optimising
 optimism
 optimistic
 optimistically
@@ -34249,6 +34292,10 @@ paralyze
 paralyzed
 param
 parameter
+parameterise
+parameterised
+parameterises
+parameterising
 parameterization
 parameterize
 parameterized
@@ -34658,6 +34705,10 @@ person
 person's
 personage
 personal
+personalise
+personalised
+personalises
+personalising
 personalities
 personality
 personalization
@@ -35165,6 +35216,10 @@ popped
 popping
 pops
 popular
+popularise
+popularised
+popularises
+popularising
 popularity
 popularization
 popularize
@@ -35658,6 +35713,10 @@ prion
 prions
 prior
 priorities
+prioritise
+prioritised
+prioritises
+prioritising
 prioritization
 prioritize
 prioritized
@@ -35675,6 +35734,10 @@ private
 privately
 privation
 privations
+privatise
+privatised
+privatises
+privatising
 privatization
 privatize
 privatized
@@ -37409,7 +37472,9 @@ religion
 religions
 religious
 religiously
+relink
 relinked
+relinking
 relinks
 relinquish
 relinquished
@@ -38139,7 +38204,9 @@ revolting
 revolts
 revolution
 revolutionary
+revolutionise
 revolutionised
+revolutionises
 revolutionising
 revolutionize
 revolutionized
@@ -40218,6 +40285,11 @@ spasm
 spasms
 spat
 spatial
+spatialise
+spatialised
+spatialises
+spatialising
+spatialize
 spatialized
 spatially
 spawn
@@ -40528,6 +40600,10 @@ ssis
 ssl
 stabbed
 stabbing
+stabilise
+stabilised
+stabilises
+stabilising
 stability
 stabilization
 stabilize
@@ -40593,6 +40669,10 @@ stand-alone
 stand-up
 standalone
 standard
+standardise
+standardised
+standardises
+standardising
 standardization
 standardize
 standardized
@@ -41629,6 +41709,10 @@ syllables
 symbian
 symbol
 symbolic
+symbolise
+symbolised
+symbolises
+symbolising
 symbolism
 symbolize
 symbolized
@@ -41654,6 +41738,10 @@ symptoms
 sync
 synced
 synchronicity
+synchronise
+synchronised
+synchronises
+synchronising
 synchronization
 synchronize
 synchronized
@@ -41695,6 +41783,10 @@ system-administrator
 system-level
 systematic
 systematically
+systematise
+systematised
+systematises
+systematising
 systematization
 systematize
 systematized
@@ -44148,6 +44240,10 @@ utf-32
 utf-8
 utf8
 utilisation
+utilise
+utilised
+utilises
+utilising
 utilities
 utility
 utilization
@@ -44506,6 +44602,10 @@ visual-studio
 visual-studio-code
 visualc++
 visualisations
+visualise
+visualised
+visualises
+visualising
 visualization
 visualizations
 visualize
