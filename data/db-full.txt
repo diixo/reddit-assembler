@@ -1578,7 +1578,9 @@ Bloody
 Bloom
 Blooms
 Blossom
+Blossoms
 Blow
+Blower
 Blowing
 Blown
 Blows
@@ -3822,6 +3824,7 @@ Deformation
 Deformations
 Deformed
 Defragmentation
+Defragmenting
 Deft
 Defying
 Degenerate
@@ -6346,6 +6349,7 @@ Glands
 Glare
 Glass
 Glasses
+Glassware
 Glee
 Glide
 Glider
@@ -7030,6 +7034,8 @@ How
 How'd
 How's
 However
+Howl
+Howling
 Hows
 Hr
 Html
@@ -7282,6 +7288,7 @@ Implicit
 Implicitly
 Implied
 Implies
+Imploded
 Implying
 Import
 Importance
@@ -8108,6 +8115,7 @@ King
 Kingdom
 Kingdoms
 Kings
+Kinky
 Kiss
 Kisses
 Kissing
@@ -9039,6 +9047,7 @@ Microclimate
 Microcontroller
 Microelectronics
 Micromanagement
+Microorganisms
 Microphone
 Microphones
 Microprocessor
@@ -9262,6 +9271,7 @@ Monochrome
 Monogamy
 Monologue
 Monopolies
+Monopolising
 Monopoly
 Monotone
 Monster
@@ -9431,6 +9441,7 @@ Mysql
 Mysteries
 Mysterious
 Mystery
+Mysticism
 Myth
 Mythical
 Mythology
@@ -9856,6 +9867,7 @@ Obviously
 Occasional
 Occasionally
 Occlusion
+Occult
 Occupation
 Occupational
 Occupations
@@ -11343,6 +11355,7 @@ Provenance
 Proverb
 Provide
 Provided
+Providence
 Provider
 Providers
 Provides
@@ -11775,6 +11788,7 @@ Recipient
 Recipients
 Reciprocal
 Reciprocally
+Reciprocation
 Recirculating
 Recirculation
 Reckless
@@ -11984,6 +11998,7 @@ Relationships
 Relative
 Relatively
 Relatives
+Relativism
 Relativity
 Relax
 Relaxation
@@ -12836,6 +12851,7 @@ Secretly
 Secrets
 Section
 Sectional
+Sectioned
 Sections
 Sector
 Sectors
@@ -13090,6 +13106,7 @@ Shields
 Shift
 Shifting
 Shifts
+Shimmer
 Shine
 Shining
 Shiny
@@ -14105,6 +14122,7 @@ Study
 Studying
 Stuff
 Stuffed
+Stuffiness
 Stuffing
 Stuffy
 Stumbled
@@ -15258,6 +15276,7 @@ Tune
 Tuned
 Tuner
 Tunes
+Tunica
 Tuning
 Tunnel
 Tunneling
@@ -18552,6 +18571,8 @@ bald
 baldness
 ball
 ballast
+ballerina
+ballerinas
 ballistic
 balloon
 balloons
@@ -19070,7 +19091,10 @@ bloom
 bloomed
 blooms
 blossom
+blossoms
 blow
+blower
+blowers
 blowing
 blown
 blows
@@ -21021,6 +21045,7 @@ complement
 complementarity
 complementary
 complemented
+complements
 complete
 completed
 completely
@@ -22011,6 +22036,7 @@ creams
 creamy
 crease
 creases
+creasing
 create
 created
 creates
@@ -22053,6 +22079,14 @@ cries
 crime
 crimes
 criminal
+criminalise
+criminalised
+criminalises
+criminalising
+criminalize
+criminalized
+criminalizes
+criminalizing
 criminally
 criminals
 cringe
@@ -22860,7 +22894,10 @@ deformations
 deformed
 deforming
 deforms
+defragment
 defragmentation
+defragmenting
+defragments
 deft
 deftly
 defunct
@@ -24169,6 +24206,7 @@ downloaded
 downloader
 downloading
 downloads
+downrange
 downrank
 downright
 downs
@@ -24492,6 +24530,7 @@ echoes
 eclipse
 eclipsed
 eclipses
+eclipsing
 ecmascript
 eco
 eco-system
@@ -27257,6 +27296,7 @@ glared
 glaring
 glass
 glasses
+glassware
 glean
 gleaned
 glee
@@ -27549,6 +27589,7 @@ grooves
 groovy
 gross
 grossed
+grosses
 grossly
 ground
 groundbreaking
@@ -28337,6 +28378,10 @@ how-to
 how-to's
 howbeit
 however
+howl
+howled
+howling
+howls
 hows
 howto
 hp
@@ -28389,6 +28434,10 @@ humoured
 humouredly
 humourist
 humours
+hunch
+hunched
+hunches
+hunching
 hundred
 hundreds
 hung
@@ -28743,6 +28792,9 @@ implicit
 implicitly
 implied
 implies
+imploded
+implodes
+imploding
 implore
 imply
 implying
@@ -29771,8 +29823,12 @@ intros
 introspect
 introspection
 introvert
+intrude
+intruded
 intruder
 intruders
+intrudes
+intruding
 intrusion
 intrusive
 intrusiveness
@@ -30406,6 +30462,7 @@ king
 kingdom
 kingdoms
 kings
+kinky
 kiosk
 kiosks
 kiss
@@ -31842,6 +31899,8 @@ micromanaging
 micromessaging
 micromobility
 microns
+microorganism
+microorganisms
 microphone
 microphones
 microprocessor
@@ -32063,6 +32122,7 @@ misfortune
 misfortunes
 misgivings
 misguided
+mishandled
 mishaps
 misinfo
 misinformation
@@ -32174,6 +32234,7 @@ modal
 modalities
 modality
 modbus
+modded
 mode
 moded
 model
@@ -32286,6 +32347,14 @@ monolithic
 monolithically
 monologue
 monopolies
+monopolise
+monopolised
+monopolises
+monopolising
+monopolize
+monopolized
+monopolizes
+monopolizing
 monopoly
 monotone
 monotonic
@@ -32430,6 +32499,8 @@ muffle
 muffled
 muffles
 muffling
+mugger
+muggers
 muggy
 mui
 mule
@@ -32674,6 +32745,7 @@ mysterious
 mysteriously
 mystery
 mystical
+mysticism
 myth
 mythical
 mythology
@@ -33429,6 +33501,7 @@ occluded
 occludes
 occlusion
 occlusions
+occult
 occupation
 occupational
 occupations
@@ -34017,6 +34090,7 @@ overhear
 overheard
 overhearing
 overheat
+overheated
 overheating
 overheatings
 overjoyed
@@ -36064,6 +36138,7 @@ proverb
 proves
 provide
 provided
+providence
 provider
 provider's
 providers
@@ -36878,6 +36953,7 @@ reciprocate
 reciprocated
 reciprocates
 reciprocating
+reciprocation
 reciprocity
 recirculate
 recirculated
@@ -37416,6 +37492,7 @@ relationships
 relative
 relatively
 relatives
+relativism
 relativity
 relaunch
 relaunched
@@ -38973,6 +39050,7 @@ secrets
 section
 sectional
 sectionally
+sectioned
 sections
 sector
 sectors
@@ -39303,7 +39381,16 @@ sexes
 sexism
 sexist
 sexual
+sexualise
+sexualised
+sexualises
+sexualising
 sexuality
+sexualization
+sexualize
+sexualized
+sexualizes
+sexualizing
 sexually
 sexy
 sftp
@@ -39411,6 +39498,10 @@ shift
 shifted
 shifting
 shifts
+shimmer
+shimmered
+shimmering
+shimmers
 shine
 shined
 shiner
@@ -39801,6 +39892,7 @@ slain
 slam
 slammed
 slamming
+slams
 slang
 slant
 slanted
@@ -40580,6 +40672,10 @@ squid
 squids
 squint
 squinting
+squirm
+squirmed
+squirming
+squirms
 squirrel
 squirrels
 squirt
@@ -41076,6 +41172,7 @@ study
 studying
 stuff
 stuffed
+stuffiness
 stuffing
 stuffs
 stuffy
@@ -41809,6 +41906,7 @@ tablet
 tablets
 tableview
 tabloid
+tabloids
 taboo
 tabs
 tabular
@@ -43129,6 +43227,7 @@ tune
 tuned
 tuner
 tunes
+tunica
 tuning
 tunnel
 tunneling
@@ -45125,6 +45224,7 @@ whatsoever
 wheat
 wheel
 wheelchair
+wheeling
 wheels
 wheely
 whelmed
