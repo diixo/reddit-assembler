@@ -228,6 +228,7 @@ Acquiring
 Acquisition
 Acquisitions
 Acquittal
+Acres
 Acronym
 Acronyms
 Across
@@ -703,6 +704,7 @@ Antidepressants
 Antifreeze
 Antiparticles
 Antisemitism
+Antisocial
 Antivirus
 Antiviruses
 Antonyms
@@ -991,6 +993,7 @@ Atheism
 Atheist
 Atheists
 Athlete
+Athletes
 Athletic
 Atlas
 Atmosphere
@@ -1574,6 +1577,7 @@ Blown
 Blows
 Blue
 BlueTooth
+Blueberry
 Blueprint
 Bluetooth
 Blunt
@@ -2110,6 +2114,7 @@ Cascading
 Case
 Cases
 Cash
+Cashback
 Cashing
 Casino
 Casinos
@@ -2129,6 +2134,7 @@ Cat
 Catalog
 Catalogue
 Catalyst
+Catapult
 Catastrophe
 Catastrophic
 Catch
@@ -2357,6 +2363,8 @@ Chop
 Chopped
 Chopping
 Chord
+Chords
+Chorus
 Chose
 Chosen
 Christmas
@@ -2551,6 +2559,7 @@ Coaches
 Coaching
 Coal
 Coalition
+Coals
 Coarse
 Coast
 Coastal
@@ -2564,6 +2573,7 @@ Coaxial
 Cobol
 Coca
 Cocaine
+Cock
 Cockpit
 Cockroach
 Cockroaches
@@ -3306,6 +3316,7 @@ Crafted
 Crafting
 Crafts
 Crafty
+Crammed
 Cramping
 Cramps
 Crane
@@ -4179,6 +4190,7 @@ Discerning
 Discharge
 Discharged
 Discharging
+Disciplinary
 Discipline
 Disciplined
 Disciplines
@@ -5040,7 +5052,10 @@ Erased
 Eraser
 Erasers
 Erasing
+Erect
+Erecting
 Erection
+Erects
 Ergonomic
 Ergonomics
 Erotic
@@ -5743,9 +5758,11 @@ Flexibility
 Flexible
 Flexing
 Flicker
+Flicking
 Flies
 Flight
 Flights
+Flimsy
 Flinging
 Flip
 Flipping
@@ -6259,6 +6276,7 @@ Gigabit
 Gigabyte
 Gigabytes
 Gigantic
+Giggles
 Gigs
 Gills
 Ginger
@@ -6538,6 +6556,7 @@ Hadoop
 Hailing
 Hair
 Haircut
+Hairless
 Hairs
 Hairstyles
 Hairy
@@ -6893,6 +6912,8 @@ Hood
 Hook
 Hooking
 Hooks
+Hooligan
+Hooligans
 Hoop
 Hop
 Hope
@@ -9216,6 +9237,7 @@ Mosquito
 Mosquitoes
 Most
 Mostly
+Motel
 Mother
 Mother's
 Motherboard
@@ -12315,6 +12337,7 @@ Roaches
 Road
 Roadmap
 Roads
+Roadside
 Roadway
 Roadways
 Roaming
@@ -12923,6 +12946,7 @@ Shady
 Shafts
 Shake
 Shaken
+Shaker
 Shakes
 Shaking
 Shaky
@@ -13239,6 +13263,7 @@ Slash
 Slashed
 Slashes
 Slate
+Slaughter
 Slave
 Slavery
 Slaves
@@ -13291,6 +13316,8 @@ Slugger
 Slugs
 Slurp
 Slurping
+Slurred
+Slurring
 Slut
 Smack
 Smacked
@@ -13931,6 +13958,7 @@ Strength
 Strengthen
 Strengthening
 Strengths
+Strenuous
 Strenuously
 Stress
 Stressed
@@ -14346,7 +14374,9 @@ Systematically
 Systemic
 Systemically
 Systems
+T-Shirts
 T-shirt
+T-shirts
 TCP
 TDD
 TLS
@@ -14402,6 +14432,8 @@ Taller
 Tallest
 Tame
 Tamed
+Tampon
+Tampons
 Tandem
 Tangent
 Tangential
@@ -14440,6 +14472,7 @@ Taxed
 Taxes
 Taxi
 Taxing
+Taxis
 Taxonomy
 Tb
 Tea
@@ -16623,6 +16656,7 @@ acquits
 acquittal
 acquitted
 acquitting
+acres
 acronym
 acronyms
 across
@@ -17484,6 +17518,7 @@ antimalware
 antiparticle
 antiparticles
 antisemitism
+antisocial
 antivirus
 antiviruses
 antonyms
@@ -17986,6 +18021,7 @@ atheism
 atheist
 atheists
 athlete
+athletes
 athletic
 atlas
 atlases
@@ -18373,6 +18409,7 @@ baffled
 bag
 bag-of-words
 baggage
+bagging
 bags
 bail
 bailed
@@ -18911,6 +18948,7 @@ blown
 blows
 blowup
 blue
+blueberry
 blueprint
 blueprints
 bluetooth
@@ -19684,6 +19722,7 @@ case-sensitive
 cased
 cases
 cash
+cashback
 cashing
 casing
 casino
@@ -19710,6 +19749,7 @@ catalogs
 catalogue
 catalogues
 catalyst
+catapult
 catapults
 catastrophe
 catastrophic
@@ -20079,8 +20119,10 @@ chopped
 chopping
 choppy
 chord
+chords
 chore
 chores
+chorus
 chose
 chosen
 christmas
@@ -20111,7 +20153,9 @@ chunky
 church
 churches
 churn
+churned
 churning
+churns
 ci
 ciabatta
 ciently
@@ -20413,6 +20457,7 @@ coaches
 coaching
 coal
 coalition
+coals
 coarse
 coarsely
 coarsen
@@ -20435,6 +20480,7 @@ coaxial
 cobol
 coca
 cocaine
+cock
 cockpit
 cockroach
 cockroaches
@@ -21766,6 +21812,7 @@ crafted
 crafting
 crafts
 crafty
+crammed
 cramp
 cramped
 cramping
@@ -23401,6 +23448,7 @@ discerns
 discharge
 discharged
 discharging
+disciplinary
 discipline
 disciplined
 disciplines
@@ -24311,6 +24359,7 @@ educates
 educating
 education
 educational
+educations
 educative
 ee-based
 ef
@@ -24808,6 +24857,7 @@ enterprise's
 enterprise-grade
 enterprise-level
 enterprises
+enterprising
 enters
 entertain
 entertained
@@ -24973,8 +25023,11 @@ erasers
 erases
 erasing
 erasure
+erect
 erected
+erecting
 erection
+erects
 ergonomic
 ergonomics
 erlang
@@ -26035,6 +26088,7 @@ fixing
 fixture
 fixtures
 fizzy
+flabby
 flag
 flagged
 flags
@@ -26113,10 +26167,12 @@ flick
 flicked
 flicker
 flickering
+flicking
 flies
 flight
 flights
 flighty
+flimsy
 fling
 flinged
 flinging
@@ -26711,6 +26767,10 @@ funnier
 funniest
 funny
 furious
+furnish
+furnished
+furnishes
+furnishing
 furniture
 furry
 further
@@ -26961,6 +27021,10 @@ gigabit
 gigabyte
 gigabytes
 gigantic
+giggle
+giggled
+giggles
+giggling
 gigs
 gills
 ginger
@@ -27014,6 +27078,7 @@ glimpse
 glimpsed
 glimpses
 glitch
+glitched
 glitches
 glitchy
 glob
@@ -27392,6 +27457,7 @@ hailing
 hails
 hair
 haircut
+hairless
 hairs
 hairstyle
 hairstyles
@@ -27961,6 +28027,8 @@ hooked
 hooking
 hooks
 hookup
+hooligan
+hooligans
 hoop
 hoops
 hop
@@ -28000,7 +28068,10 @@ hospitable
 hospital
 hospitality
 hospitalization
+hospitalize
 hospitalized
+hospitalizes
+hospitalizing
 hospitals
 host
 host-based
@@ -28122,6 +28193,7 @@ hunter
 hunters
 hunting
 hunts
+hurdle
 hurricane
 hurricanes
 hurried
@@ -32032,6 +32104,7 @@ mosquito
 mosquitoes
 most
 mostly
+motel
 mother
 mother's
 motherboard
@@ -34744,6 +34817,7 @@ plumbing
 plume
 plummet
 plump
+plumping
 plums
 plunge
 plunged
@@ -35873,6 +35947,7 @@ push-notification
 pushed
 pushes
 pushing
+pushup
 pussy
 put
 putout
@@ -36042,6 +36117,7 @@ quivering
 quiz
 quizz
 quizzes
+quota
 quotation
 quote
 quoted
@@ -36725,6 +36801,7 @@ redistributing
 redistribution
 redistributions
 redo
+redoes
 redoing
 redone
 redownload
@@ -37233,6 +37310,7 @@ renovation
 renovations
 renowned
 rent
+rent-free
 rental
 rentals
 rented
@@ -37716,6 +37794,7 @@ retooled
 retort
 retorted
 retouch
+retouched
 retouching
 retrace
 retraced
@@ -37960,6 +38039,7 @@ road
 roadmap
 roadmaps
 roads
+roadside
 roadway
 roadways
 roam
@@ -38502,6 +38582,7 @@ scrolls
 scrub
 scrubbing
 scrubs
+scruffy
 scrum
 scrum-master
 scrumptious
@@ -38933,6 +39014,7 @@ shafts
 shake
 shaked
 shaken
+shaker
 shakes
 shaking
 shaky
@@ -39415,6 +39497,7 @@ slash
 slashed
 slashes
 slate
+slaughter
 slave
 slavery
 slaves
@@ -39502,10 +39585,14 @@ slumped
 slumping
 slumps
 slung
+slur
 slurp
 slurped
 slurping
 slurps
+slurred
+slurring
+slurry
 slut
 sluts
 sly
@@ -39636,6 +39723,10 @@ snows
 snowstorm
 snowstorms
 snowy
+snub
+snubbed
+snubbing
+snubs
 snuck
 snuggle
 snuggled
@@ -40548,6 +40639,7 @@ strengthen
 strengthened
 strengthening
 strengths
+strenuous
 strenuously
 stress
 stress-free
@@ -41344,6 +41436,7 @@ systemic
 systemically
 systems
 t-shirt
+t-shirts
 t-sne
 t-sql
 tab
@@ -41418,6 +41511,8 @@ tallest
 tame
 tamed
 tampered
+tampon
+tampons
 tandem
 tangent
 tangential
@@ -41475,6 +41570,7 @@ taxed
 taxes
 taxi
 taxing
+taxis
 taxonomy
 tb
 tcp
@@ -42940,6 +43036,7 @@ unconfirmed
 unconnected
 unconscious
 unconsciously
+unconsolable
 unconstitutional
 unconstrained
 uncontested
@@ -43450,6 +43547,7 @@ unsaved
 unsay
 unscaling
 unscientific
+unscrewed
 unseasonableness
 unsecure
 unsecured
@@ -44025,6 +44123,7 @@ vicinity
 vicious
 viciously
 victim
+victimless
 victims
 video
 video-recorded
@@ -44633,6 +44732,7 @@ wheat
 wheel
 wheelchair
 wheels
+wheely
 when
 when's
 whence
