@@ -371,6 +371,7 @@ Adwords
 Aerial
 Aerobic
 Aerodynamic
+Aerodynamically
 Aerodynamics
 Aesthetic
 Aesthetically
@@ -683,6 +684,7 @@ Answered
 Answering
 Answers
 Antagonist
+Antagonists
 Antenna
 Antennas
 Anti
@@ -1039,6 +1041,7 @@ Attracting
 Attraction
 Attractive
 Attractiveness
+Attributable
 Attributed
 Attributing
 Attribution
@@ -1475,6 +1478,7 @@ Biologist
 Biologists
 Biology
 Biomechanical
+Biomedical
 Biometric
 Bionic
 Bios
@@ -1873,6 +1877,7 @@ Bunny
 Burden
 Bureau
 Bureaucracy
+Bureaucrats
 Burger
 Burgers
 Burn
@@ -2659,6 +2664,7 @@ Colonial
 Colonialism
 Colonies
 Colonisation
+Colonising
 Colonized
 Colonizing
 Colony
@@ -3134,6 +3140,7 @@ Controlling
 Controls
 Controversial
 Controversially
+Controversies
 Controversy
 Conundrum
 Convective
@@ -3173,6 +3180,7 @@ Convincing
 Convolution
 Convolutional
 Convolutions
+Convoy
 Cook
 Cookbook
 Cookbooks
@@ -4006,10 +4014,12 @@ Deters
 Detonate
 Detonating
 Detonation
+Detonations
 Detour
 Dev
 Dev's
 Devalued
+Devaluing
 Devastating
 Devastation
 Develop
@@ -4065,6 +4075,7 @@ Diaphragm
 Diaries
 Diarrhea
 Diary
+Diaspora
 Dice
 Dick
 Dicks
@@ -5083,6 +5094,7 @@ Errors
 Eruptions
 Escalation
 Escalator
+Escalators
 Escape
 Escaped
 Escapes
@@ -5239,6 +5251,7 @@ Execute
 Executed
 Executing
 Execution
+Executioner
 Executions
 Executive
 Executives
@@ -6330,6 +6343,7 @@ Glide
 Glider
 Gliders
 Glitches
+Glitter
 Glob
 Global
 Globalization
@@ -6534,6 +6548,7 @@ Guided
 Guideline
 Guidelines
 Guides
+Guild
 Guilt
 Guilty
 Guitar
@@ -7134,6 +7149,7 @@ ITunes
 IaaS
 Iam
 Ice
+Ice-cream
 IceCream
 Iceberg
 Icecream
@@ -7528,6 +7544,7 @@ Injecting
 Injection
 Injections
 Injector
+Injectors
 Injure
 Injured
 Injuries
@@ -7635,6 +7652,7 @@ Insurers
 Int
 Intact
 Intake
+Intakes
 Intangible
 Integer
 Integers
@@ -7768,6 +7786,7 @@ Introductory
 Introspection
 Introvert
 Intruder
+Intruders
 Intrusive
 Intuition
 Intuitive
@@ -7953,6 +7972,7 @@ Jet
 Jets
 Jeweler
 Jewelers
+Jewellery
 Jewelry
 Jitter
 Jittery
@@ -8829,6 +8849,7 @@ Mature
 Maturity
 Max
 Maximal
+Maximise
 Maximized
 Maximizer
 Maximizes
@@ -8929,6 +8950,7 @@ Memes
 Memorable
 Memorandum
 Memorial
+Memorials
 Memories
 Memorization
 Memorizing
@@ -9099,6 +9121,7 @@ Minutes
 Miracle
 Miracles
 Mirage
+Mirages
 Mirror
 Mirrored
 Mirroring
@@ -9439,6 +9462,7 @@ Naming
 Nan
 Nanny
 Nano
+Nanoparticles
 Nanoseconds
 Nanotechnology
 Nap
@@ -9802,6 +9826,8 @@ Observation
 Observational
 Observationally
 Observations
+Observatories
+Observatory
 Observe
 Observed
 Observer
@@ -10098,6 +10124,7 @@ Over-the-air
 OverDrive
 Overall
 Overboard
+Overcharge
 Overclock
 Overclocking
 Overcome
@@ -10861,6 +10888,7 @@ Pore
 Pores
 Pork
 Porn
+Pornographic
 Pornography
 Porous
 Port
@@ -11090,6 +11118,7 @@ Priming
 Primitive
 Primordial
 Prince
+Princes
 Princess
 Principal
 Principally
@@ -11114,6 +11143,8 @@ Prisons
 Privacy
 Private
 Privately
+Privatization
+Privatized
 Privilege
 Privileged
 Privileges
@@ -11430,6 +11461,7 @@ Quad-Core
 Quad-core
 Quadrant
 Quadratic
+Quadrillion
 Quadruple
 Quads
 Quake
@@ -12333,6 +12365,7 @@ Riders
 Rides
 Ridge
 Ridges
+Ridicule
 Ridiculous
 Ridiculously
 Riding
@@ -13362,6 +13395,7 @@ Slurp
 Slurping
 Slurred
 Slurring
+Slurs
 Slushy
 Slut
 Smack
@@ -14720,6 +14754,7 @@ Theres
 Thermal
 Thermodynamic
 Thermometer
+Thermoregulation
 Thesaurus
 These
 Theses
@@ -15209,6 +15244,7 @@ Tumor
 Tuna
 Tune
 Tuned
+Tuner
 Tunes
 Tuning
 Tunnel
@@ -15771,6 +15807,9 @@ Vests
 Vet
 Veteran
 Veterans
+Veterinarian
+Veterinarians
+Veterinary
 Veto
 Vets
 Via
@@ -16292,6 +16331,7 @@ Wood
 Wooded
 Wooden
 Woods
+Woody
 Wool
 Wooly
 Word
@@ -16951,6 +16991,7 @@ adwords
 aerial
 aerobic
 aerodynamic
+aerodynamically
 aerodynamics
 aesthetic
 aesthetically
@@ -17472,6 +17513,7 @@ angering
 angle
 angles
 angling
+angrier
 angrily
 angry
 angular
@@ -17550,6 +17592,7 @@ answerers
 answering
 answers
 antagonist
+antagonists
 antenna
 antennas
 anti
@@ -18160,6 +18203,7 @@ attractive
 attractively
 attractiveness
 attracts
+attributable
 attribute
 attributed
 attributes
@@ -18871,6 +18915,7 @@ biologists
 biology
 biomass
 biomechanical
+biomedical
 biometric
 bionic
 bios
@@ -19455,6 +19500,7 @@ burdens
 burdensome
 bureau
 bureaucracy
+bureaucrats
 bureaus
 burger
 burgers
@@ -19525,6 +19571,7 @@ buzz
 buzzed
 buzzer
 buzzing
+buzzword
 by
 by-passing
 by-value
@@ -20713,6 +20760,10 @@ colonial
 colonialism
 colonies
 colonisation
+colonise
+colonised
+colonises
+colonising
 colonization
 colonize
 colonized
@@ -21586,6 +21637,7 @@ controlling
 controls
 controversial
 controversially
+controversies
 controversy
 conundrum
 conundrums
@@ -21658,6 +21710,7 @@ convolve
 convolved
 convolves
 convolving
+convoy
 cooccurrence
 cook
 cookbook
@@ -23208,6 +23261,7 @@ detonated
 detonates
 detonating
 detonation
+detonations
 detonator
 detour
 detract
@@ -23219,6 +23273,7 @@ dev-c++
 devalue
 devalued
 devalues
+devaluing
 devastate
 devastated
 devastates
@@ -23311,6 +23366,7 @@ diaphragm
 diaries
 diarrhea
 diary
+diaspora
 dice
 dick
 dicks
@@ -25152,6 +25208,7 @@ escalates
 escalating
 escalation
 escalator
+escalators
 escape
 escaped
 escapes
@@ -25396,6 +25453,7 @@ executed
 executes
 executing
 execution
+executioner
 executions
 executive
 executives
@@ -27180,6 +27238,7 @@ glitch
 glitched
 glitches
 glitchy
+glitter
 glob
 global
 global's
@@ -27514,6 +27573,7 @@ guideline
 guidelines
 guides
 guiding
+guild
 guileless
 guilt
 guilty
@@ -28398,6 +28458,7 @@ iaas
 iam
 ibm
 ice
+ice-cream
 iceberg
 icecream
 iced
@@ -28441,6 +28502,7 @@ idiom
 idiomatic
 idioms
 idiot
+idiotic
 idiots
 idl
 idle
@@ -29195,6 +29257,7 @@ injection
 injections
 injective
 injector
+injectors
 injects
 injunction
 injure
@@ -29416,6 +29479,7 @@ int64
 int64_t
 intact
 intake
+intakes
 intangible
 integer
 integers
@@ -29669,6 +29733,7 @@ introspect
 introspection
 introvert
 intruder
+intruders
 intrusion
 intrusive
 intrusiveness
@@ -30052,6 +30117,7 @@ jetbrains
 jets
 jeweler
 jewelers
+jewellery
 jewelry
 jframe
 jinja
@@ -31459,6 +31525,10 @@ max
 max-pooling
 maximal
 maximally
+maximise
+maximised
+maximises
+maximising
 maximization
 maximize
 maximized
@@ -31584,6 +31654,7 @@ memorable
 memorandum
 memorandums
 memorial
+memorials
 memories
 memorization
 memorize
@@ -31906,6 +31977,7 @@ miracle
 miracles
 miraculously
 mirage
+mirages
 mirror
 mirrored
 mirroring
@@ -32487,6 +32559,7 @@ multiverse
 multiversion
 multiview
 municipal
+municipality
 murder
 murdered
 murdering
@@ -32590,7 +32663,10 @@ naming
 nan
 nanny
 nano
+nanometer
 nanometers
+nanoparticle
+nanoparticles
 nanosecond
 nanoseconds
 nanotechnologies
@@ -33266,6 +33342,8 @@ observation
 observational
 observationally
 observations
+observatories
+observatory
 observe
 observed
 observer
@@ -33840,6 +33918,7 @@ overboard
 overbooked
 overcame
 overcareful
+overcharge
 overcharged
 overclock
 overclocked
@@ -35111,6 +35190,7 @@ pored
 pores
 pork
 porn
+pornographic
 pornography
 porous
 port
@@ -35557,6 +35637,7 @@ primitive
 primitives
 primordial
 prince
+princes
 princess
 principal
 principally
@@ -35594,6 +35675,11 @@ private
 privately
 privation
 privations
+privatization
+privatize
+privatized
+privatizes
+privatizing
 privilege
 privileged
 privileges
@@ -36142,6 +36228,7 @@ quadrant
 quadratic
 quadratically
 quadrilateral
+quadrillion
 quadruple
 quads
 quaint
@@ -36175,6 +36262,8 @@ quantizes
 quantizing
 quantum
 quarantine
+quarantined
+quarantines
 quarrel
 quarrelled
 quarrelling
@@ -37586,6 +37675,7 @@ repressed
 repressing
 repression
 repressions
+repressive
 reprioritization
 reproach
 reproached
@@ -38110,6 +38200,9 @@ riders
 rides
 ridge
 ridges
+ridicule
+ridiculed
+ridicules
 ridiculing
 ridiculous
 ridiculously
@@ -39750,6 +39843,7 @@ slurps
 slurred
 slurring
 slurry
+slurs
 slush
 slushy
 slut
@@ -42104,6 +42198,7 @@ thereupon
 thermal
 thermodynamic
 thermometer
+thermoregulation
 thesaurus
 these
 theses
@@ -42940,6 +43035,7 @@ tuna
 tunable
 tune
 tuned
+tuner
 tunes
 tuning
 tunnel
@@ -44275,6 +44371,9 @@ vests
 vet
 veteran
 veterans
+veterinarian
+veterinarians
+veterinary
 veto
 vets
 vetted
@@ -45209,6 +45308,7 @@ wood
 wooded
 wooden
 woods
+woody
 wool
 wooly
 word
