@@ -278,6 +278,7 @@ Add-in
 Add-on
 Added
 Addendum
+Adder
 Addict
 Addicted
 Addiction
@@ -586,6 +587,7 @@ Amidst
 Amity
 Ammunition
 Amnesia
+Amnesty
 Among
 Amongst
 Amount
@@ -879,6 +881,7 @@ Arrest
 Arrested
 Arrests
 Arrival
+Arrivals
 Arrive
 Arrived
 Arriving
@@ -2134,6 +2137,7 @@ Cashback
 Cashing
 Casino
 Casinos
+Caskets
 Cassandra
 Cassette
 Cassettes
@@ -2715,6 +2719,7 @@ Comfortable
 Comfortably
 Comforting
 Comic
+Comically
 Comics
 Coming
 Comma
@@ -3053,6 +3058,7 @@ Constellations
 Constituent
 Constitutes
 Constitution
+Constitutionality
 Constitutions
 Constraining
 Constraint
@@ -4939,6 +4945,7 @@ Encrypted
 Encrypting
 Encryption
 Encyclopedia
+Encyclopedias
 End
 End-Point
 End-User
@@ -6035,6 +6042,7 @@ Framing
 France
 Franchise
 Fraud
+Frauds
 Freak
 Freaked
 Freaking
@@ -6297,6 +6305,8 @@ Genuine
 Genuinely
 Geo
 GeoLocation
+Geographer
+Geographers
 Geographic
 Geographically
 Geolocation
@@ -7661,6 +7671,7 @@ Instantaneous
 Instantaneously
 Instantly
 Instead
+Instilling
 Instinct
 Instinctive
 Institute
@@ -8148,6 +8159,7 @@ Kitten
 Kittens
 Kitties
 Kitty
+Kneeling
 Knew
 Knife
 Knit
@@ -8438,7 +8450,10 @@ Lifted
 Lifting
 Lifts
 Light
+Lighten
+Lightening
 Lighter
+Lighthouse
 Lighting
 Lightly
 Lightness
@@ -8677,6 +8692,7 @@ MHz
 MIDI
 MIPS
 ML
+MOOSE
 MP3
 MP4
 MPEG
@@ -9180,6 +9196,7 @@ Misinterpretation
 Misinterpreted
 Misleading
 Mismatched
+Misogyny
 Misread
 Miss
 Missed
@@ -9298,6 +9315,7 @@ Monopoly
 Monotone
 Monster
 Monsters
+Monstrously
 Month
 Month's
 Monthly
@@ -9311,6 +9329,8 @@ Moon
 Moonlight
 Moonshine
 Moore's
+Moose
+Mooses
 Moot
 Moral
 Morale
@@ -9511,6 +9531,7 @@ Nap
 Napkin
 Napkins
 Naps
+Narcissism
 Narcotic
 Narcotics
 Narrate
@@ -11082,6 +11103,7 @@ Prejudice
 Preliminary
 Preload
 Preloading
+Prelude
 Premature
 Prematurely
 Premier
@@ -11894,6 +11916,7 @@ Reduces
 Reducing
 Reduction
 Reductions
+Redundancies
 Redundancy
 Redundant
 Redux
@@ -12639,6 +12662,7 @@ SVN
 Sabotage
 Sacrifices
 Sad
+Sadist
 Sadly
 Sadness
 Safari
@@ -12648,6 +12672,7 @@ Safely
 Safer
 Safety
 Saga
+Sage
 Said
 Sail
 Sailed
@@ -13543,6 +13568,7 @@ Sober
 Sobering
 Sobriety
 Social
+Socialistic
 Socialize
 Socialized
 Socializing
@@ -14666,6 +14692,7 @@ Telecommunications
 Telecoms
 Telegram
 Telemetry
+Telepathy
 Telephone
 Telephones
 Telescopes
@@ -15830,6 +15857,7 @@ Velocities
 Velocity
 Vendor
 Vendors
+Venereal
 Vent
 Ventilation
 Venture
@@ -16017,6 +16045,8 @@ WWW
 WYSIWYG
 Wafer
 Wafers
+Waffle
+Waffles
 Wage
 Wages
 Wagging
@@ -16900,6 +16930,8 @@ add-on
 add-ons
 added
 addendum
+adder
+adders
 addict
 addicted
 addicting
@@ -17478,6 +17510,7 @@ amiss
 amity
 ammunition
 amnesia
+amnesty
 amoled
 among
 amongs
@@ -17971,6 +18004,7 @@ arrest
 arrested
 arrests
 arrival
+arrivals
 arrive
 arrived
 arrives
@@ -18295,6 +18329,7 @@ audio
 audio-player
 audio-to-audio
 audiobook
+audiobooks
 audios
 audit
 auditability
@@ -18338,6 +18373,7 @@ authorizations
 authorize
 authorized
 authorizes
+authorizing
 authors
 authorship
 autism
@@ -19416,6 +19452,7 @@ bridges
 bridging
 brief
 briefcase
+briefcases
 briefing
 briefings
 briefly
@@ -19925,6 +19962,8 @@ cashing
 casing
 casino
 casinos
+casket
+caskets
 cassandra
 casserole
 cassette
@@ -20914,6 +20953,7 @@ comforts
 comfy
 comic
 comical
+comically
 comics
 coming
 comma
@@ -21542,6 +21582,7 @@ constitutes
 constituting
 constitution
 constitutional
+constitutionality
 constitutions
 constness
 constrain
@@ -24599,6 +24640,7 @@ ecosystems
 ecu
 edge
 edges
+edgy
 edible
 edibles
 edit
@@ -24962,6 +25004,7 @@ encumbering
 encumbers
 encumbrance
 encyclopedia
+encyclopedias
 end
 end-point
 end-time
@@ -25133,6 +25176,7 @@ entertains
 enthusiasm
 enthusiast
 enthusiastic
+enthusiastically
 enthusiasts
 entice
 enticed
@@ -25219,6 +25263,7 @@ envisions
 envy
 envying
 eof
+ephemeral
 epic
 epically
 epics
@@ -25296,6 +25341,7 @@ erects
 ergonomic
 ergonomics
 erlang
+erogenous
 erotic
 errand
 erranded
@@ -26523,6 +26569,7 @@ flowing
 flown
 flows
 fluctuate
+fluctuated
 fluctuates
 fluctuating
 fluctuation
@@ -26842,6 +26889,7 @@ frantic
 frantically
 frappe
 fraud
+frauds
 freak
 freaked
 freaking
@@ -27250,6 +27298,8 @@ geo-spatial
 geocoding
 geodata
 geodesy
+geographer
+geographers
 geographic
 geographical
 geographically
@@ -28623,11 +28673,16 @@ id's
 ide
 idea
 ideal
+idealise
+idealised
+idealises
+idealising
 idealism
 idealistic
 idealize
 idealized
 idealizes
+idealizing
 ideally
 ideals
 ideas
@@ -29591,6 +29646,12 @@ instigate
 instigated
 instigates
 instigator
+instil
+instill
+instilled
+instilling
+instills
+instils
 instinct
 instinctive
 instincts
@@ -30551,6 +30612,7 @@ kivy
 kmeans
 knack
 knee
+kneeling
 kneels
 knees
 knew
@@ -30983,9 +31045,14 @@ lifting
 lifts
 light
 lighted
+lighten
 lightened
+lightening
+lightens
 lighter
 lightest
+lighthouse
+lighthousees
 lighting
 lightly
 lightmapping
@@ -32212,6 +32279,7 @@ mismatch
 mismatched
 mismatches
 mismatching
+misogyny
 misplace
 misplaced
 misplaces
@@ -32414,6 +32482,7 @@ monogame
 monogamous
 monogamy
 monolingual
+monolith
 monolithic
 monolithically
 monologue
@@ -32436,6 +32505,7 @@ monotony
 monotouch
 monster
 monsters
+monstrously
 month
 month's
 monthly
@@ -32449,6 +32519,8 @@ moon
 moonlight
 moonshine
 moore's
+moose
+mooses
 moot
 mooted
 moots
@@ -32857,6 +32929,7 @@ nap
 napkin
 napkins
 naps
+narcissism
 narcotic
 narcotics
 narrate
@@ -34894,6 +34967,7 @@ pervades
 pervading
 pervasive
 pervasiveness
+perverted
 pesky
 pessimism
 pessimist
@@ -35096,6 +35170,7 @@ pivot
 pivotal
 pivoted
 pivoting
+pivots
 pixel
 pixelate
 pixelated
@@ -35690,6 +35765,7 @@ preload
 preloaded
 preloader
 preloading
+prelude
 premade
 premake
 premature
@@ -37264,6 +37340,7 @@ reducible
 reducing
 reduction
 reductions
+redundancies
 redundancy
 redundant
 redundantly
@@ -38414,6 +38491,7 @@ richer
 riches
 richest
 richly
+ricochet
 rid
 ridded
 riddle
@@ -38747,6 +38825,8 @@ sacrificed
 sacrifices
 sad
 saddest
+sadist
+sadistic
 sadly
 sadness
 safari
@@ -38759,6 +38839,7 @@ safety
 saga
 sagacious
 sagacity
+sage
 said
 sail
 sailed
@@ -39007,6 +39088,7 @@ scraper
 scrapes
 scraping
 scrapped
+scrapping
 scraps
 scrapy
 scratch
@@ -39960,6 +40042,8 @@ skips
 skirt
 skirts
 skis
+skit
+skits
 sklearn
 skull
 skulls
@@ -40252,11 +40336,13 @@ sobered
 sobering
 sobers
 sobriety
+sociable
 social
 social-media
 social-networking
 socialism
 socialist
+socialistic
 socialize
 socialized
 socializing
@@ -40662,6 +40748,7 @@ spooky
 spool
 spooled
 spooling
+spools
 spoon
 spoons
 sporadic
@@ -42039,6 +42126,7 @@ takeoff
 takeout
 takeover
 takeovers
+taker
 takes
 taking
 tale
@@ -42219,6 +42307,7 @@ telecommunications
 telecoms
 telegram
 telemetry
+telepathy
 telephone
 telephones
 telephony
@@ -42767,6 +42856,7 @@ tolerances
 tolerant
 tolerate
 tolerated
+tolerating
 toll
 tomato
 tomatoes
@@ -43747,8 +43837,10 @@ undress
 undressed
 undresses
 undressing
+undrinkable
 undue
 undulatory
+unease
 uneasiness
 uneasy
 unedited
@@ -44466,6 +44558,10 @@ vRAM
 vacancies
 vacancy
 vacant
+vacate
+vacated
+vacates
+vacating
 vacation
 vacations
 vaccinate
@@ -44597,6 +44693,7 @@ vendor
 vendor's
 vendors
 veneration
+venereal
 vent
 ventilate
 ventilated
@@ -44918,6 +45015,8 @@ w3c
 waded
 wafer
 wafers
+waffle
+waffles
 wage
 wages
 wagging
@@ -45070,6 +45169,7 @@ way
 wayland
 waypoints
 ways
+wayside
 wcf
 wchar
 wchar_t
