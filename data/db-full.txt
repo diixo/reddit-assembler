@@ -6177,7 +6177,6 @@ Futures
 Futuristic
 Fuzzy
 Fyi
-GARDENER
 GB
 GCC
 GHz
@@ -8692,7 +8691,6 @@ MHz
 MIDI
 MIPS
 ML
-MOOSE
 MP3
 MP4
 MPEG
@@ -9532,6 +9530,7 @@ Napkin
 Napkins
 Naps
 Narcissism
+Narcissist
 Narcotic
 Narcotics
 Narrate
@@ -32930,6 +32929,7 @@ napkin
 napkins
 naps
 narcissism
+narcissist
 narcotic
 narcotics
 narrate
