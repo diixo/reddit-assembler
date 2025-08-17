@@ -325,6 +325,7 @@ Adopt
 Adopted
 Adopting
 Adoption
+Adoptions
 Adorable
 Adoration
 Adore
@@ -522,6 +523,7 @@ Alloys
 Alluding
 Allusions
 Ally
+Almighty
 Almost
 Alone
 Along
@@ -1687,6 +1689,7 @@ Bound
 Boundaries
 Boundary
 Bounded
+Bounties
 Bounty
 Bow
 Bowel
@@ -2006,6 +2009,7 @@ Calm
 Calming
 Calmness
 Caloric
+Calorically
 Calories
 Calves
 Came
@@ -2162,6 +2166,7 @@ Cater
 Catering
 Catholic
 Catholicism
+Catholics
 Cats
 Caught
 Causal
@@ -2281,6 +2286,7 @@ Charity
 Charm
 Charmed
 Charming
+Charms
 Charred
 Chart
 Charter
@@ -3301,6 +3307,7 @@ Couples
 Coupling
 Coupons
 Courage
+Courageous
 Course
 Courses
 Court
@@ -3568,6 +3575,7 @@ Cylindrical
 Cynic
 Cynical
 Cynically
+Cyrillic
 DB
 DBA
 DBS
@@ -3981,6 +3989,7 @@ Despair
 Despatch
 Desperate
 Despite
+Despotism
 Dessert
 Desserts
 Destabilizes
@@ -4613,6 +4622,7 @@ Drying
 Dryness
 Dual
 Dual-processor
+Dualism
 Duality
 Dub
 Duck
@@ -5306,6 +5316,8 @@ Expects
 Expedited
 Expedition
 Expeditions
+Expelled
+Expelling
 Expense
 Expenses
 Expensive
@@ -5440,6 +5452,7 @@ FRY
 FSB
 FTP
 FYI
+Fabled
 Fabric
 Fabulous
 Facade
@@ -5588,6 +5601,7 @@ Featuring
 February
 Fed
 Federal
+Federalism
 Federation
 Fedora
 Fee
@@ -5804,6 +5818,8 @@ Flights
 Flimsy
 Flinging
 Flip
+Flipper
+Flippers
 Flipping
 Flips
 Flirted
@@ -6153,6 +6169,7 @@ Futures
 Futuristic
 Fuzzy
 Fyi
+GARDENER
 GB
 GCC
 GHz
@@ -6204,6 +6221,7 @@ Gaps
 Garage
 Garbage
 Garden
+Gardener
 Gardening
 Gardens
 Garlic
@@ -6813,6 +6831,7 @@ Hereby
 Herein
 Heretofore
 Heritage
+Hermetic
 Hero
 Heroes
 Heroic
@@ -7055,6 +7074,7 @@ Hugs
 Hull
 Human
 Humane
+Humanism
 Humanitarian
 Humanity
 Humans
@@ -7274,6 +7294,7 @@ Impending
 Imperative
 Imperfect
 Imperfections
+Imperfectly
 Imperial
 Imperialism
 Impersonating
@@ -8166,6 +8187,7 @@ Laboratories
 Laboratory
 Labour
 Labs
+Labyrinth
 Lace
 Laces
 Lack
@@ -10077,6 +10099,8 @@ Organizing
 Organs
 Orgasm
 Orgasms
+Orgies
+Orgy
 Orient
 Orientation
 Oriented
@@ -10300,6 +10324,8 @@ Panels
 Pangs
 Panic
 Panics
+Panther
+Panthers
 Panties
 Pants
 Papa
@@ -10490,6 +10516,7 @@ Peering
 Peers
 Peg
 Pen
+Penal
 Penalties
 Penalty
 Pencil
@@ -11390,6 +11417,7 @@ Psychopathy
 Psychosis
 Psychotherapist
 Psychotherapy
+Psychotropic
 Pub
 Puberty
 PubliC
@@ -13182,6 +13210,7 @@ Shredder
 Shreds
 Shrimp
 Shrimps
+Shrine
 Shrink
 Shrinkage
 Shrinking
@@ -13489,6 +13518,7 @@ Sniper
 Snitch
 Snitches
 Snoop
+Snoozing
 Snores
 Snoring
 Snow
@@ -14111,6 +14141,7 @@ Struggling
 Stub
 Stubbing
 Stubborn
+Stubby
 Stuck
 Student
 Students
@@ -14458,6 +14489,7 @@ Symmetrical
 Symmetry
 Sympathetic
 Sympathy
+Symphonies
 Symphony
 Symptoms
 Sync
@@ -16075,6 +16107,7 @@ Water
 Waterfall
 Waterfalls
 Watering
+Waterless
 Watermarks
 Watermelon
 Watermelons
@@ -16280,6 +16313,7 @@ Wiles
 Will
 Willing
 Willingness
+Willow
 Wills
 Wilt
 Win
@@ -16953,6 +16987,7 @@ adoptable
 adopted
 adopting
 adoption
+adoptions
 adopts
 adorable
 adorably
@@ -17355,6 +17390,7 @@ alluding
 allusion
 allusions
 ally
+almighty
 almost
 almost-complete
 alone
@@ -19170,6 +19206,7 @@ bookmarking
 bookmarks
 books
 bookstore
+bookstores
 bool
 boolean
 booleans
@@ -19259,6 +19296,7 @@ bounding
 bounding-boxes
 boundless
 bounds
+bounties
 bounty
 boutique
 bow
@@ -19377,6 +19415,7 @@ bridge
 bridges
 bridging
 brief
+briefcase
 briefing
 briefings
 briefly
@@ -19716,6 +19755,7 @@ calmly
 calmness
 calms
 caloric
+calorically
 calories
 calves
 camcorder
@@ -19935,6 +19975,7 @@ catering
 caters
 catholic
 catholicism
+catholics
 cats
 caught
 causal
@@ -20125,6 +20166,7 @@ charm
 charmed
 charming
 charmingly
+charms
 charred
 chars
 charsets
@@ -20281,6 +20323,7 @@ choosable
 choose
 chooses
 choosing
+choosy
 chop
 chopped
 chopping
@@ -21352,6 +21395,7 @@ confusions
 congested
 congestion
 congestive
+conglomeration
 congrats
 congratulate
 congratulated
@@ -21930,6 +21974,7 @@ coupling
 coupon
 coupons
 courage
+courageous
 course
 coursed
 courses
@@ -22419,6 +22464,7 @@ cylindrical
 cynic
 cynical
 cynically
+cyrillic
 cython
 d-bus
 d3.js
@@ -22896,6 +22942,7 @@ deforming
 deforms
 defragment
 defragmentation
+defragmented
 defragmenting
 defragments
 deft
@@ -23239,6 +23286,7 @@ despise
 despite
 despoiling
 desponding
+despotism
 dessert
 desserts
 destabilize
@@ -24371,6 +24419,7 @@ dual
 dual-core
 dual-processor
 dual-screen
+dualism
 duality
 dub
 dubbed
@@ -25607,6 +25656,10 @@ expedites
 expedition
 expeditions
 expeditious
+expel
+expelled
+expelling
+expels
 expend
 expendable
 expended
@@ -25796,6 +25849,7 @@ eyeglasses
 eyeing
 eyelids
 eyes
+fabled
 fabless
 fabric
 fabricate
@@ -25875,6 +25929,7 @@ faint
 fainting
 faintly
 fair
+fairer
 fairest
 fairly
 fairness
@@ -26053,6 +26108,7 @@ featuring
 february
 fed
 federal
+federalism
 federation
 fedora
 fee
@@ -26407,6 +26463,8 @@ flip-foldable
 flip-up
 flipboard
 flipped
+flipper
+flippers
 flipping
 flips
 flirt
@@ -26478,6 +26536,7 @@ fluffing
 fluffs
 fluffy
 fluid
+fluidly
 fluids
 flung
 flunk
@@ -27074,6 +27133,7 @@ garbage
 garble
 garbled
 garden
+gardener
 gardening
 gardens
 garlic
@@ -28035,6 +28095,9 @@ herein
 heretofore
 hereupon
 heritage
+hermetic
+hermetical
+hermetically
 hero
 heroes
 heroic
@@ -28068,6 +28131,7 @@ hibernation
 hid
 hidden
 hide
+hideously
 hides
 hiding
 hierarchic
@@ -28413,6 +28477,7 @@ hull
 human
 humane
 humanely
+humanism
 humanitarian
 humanity
 humanly
@@ -28501,6 +28566,7 @@ hypertuning
 hypervisor
 hyperx
 hypnosis
+hypnotist
 hypocrisy
 hypotheses
 hypothesis
@@ -28756,6 +28822,7 @@ imperative
 imperfect
 imperfection
 imperfections
+imperfectly
 imperial
 imperialism
 impersonal
@@ -28833,6 +28900,7 @@ imprinted
 imprints
 imprisoned
 improbable
+improbably
 improper
 improperly
 improprieties
@@ -30033,6 +30101,7 @@ isolation
 isometric
 isometrically
 isometry
+isomorphic
 isotropic
 isotropy
 isp
@@ -30542,6 +30611,7 @@ labourers
 labouring
 labours
 labs
+labyrinth
 lace
 laces
 lack
@@ -31341,6 +31411,7 @@ mad
 madden
 made
 made-up
+madly
 madness
 mafia
 magazine
@@ -33478,6 +33549,7 @@ obstructed
 obstructes
 obstructing
 obstruction
+obstructs
 obtain
 obtainable
 obtained
@@ -33848,6 +33920,8 @@ organizing
 organs
 orgasm
 orgasms
+orgies
+orgy
 orient
 orientable
 orientate
@@ -34326,6 +34400,8 @@ panicked
 panicking
 panics
 panned
+panther
+panthers
 panties
 pants
 papa
@@ -34637,6 +34713,7 @@ peeved
 peg
 pegs
 pen
+penal
 penalize
 penalized
 penalizes
@@ -36199,6 +36276,7 @@ psychoses
 psychosis
 psychotherapist
 psychotherapy
+psychotropic
 pthread
 pthreads
 pub
@@ -38233,6 +38311,10 @@ revels
 revenge
 revenue
 revenues
+reverberate
+reverberated
+reverberates
+reverberating
 revere
 revered
 reveres
@@ -38873,6 +38955,7 @@ sci-fi
 science
 science-based
 sciences
+sciency
 scientific
 scientifically
 scientist
@@ -39152,6 +39235,7 @@ self-conscious
 self-contained
 self-correction
 self-criticize
+self-determination
 self-development
 self-directed
 self-documented
@@ -39464,6 +39548,7 @@ sharply
 sharpness
 shave
 shaved
+shaves
 shaving
 she
 she'd
@@ -39611,6 +39696,7 @@ shredder
 shreds
 shrimp
 shrimps
+shrine
 shrink
 shrinkage
 shrinked
@@ -40122,6 +40208,8 @@ snooping
 snoops
 snooze
 snoozed
+snoozes
+snoozing
 snore
 snored
 snores
@@ -41158,6 +41246,7 @@ stubbed
 stubbing
 stubborn
 stubbornly
+stubby
 stubs
 stuck
 student
@@ -41344,6 +41433,7 @@ subsequent
 subsequently
 subset
 subsets
+subshell
 subside
 subsided
 subsides
@@ -41829,6 +41919,7 @@ sympathize
 sympathized
 sympathizes
 sympathy
+symphonies
 symphony
 symptom
 symptoms
@@ -43140,6 +43231,7 @@ tripled
 triples
 triplet
 triplets
+tripling
 tripped
 tripping
 trippy
@@ -43338,6 +43430,10 @@ typhoon
 typical
 typicality
 typically
+typified
+typifies
+typify
+typifying
 typing
 typo
 typographical
@@ -44728,6 +44824,7 @@ vmware
 vocabularies
 vocabulary
 vocal
+vocalist
 vocals
 vocational
 voice
@@ -44944,6 +45041,7 @@ watered
 waterfall
 waterfalls
 watering
+waterless
 watermark
 watermarking
 watermarks
@@ -45372,6 +45470,7 @@ willed
 willing
 willingly
 willingness
+willow
 wills
 wilt
 wilted
@@ -45665,6 +45764,7 @@ wronged
 wrongful
 wrongfully
 wrongly
+wrongness
 wrongs
 wrote
 wsdl
