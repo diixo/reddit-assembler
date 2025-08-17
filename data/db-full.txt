@@ -141,6 +141,7 @@ Abusive
 Academic
 Academically
 Academics
+Academies
 Academy
 Accelerate
 Accelerated
@@ -859,6 +860,7 @@ Aristocratic
 Arithmetic
 Arithmetically
 Arm
+Armchair
 Armed
 Armies
 Armor
@@ -1345,6 +1347,8 @@ Bed
 Bedroom
 Beds
 Bee
+Beekeeper
+Beekeepers
 Been
 Beep
 Beer
@@ -1579,6 +1583,7 @@ Blogs
 Blonde
 Blood
 Blooded
+Bloodless
 Bloody
 Bloom
 Blooms
@@ -1591,6 +1596,7 @@ Blown
 Blows
 Blue
 BlueTooth
+Blueberries
 Blueberry
 Blueprint
 Bluetooth
@@ -1830,6 +1836,7 @@ Brutally
 Brute
 Btw
 Bubble
+Bubblegum
 Bubbles
 Bubbling
 Buck
@@ -1870,10 +1877,13 @@ Bulls
 Bullshit
 Bully
 Bullying
+Bumblebee
+Bumblebees
 Bummed
 Bump
 Bumped
 Bumper
+Bumpers
 Bumping
 Bunch
 Bunches
@@ -3072,6 +3082,7 @@ Constructing
 Construction
 Constructive
 Constructor
+Consulate
 Consult
 Consultant
 Consultants
@@ -3839,6 +3850,7 @@ Deformations
 Deformed
 Defragmentation
 Defragmenting
+Defrosting
 Deft
 Defying
 Degenerate
@@ -4193,6 +4205,7 @@ Directed
 Directing
 Direction
 Directional
+Directionality
 Directions
 Directive
 Directives
@@ -4290,6 +4303,7 @@ Dishonest
 Dishwasher
 Dishwashers
 Disinfect
+Disinfection
 Disinformation
 Disjunctive
 Disk
@@ -4811,6 +4825,8 @@ Electorate
 Electric
 Electrical
 Electrically
+Electrician
+Electricians
 Electricity
 Electrification
 Electrified
@@ -4961,6 +4977,7 @@ Endless
 Endlessly
 Endorse
 Endorsement
+Endorsing
 Endpoint
 Endpoints
 Ends
@@ -5067,6 +5084,7 @@ Envy
 Epic
 Epics
 Epidemic
+Epidural
 Epilogue
 Episode
 Episodes
@@ -6175,6 +6193,7 @@ Futility
 Future
 Futures
 Futuristic
+Fuzzing
 Fuzzy
 Fyi
 GB
@@ -6287,6 +6306,7 @@ Genes
 Genesis
 Genetic
 Genetically
+Geneticist
 Genetics
 Genius
 Geniuses
@@ -6570,6 +6590,7 @@ Grown
 Grows
 Growth
 Grudge
+Grumbles
 Grunt
 Guaranteed
 Guard
@@ -6848,6 +6869,7 @@ Heroin
 Herring
 Hers
 Heterogeneous
+Heterosexual
 Heuristic
 Heuristically
 Heuristics
@@ -7134,8 +7156,10 @@ Hyperthreading
 Hypnosis
 Hypotheses
 Hypothesis
+Hypothesizes
 Hypothetical
 Hypothetically
+Hypotheticals
 Hysteresis
 Hysteria
 Hz
@@ -7299,6 +7323,7 @@ Impartiality
 Impeach
 Impeachment
 Impedance
+Impeded
 Impending
 Imperative
 Imperfect
@@ -7318,6 +7343,7 @@ Implicit
 Implicitly
 Implied
 Implies
+Implode
 Imploded
 Implying
 Import
@@ -7540,6 +7566,7 @@ Infographic
 Inform
 Informal
 Informally
+Informants
 Informatics
 Information
 Informational
@@ -7857,6 +7884,7 @@ Inventing
 Invention
 Inventions
 Inventor
+Inventories
 Inventors
 Inventory
 Inverse
@@ -7914,6 +7942,7 @@ Iris
 Iron
 Ironic
 Ironically
+Ironing
 Irons
 Irony
 Irradiated
@@ -8093,6 +8122,7 @@ Kayaking
 Keen
 Keep
 Keeper
+Keepers
 Keeping
 Keeps
 Kendo
@@ -8128,7 +8158,9 @@ Killers
 Killing
 Killings
 Kills
+KiloByte
 KiloBytes
+Kilobyte
 Kilobytes
 Kilogram
 Kilograms
@@ -8421,6 +8453,8 @@ Liberality
 Liberals
 Liberties
 Liberty
+Librarian
+Librarians
 Libraries
 Library
 Library's
@@ -8877,6 +8911,7 @@ Matches
 Matching
 Mate
 Material
+Materialism
 Materializing
 Materials
 Maternal
@@ -9060,6 +9095,7 @@ Meteorite
 Meteorites
 Meteorologist
 Meteorologists
+Meteorology
 Meters
 Method
 Methodical
@@ -9348,11 +9384,14 @@ Mortal
 Mortality
 Mortgage
 Mortgages
+Mosaic
+Mosaics
 Mosquito
 Mosquitoes
 Most
 Mostly
 Motel
+Motels
 Mother
 Mother's
 Motherboard
@@ -9531,6 +9570,7 @@ Napkins
 Naps
 Narcissism
 Narcissist
+Narcissistic
 Narcotic
 Narcotics
 Narrate
@@ -9632,12 +9672,14 @@ Networks
 Neural
 Neuralink
 Neuro
+Neurologic
 Neurological
 Neurology
 Neuron
 Neurons
 Neuroscience
 Neutral
+Neutralising
 Neutrality
 Neutralization
 Neutralize
@@ -9698,6 +9740,7 @@ Node
 Nodes
 Noise
 Noises
+Noisier
 Noisy
 Nomad
 Nomads
@@ -9870,6 +9913,7 @@ Objective
 Objective-C
 Objectively
 Objectives
+Objectivism
 Objects
 Oblate
 Obligate
@@ -9895,6 +9939,7 @@ Observed
 Observer
 Observers
 Observing
+Obsessing
 Obsession
 Obsessive
 Obstacle
@@ -9910,6 +9955,7 @@ Occasional
 Occasionally
 Occlusion
 Occult
+Occupant
 Occupation
 Occupational
 Occupations
@@ -10344,6 +10390,7 @@ Panels
 Pangs
 Panic
 Panics
+Panorama
 Panther
 Panthers
 Panties
@@ -10379,6 +10426,7 @@ Paranoia
 Paranoid
 Paranormal
 Paraphrase
+Paraphrased
 Paraphrasing
 Parasite
 Parasites
@@ -10624,11 +10672,14 @@ Pertaining
 Pertinent
 Pervasive
 Pervasiveness
+Perversion
 Pesky
 Pessimism
 Pest
 Pests
 Pet
+PetaBytes
+Petabytes
 Petition
 Petrified
 Pets
@@ -11047,6 +11098,7 @@ Practising
 Practitioner
 Practitioners
 Pragmatic
+Pragmatism
 Praise
 Praises
 Praising
@@ -11352,6 +11404,7 @@ Properties
 Property
 Prophecy
 Prophet
+Prophylaxis
 Proponents
 Proportional
 Proportionality
@@ -11640,6 +11693,7 @@ Racks
 Radar
 Radars
 Radial
+Radian
 Radians
 Radiant
 Radiated
@@ -12007,6 +12061,7 @@ Regressive
 Regret
 Regular
 Regularly
+Regulars
 Regulate
 Regulated
 Regulates
@@ -12016,6 +12071,7 @@ Regulations
 Regulator
 Regulators
 Regulatory
+Rehabilitated
 Rehabilitation
 Rehearsal
 Rehearsing
@@ -12565,6 +12621,7 @@ Roulette
 Round
 Round-Up
 RoundUp
+Roundabouts
 Rounded
 Rounding
 Rounds
@@ -12763,6 +12820,7 @@ Scammers
 Scamp
 Scan
 Scandal
+Scandalous
 Scanline
 Scanner
 Scanners
@@ -13295,6 +13353,7 @@ Silenced
 Silent
 Silently
 Silicon
+Silicon-based
 Silicone
 Silk
 Silly
@@ -13978,6 +14037,7 @@ Stateless
 Statement
 Statements
 States
+Statesman
 Static
 Statically
 Stating
@@ -14028,6 +14088,7 @@ Stereo
 Stereotype
 Stereotypes
 Stereotypical
+Stereotyping
 Sterile
 Stick
 Sticker
@@ -14212,6 +14273,7 @@ Subdomains
 Subfolder
 Subgroups
 Subject
+Subjecting
 Subjective
 Subjectively
 Subjectivity
@@ -14533,6 +14595,7 @@ Syntax
 Synthesis
 Synthesize
 Synthesized
+Synthesizers
 Synthesizing
 Synthetic
 Synthetically
@@ -14610,6 +14673,7 @@ Tangent
 Tangential
 Tangentially
 Tangled
+Tangling
 Tank
 Tanks
 Tap
@@ -14867,6 +14931,7 @@ Thinkers
 Thinking
 Thinks
 Thinner
+Thinness
 Third
 Thirteen
 Thirty
@@ -14976,6 +15041,7 @@ Tires
 Tiring
 Tissue
 Tissues
+Titan
 Titanium
 Title
 Titled
@@ -15006,6 +15072,7 @@ Tomatoes
 Tomb
 Tombs
 Tomcat
+Tomography
 Tomorrow
 Ton
 Tonal
@@ -15566,6 +15633,7 @@ Unidirectional
 Unification
 Unified
 Uniform
+Uniformed
 Uniformity
 Uniforms
 Unify
@@ -16695,6 +16763,7 @@ abusive
 academic
 academically
 academics
+academies
 academy
 accede
 acceded
@@ -17975,6 +18044,8 @@ arm
 arm-based
 arm32
 arm64
+armchair
+armchairs
 armed
 armies
 armor
@@ -18803,6 +18874,8 @@ bedroom
 beds
 bee
 beef
+beekeeper
+beekeepers
 been
 beep
 beeped
@@ -19157,6 +19230,7 @@ blogs
 blonde
 blood
 blooded
+bloodless
 bloody
 bloom
 bloomed
@@ -19171,6 +19245,7 @@ blown
 blows
 blowup
 blue
+blueberries
 blueberry
 blueprint
 blueprints
@@ -19532,6 +19607,7 @@ bstr
 btree
 btw
 bubble
+bubblegum
 bubbles
 bubbling
 buck
@@ -19587,10 +19663,13 @@ bulls
 bullshit
 bully
 bullying
+bumblebee
+bumblebees
 bummed
 bump
 bumped
 bumper
+bumpers
 bumping
 bumps
 bumpy
@@ -20167,6 +20246,7 @@ channel
 channels
 chaos
 chaotic
+chaotically
 chapped
 chapter
 chapters
@@ -21606,6 +21686,7 @@ constructively
 constructor
 constructors
 constructs
+consulate
 consult
 consultancy
 consultant
@@ -22168,6 +22249,7 @@ criminalise
 criminalised
 criminalises
 criminalising
+criminality
 criminalize
 criminalized
 criminalizes
@@ -22389,6 +22471,10 @@ curb
 curbed
 curbes
 curbing
+curdle
+curdled
+curdles
+curdling
 cure
 cured
 cures
@@ -22985,6 +23071,7 @@ defragmentation
 defragmented
 defragmenting
 defragments
+defrosting
 deft
 deftly
 defunct
@@ -23090,6 +23177,10 @@ demoing
 demolish
 demolished
 demonetization
+demonize
+demonized
+demonizes
+demonizing
 demonstrable
 demonstrably
 demonstrate
@@ -23668,6 +23759,7 @@ directed
 directing
 direction
 directional
+directionality
 directions
 directive
 directives
@@ -23856,6 +23948,7 @@ disinclination
 disinclined
 disinfect
 disinfected
+disinfection
 disinformation
 disingenuousness
 disinterested
@@ -24741,6 +24834,8 @@ electorate
 electric
 electrical
 electrically
+electrician
+electricians
 electricity
 electrification
 electrified
@@ -25032,6 +25127,7 @@ endorsed
 endorsement
 endorsements
 endorses
+endorsing
 endpoint
 endpoints
 ends
@@ -25267,6 +25363,7 @@ epic
 epically
 epics
 epidemic
+epidural
 epilogue
 episode
 episodes
@@ -25652,6 +25749,7 @@ exhaustingly
 exhaustive
 exhaustively
 exhaustivity
+exhausts
 exhibit
 exhibited
 exhibiting
@@ -26464,6 +26562,7 @@ flaunted
 flaunting
 flaunts
 flavour
+flavouring
 flavours
 flaw
 flawed
@@ -26525,6 +26624,7 @@ floating
 floating-point
 floatingpoint
 floats
+floaty
 flock
 flocked
 flocks
@@ -26617,6 +26717,7 @@ fog
 foggy
 fogs
 foil
+foils
 fold
 foldable
 foldables
@@ -26649,6 +26750,7 @@ font
 fonts
 food
 foods
+foodstuff
 fool
 fooled
 fooling
@@ -27094,6 +27196,7 @@ fungible
 funky
 funnel
 funneling
+funnels
 funnier
 funniest
 funny
@@ -27123,6 +27226,7 @@ futures
 futuring
 futuristic
 fuzzed
+fuzzing
 fuzzy
 fyi
 g++
@@ -27267,6 +27371,7 @@ genes
 genesis
 genetic
 genetically
+geneticist
 genetics
 genial
 genius
@@ -27663,6 +27768,7 @@ greetings
 grep
 grew
 grey
+greyscale
 grid
 grid-search
 grids
@@ -27729,6 +27835,10 @@ grudge
 grudged
 grudges
 grueling
+grumble
+grumbled
+grumbles
+grumbling
 grumpy
 grunt
 gsm
@@ -28164,6 +28274,8 @@ hesitatingly
 hesitation
 hesitations
 heterogeneous
+heterosexual
+heterosexuals
 heuristic
 heuristically
 heuristics
@@ -28615,16 +28727,23 @@ hypertuning
 hypervisor
 hyperx
 hypnosis
+hypnotic
 hypnotist
 hypocrisy
 hypotheses
 hypothesis
 hypothesise
+hypothesised
+hypothesises
+hypothesising
 hypothesize
 hypothesized
+hypothesizes
+hypothesizing
 hypothetic
 hypothetical
 hypothetically
+hypotheticals
 hysteresis
 hysteria
 hysterics
@@ -28863,6 +28982,7 @@ impeccable
 impeccably
 impedance
 impede
+impeded
 impedes
 impediment
 impelled
@@ -28913,6 +29033,7 @@ implicit
 implicitly
 implied
 implies
+implode
 imploded
 implodes
 imploding
@@ -29296,6 +29417,7 @@ infecting
 infection
 infections
 infectious
+infective
 infects
 infer
 inference
@@ -29358,6 +29480,8 @@ inform
 informal
 informality
 informally
+informant
+informants
 informatics
 information
 information-theoretic
@@ -30002,6 +30126,7 @@ invention
 inventions
 inventive
 inventor
+inventories
 inventors
 inventory
 invents
@@ -30107,6 +30232,7 @@ irksomeness
 iron
 ironic
 ironically
+ironing
 ironpython
 irons
 irony
@@ -30502,6 +30628,7 @@ keep
 keep-alive
 keep-in-mind
 keeper
+keepers
 keeping
 keeps
 keepsolid
@@ -30572,6 +30699,7 @@ killers
 killing
 killings
 kills
+kilobyte
 kilobytes
 kilogram
 kilograms
@@ -31005,6 +31133,8 @@ liberally
 liberals
 liberties
 liberty
+librarian
+librarians
 libraries
 library
 library's
@@ -31106,6 +31236,7 @@ linguistics
 lining
 link
 linkage
+linkages
 linked
 linked-list
 linkedin
@@ -31554,6 +31685,7 @@ malfunctioned
 malfunctioning
 malfunctions
 malicious
+maliciously
 mall
 malloc
 malls
@@ -31711,6 +31843,7 @@ mated
 matepad
 material
 material-ui
+materialism
 materialistic
 materialize
 materialized
@@ -31840,6 +31973,7 @@ meditates
 meditating
 meditation
 meditations
+meditative
 medium
 medium-sized
 mediums
@@ -31984,6 +32118,7 @@ meteorite
 meteorites
 meteorologist
 meteorologists
+meteorology
 meter
 metering
 meters
@@ -32515,6 +32650,7 @@ mood
 moods
 moody
 moon
+moonless
 moonlight
 moonshine
 moore's
@@ -32552,11 +32688,14 @@ mortifications
 mortified
 mortify
 mortifying
+mosaic
+mosaics
 mosquito
 mosquitoes
 most
 mostly
 motel
+motels
 mother
 mother's
 motherboard
@@ -32930,6 +33069,7 @@ napkins
 naps
 narcissism
 narcissist
+narcissistic
 narcotic
 narcotics
 narrate
@@ -33101,6 +33241,7 @@ neural-network
 neuralink
 neuro
 neurocomputing
+neurologic
 neurological
 neurology
 neuron
@@ -33108,6 +33249,10 @@ neurones
 neurons
 neuroscience
 neutral
+neutralise
+neutralised
+neutralises
+neutralising
 neutrality
 neutralization
 neutralize
@@ -33209,6 +33354,7 @@ nohow
 noise
 noised
 noises
+noisier
 noising
 noisy
 nomad
@@ -33561,6 +33707,7 @@ objective-c
 objectivec
 objectively
 objectives
+objectivism
 objects
 oblate
 obligate
@@ -33605,7 +33752,10 @@ observer
 observers
 observes
 observing
+obsess
 obsessed
+obsesses
+obsessing
 obsession
 obsessive
 obsessively
@@ -33647,6 +33797,7 @@ occludes
 occlusion
 occlusions
 occult
+occupant
 occupation
 occupational
 occupations
@@ -34407,6 +34558,7 @@ page-weight
 paged
 pagelayout
 pageload
+pager
 pagerank
 pages
 pagespeed
@@ -34473,6 +34625,7 @@ panicked
 panicking
 panics
 panned
+panorama
 panther
 panthers
 panties
@@ -34535,6 +34688,7 @@ paranoia
 paranoid
 paranormal
 paraphrase
+paraphrased
 paraphrasing
 parasite
 parasites
@@ -34834,6 +34988,7 @@ percentage
 percentages
 perception
 perceptions
+perceptive
 perceptron
 perceptrons
 perceptual
@@ -34905,6 +35060,10 @@ permuted
 permutes
 perpendicular
 perpendicularity
+perpetrate
+perpetrated
+perpetrates
+perpetrating
 perpetual
 perpetually
 perpetuate
@@ -34967,6 +35126,10 @@ pervades
 pervading
 pervasive
 pervasiveness
+perverse
+perversely
+perversion
+pervert
 perverted
 pesky
 pessimism
@@ -34979,6 +35142,7 @@ pests
 pet
 petabyte
 petabyte-scale
+petabytes
 petition
 petrified
 petrol
@@ -35601,6 +35765,7 @@ practitioner
 practitioners
 pragma
 pragmatic
+pragmatism
 praise
 praised
 praises
@@ -35899,6 +36064,7 @@ priceless
 prices
 pricey
 pricing
+prickly
 pride
 prided
 prideful
@@ -36205,6 +36371,7 @@ prophecy
 prophet
 prophetic
 prophetically
+prophylaxis
 proponent
 proponents
 proportion
@@ -36243,6 +36410,7 @@ prospects
 prosperity
 prosperous
 protagonist
+protagonists
 protect
 protected
 protecting
@@ -36537,6 +36705,8 @@ qualitative
 qualitatively
 qualities
 quality
+qualm
+qualms
 quantifiable
 quantification
 quantified
@@ -36669,6 +36839,7 @@ racks
 radar
 radars
 radial
+radian
 radians
 radiant
 radiate
@@ -37039,6 +37210,7 @@ rebooting
 reboots
 reborn
 rebound
+rebounds
 rebrand
 rebranded
 rebranding
@@ -37538,6 +37710,7 @@ regularizes
 regularizing
 regularly
 regularly-invited
+regulars
 regulate
 regulated
 regulates
@@ -37547,6 +37720,8 @@ regulations
 regulator
 regulators
 regulatory
+rehabilitate
+rehabilitated
 rehabilitation
 rehash
 rehashed
@@ -38114,6 +38289,7 @@ reshuffling
 reside
 resided
 residence
+residences
 residency
 resident
 residential
@@ -38491,6 +38667,7 @@ richer
 riches
 richest
 richly
+richness
 ricochet
 rid
 ridded
@@ -38591,6 +38768,7 @@ roars
 roast
 roasted
 roasting
+roasts
 rob
 robbed
 robber
@@ -38650,6 +38828,7 @@ romantic
 romantically
 roof
 roofer
+roofing
 roofs
 room
 rooming
@@ -38694,6 +38873,7 @@ roulette
 round
 round-up
 roundabout
+roundabouts
 rounded
 rounding
 roundly
@@ -38968,6 +39148,7 @@ scamp
 scams
 scan
 scandal
+scandalous
 scandals
 scanline
 scanned
@@ -39360,6 +39541,7 @@ selfattention
 selfhosted
 selfhosting
 selfie
+selfies
 selfish
 selfishly
 selfishness
@@ -39650,6 +39832,7 @@ sheets
 shelf
 shell
 shellcheck
+shelled
 shells
 shelter
 sheltered
@@ -39879,6 +40062,7 @@ silently
 silhouette
 silhouettes
 silicon
+silicon-based
 silicone
 silk
 silliest
@@ -40839,6 +41023,7 @@ squashed
 squashes
 squashing
 squeak
+squeal
 squeeze
 squeezed
 squeezes
@@ -41006,6 +41191,7 @@ stateless
 statement
 statements
 states
+statesman
 static
 static_assert
 static_cast
@@ -41087,6 +41273,7 @@ stereo
 stereotype
 stereotypes
 stereotypical
+stereotyping
 sterile
 stew
 stewed
@@ -41300,6 +41487,7 @@ strode
 stroke
 stroked
 strokes
+stroking
 stroll
 strolled
 strolling
@@ -41449,6 +41637,7 @@ subgroups
 subject
 subject-matter
 subjected
+subjecting
 subjection
 subjective
 subjectively
@@ -41577,6 +41766,7 @@ subtrees
 subtype
 subtypes
 subtyping
+subunit
 suburban
 suburbs
 subvarieties
@@ -42043,12 +42233,14 @@ synthesis
 synthesize
 synthesized
 synthesizer
+synthesizers
 synthesizes
 synthesizing
 synthetic
 synthetically
 synths
 syrup
+syrups
 sysadmin
 syscall
 syslog
@@ -42109,6 +42301,7 @@ tagging
 tagline
 tags
 tail
+tailed
 tailored
 tails
 tainted
@@ -42158,6 +42351,7 @@ tangentially
 tangible
 tangle
 tangled
+tangling
 tank
 tanks
 tap
@@ -42599,6 +42793,7 @@ thinking-through
 thinks
 thinly
 thinner
+thinness
 thinnest
 third
 third-parties
@@ -42807,6 +43002,7 @@ tiresome
 tiring
 tissue
 tissues
+titan
 titanium
 title
 title's
@@ -42864,6 +43060,7 @@ tomb
 tombs
 tomcat
 toml
+tomography
 tomorrow
 ton
 tonal
@@ -43539,6 +43736,7 @@ ubiquity
 ubuntu
 ubuntu-desktop
 udp
+uglier
 ugliest
 uglified
 uglify
@@ -43950,6 +44148,7 @@ unifier
 unifiers
 unifies
 uniform
+uniformed
 uniformity
 uniformly
 uniforms
@@ -44293,6 +44492,7 @@ untouchable
 untouched
 untoward
 untowardly
+untraceable
 untrackable
 untracked
 untrained
