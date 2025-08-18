@@ -1469,7 +1469,6 @@ sequels
 rattle
 shepherd
 Elbert
-souvenir
 Epcot
 Uhm
 Lola
@@ -7660,7 +7659,6 @@ littlr
 Wheer
 uo
 backgammon
-disfigured
 snaked
 frick
 Frick
@@ -8241,7 +8239,6 @@ cook-house
 Still-moving
 highfive
 uch
-immigrant
 Athenas
 Athens
 touristic
@@ -9260,7 +9257,6 @@ Meh
 ghat
 ness
 sooooooo
-bulletin
 occured
 shepards
 aren
@@ -9841,7 +9837,6 @@ teriffying
 Hehe
 inmeaditelly
 marvels
-pedestal
 astigmatism
 baby'sticket
 shelfes
@@ -10221,7 +10216,6 @@ Oriental
 tchotchkes
 sauced
 7s
-supremely
 Ashe
 wayyyy
 aiport
