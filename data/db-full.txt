@@ -156,6 +156,7 @@ Accented
 Accents
 Accentuated
 Accept
+Acceptability
 Acceptable
 Acceptance
 Accepted
@@ -1113,6 +1114,7 @@ AutoCAD
 Autobiography
 Autocad
 Autocorrect
+Autocracy
 Autocratic
 Autodesk
 Autofill
@@ -1179,6 +1181,7 @@ Awkward
 Awkwardly
 Axes
 Axiom
+Axiomatic
 Axioms
 Axios
 Axis
@@ -2110,6 +2113,7 @@ Capitalists
 Capitalization
 Capitalize
 Capitalized
+Capitulating
 Cappuccino
 CapsLock
 Captain
@@ -3473,6 +3477,7 @@ Criminal
 Criminally
 Criminals
 Cringe
+Cringing
 Crises
 Crisis
 Crisp
@@ -3498,6 +3503,7 @@ Crop
 Cropping
 Crops
 Cross
+Cross-over
 Cross-platform
 Cross-validation
 CrossFit
@@ -3945,6 +3951,7 @@ Democrat
 Democratic
 Democratizing
 Democrats
+Demographically
 Demographics
 Demolished
 Demonetization
@@ -4321,6 +4328,7 @@ Discourages
 Discourse
 Discover
 Discovered
+Discoverers
 Discoveries
 Discovering
 Discovery
@@ -4504,6 +4512,7 @@ Doctor's
 Doctorate
 Doctorates
 Doctors
+Doctrinal
 Doctrine
 Document
 Documentary
@@ -4973,6 +4982,7 @@ Empire
 Empires
 Empirical
 Empirically
+Emplacements
 Employ
 Employed
 Employee
@@ -5604,6 +5614,7 @@ Fallout
 Falls
 False
 Falsehood
+Falsification
 Fame
 Famed
 Familiar
@@ -5687,6 +5698,7 @@ February
 Fed
 Federal
 Federalism
+Federalist
 Federation
 Fedora
 Fee
@@ -6403,6 +6415,7 @@ Geometric
 Geometrical
 Geometrically
 Geometry
+Geophysics
 Geopolitical
 Geopolitically
 Geoscience
@@ -9508,6 +9521,7 @@ Motives
 Motor
 Motorcycle
 Motorcycles
+Motorist
 Motors
 Mould
 Mount
@@ -10371,6 +10385,7 @@ Overpriced
 Overqualified
 Oversampling
 Overseas
+Overseers
 Oversees
 Overshadow
 Overshoot
@@ -11709,6 +11724,7 @@ Pyramids
 Python
 Python's
 Python3
+Pythons
 QA
 QEMU
 QR
@@ -13952,6 +13968,7 @@ Specs
 Spectacular
 Spectral
 Spectrum
+Specular
 Speculating
 Speculation
 Speculations
@@ -14102,6 +14119,7 @@ Squishing
 Squishy
 Src
 Stabbing
+Stabilisation
 Stabilised
 Stabilising
 Stability
@@ -14737,6 +14755,7 @@ Sworn
 Syllable
 Syllables
 Symbian
+Symbiosis
 Symbol
 Symbolic
 Symbolism
@@ -16329,6 +16348,8 @@ Walls
 Wan
 Wander
 Wandered
+Wanderer
+Wanderers
 Wandering
 Wanes
 Waning
@@ -16480,6 +16501,7 @@ Welding
 Welfare
 Well
 Well-Being
+Well-adapted
 Well-designed
 Well-documented
 Well-known
@@ -16973,6 +16995,7 @@ accentuated
 accentuates
 accentuation
 accept
+acceptability
 acceptable
 acceptably
 acceptance
@@ -18486,6 +18509,7 @@ astounding
 astoundingly
 astounds
 astray
+astrologer
 astrological
 astrologist
 astrology
@@ -18644,6 +18668,7 @@ aunt
 aunts
 auth
 authentic
+authentically
 authenticate
 authenticated
 authenticates
@@ -18696,6 +18721,7 @@ autocorrect
 autocorrection
 autocorrelation
 autocorrelations
+autocracy
 autocratic
 autodesk
 autodiff
@@ -18832,6 +18858,7 @@ aws
 aws-lambda
 axes
 axiom
+axiomatic
 axiomatically
 axioms
 axios
@@ -19386,6 +19413,7 @@ blandness
 blank
 blanket
 blanks
+blaring
 blast
 blasted
 blazing
@@ -20199,6 +20227,11 @@ capitalize
 capitalized
 capitalizes
 capitalizing
+capitulate
+capitulated
+capitulates
+capitulating
+capitulation
 cappuccino
 caps
 capslock
@@ -20517,6 +20550,10 @@ char8_t
 character
 character-encoding
 character-separated
+characterise
+characterised
+characterises
+characterising
 characteristic
 characteristics
 characterization
@@ -21169,6 +21206,8 @@ collaboration
 collaborations
 collaborative
 collaboratively
+collaborator
+collaborators
 collage
 collages
 collapsable
@@ -22278,6 +22317,7 @@ correlated
 correlates
 correlating
 correlation
+correlational
 correlations
 correspond
 corresponded
@@ -22536,6 +22576,7 @@ criminals
 cringe
 cringed
 cringes
+cringing
 cripple
 crises
 crisis
@@ -22588,6 +22629,7 @@ cross-language
 cross-linking
 cross-location
 cross-origin
+cross-over
 cross-platform
 cross-sectional
 cross-team
@@ -23469,6 +23511,7 @@ demodulation
 demoed
 demoes
 demographic
+demographically
 demographics
 demoing
 demolish
@@ -23867,6 +23910,7 @@ devote
 devoted
 devoting
 devotion
+devotional
 devs
 devtools
 dew
@@ -24197,6 +24241,8 @@ discourse
 discover
 discoverable
 discovered
+discoverer
+discoverers
 discoveries
 discovering
 discovers
@@ -24304,6 +24350,8 @@ disown
 disowned
 disowning
 disowns
+disparage
+disparagement
 disparate
 disparities
 disparity
@@ -24571,6 +24619,7 @@ doctor's
 doctorate
 doctorates
 doctors
+doctrinal
 doctrine
 doctype
 document
@@ -24684,6 +24733,7 @@ doubtful
 doubtfully
 doubting
 doubtingly
+doubtless
 doubtlessly
 doubts
 dough
@@ -25337,6 +25387,7 @@ empirical
 empirically
 emplace
 emplaced
+emplacements
 emplaces
 emplacing
 employ
@@ -25626,7 +25677,10 @@ entitling
 entity
 entity-framework
 entity-tagged
+entrain
 entrained
+entraining
+entrains
 entrance
 entranced
 entrances
@@ -25809,6 +25863,7 @@ escaped
 escapement
 escapes
 escaping
+escapism
 escort
 escorted
 escorting
@@ -26451,6 +26506,7 @@ false
 falsehood
 falsehoods
 falsely
+falsification
 fame
 famed
 familiar
@@ -26599,6 +26655,7 @@ february
 fed
 federal
 federalism
+federalist
 federation
 fedora
 fee
@@ -27458,6 +27515,7 @@ frustrate
 frustrated
 frustrates
 frustrating
+frustratingly
 frustration
 frustum
 fry
@@ -27568,6 +27626,7 @@ furnish
 furnished
 furnishes
 furnishing
+furnishings
 furniture
 furry
 further
@@ -27792,6 +27851,7 @@ geometrically
 geometrics
 geometries
 geometry
+geophysics
 geopolitical
 geopolitically
 geos
@@ -30172,6 +30232,7 @@ instead
 instigate
 instigated
 instigates
+instigating
 instigator
 instil
 instill
@@ -32371,6 +32432,10 @@ mechanic
 mechanical
 mechanically
 mechanics
+mechanise
+mechanised
+mechanises
+mechanising
 mechanism
 mechanisms
 mechanize
@@ -33171,6 +33236,8 @@ motives
 motor
 motorcycle
 motorcycles
+motorist
+motorists
 motors
 motto
 mould
@@ -33497,6 +33564,7 @@ naked
 nakedness
 name
 named
+nameless
 namely
 names
 namespace
@@ -33766,6 +33834,7 @@ nifty
 nigh
 night
 night's
+nightfall
 nightgown
 nightly
 nightmare
@@ -34257,6 +34326,7 @@ occasions
 occlude
 occluded
 occludes
+occluding
 occlusion
 occlusions
 occult
@@ -34568,6 +34638,8 @@ oracle's
 oral
 orange
 oranges
+orator
+orators
 oratory
 orbit
 orbital
@@ -34927,6 +34999,8 @@ overseas
 oversee
 overseeing
 overseen
+overseer
+overseers
 oversees
 overshadow
 overshadowed
@@ -35219,6 +35293,7 @@ parted
 partial
 partiality
 partially
+partials
 participant
 participants
 participate
@@ -37187,6 +37262,7 @@ python-requests
 python3
 python4dev
 pythonic
+pythons
 pytorch
 pytorch-based
 pywebio
@@ -37431,6 +37507,7 @@ ran
 ranch
 rand
 random
+randomised
 randomization
 randomize
 randomized
@@ -37738,6 +37815,7 @@ rebooting
 reboots
 reborn
 rebound
+rebounded
 rebounds
 rebrand
 rebranded
@@ -39412,6 +39490,7 @@ rotates
 rotating
 rotation
 rotational
+rotationally
 rotations
 rotator
 rotor
@@ -40337,6 +40416,7 @@ shale
 shall
 shallow
 shallower
+shallowly
 shame
 shamed
 shameful
@@ -40556,6 +40636,7 @@ shuttered
 shutters
 shutting
 shuttle
+shuttled
 shuttles
 shy
 shyness
@@ -40792,6 +40873,7 @@ skimmed
 skimming
 skims
 skin
+skincare
 skinned
 skinning
 skinny
@@ -41390,6 +41472,8 @@ specs
 spectacular
 spectral
 spectrum
+specular
+specularity
 speculate
 speculated
 speculates
@@ -41657,6 +41741,7 @@ ssis
 ssl
 stabbed
 stabbing
+stabilisation
 stabilise
 stabilised
 stabilises
@@ -42802,6 +42887,7 @@ sybase
 syllable
 syllables
 symbian
+symbiosis
 symbol
 symbolic
 symbolise
@@ -42834,6 +42920,7 @@ symptoms
 sync
 synced
 synchronicity
+synchronisation
 synchronise
 synchronised
 synchronises
@@ -43810,6 +43897,7 @@ totaled
 totaling
 totalitarian
 totality
+totalling
 totally
 totals
 totter
@@ -44027,6 +44115,9 @@ translations
 translative
 translator
 translators
+transliterate
+transliterated
+transliterating
 transliteration
 translucence
 translucency
@@ -44073,6 +44164,10 @@ trashed
 trauma
 traumas
 traumatic
+traumatise
+traumatised
+traumatises
+traumatising
 traumatize
 traumatized
 traumatizes
@@ -44594,6 +44689,7 @@ uncover
 uncovered
 uncovering
 uncovers
+uncritical
 uncurated
 uncut
 undamaged
@@ -45954,6 +46050,8 @@ walls
 wan
 wander
 wandered
+wanderer
+wanderers
 wandering
 wanders
 wane
@@ -46088,6 +46186,7 @@ wealth
 wealthiest
 wealthy
 weapon
+weaponize
 weapons
 wear
 wearable
@@ -46260,6 +46359,7 @@ welds
 welfare
 well
 well-abstracted
+well-adapted
 well-architected
 well-balanced
 well-behaved
