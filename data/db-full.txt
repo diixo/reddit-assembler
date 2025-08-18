@@ -203,6 +203,7 @@ Accurately
 Accusations
 Accusative
 Accused
+Accuser
 Accusing
 Accustomed
 Ace
@@ -511,6 +512,7 @@ Allergy
 Alleviate
 Alleviating
 Alley
+Alleys
 Alliance
 Alliances
 Allied
@@ -683,6 +685,7 @@ Annoying
 Annual
 Annualized
 Annually
+Annuals
 Anomalies
 Anomaly
 Anonymity
@@ -716,6 +719,8 @@ Antidepressant
 Antidepressants
 Antifreeze
 Antiparticles
+Antiperspirant
+Antiperspirants
 Antisemitism
 Antisocial
 Antivirus
@@ -1526,6 +1531,7 @@ Bites
 Biting
 Bitmap
 Bitrate
+Bitrates
 Bits
 Bitter
 Bittersweet
@@ -1642,6 +1648,7 @@ Bond
 Bonded
 Bonding
 Bone
+Boneless
 Bones
 Bonus
 Bonuses
@@ -1970,6 +1977,7 @@ CAN
 CANCERS
 CCA
 CD
+CD-R
 CD-ROM
 CD-Rom
 CEO
@@ -3173,6 +3181,7 @@ Contribution
 Contributions
 Contributor
 Contributors
+Contributory
 Control
 Controlled
 Controller
@@ -4679,6 +4688,7 @@ Dumping
 Dumplings
 Dumps
 Dumpster
+Dune
 Dungeon
 Dungeons
 Duo
@@ -6803,6 +6813,7 @@ Headed
 Header
 Heading
 Headings
+Headless
 Headlights
 Headline
 Headlines
@@ -7160,6 +7171,7 @@ Husband
 Husbands
 Hush
 Hustle
+Hut
 Hybrid
 Hybrids
 Hybris
@@ -9242,6 +9254,7 @@ Mirages
 Mirror
 Mirrored
 Mirroring
+Mirrorless
 Mirrors
 Mirth
 Mis
@@ -9372,6 +9385,7 @@ Monogamy
 Monologue
 Monopolies
 Monopolising
+Monopolistic
 Monopoly
 Monotone
 Monster
@@ -9508,6 +9522,7 @@ Multitouch
 Multivariable
 Multivariate
 Multiverse
+Multiverses
 Municipal
 Murder
 Murdered
@@ -10527,6 +10542,7 @@ Password
 Passwords
 Past
 Pasta
+Pastas
 Paste
 Pasted
 Pastes
@@ -10548,6 +10564,7 @@ Pathways
 Patience
 Patient
 Patients
+Patriarchy
 Patriot
 Patriotic
 Patriotism
@@ -11206,6 +11223,7 @@ Prepared
 Preparing
 Preposition
 Prepositions
+Prerogative
 Prescribed
 Prescribing
 Prescription
@@ -11262,6 +11280,7 @@ Pride
 Prideful
 Priest
 Priests
+Primacy
 Primaries
 Primarily
 Primary
@@ -11516,6 +11535,7 @@ Pseudoscience
 Psychiatric
 Psychiatrists
 Psychiatry
+Psychoanalysis
 PsychologIcally
 Psychological
 Psychologically
@@ -11824,6 +11844,7 @@ Rating
 Ratings
 Ratio
 Rational
+Rationalization
 Rationally
 Ratios
 Rats
@@ -12821,6 +12842,7 @@ Sarcasm
 Sarcastic
 Sat
 Sata
+Satan
 Satellite
 Satellites
 Satire
@@ -12848,6 +12870,8 @@ Savory
 Savvy
 Saw
 Sawed
+Saxophone
+Saxophones
 Say
 Saying
 Says
@@ -13561,6 +13585,7 @@ Slippery
 Slipping
 Slips
 Slit
+Slogans
 Slope
 Sloppy
 Slot
@@ -13766,6 +13791,7 @@ Sounded
 Sounding
 Sounds
 Soundtrack
+Soundtracks
 Soup
 Soups
 Sour
@@ -14458,6 +14484,8 @@ Sunsets
 Sunshine
 Super
 SuperStar
+Supercharger
+Superchargers
 Supercluster
 Supercomputer
 Supercomputers
@@ -14758,6 +14786,7 @@ Taught
 Tavern
 Taverns
 Tax
+Tax-Free
 Taxed
 Taxes
 Taxi
@@ -15413,6 +15442,7 @@ Trips
 Triumph
 Trivially
 Trojan
+Trojans
 Troll
 Trolling
 Trolls
@@ -16926,6 +16956,8 @@ accusations
 accusative
 accuse
 accused
+accuser
+accusers
 accuses
 accusing
 accustom
@@ -17523,6 +17555,7 @@ alleviating
 alleviation
 alleviations
 alley
+alleys
 alliance
 alliances
 allied
@@ -17805,6 +17838,7 @@ anns
 annual
 annualized
 annually
+annuals
 anomalies
 anomalous
 anomaly
@@ -17857,6 +17891,8 @@ antifreeze
 antimalware
 antiparticle
 antiparticles
+antiperspirant
+antiperspirants
 antisemitism
 antisocial
 antivirus
@@ -17920,6 +17956,7 @@ app-store
 appall
 appalled
 appalling
+apparel
 apparent
 apparently
 appcomponent
@@ -19198,6 +19235,7 @@ biting
 bitmap
 bitmaps
 bitrate
+bitrates
 bits
 bitset
 bitter
@@ -19373,6 +19411,7 @@ bonded
 bonding
 bonds
 bone
+boneless
 bones
 bonus
 bonuses
@@ -21037,6 +21076,7 @@ collocations
 colloquial
 collude
 colluded
+colludes
 colluding
 collusion
 colocate
@@ -21912,6 +21952,7 @@ contribution
 contributions
 contributor
 contributors
+contributory
 contrition
 contrivance
 contrivances
@@ -22394,6 +22435,7 @@ cross-domain
 cross-entropy
 cross-functional
 cross-language
+cross-linking
 cross-location
 cross-origin
 cross-platform
@@ -23234,6 +23276,9 @@ delphi
 delta
 deltaS
 deltas
+delude
+deluded
+deludes
 delusion
 delusional
 delusionally
@@ -24022,6 +24067,8 @@ disengaged
 disentangled
 disfigure
 disfigured
+disfigures
+disfiguring
 disgrace
 disgraced
 disgruntled
@@ -24542,6 +24589,8 @@ dramas
 dramatic
 dramatically
 drank
+drape
+drapes
 drastically
 draw
 drawable
@@ -24574,6 +24623,7 @@ dressed
 dresses
 dressing
 drew
+dribbling
 dried
 drier
 dries
@@ -24678,6 +24728,7 @@ dumpling
 dumplings
 dumps
 dumpster
+dune
 dungeon
 dungeons
 duo
@@ -25738,6 +25789,7 @@ examine
 examined
 examinee
 examiner
+examiners
 examines
 examining
 example
@@ -26198,6 +26250,7 @@ fall
 fallacy
 fallback
 fallen
+fallible
 falling
 fallout
 fallouts
@@ -26917,6 +26970,7 @@ forehead
 foreign
 foreigners
 foremost
+foreplay
 forerunner
 foresaw
 foresee
@@ -28255,6 +28309,7 @@ headhunter
 headhunting
 heading
 headings
+headless
 headlights
 headline
 headlines
@@ -28804,6 +28859,8 @@ husbands
 hush
 hustle
 hustles
+hut
+huts
 hybrid
 hybrids
 hybris
@@ -29214,6 +29271,7 @@ impulse
 impulses
 impulsive
 impulsively
+impulsivity
 impure
 impurities
 impurity
@@ -29256,6 +29314,8 @@ inadmissibility
 inadvertent
 inadvertently
 inadvisable
+inane
+inanely
 inappreciable
 inappropriate
 inappropriately
@@ -29865,6 +29925,7 @@ installer
 installers
 installing
 installment
+installments
 installs
 instance
 instance-based
@@ -32476,6 +32537,7 @@ mirages
 mirror
 mirrored
 mirroring
+mirrorless
 mirrors
 mirth
 mis
@@ -32751,6 +32813,7 @@ monopolise
 monopolised
 monopolises
 monopolising
+monopolistic
 monopolize
 monopolized
 monopolizes
@@ -33074,6 +33137,7 @@ multivalued
 multivariable
 multivariate
 multiverse
+multiverses
 multiversion
 multiview
 municipal
@@ -33787,9 +33851,12 @@ nursery
 nurses
 nursing
 nurture
+nurtured
+nurtures
 nut
 nuts
 nutshell
+nutty
 nvidia
 nvidia's
 o'clock
@@ -33968,6 +34035,8 @@ odiously
 odiousness
 odm
 odor
+odorous
+odourless
 oem
 oems
 of
@@ -34937,6 +35006,7 @@ passwordless
 passwords
 past
 pasta
+pastas
 paste
 pasted
 pastes
@@ -34967,6 +35037,7 @@ patience
 patient
 patiently
 patients
+patriarchy
 patriot
 patriotic
 patriotism
@@ -35631,6 +35702,7 @@ pockets
 pod
 podcast
 podcasts
+podium
 pods
 poem
 poems
@@ -35837,6 +35909,7 @@ postgres
 postgresq
 postgresql
 posting
+postmortem
 postorder
 postpone
 postponed
@@ -36110,6 +36183,7 @@ preprocessor
 preprocessors
 prerequisite
 prerequisites
+prerogative
 prerouting
 prescribe
 prescribed
@@ -36174,6 +36248,7 @@ pretrain
 pretrained
 pretraining
 pretrains
+prettiest
 prettily
 pretty
 prevail
@@ -36211,6 +36286,7 @@ prideful
 prides
 priest
 priests
+primacy
 primaries
 primarily
 primary
@@ -36649,6 +36725,7 @@ psyched
 psychiatric
 psychiatrists
 psychiatry
+psychoanalysis
 psychological
 psychologically
 psychologist
@@ -37128,6 +37205,7 @@ rational
 rationale
 rationales
 rationality
+rationalization
 rationalize
 rationalized
 rationalizes
@@ -37469,6 +37547,8 @@ recognizer
 recognizes
 recognizing
 recoil
+recoiled
+recoils
 recollect
 recollected
 recollecting
@@ -38112,6 +38192,7 @@ reminiscent
 remiss
 remissed
 remission
+remixed
 remodel
 remodeled
 remodeling
@@ -39241,6 +39322,7 @@ sarcastically
 sassy
 sat
 sata
+satan
 satellite
 satellites
 satire
@@ -39282,6 +39364,8 @@ saw
 sawed
 sawn
 saws
+saxophone
+saxophones
 say
 saying
 says
@@ -40176,6 +40260,8 @@ sidestep
 sidestepping
 sidewalk
 sidewalks
+sidewall
+sidewalls
 sideways
 siding
 siege
@@ -40486,6 +40572,7 @@ slither
 slithered
 slithering
 slogan
+slogans
 slope
 slopes
 sloping
@@ -40840,6 +40927,7 @@ sounding
 soundly
 sounds
 soundtrack
+soundtracks
 soup
 soups
 sour
@@ -40912,6 +41000,8 @@ spatialized
 spatially
 spawn
 spawned
+spawning
+spawns
 speak
 speaker
 speakers
@@ -42083,6 +42173,8 @@ super-productive
 superadded
 superb
 supercharge
+supercharger
+superchargers
 superclass
 supercluster
 supercomputer
@@ -42584,9 +42676,11 @@ tattoo
 tattooed
 tattoos
 taught
+taunt
 tavern
 taverns
 tax
+tax-free
 taxed
 taxes
 taxi
@@ -42640,6 +42734,8 @@ tease
 teased
 teases
 teasing
+teaspoon
+teaspoons
 tech
 tech's
 tech-focused
@@ -43601,7 +43697,10 @@ trashed
 trauma
 traumas
 traumatic
+traumatize
 traumatized
+traumatizes
+traumatizing
 travel
 traveled
 traveler
@@ -43726,6 +43825,7 @@ trivially
 trod
 trodden
 trojan
+trojans
 troll
 trolled
 trolling
