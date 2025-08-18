@@ -1,0 +1,96 @@
+
+import requests
+import time
+import xml.etree.ElementTree as ET
+from datetime import date, timedelta
+import json
+
+
+#filepath = "datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl" #=962567
+filepath = "datasets/arxiv-corpus/arxiv_cs_2015_2020.jsonl" #=469458
+
+
+start_date = date(2015, 1, 1)
+end_date = date(2020, 12, 31)
+
+
+ns = {
+    "oai": "http://www.openarchives.org/OAI/2.0/",
+    "arxiv": "http://arxiv.org/OAI/arXiv/"
+}
+
+
+def main():
+
+    base = "https://export.arxiv.org/oai2"
+
+    current_date = start_date
+
+    with open(filepath, "w", encoding="utf-8") as f:
+
+        while current_date <= end_date:
+
+            start_date = current_date
+            current_date += timedelta(days=1)
+
+            params = {
+                "verb": "ListRecords",
+                "set": "cs",
+                "metadataPrefix": "arXiv",
+                "from": start_date,
+                "until": current_date,
+            }
+
+            print(f"...date: {start_date} >>")
+
+            counter = 0
+
+            while True:
+                r = requests.get(base, params=params)
+                root = ET.fromstring(r.text)
+
+                # parse <record>...</record>
+                rec_list = root.findall(".//oai:record", ns)
+                for rec in rec_list:
+                    counter += 1
+
+                    title = rec.find(".//arxiv:title", ns)
+                    abstract = rec.find(".//arxiv:abstract", ns)
+                    categories = rec.find(".//arxiv:categories", ns)
+                    doc_id = rec.find(".//arxiv:id", ns)
+                    #if doc_id is not None:
+
+                    #################
+
+                    record = {
+                        "title": title.text,
+                        "description": abstract.text,
+                        "date": str(start_date),
+                        "terms": categories.text,
+                        "ref": doc_id.text,
+                    }
+                    f.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+                time.sleep(3.0)
+
+                token = root.find(".//{http://www.openarchives.org/OAI/2.0/}resumptionToken")
+                if token is None or token.text is None:
+                    break
+                params = {"verb": "ListRecords", "resumptionToken": token.text}
+
+            f.flush()
+            print(f"__date: {start_date} [{counter}] <<")
+
+
+def statistic():
+    counter = 0
+    with open(filepath, "r", encoding="utf-8") as f:
+        for line in f:
+            if line.strip():
+                counter += 1
+    print(f"{filepath}: items={counter}")
+
+
+if __name__ == "__main__":
+    #main()
+    statistic()
