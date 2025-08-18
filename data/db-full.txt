@@ -410,6 +410,7 @@ Afterall
 Afterlife
 Aftermath
 Afternoon
+Afterthought
 Afterward
 Afterwards
 Again
@@ -2096,6 +2097,7 @@ Capacitor
 Capacitors
 Capacity
 Capital
+Capitalised
 Capitalist
 Capitalistic
 Capitalization
@@ -3091,6 +3093,7 @@ Constituent
 Constitutes
 Constitution
 Constitutionality
+Constitutionally
 Constitutions
 Constraining
 Constraint
@@ -3413,6 +3416,7 @@ Crawling
 Crawls
 Crayons
 Crazier
+Crazies
 Craziest
 Crazy
 Cream
@@ -3491,6 +3495,8 @@ Crossfit
 Crossing
 Crossover
 Crossroads
+Crossword
+Crosswords
 Crossy
 Crow
 Crowd
@@ -3508,6 +3514,7 @@ Cruises
 Crumbling
 Crumbs
 Crumple
+Crumpling
 Crunch
 Crunching
 Crunchy
@@ -4061,6 +4068,7 @@ Detective
 Detector
 Detectors
 Deter
+Determinate
 Determination
 Determine
 Determined
@@ -5505,6 +5513,7 @@ FRY
 FSB
 FTP
 FYI
+Fable
 Fabled
 Fabric
 Fabulous
@@ -5923,6 +5932,7 @@ Flush
 Flushing
 Flute
 Flutter
+Flux
 Fly
 Flying
 Foam
@@ -6221,6 +6231,8 @@ Fusion
 Futility
 Future
 Futures
+Futurism
+Futurist
 Futuristic
 Fuzzing
 Fuzzy
@@ -6277,6 +6289,7 @@ Garage
 Garbage
 Garden
 Gardener
+Gardeners
 Gardening
 Gardens
 Garlic
@@ -6315,6 +6328,7 @@ General
 General-purpose
 Generalised
 Generalising
+Generalists
 Generalizations
 Generalized
 Generally
@@ -7077,6 +7091,7 @@ Horsepower
 Horses
 Hose
 Hoses
+Hospice
 Hospital
 Hospitality
 Hospitals
@@ -7364,6 +7379,7 @@ Imperfections
 Imperfectly
 Imperial
 Imperialism
+Imperialist
 Impersonating
 Implant
 Implants
@@ -8342,6 +8358,7 @@ Latitudes
 Latter
 Lattice
 Laugh
+Laughable
 Laughed
 Laughing
 Laughs
@@ -8761,6 +8778,7 @@ MHZ
 MHz
 MIDI
 MIPS
+MIcrobiology
 ML
 MP3
 MP4
@@ -9152,6 +9170,7 @@ MicroSD
 Microarchitecture
 Microbe
 Microbes
+Microbiology
 Microchip
 Microchips
 Microclimate
@@ -9225,6 +9244,8 @@ Minerals
 Mines
 Mini
 Miniature
+Miniaturization
+Miniaturizing
 Minimal
 Minimalistic
 Minimally
@@ -10173,6 +10194,7 @@ Opting
 Option
 Optional
 Options
+Optometry
 Or
 Oracle
 Oracle's
@@ -10642,6 +10664,7 @@ Pencils
 Pending
 Penetrating
 Penetration
+Penetrative
 Penguin
 Penguins
 Penis
@@ -11018,6 +11041,7 @@ Polyethylene
 Polygon
 Polygons
 Polymer
+Polymeric
 Polymers
 Polymorphism
 Polynomial
@@ -11096,6 +11120,8 @@ Possible
 Possibly
 Possums
 Post
+Post-Modern
+Post-modern
 Postage
 Postal
 Posted
@@ -13538,6 +13564,7 @@ Skype
 Skyscraper
 Skyscrapers
 Slack
+Slacks
 Slam
 Slammed
 Slamming
@@ -13801,6 +13828,7 @@ Sources
 Sourcing
 South
 Southern
+Souvenirs
 Sovereignty
 Space
 SpaceX's
@@ -15440,6 +15468,7 @@ Tripped
 Trippy
 Trips
 Triumph
+Triumphs
 Trivially
 Trojan
 Trojans
@@ -17311,6 +17340,7 @@ afterlife
 aftermath
 aftermath's
 afternoon
+afterthought
 aftertime
 afterupdate
 afterward
@@ -17984,6 +18014,7 @@ appendonly
 appends
 appengine
 appetite
+appetites
 appkit
 applaud
 applauded
@@ -19511,6 +19542,7 @@ boulder
 boulders
 bounce
 bounced
+bouncer
 bounces
 bouncing
 bound
@@ -20060,12 +20092,17 @@ capacitors
 capacity
 capital
 capital-focused
+capitalise
+capitalised
+capitalises
+capitalising
 capitalism
 capitalist
 capitalistic
 capitalization
 capitalize
 capitalized
+capitalizes
 capitalizing
 caps
 capslock
@@ -21786,6 +21823,7 @@ constituting
 constitution
 constitutional
 constitutionality
+constitutionally
 constitutions
 constness
 constrain
@@ -22320,6 +22358,7 @@ crawling
 crawls
 crayons
 crazier
+crazies
 craziest
 craziness
 crazy
@@ -22459,6 +22498,8 @@ crossroad
 crossroads
 crosswalk
 crosswalks
+crossword
+crosswords
 crossy
 crow
 crowd
@@ -22500,6 +22541,9 @@ crumbles
 crumbling
 crumbs
 crumple
+crumpled
+crumples
+crumpling
 crunch
 crunchboard
 crunched
@@ -23620,6 +23664,8 @@ deteriorates
 deteriorating
 determinant
 determinantial
+determinate
+determinately
 determination
 determine
 determined
@@ -23801,6 +23847,7 @@ diffraction
 diffs
 diffuse
 diffused
+diffuser
 diffuses
 diffusing
 diffusion
@@ -26146,7 +26193,9 @@ eyeglasses
 eyeing
 eyelids
 eyes
+fable
 fabled
+fables
 fabless
 fabric
 fabricate
@@ -26634,6 +26683,7 @@ fiscal
 fiscally
 fish
 fished
+fishers
 fishes
 fishing
 fishy
@@ -26858,6 +26908,7 @@ flusters
 flute
 flutter
 fluttered
+flux
 fluxes
 fly
 flyers
@@ -27385,6 +27436,8 @@ future-based
 future-proof
 futures
 futuring
+futurism
+futurist
 futuristic
 fuzzed
 fuzzing
@@ -27446,6 +27499,7 @@ garble
 garbled
 garden
 gardener
+gardeners
 gardening
 gardens
 garlic
@@ -27502,6 +27556,8 @@ generalise
 generalised
 generalises
 generalising
+generalist
+generalists
 generality
 generalizable
 generalization
@@ -28706,6 +28762,7 @@ horsepower
 horses
 hose
 hoses
+hospice
 hospitable
 hospital
 hospitality
@@ -29170,6 +29227,7 @@ imperfections
 imperfectly
 imperial
 imperialism
+imperialist
 impersonal
 impersonate
 impersonated
@@ -29321,6 +29379,7 @@ inappropriate
 inappropriately
 inarguably
 inasmuch
+inattention
 inattentive
 inaugurate
 inaugurated
@@ -31089,6 +31148,7 @@ latter's
 latterly
 lattice
 laugh
+laughable
 laughed
 laughes
 laughing
@@ -31702,6 +31762,7 @@ low-latency
 low-level
 low-memory
 low-order
+low-pass
 low-poly
 low-power
 low-quality
@@ -31849,6 +31910,7 @@ majesty
 major
 majored
 majoring
+majorities
 majority
 majorly
 majors
@@ -32339,6 +32401,7 @@ microarchitecture-based
 microbe
 microbenchmark
 microbes
+microbiology
 microbrowser
 microchip
 microchips
@@ -32480,6 +32543,15 @@ mini-batches
 mini-led
 mini-pc
 miniature
+miniaturise
+miniaturised
+miniaturises
+miniaturising
+miniaturization
+miniaturize
+miniaturized
+miniaturizes
+miniaturizing
 minibatch
 minibatching
 minicomputer
@@ -34294,6 +34366,7 @@ option
 optional
 optionally
 options
+optometry
 opts
 or
 or_eq
@@ -34571,6 +34644,9 @@ overestimates
 overestimating
 overestimation
 overestimations
+overfill
+overfilled
+overfills
 overfit
 overfits
 overfitted
@@ -35165,6 +35241,7 @@ penetrated
 penetrates
 penetrating
 penetration
+penetrative
 penguin
 penguins
 penis
@@ -35193,6 +35270,7 @@ perceiving
 percent
 percentage
 percentages
+percents
 perception
 perceptions
 perceptive
@@ -35592,6 +35670,7 @@ plants
 plasma
 plasmas
 plastic
+plastically
 plastics
 plate
 plates
@@ -35774,6 +35853,7 @@ polyhedron
 polyline
 polylines
 polymer
+polymeric
 polymers
 polymorphic
 polymorphism
@@ -35894,6 +35974,7 @@ possible
 possibly
 possums
 post
+post-modern
 post-processing
 postage
 postal
@@ -37965,6 +38046,10 @@ reified
 reify
 reign
 reigning
+reignite
+reignited
+reignites
+reigniting
 reigns
 reimagine
 reimagined
@@ -40494,6 +40579,7 @@ skyscrapers
 slack
 slackened
 slacking
+slacks
 slain
 slam
 slammed
@@ -40941,6 +41027,7 @@ sourcing
 south
 southern
 souvenir
+souvenirs
 sovereign
 sovereignty
 sp1
@@ -41377,6 +41464,8 @@ stakeholder
 stakeholders
 stakes
 stale
+stalk
+stalked
 stall
 stalled
 stalling
@@ -41480,6 +41569,7 @@ stats
 statue
 statues
 status
+statuses
 statute
 stay
 stayed
@@ -41576,6 +41666,7 @@ stipulate
 stipulated
 stipulates
 stipulation
+stipulations
 stir
 stirred
 stirring
@@ -41748,6 +41839,7 @@ strived
 striven
 strives
 striving
+strobing
 strode
 stroke
 stroked
@@ -41821,6 +41913,7 @@ stunt
 stunting
 stunts
 stupid
+stupider
 stupidest
 stupidity
 stupidly
@@ -43379,6 +43472,7 @@ tooth
 toothache
 toothbrush
 toothbrushes
+toothless
 toothpaste
 toothpastes
 toothpick
@@ -43580,6 +43674,7 @@ transactions
 transceive
 transceiver
 transceivers
+transcend
 transcended
 transcendent
 transcending
@@ -43819,6 +43914,7 @@ trips
 triumph
 triumphant
 triumphantly
+triumphs
 trivial
 triviality
 trivially
@@ -43892,6 +43988,7 @@ tubes
 tubing
 tuesday
 tumble
+tumbles
 tumbling
 tumor
 tuna
@@ -44669,6 +44766,7 @@ unreadable
 unready
 unreal
 unrealistic
+unrealistically
 unreasonable
 unreasonably
 unreceivable
@@ -45430,6 +45528,7 @@ voice-controlled
 voice-over
 voice-to-text
 voiced
+voiceless
 voicemail
 voiceover
 voiceovers
@@ -45624,6 +45723,7 @@ wasteful
 wastes
 wasting
 watch
+watchable
 watchdog
 watched
 watcher
