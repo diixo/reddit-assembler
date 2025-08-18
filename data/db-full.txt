@@ -724,6 +724,7 @@ Antiperspirant
 Antiperspirants
 Antisemitism
 Antisocial
+Antithesis
 Antivirus
 Antiviruses
 Antonyms
@@ -2139,6 +2140,7 @@ Carelessly
 Cargo
 Caricature
 Caring
+Carousel
 Carpet
 Carpets
 Carpool
@@ -2358,6 +2360,7 @@ Checksum
 Checksums
 Cheddar
 Cheeks
+Cheeky
 Cheer
 Cheers
 Cheese
@@ -2489,6 +2492,7 @@ Clamped
 Clan
 Clang
 Clap
+Clapper
 Clapping
 Claps
 Clarification
@@ -2720,6 +2724,7 @@ Colored
 Colorful
 Coloring
 Colorization
+Colorizing
 Colorless
 Colors
 Colour
@@ -4678,6 +4683,7 @@ Dual-processor
 Dualism
 Duality
 Dub
+Dubstep
 Duck
 DuckDuckGo
 Duckduckgo
@@ -5175,6 +5181,7 @@ Escalator
 Escalators
 Escape
 Escaped
+Escapement
 Escapes
 Escaping
 Escort
@@ -6455,6 +6462,7 @@ Glorify
 Glorious
 Glory
 Gloss
+Glossing
 Glossy
 Glove
 Glow
@@ -7868,6 +7876,7 @@ Interpreted
 Interpreter
 Interpreters
 Interpreting
+Interpretive
 Interrupt
 Interrupting
 Interrupts
@@ -8373,6 +8382,7 @@ Lava
 Law
 Law's
 Lawful
+Lawlessness
 Lawmakers
 Lawn
 Lawnmower
@@ -8778,7 +8788,6 @@ MHZ
 MHz
 MIDI
 MIPS
-MIcrobiology
 ML
 MP3
 MP4
@@ -9660,6 +9669,7 @@ Nations
 Native
 Natives
 Natural
+Naturalistic
 Naturally
 Nature
 Naughty
@@ -10459,6 +10469,7 @@ Pangs
 Panic
 Panics
 Panorama
+Panoramic
 Panther
 Panthers
 Panties
@@ -10644,6 +10655,7 @@ Pedantic
 Pedestal
 Pedestrian
 Pedestrians
+Pediatric
 Pedophiles
 Pee
 Peeing
@@ -10809,6 +10821,7 @@ Physiological
 Physiologically
 Pi
 Pianist
+Pianists
 Piano
 Pick
 Picked
@@ -11038,6 +11051,7 @@ Pollution
 Polo
 Polyester
 Polyethylene
+Polygamous
 Polygon
 Polygons
 Polymer
@@ -11151,6 +11165,7 @@ Pours
 Poverty
 Pow
 Powder
+Powdered
 Powders
 Powdery
 Power
@@ -12065,6 +12080,7 @@ Reef
 Reefs
 Reel
 Reels
+Reentering
 Reentry
 Ref
 Refer
@@ -13412,6 +13428,7 @@ Shy
 Shyness
 Sibling
 Sick
+Sickening
 Sickest
 Sickle
 Sickness
@@ -13448,6 +13465,7 @@ Signing
 Signs
 Silence
 Silenced
+Silencing
 Silent
 Silently
 Silicon
@@ -13754,6 +13772,7 @@ Software's
 Software-based
 Softwares
 Soil
+Soiled
 Solace
 Solar
 Sold
@@ -14082,6 +14101,9 @@ Stairs
 Stairwell
 Stakes
 Stale
+Stalker
+Stalkers
+Stalking
 Stall
 Stalling
 Stalls
@@ -15079,6 +15101,7 @@ Thrive
 Thrives
 Throat
 Throats
+Thrombosis
 Thrones
 Throttling
 Through
@@ -15322,6 +15345,8 @@ Trait
 Traits
 Trajectories
 Trajectory
+Trampled
+Trampling
 Trance
 Tranquility
 Transaction
@@ -15440,6 +15465,7 @@ Triangulating
 Triangulation
 Tribe
 Tribes
+Tribunal
 Tribute
 Trick
 Tricking
@@ -16410,6 +16436,7 @@ Welding
 Welfare
 Well
 Well-Being
+Well-designed
 Well-documented
 Well-known
 Well-maintained
@@ -17925,6 +17952,7 @@ antiperspirant
 antiperspirants
 antisemitism
 antisocial
+antithesis
 antivirus
 antiviruses
 antonyms
@@ -18393,6 +18421,7 @@ assuring
 asteroid
 asteroids
 asthma
+asthmatic
 astonish
 astonished
 astonishing
@@ -19624,6 +19653,7 @@ break-even
 break-up
 breakable
 breakage
+breakaway
 breakdown
 breakdowns
 breaker
@@ -20156,6 +20186,7 @@ cargo
 caricature
 caricatures
 caring
+carousel
 carpark
 carpet
 carpets
@@ -20508,6 +20539,7 @@ checkups
 cheddar
 cheek
 cheeks
+cheeky
 cheer
 cheerful
 cheerfuller
@@ -20708,6 +20740,7 @@ clang
 clang++
 clap
 clapped
+clapper
 clapping
 claps
 clarification
@@ -20885,6 +20918,7 @@ clusterer
 clustering
 clusters
 clutch
+clutching
 clutter
 cluttered
 cluttering
@@ -21106,6 +21140,7 @@ colliding
 collinear
 collinearity
 collision
+collisional
 collisions
 collocated
 collocation
@@ -21141,6 +21176,7 @@ coloring
 colorization
 colorize
 colorized
+colorizing
 colorless
 colors
 colossal
@@ -21418,6 +21454,7 @@ composes
 composing
 composite
 composited
+compositeness
 compositing
 composition
 compositional
@@ -21953,6 +21990,7 @@ continuously
 contour
 contours
 contra-variance
+contraband
 contraceptive
 contraceptives
 contract
@@ -22126,6 +22164,7 @@ coprocessors
 coproduct
 cops
 copy
+copy-paste
 copyable
 copying
 copyright
@@ -22746,6 +22785,7 @@ cybersecurity
 cyberspace
 cybersport
 cybersportsmen
+cyberstalking
 cybervision
 cyberzone
 cycle
@@ -24752,6 +24792,7 @@ dub
 dubbed
 dubbing
 dubious
+dubstep
 duck
 duckduckgo
 duckduckgo's
@@ -24766,6 +24807,7 @@ dulling
 dullness
 dulls
 dumb
+dumbass
 dumbest
 dummy
 dump
@@ -25671,6 +25713,7 @@ escalator
 escalators
 escape
 escaped
+escapement
 escapes
 escaping
 escort
@@ -26250,6 +26293,8 @@ factually
 faculty
 fade
 fade-in
+fade-off
+fade-on
 fade-out
 fade-to
 faded
@@ -27243,6 +27288,7 @@ frequencies
 frequency
 frequency-inverse
 frequent
+frequented
 frequently
 fresh
 freshened
@@ -27339,6 +27385,7 @@ fulfilment
 full
 full-batch
 full-blown
+full-body
 full-cycle
 full-day
 full-feature
@@ -27765,6 +27812,7 @@ glory
 gloss
 glossary
 glossed
+glossing
 glossy
 glove
 gloves
@@ -30233,6 +30281,7 @@ interpreted
 interpreter
 interpreters
 interpreting
+interpretive
 interprets
 interprocess
 interrelate
@@ -31171,6 +31220,7 @@ law's
 lawful
 lawfully
 lawless
+lawlessness
 lawmakers
 lawn
 lawnmower
@@ -32872,6 +32922,7 @@ monks
 mono
 monochromatic
 monochrome
+monoculture
 monogame
 monogamous
 monogamy
@@ -33087,6 +33138,7 @@ multi-model
 multi-module
 multi-node
 multi-paradigm
+multi-part
 multi-person
 multi-platform
 multi-purpose
@@ -33346,6 +33398,7 @@ narrator
 narrow
 narrowed
 narrower
+narrowest
 narrowing
 narrowly
 narrows
@@ -33368,6 +33421,8 @@ natively
 natives
 natural
 natural-language
+naturalistic
+naturalized
 naturally
 nature
 natured
@@ -33569,6 +33624,7 @@ niches
 nickname
 nicknames
 nicotine
+nicotinic
 niece
 nieces
 nifty
@@ -33981,6 +34037,7 @@ objectives
 objectivism
 objects
 oblate
+oblateness
 obligate
 obligated
 obligates
@@ -34073,6 +34130,7 @@ occupation
 occupational
 occupations
 occupied
+occupiers
 occupies
 occupy
 occupying
@@ -34507,6 +34565,7 @@ outdoing
 outdone
 outdoor
 outdoors
+outed
 outer
 outermost
 outfit
@@ -34696,6 +34755,7 @@ overnight
 overparameterization
 overparameterized
 overpass
+overpay
 overpaying
 overpower
 overpowered
@@ -34905,6 +34965,7 @@ panicking
 panics
 panned
 panorama
+panoramic
 panther
 panthers
 panties
@@ -35095,6 +35156,7 @@ patches
 patchify
 patching
 patent
+patentable
 patented
 patently
 patents
@@ -35201,6 +35263,7 @@ pedantic
 pedestal
 pedestrian
 pedestrians
+pediatric
 pedophile
 pedophiles
 pee
@@ -35506,6 +35569,7 @@ physiologically
 physiology
 pi
 pianist
+pianists
 piano
 pick
 pick-up
@@ -35846,6 +35910,7 @@ pollution
 polo
 polyester
 polyethylene
+polygamous
 polygon
 polygonal
 polygons
@@ -36022,6 +36087,7 @@ pours
 poverty
 pow
 powder
+powdered
 powders
 powdery
 power
@@ -36268,6 +36334,7 @@ prerogative
 prerouting
 prescribe
 prescribed
+prescribes
 prescribing
 prescription
 prescriptions
@@ -36742,6 +36809,8 @@ protracted
 protrude
 protrudes
 protruding
+protrusion
+protrusions
 proud
 prouded
 proudest
@@ -36856,6 +36925,7 @@ pulled
 pulling
 pulls
 pulp
+pulsation
 pulse
 pulsing
 pulverize
@@ -37490,6 +37560,7 @@ reassure
 reassured
 reassures
 reassuring
+reattachment
 rebalance
 rebalanced
 rebalances
@@ -37534,6 +37605,9 @@ recalculated
 recalculates
 recalculating
 recalculation
+recalibrate
+recalibrated
+recalibrates
 recalibrating
 recall
 recalled
@@ -37836,6 +37910,7 @@ reelection
 reels
 reenter
 reentered
+reentering
 reenters
 reentry
 reestablish
@@ -40323,6 +40398,7 @@ shy
 shyness
 sibling
 sick
+sickening
 sickest
 sickle
 sickly
@@ -40393,6 +40469,7 @@ signups
 sigsegv
 silence
 silenced
+silencing
 silent
 silently
 silhouette
@@ -40767,6 +40844,9 @@ smote
 sms
 smtp
 smuggling
+smush
+smushed
+smushes
 snack
 snacked
 snacks
@@ -40911,6 +40991,7 @@ software-testing
 softwares
 softy
 soil
+soiled
 solace
 solar
 sold
@@ -41042,6 +41123,7 @@ spaceship
 spaceships
 spacex's
 spacing
+spacings
 spacious
 spacy
 spaghetti
@@ -41344,6 +41426,7 @@ spurious
 spurn
 spurned
 spurred
+spurring
 sputter
 sputtered
 sputtering
@@ -41466,6 +41549,9 @@ stakes
 stale
 stalk
 stalked
+stalker
+stalkers
+stalking
 stall
 stalled
 stalling
@@ -42299,6 +42385,7 @@ supertype
 superuser
 supervise
 supervised
+supervising
 supervision
 supervisor
 supper
@@ -43240,6 +43327,7 @@ thrives
 thriving
 throat
 throats
+thrombosis
 throne
 thrones
 throttle
@@ -43661,6 +43749,10 @@ trait
 traits
 trajectories
 trajectory
+trample
+trampled
+tramples
+trampling
 trance
 tranquil
 tranquility
@@ -43871,6 +43963,7 @@ triangulations
 tribal
 tribe
 tribes
+tribunal
 tribute
 trick
 tricked
@@ -44209,6 +44302,7 @@ unaware
 unbalanced
 unbearable
 unbearably
+unbeatable
 unbecoming
 unbelievable
 unbelievably
@@ -44485,7 +44579,10 @@ unfinished
 unfit
 unfitting
 unfixed
+unfocus
 unfocused
+unfocuses
+unfocusing
 unfold
 unfolded
 unfolding
@@ -44516,6 +44613,7 @@ ungraciously
 ungraded
 ungrateful
 unguessable
+unhackable
 unhandled
 unhappiness
 unhappy
@@ -45082,6 +45180,7 @@ useful
 usefully
 usefulness
 useless
+uselessly
 uselessness
 user
 user's
@@ -45972,6 +46071,7 @@ well-capitalized
 well-chosen
 well-connected
 well-defined
+well-designed
 well-documented
 well-explained
 well-formed
