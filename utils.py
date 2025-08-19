@@ -1,4 +1,4 @@
-
+import torch
 import re
 import html
 from pathlib import Path
@@ -101,6 +101,12 @@ def save_embedded_dict(word_set: set):
     with path.open("w", encoding="utf-8") as f:
         for word in word_list:
             f.write(word + "\n")
+
+    word_dictionary = {
+        "iwords": word_list,
+        "words": {w: i for i, w in enumerate(word_list)}
+    }
+    torch.save(word_dictionary, "data/word_dictionary.pth")
 
     print(f"Saved: db-full.sz={len(word_list)}")
 
