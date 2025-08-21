@@ -46239,6 +46239,7 @@ unanswerably
 unanswered
 unapplied
 unapply
+unapproved
 unarmed
 unary
 unasked
@@ -46891,6 +46892,7 @@ unseasonableness
 unsecure
 unsecured
 unsee
+unseemly
 unseen
 unsegmented
 unselected
@@ -47314,18 +47316,15 @@ vanishing
 vanities
 vanity
 vapor
+vaporise
+vaporised
+vaporises
+vaporising
 vaporize
 vaporized
+vaporizes
 vaporizing
 vapour
-vapourise
-vapourised
-vapourises
-vapourising
-vapourize
-vapourized
-vapourizes
-vapourizing
 var
 varchar
 variability
@@ -47878,6 +47877,7 @@ wasps
 waste
 wasted
 wasteful
+wastefully
 wastes
 wasting
 watch
