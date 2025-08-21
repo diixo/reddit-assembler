@@ -4,6 +4,10 @@ import time
 import xml.etree.ElementTree as ET
 from datetime import date, timedelta
 import json
+from collections import Counter
+from pathlib import Path
+from utils import read_embedded_dict, filter_dictionary, clean_text, str_tokenize_words, save_embedded_dict
+
 
 
 #filepath = "datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl" #=962567
@@ -91,6 +95,57 @@ def statistic():
     print(f"{filepath}: items={counter}")
 
 
+
+def processing(dictionary: Counter):
+
+    idx = 0
+    with open("datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl", "r", encoding="utf-8") as f:
+
+        for line in f:
+            idx += 1
+            item = json.loads(line)
+            #print(item)
+
+            question = item["title"]
+            answer = item["description"]
+            #print(f"{idx}::question: {question}\nanswer: {answer}")
+
+            if idx % 1000 == 0:
+                print(f"...items: {idx}")
+
+            txt = clean_text(question + " " + answer)
+
+            tokens = str_tokenize_words(txt)
+
+            dictionary.update([ w for w in tokens if len(w) > 1 ])
+
+    print(f"total items={idx}")
+
+
 if __name__ == "__main__":
     #main()
     statistic()
+
+    embedded_words = read_embedded_dict()
+
+    dictionary = Counter()
+
+    processing(dictionary)
+
+    if len(dictionary.items()) > 0:
+
+        dictionary = Counter(filter_dictionary(dictionary, embedded_words))
+
+
+        with Path("data/arxiv-dictionary.json").open("w", encoding="utf-8") as f:
+            json.dump(dictionary, f, indent=2)
+        print(f"Saved json.sz={len(dictionary.items())}")
+
+        most_common = dictionary.most_common()
+
+        sorted_words = [word for word, _ in most_common]
+        #sorted_words = sorted([word for word, _ in most_common])
+
+        with Path("data/arxiv-dictionary.txt").open("w", encoding="utf-8") as f:
+            for word in sorted_words:
+                f.write(word + "\n")
