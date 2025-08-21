@@ -69,13 +69,30 @@ A's
 A2DP
 AI
 AI's
+AI-Assisted
+AI-Based
+AI-Driven
+AI-Enabled
+AI-Generated
+AI-Powered
+AI-assisted
+AI-augmented
 AI-based
+AI-driven
+AI-empowered
+AI-enabled
+AI-enhanced
 AI-generated
+AI-native
+AI-powered
+AI-related
+AI-supported
 AID
 AJAX
 AKA
 AMD
 AMOLED
+ANN
 ANNs
 ANSI
 API
@@ -134,6 +151,7 @@ Abstaining
 Abstract
 Abstracting
 Abstraction
+Abstractive
 Abstracts
 Absurdly
 Abundance
@@ -986,6 +1004,7 @@ Assert
 Assertive
 Asses
 Assess
+Assessing
 Assessment
 Assessments
 Asset
@@ -1079,6 +1098,7 @@ Attendance
 Attendants
 Attending
 Attention
+Attentive
 Attenuated
 Attenuation
 Attestation
@@ -1098,6 +1118,7 @@ Attractive
 Attractiveness
 Attributable
 Attributed
+Attributes
 Attributing
 Attribution
 Attrition
@@ -1117,6 +1138,7 @@ Audits
 Augment
 Augmentation
 Augmented
+Augmenting
 August
 Aunt
 Aunts
@@ -1149,6 +1171,7 @@ Autocracy
 Autocratic
 Autodesk
 Autoencoder
+Autoencoders
 Autofill
 Autofocus
 Autoimmune
@@ -1167,6 +1190,7 @@ Autonomously
 Autonomy
 Autopilot
 Autoplay
+Autoregressive
 Autotune
 Autumn
 Auxiliary
@@ -1225,7 +1249,9 @@ BASH
 BBQ
 BDD
 BERT
+BERT-based
 BIOS
+BLEU
 BSD
 BSOD
 BSoD
@@ -1518,6 +1544,7 @@ Bicycle
 Bicycles
 Bid
 Bidding
+Bidirectional
 Big
 Bigger
 Biggest
@@ -1775,6 +1802,7 @@ Bothering
 Botnets
 Bots
 Bottle
+Bottleneck
 Bottles
 Bottom
 Bottom-Up
@@ -2064,11 +2092,13 @@ CES
 CGI
 CI
 CIA
+CIFAR-10
 CISCO
 CMD
 CMOS
 CMS
 CNN
+CNN-based
 CNNs
 COM
 COPS
@@ -2361,6 +2391,7 @@ Certificates
 Certification
 Certified
 Chain
+Chain-of-Thought
 Chained
 Chaining
 Chains
@@ -2403,6 +2434,7 @@ Characteristic
 Characteristics
 Characterization
 Characterized
+Characterizing
 Characters
 Charcoal
 Charge
@@ -2612,6 +2644,7 @@ Classification
 Classifications
 Classified
 Classifier
+Classifiers
 Classify
 Classroom
 Clause
@@ -2712,6 +2745,7 @@ Clues
 Clumping
 Clumps
 Cluster
+Clustered
 Clustering
 Clusters
 Clutches
@@ -2993,6 +3027,7 @@ Composers
 Composing
 Composite
 Composition
+Compositional
 Compositions
 Compound
 Compounded
@@ -3064,6 +3099,7 @@ Conclusions
 Conclusive
 Concordance
 Concrete
+Concretely
 Concurrence
 Concurrency
 Concurrent
@@ -3119,7 +3155,6 @@ Conflating
 Conflict
 Conflicting
 Conflicts
-Conformal
 Conformity
 Confounding
 Confront
@@ -3417,6 +3452,7 @@ Corrective
 Correctly
 Correctness
 Correlate
+Correlated
 Correlates
 Correlation
 Correlations
@@ -3460,7 +3496,6 @@ Counter-Clockwise
 Counter-clockwise
 Counteracting
 Counteracts
-Counterfactual
 Countering
 Countermeasure
 Countermeasures
@@ -4032,6 +4067,7 @@ Deflation
 Deflect
 Deflecting
 Deflection
+Deformable
 Deformation
 Deformations
 Deformed
@@ -4125,6 +4161,7 @@ Departure
 Depend
 Depended
 Dependence
+Dependencies
 Dependency
 Dependent
 Depending
@@ -4245,6 +4282,7 @@ Detonations
 Detour
 Dev
 Dev's
+DevOps
 Devalued
 Devaluing
 Devastating
@@ -4327,7 +4365,9 @@ Diff
 Difference
 Differences
 Different
+Differentiable
 Differential
+Differentially
 Differentials
 Differentiate
 Differentiating
@@ -4607,7 +4647,6 @@ Distros
 Distrust
 Disturb
 Disturbance
-Disturbances
 Disturbing
 Disturbs
 Ditch
@@ -5117,6 +5156,7 @@ Embedding
 Embeddings
 Ember
 Emblem
+Embodied
 Embodiment
 Embrace
 Embracing
@@ -5183,6 +5223,7 @@ Enclave
 Enclosure
 Encoded
 Encoder
+Encoders
 Encoding
 Encounter
 Encountered
@@ -5341,7 +5382,6 @@ Equation
 Equations
 Equator
 Equatorial
-Equilibrium
 Equinox
 Equipment
 Equipments
@@ -5413,6 +5453,7 @@ Eternally
 Eternity
 Ethernet
 Ethic
+Ethical
 Ethically
 Ethics
 Ethnic
@@ -5437,6 +5478,7 @@ Evaluate
 Evaluated
 Evaluating
 Evaluation
+Evaluations
 Evaporate
 Evaporated
 Evaporates
@@ -5665,6 +5707,7 @@ Expresses
 Expressing
 Expression
 Expressions
+Expressive
 Expulsion
 Extant
 Extend
@@ -5711,6 +5754,7 @@ Eyed
 Eyeglasses
 Eyes
 Eyesight
+F1-score
 FAQ
 FAQS
 FAQs
@@ -5723,6 +5767,7 @@ FFmpeg
 FLOPS
 FLOPs
 FLOps
+FOV
 FPGA
 FPS
 FPU
@@ -6502,6 +6547,7 @@ Fuzzing
 Fuzzy
 Fyi
 GAN
+GAN-based
 GANs
 GB
 GCC
@@ -6515,8 +6561,10 @@ GO
 GPG
 GPS
 GPT
+GPT-2
 GPT-4
 GPU
+GPU-based
 GPUs
 GPs
 GSM
@@ -6567,6 +6615,7 @@ Garment
 Gas
 Gassed
 Gate
+Gated
 Gates
 Gateway
 Gather
@@ -6591,6 +6640,7 @@ Gem
 Gemini
 Gems
 Gen
+GenAI
 Gender
 Genders
 Gene
@@ -6600,6 +6650,7 @@ General-purpose
 Generalised
 Generalising
 Generalists
+Generalizable
 Generalization
 Generalizations
 Generalized
@@ -7247,6 +7298,7 @@ Hierarchical
 Hierarchy
 Hieroglyphs
 High
+High-Dimensional
 High-Energy
 High-Frequency
 High-Performance
@@ -7331,7 +7383,6 @@ Hole
 Holes
 Holiday
 Holidays
-Holistic
 Holistically
 Hollow
 Hollywood
@@ -7528,6 +7579,7 @@ HyperText
 Hyperbole
 Hyperbolic
 Hyperloop
+Hyperparameter
 Hyperspheres
 Hyperthreading
 Hypnosis
@@ -7687,6 +7739,7 @@ Immensely
 Immerse
 Immersed
 Immersion
+Immersive
 Immigrant
 Immigrants
 Immigration
@@ -7920,6 +7973,7 @@ Infectious
 Inference
 Inferior
 Infernal
+Inferring
 Infinite
 Infinitely
 Infinitive
@@ -7990,6 +8044,7 @@ Inhibiting
 Inhibition
 Inhibits
 Initial
+Initialization
 Initially
 Initiated
 Initiating
@@ -8201,6 +8256,7 @@ Internships
 Interoperability
 Interpolation
 Interpret
+Interpretability
 Interpretable
 Interpretation
 Interpretations
@@ -8255,6 +8311,7 @@ Introspection
 Introvert
 Intruder
 Intruders
+Intrusion
 Intrusive
 Intuition
 Intuitive
@@ -8517,6 +8574,7 @@ Justification
 Justifications
 Justified
 Justify
+K-means
 KDE
 Kafka
 Kanban
@@ -8622,7 +8680,9 @@ LDA
 LED
 LIFO
 LLM
+LLM's
 LLM-based
+LLM-generated
 LLMs
 LMs
 LOL
@@ -8778,6 +8838,7 @@ Leaps
 Learn
 Learned
 Learning
+Learning-based
 Learnt
 Lease
 Leases
@@ -8987,6 +9048,7 @@ Lizard
 Llama
 LoL
 LoRA
+LoRa
 Load
 Loaded
 Loaders
@@ -9156,6 +9218,8 @@ MHz
 MIDI
 MIPS
 ML
+ML-based
+MNIST
 MP3
 MP4
 MPEG
@@ -9383,6 +9447,8 @@ Maturity
 Max
 Maximal
 Maximise
+Maximization
+Maximize
 Maximized
 Maximizer
 Maximizes
@@ -9655,6 +9721,7 @@ Minimal
 Minimalistic
 Minimally
 Minimise
+Minimization
 Minimize
 Minimizing
 Minimum
@@ -9740,8 +9807,10 @@ Mockery
 Mocking
 Mod
 Modal
+Modality
 Mode
 Model
+Model-based
 Model-guided
 Modeled
 Modeling
@@ -9930,14 +9999,22 @@ Mulling
 Multi
 Multi-Channel
 Multi-Level
+Multi-Modal
+Multi-Object
+Multi-Objective
 Multi-Platform
+Multi-Task
+Multi-agent
 Multi-core
 Multi-dimensional
+Multi-label
 Multi-layer
 Multi-level
 Multi-modal
 Multi-mode
+Multi-task
 Multi-use
+Multi-view
 Multi-year
 Multicast
 Multicellular
@@ -10553,6 +10630,7 @@ Oncoming
 One
 One's
 One-Day
+One-Shot
 One-Time
 One-day
 One-dimensional
@@ -10635,6 +10713,8 @@ Optimistic
 Optimistically
 Optimization
 Optimize
+Optimized
+Optimizer
 Optimizing
 Optimum
 Opting
@@ -10952,7 +11032,9 @@ Parallels
 Paralysis
 Paralyzed
 Parameter
+Parameterized
 Parameters
+Parametric
 Paranoia
 Paranoid
 Paranormal
@@ -11216,7 +11298,6 @@ Perspectives
 Persuasion
 Pertaining
 Pertinent
-Perturbations
 Pervasive
 Pervasiveness
 Perversion
@@ -11594,6 +11675,7 @@ Ports
 Pose
 Posed
 Position
+Positional
 Positioning
 Positions
 Positive
@@ -11680,6 +11762,7 @@ Praying
 Pre
 Pre-Order
 Pre-Ordering
+Pre-Trained
 Pre-made
 Pre-orders
 Pre-trained
@@ -11780,6 +11863,7 @@ Presuming
 Presumption
 Pretend
 Pretending
+Pretraining
 Pretty
 Prevailing
 Prevalence
@@ -11817,6 +11901,7 @@ Primer
 Primes
 Priming
 Primitive
+Primitives
 Primordial
 Prince
 Princes
@@ -11965,8 +12050,11 @@ Promotion
 Promotional
 Promotions
 Prompt
+Prompt-based
 Prompted
+Prompting
 Promptly
+Prompts
 Prone
 Pronounce
 Pronounced
@@ -12168,6 +12256,7 @@ Puzzle
 Py
 PyPi
 PyPy
+PyTorch
 Pyramid
 Pyramids
 Python
@@ -12197,6 +12286,7 @@ Qualitative
 Qualitatively
 Qualities
 Quality
+Quantification
 Quantify
 Quantifying
 Quantitative
@@ -12220,6 +12310,7 @@ Que
 Queen
 Queens
 Queer
+Queries
 Query
 Quest
 Questing
@@ -12268,6 +12359,7 @@ RIM
 RIMM
 RIP
 RISK
+RMSE
 RNN
 RNNs
 ROI
@@ -12434,6 +12526,7 @@ Reading
 Reads
 Ready
 Real
+Real-Time
 Real-life
 Real-time
 Realignment
@@ -12530,6 +12623,8 @@ Recommended
 Recommender
 Reconciliation
 Reconciling
+Reconfigurable
+Reconfiguration
 Reconnecting
 Reconsider
 Reconstruct
@@ -12968,6 +13063,7 @@ Resolutions
 Resolved
 Resolves
 Resolving
+Resonance
 Resonances
 Resonant
 Resonating
@@ -13045,6 +13141,7 @@ Retold
 Retreat
 Retrieval
 Retrieval-Augmented
+Retrieval-augmented
 Retrieved
 Retriever
 Retrieving
@@ -13353,13 +13450,14 @@ SSE
 SSH
 SSL
 STD
+SVD
 SVG
 SVGA
+SVM
 SVN
 Sabotage
 Sacred
 Sacrifices
-Sacrificing
 Sad
 Sadist
 Sadly
@@ -13655,6 +13753,7 @@ Seemingly
 Seems
 Seen
 Sees
+Segment
 Segmentation
 Segmented
 Segmenting
@@ -13700,6 +13799,8 @@ Semantically
 Semantics
 Semaphore
 Semester
+Semi-Supervised
+Semi-supervised
 Semicolon
 Semicolons
 Semiconductor
@@ -14331,6 +14432,7 @@ Softened
 Softening
 Softer
 Softly
+Softmax
 Softness
 Software
 Software's
@@ -14446,6 +14548,7 @@ Sparse
 Spasm
 Spat
 Spatial
+Spatially
 Spawned
 Speak
 Speaker
@@ -15131,7 +15234,6 @@ Sunset
 Sunsets
 Sunshine
 Super
-Super-resolution
 SuperStar
 Supercharger
 Superchargers
@@ -15151,6 +15253,7 @@ Supermarkets
 Supernatural
 Superstar
 Supervised
+Supervision
 Supervisor
 Supper
 Suppers
@@ -15347,6 +15450,7 @@ T-shirt
 T-shirts
 TCP
 TDD
+TF-IDF
 TLS
 TV
 TVs
@@ -15589,6 +15693,7 @@ Tetris
 Texas
 Text
 Text-based
+Text-to-Image
 TextBox
 Textbook
 Textbooks
@@ -15769,6 +15874,7 @@ Tilt
 Tilting
 Timber
 Time
+Time-Series
 Timed
 Timelapse
 Timeless
@@ -15994,6 +16100,7 @@ Transformation
 Transformations
 Transformed
 Transformer
+Transformer-Based
 Transformer-based
 Transformers
 Transforming
@@ -16458,6 +16565,7 @@ Unknowingly
 Unknown
 Unknowns
 Unlawful
+Unlearning
 Unleashed
 Unless
 Unlicensed
@@ -17214,6 +17322,7 @@ Wifi
 Wiggle
 Wiki
 WikiPedia
+Wikidata
 Wikipedia
 Wild
 Wilderness
@@ -17354,7 +17463,6 @@ Worship
 Worshipped
 Worshipping
 Worst
-Worst-case
 Worth
 Worthies
 Worthless
@@ -17463,6 +17571,7 @@ Zebra
 Zebras
 Zero
 Zero-Shot
+Zero-shot
 Zeroes
 Zeros
 Zip
@@ -17565,6 +17674,7 @@ absorb
 absorbed
 absorbing
 absorbs
+absorption
 abstain
 abstained
 abstaining
@@ -17801,6 +17911,7 @@ actually
 actuate
 actuated
 actuates
+actuation
 acute
 acutely
 acutest
@@ -17968,6 +18079,8 @@ adventurous
 adverb
 adverbs
 adversarial
+adversarially
+adversaries
 adversary
 adverse
 adversely
@@ -18080,6 +18193,7 @@ agenda
 agendas
 agent
 agent-based
+agentic
 agents
 ages
 agglomeration
@@ -18836,6 +18950,7 @@ approved
 approver
 approves
 approving
+approx
 approximate
 approximated
 approximately
@@ -18989,6 +19104,7 @@ artful
 article
 articles
 articulate
+articulated
 articulation
 artifact
 artifacts
@@ -19123,6 +19239,7 @@ assistants
 assistantship
 assisted
 assisting
+assistive
 assists
 associate
 associated
@@ -19254,6 +19371,7 @@ attending
 attends
 attention
 attention-based
+attentional
 attentions
 attentive
 attentively
@@ -19437,6 +19555,7 @@ autopay
 autopilot
 autoplay
 autoregressive
+autoregressively
 autorelease
 autoreply
 autorotation
@@ -19950,6 +20069,7 @@ best-covered
 best-in-class
 best-known
 best-matching
+best-performing
 best-practice
 best-practices
 best-selling
@@ -20196,6 +20316,7 @@ blockbuster
 blockchain
 blockchain's
 blockchain-based
+blockchains
 blocked
 blocker
 blockers
@@ -21145,6 +21266,7 @@ cats
 caught
 causal
 causality
+causally
 causation
 cause
 cause-effect
@@ -21970,6 +22092,7 @@ cofounder
 cofounders
 cognition
 cognitive
+cognitively
 coherence
 coherent
 coherently
@@ -22048,6 +22171,7 @@ colliding
 collinear
 collinearity
 collision
+collision-free
 collisional
 collisions
 collocated
@@ -22370,6 +22494,7 @@ composing
 composite
 composited
 compositeness
+composites
 compositing
 composition
 compositional
@@ -22784,6 +22909,7 @@ constitutional
 constitutionality
 constitutionally
 constitutions
+constitutive
 constness
 constrain
 constrained
@@ -22880,6 +23006,7 @@ contested
 contests
 context
 context-aware
+context-dependent
 context-free
 context-sensitive
 contextmenu
@@ -22993,6 +23120,7 @@ conventions
 converge
 converged
 convergence
+convergent
 converges
 converging
 conversable
@@ -23159,6 +23287,7 @@ corrupt
 corrupted
 corrupting
 corruption
+corruptions
 corrupts
 cors
 cortex
@@ -23462,14 +23591,17 @@ cross-lingual
 cross-linking
 cross-location
 cross-modal
+cross-modality
 cross-origin
 cross-over
 cross-platform
 cross-sectional
+cross-task
 cross-team
 cross-thread
 cross-validation
 cross-validations
+cross-view
 crossbow
 crossbows
 crosscheck
@@ -23996,6 +24128,8 @@ debated
 debates
 debating
 debian
+debiased
+debiasing
 debit
 debt
 debts
@@ -24161,6 +24295,7 @@ deductible
 deducting
 deduction
 deductions
+deductive
 deducts
 deduplicate
 deduplicated
@@ -24420,6 +24555,7 @@ denied
 denies
 denoise
 denoised
+denoiser
 denoises
 denoising
 denominator
@@ -24890,6 +25026,7 @@ diffidence
 diffident
 diffing
 diffraction
+diffractive
 diffs
 diffuse
 diffused
@@ -26021,6 +26158,7 @@ economic
 economical
 economically
 economics
+economies
 economist
 economists
 economy
@@ -26053,6 +26191,7 @@ education
 educational
 educations
 educative
+educators
 ee-based
 ef
 effect
@@ -27350,6 +27489,7 @@ exultation
 exulting
 exultingly
 eye
+eye-tracking
 eyeball
 eyebrow
 eyebrows
@@ -27633,6 +27773,7 @@ feats
 feature
 feature-based
 feature-driven
+feature-level
 feature-specific
 featured
 featureengineering
@@ -28830,6 +28971,7 @@ gene
 genealogy
 general
 general-purpose
+generalisation
 generalise
 generalised
 generalises
@@ -29794,6 +29936,7 @@ heater
 heaters
 heather
 heating
+heatmap
 heaven
 heavens
 heavier
@@ -30015,6 +30158,7 @@ hires
 hiring
 his
 histogram
+histograms
 historian
 historians
 historic
@@ -30263,6 +30407,7 @@ hugs
 hulking
 hull
 human
+human-AI
 human-centric
 human-like
 human-robot
@@ -30332,6 +30477,7 @@ huts
 hybrid
 hybrids
 hybris
+hydrodynamic
 hyena
 hyenas
 hype
@@ -30629,6 +30775,7 @@ impede
 impeded
 impedes
 impediment
+impeding
 impelled
 impelling
 impells
@@ -31480,6 +31627,7 @@ instrumented
 instruments
 insufferable
 insufficient
+insufficiently
 insult
 insulted
 insulting
@@ -31658,6 +31806,7 @@ interoperate
 interoperated
 interoperates
 interoperating
+interpersonal
 interplay
 interpolate
 interpolated
@@ -31736,6 +31885,7 @@ intoxicating
 intoxication
 intra-cluster
 intract
+intractability
 intractable
 intractably
 intracted
@@ -31812,6 +31962,7 @@ invariants
 invasion
 invasions
 invasive
+invasiveness
 invent
 invented
 inventing
@@ -32106,6 +32257,7 @@ jagged
 jaguar
 jaguars
 jail
+jailbreak
 jam
 jammed
 jamming
@@ -32374,6 +32526,7 @@ keynote
 keynotes
 keypad
 keypair
+keyphrase
 keypoint
 keypoints
 keypress
@@ -32991,6 +33144,7 @@ liquid
 liquidate
 liquidates
 liquidation
+liquidity
 liquids
 liquor
 lisp
@@ -34184,6 +34338,7 @@ mis
 mis-spelled
 mis-spelling
 misaligned
+misalignment
 misapplied
 misapply
 misbehave
@@ -34295,6 +34450,7 @@ mitigated
 mitigates
 mitigating
 mitigation
+mitigations
 mix
 mixable
 mixed
@@ -34658,14 +34814,17 @@ multi-configuration
 multi-core
 multi-device
 multi-dimensional
+multi-domain
 multi-embodiment
 multi-environment
 multi-factor
+multi-frame
 multi-functional
 multi-genre
 multi-group
 multi-head
 multi-industry
+multi-input
 multi-key
 multi-keys
 multi-label
@@ -34678,10 +34837,12 @@ multi-level
 multi-lingual
 multi-million
 multi-modal
+multi-modality
 multi-mode
 multi-model
 multi-module
 multi-node
+multi-object
 multi-objective
 multi-paradigm
 multi-part
@@ -34690,6 +34851,7 @@ multi-platform
 multi-purpose
 multi-query
 multi-range
+multi-robot
 multi-scale
 multi-source
 multi-stage
@@ -34701,6 +34863,7 @@ multi-threaded
 multi-threading
 multi-token
 multi-touch
+multi-turn
 multi-use
 multi-user
 multi-variable
@@ -34764,6 +34927,7 @@ multipatch
 multiplatform
 multiplayer
 multiple
+multiple-input
 multiple-term
 multiples
 multiplexed
@@ -35123,6 +35287,7 @@ neurological
 neurology
 neuromorphic
 neuron
+neuronal
 neurones
 neurons
 neuroscience
@@ -35425,6 +35590,7 @@ nope
 nor
 norm
 normal
+normalisation
 normalise
 normality
 normalization
@@ -35436,6 +35602,7 @@ normalizing
 normally
 normals
 normative
+norms
 north
 northern
 nose
@@ -35706,6 +35873,7 @@ occluding
 occlusion
 occlusions
 occult
+occupancy
 occupant
 occupation
 occupational
@@ -35837,6 +36005,7 @@ on-access
 on-board
 on-chip
 on-demand
+on-device
 on-hand
 on-line
 on-off
@@ -35845,6 +36014,7 @@ on-premises
 on-site
 on-stage
 on-target
+on-the-fly
 on-topic
 onboard
 onboarded
@@ -35998,6 +36168,7 @@ optimism
 optimistic
 optimistically
 optimization
+optimization-based
 optimizations
 optimize
 optimized
@@ -36111,6 +36282,7 @@ oscillate
 oscillated
 oscillates
 oscillating
+oscillation
 oscillations
 oscillator
 oscillators
@@ -36965,6 +37137,7 @@ perceptive
 perceptron
 perceptrons
 perceptual
+perceptually
 perchance
 peremptorily
 perennial
@@ -38147,6 +38320,7 @@ prints
 prion
 prions
 prior
+priori
 priorities
 prioritise
 prioritised
@@ -38380,6 +38554,7 @@ promotion
 promotional
 promotions
 prompt
+prompt-based
 prompted
 prompting
 promptitude
@@ -39231,6 +39406,7 @@ realities
 reality
 reality-based
 realizability
+realizable
 realization
 realizations
 realize
@@ -39275,6 +39451,7 @@ reassemble
 reassembled
 reassembles
 reassembling
+reassembly
 reassess
 reassessed
 reassessment
@@ -41826,6 +42003,7 @@ sensibly
 sensing
 sensitive
 sensitively
+sensitivities
 sensitivity
 sensor
 sensors
@@ -41857,6 +42035,7 @@ separatism
 separator
 separators
 september
+seq2seq
 sequel
 sequelize
 sequelized
@@ -43446,6 +43625,7 @@ stagnation
 staid
 stain
 stained
+staining
 stainless
 stains
 stair
@@ -43682,6 +43862,7 @@ stitched
 stitches
 stl
 stochastic
+stochastically
 stochasticity
 stock
 stocked
@@ -44334,6 +44515,7 @@ supermarkets
 supermodel
 supernatural
 superposed
+superposition
 superpowers
 superscaling
 supersede
@@ -44652,6 +44834,7 @@ synchronously
 synchrony
 syncing
 syndrome
+synergy
 synonym
 synonymically
 synonymous
@@ -44697,6 +44880,7 @@ systemd
 systemic
 systemically
 systems
+t-SNE
 t-shirt
 t-shirts
 t-sne
@@ -44815,6 +44999,7 @@ tartar
 tarts
 taser
 task
+task-based
 task-oriented
 task-specific
 taskbar
@@ -45936,6 +46121,7 @@ traveling
 travelled
 travelling
 travels
+traversability
 traversable
 traversal
 traversals
@@ -46339,6 +46525,7 @@ unaligned
 unaltered
 unambiguous
 unambiguously
+unannotated
 unannounced
 unanswerable
 unanswerably
@@ -46505,6 +46692,7 @@ underestimated
 underestimates
 underestimating
 underestimation
+underexplored
 underfitting
 underflow
 undergo
@@ -47065,6 +47253,7 @@ unsynchronized
 untainted
 untangle
 untangled
+untapped
 untargeted
 untemplated
 untenable
@@ -47719,6 +47908,7 @@ visual
 visual-studio
 visual-studio-code
 visualc++
+visualisation
 visualisations
 visualise
 visualised
@@ -47819,6 +48009,7 @@ vowed
 vowel
 vowels
 vows
+voxel
 voxels
 voyage
 voyager
