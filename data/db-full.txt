@@ -146,6 +146,7 @@ Absorb
 Absorbed
 Absorbing
 Absorbs
+Absorption
 Abstain
 Abstaining
 Abstract
@@ -285,6 +286,7 @@ Actresses
 Acts
 Actual
 Actually
+Actuation
 Acutely
 Ad
 Ad-hoc
@@ -449,6 +451,7 @@ Agencies
 Agency
 Agenda
 Agent
+Agentic
 Agents
 Ages
 Aggravated
@@ -854,6 +857,7 @@ Approval
 Approve
 Approved
 Approves
+Approx
 Approximate
 Approximated
 Approximately
@@ -1683,6 +1687,7 @@ Block
 Blockade
 Blockbuster
 Blockchain
+Blockchains
 Blocked
 Blocker
 Blocking
@@ -2802,6 +2807,7 @@ Coexistence
 Coffee
 Cognition
 Cognitive
+Cognitively
 Coherence
 Coherent
 Cohesion
@@ -3026,6 +3032,7 @@ Composer
 Composers
 Composing
 Composite
+Composites
 Composition
 Compositional
 Compositions
@@ -3366,6 +3373,7 @@ Conventional
 Conventions
 Converge
 Convergence
+Convergent
 Converging
 Conversation
 Conversational
@@ -4009,6 +4017,7 @@ Deducing
 Deductible
 Deduction
 Deductions
+Deductive
 Deduplication
 Deed
 Deeds
@@ -5015,6 +5024,7 @@ Economic
 Economical
 Economically
 Economics
+Economies
 Economist
 Economists
 Economy
@@ -5037,6 +5047,7 @@ Educate
 Educated
 Education
 Educational
+Educators
 Ef
 Effect
 Effected
@@ -6651,6 +6662,7 @@ Gene
 Genealogy
 General
 General-purpose
+Generalisation
 Generalised
 Generalising
 Generalists
@@ -7763,6 +7775,7 @@ Impeach
 Impeachment
 Impedance
 Impeded
+Impeding
 Impending
 Imperative
 Imperfect
@@ -8259,6 +8272,7 @@ Internet-based
 Internship
 Internships
 Interoperability
+Interpersonal
 Interpolation
 Interpret
 Interpretability
@@ -8476,6 +8490,7 @@ Jackpot
 Jaguar
 Jaguars
 Jail
+Jailbreak
 Jam
 Jammed
 Jamming
@@ -9017,6 +9032,7 @@ Lions
 Lips
 Liquid
 Liquidation
+Liquidity
 Liquids
 Liquor
 Lisp
@@ -9758,6 +9774,7 @@ Mirrorless
 Mirrors
 Mirth
 Mis
+Misalignment
 Misc
 Miscellaneous
 Miscibility
@@ -10258,6 +10275,7 @@ Neurologic
 Neurological
 Neurology
 Neuron
+Neuronal
 Neurons
 Neuroscience
 Neutral
@@ -10396,6 +10414,7 @@ Normalizing
 Normally
 Normals
 Normative
+Norms
 North
 Northern
 Nose
@@ -10548,6 +10567,7 @@ Occasional
 Occasionally
 Occlusion
 Occult
+Occupancy
 Occupant
 Occupation
 Occupational
@@ -10627,6 +10647,7 @@ Olympic
 Omission
 On
 On-Board
+On-The-Fly
 On-demand
 Onboard
 Once
@@ -10788,6 +10809,7 @@ Orphan
 Orthogonal
 Orthopedic
 Oscillating
+Oscillation
 Oscillations
 Oscillator
 Oscillators
@@ -11925,6 +11947,7 @@ Prints
 Prion
 Prions
 Prior
+Priori
 Priorities
 Prioritize
 Prioritized
@@ -13831,6 +13854,7 @@ Sensibility
 Sensible
 Sensing
 Sensitive
+Sensitivities
 Sensitivity
 Sensor
 Sensors
@@ -14780,6 +14804,7 @@ Staggers
 Staging
 Stain
 Stained
+Staining
 Stainless
 Stains
 Stair
@@ -15259,6 +15284,7 @@ Superiors
 Supermarket
 Supermarkets
 Supernatural
+Superposition
 Superstar
 Supervised
 Supervision
@@ -15433,6 +15459,7 @@ Synchronous
 Synchronously
 Synchrony
 Syndrome
+Synergy
 Synonym
 Synonymous
 Synonyms
@@ -16952,6 +16979,7 @@ Visiting
 Visitor
 Visitors
 Visual
+Visualisation
 Visualise
 Visualization
 Visualizations
