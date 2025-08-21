@@ -69,6 +69,8 @@ A's
 A2DP
 AI
 AI's
+AI-based
+AI-generated
 AID
 AJAX
 AKA
@@ -1113,6 +1115,7 @@ Auditor
 Auditory
 Audits
 Augment
+Augmentation
 Augmented
 August
 Aunt
@@ -1145,6 +1148,7 @@ Autocorrect
 Autocracy
 Autocratic
 Autodesk
+Autoencoder
 Autofill
 Autofocus
 Autoimmune
@@ -1220,6 +1224,7 @@ B2B
 BASH
 BBQ
 BDD
+BERT
 BIOS
 BSD
 BSOD
@@ -1468,6 +1473,7 @@ Below
 Belt
 Belted
 Bench
+Benchmark
 Benchmarking
 Bend
 Bender
@@ -1783,6 +1789,7 @@ Bound
 Boundaries
 Boundary
 Bounded
+Bounds
 Bounties
 Bounty
 Bow
@@ -2043,6 +2050,7 @@ C's
 C++
 C-like
 C-style
+CAD
 CAN
 CANCERS
 CCA
@@ -2061,6 +2069,7 @@ CMD
 CMOS
 CMS
 CNN
+CNNs
 COM
 COPS
 CPU
@@ -2714,6 +2723,7 @@ Co-pilot
 Co-worker
 Co-workers
 CoM
+CoT
 Coach
 Coaches
 Coaching
@@ -3109,6 +3119,7 @@ Conflating
 Conflict
 Conflicting
 Conflicts
+Conformal
 Conformity
 Confounding
 Confront
@@ -3206,6 +3217,7 @@ Constitution
 Constitutionality
 Constitutionally
 Constitutions
+Constrained
 Constraining
 Constraint
 Constraints
@@ -3289,6 +3301,7 @@ Contrarily
 Contrary
 Contrast
 Contrasting
+Contrastive
 Contribute
 Contributed
 Contributing
@@ -3319,6 +3332,7 @@ Converge
 Convergence
 Converging
 Conversation
+Conversational
 Conversations
 Converse
 Conversely
@@ -3446,6 +3460,7 @@ Counter-Clockwise
 Counter-clockwise
 Counteracting
 Counteracts
+Counterfactual
 Countering
 Countermeasure
 Countermeasures
@@ -3776,6 +3791,8 @@ DJ
 DLL
 DLLs
 DNA
+DNN
+DNNs
 DNS
 DOI
 DOM
@@ -3839,6 +3856,8 @@ Databases
 Datacenter
 Datagram
 Datamining
+Dataset
+Datasets
 Datasheet
 Date
 Dated
@@ -4084,6 +4103,7 @@ Demos
 Denial
 Denied
 Denies
+Denoising
 Denoted
 Denoting
 Dense
@@ -4587,6 +4607,7 @@ Distros
 Distrust
 Disturb
 Disturbance
+Disturbances
 Disturbing
 Disturbs
 Ditch
@@ -5092,6 +5113,8 @@ Embarrassment
 Embassies
 Embassy
 Embedded
+Embedding
+Embeddings
 Ember
 Emblem
 Embodiment
@@ -5318,6 +5341,7 @@ Equation
 Equations
 Equator
 Equatorial
+Equilibrium
 Equinox
 Equipment
 Equipments
@@ -5592,6 +5616,7 @@ Expires
 Expiring
 Expiry
 Explain
+Explainable
 Explained
 Explaining
 Explains
@@ -5863,6 +5888,7 @@ Fed
 Federal
 Federalism
 Federalist
+Federated
 Federation
 Fedora
 Fee
@@ -5904,6 +5930,8 @@ Feud
 Fever
 Fevers
 Few
+Few-Shot
+Few-shot
 Fewer
 Fey
 Fiance
@@ -5971,6 +5999,7 @@ Finding
 Findings
 Finds
 Fine
+Fine-Tuning
 Fine-tuning
 Finely
 Finer
@@ -6472,11 +6501,15 @@ Futuristic
 Fuzzing
 Fuzzy
 Fyi
+GAN
+GANs
 GB
 GCC
 GHz
 GIT
 GMail
+GNN
+GNNs
 GNU
 GO
 GPG
@@ -6542,6 +6575,7 @@ Gathering
 Gauge
 Gauges
 Gaussian
+Gaussians
 Gave
 Gay
 Gays
@@ -6566,6 +6600,7 @@ General-purpose
 Generalised
 Generalising
 Generalists
+Generalization
 Generalizations
 Generalized
 Generally
@@ -6576,6 +6611,7 @@ Generating
 Generation
 Generational
 Generations
+Generative
 Generator
 Generators
 Generic
@@ -7295,6 +7331,7 @@ Hole
 Holes
 Holiday
 Holidays
+Holistic
 Holistically
 Hollow
 Hollywood
@@ -8164,6 +8201,7 @@ Internships
 Interoperability
 Interpolation
 Interpret
+Interpretable
 Interpretation
 Interpretations
 Interpretative
@@ -8584,8 +8622,12 @@ LDA
 LED
 LIFO
 LLM
+LLM-based
+LLMs
+LMs
 LOL
 LSD
+LSTM
 LaGrange
 LaGrangian
 LaTeX
@@ -8944,6 +8986,7 @@ Living
 Lizard
 Llama
 LoL
+LoRA
 Load
 Loaded
 Loaders
@@ -9840,6 +9883,7 @@ Motion
 Motionless
 Motions
 Motivate
+Motivated
 Motivation
 Motivational
 Motivations
@@ -9891,6 +9935,7 @@ Multi-core
 Multi-dimensional
 Multi-layer
 Multi-level
+Multi-modal
 Multi-mode
 Multi-use
 Multi-year
@@ -9899,7 +9944,9 @@ Multicellular
 Multicore
 Multicultural
 Multilevel
+Multilingual
 Multimedia
+Multimodal
 Multinational
 Multiparticle
 Multiplayer
@@ -9982,6 +10029,7 @@ NAZI
 NAZIS
 NAZIs
 NBA
+NER
 NET
 NETs
 NLP
@@ -11158,6 +11206,7 @@ Personal
 Personalities
 Personality
 Personalization
+Personalized
 Personally
 Personification
 Personnel
@@ -11167,6 +11216,7 @@ Perspectives
 Persuasion
 Pertaining
 Pertinent
+Perturbations
 Pervasive
 Pervasiveness
 Perversion
@@ -11632,6 +11682,8 @@ Pre-Order
 Pre-Ordering
 Pre-made
 Pre-orders
+Pre-trained
+Pre-training
 Preamble
 Precautions
 Precedence
@@ -12204,6 +12256,7 @@ Quotes
 Quoting
 Qwerty
 R's
+RAG
 RAM
 RDRAM
 RDS
@@ -12215,6 +12268,7 @@ RIM
 RIMM
 RIP
 RISK
+RNN
 RNNs
 ROI
 ROIs
@@ -12473,6 +12527,7 @@ Recommend
 Recommendation
 Recommendations
 Recommended
+Recommender
 Reconciliation
 Reconciling
 Reconnecting
@@ -12625,6 +12680,7 @@ Regression
 Regressive
 Regret
 Regular
+Regularization
 Regularly
 Regulars
 Regulate
@@ -12988,6 +13044,7 @@ Retiring
 Retold
 Retreat
 Retrieval
+Retrieval-Augmented
 Retrieved
 Retriever
 Retrieving
@@ -13139,6 +13196,8 @@ Robotic
 Robotics
 Robots
 Robs
+Robust
+Robustness
 Rock
 Rocket
 Rockets
@@ -13300,6 +13359,7 @@ SVN
 Sabotage
 Sacred
 Sacrifices
+Sacrificing
 Sad
 Sadist
 Sadly
@@ -13626,6 +13686,7 @@ Self-made
 Self-monitoring
 Self-organizing
 Self-respect
+Self-supervised
 Selfish
 Selfishness
 Sell
@@ -14458,6 +14519,7 @@ Spiders
 Spied
 Spies
 Spiked
+Spiking
 Spill
 Spilled
 Spilling
@@ -15040,6 +15102,7 @@ Suits
 Sum
 Summable
 Summarising
+Summarization
 Summarize
 Summarized
 Summarizing
@@ -15068,6 +15131,7 @@ Sunset
 Sunsets
 Sunshine
 Super
+Super-resolution
 SuperStar
 Supercharger
 Superchargers
@@ -15086,6 +15150,7 @@ Supermarket
 Supermarkets
 Supernatural
 Superstar
+Supervised
 Supervisor
 Supper
 Suppers
@@ -15929,6 +15994,7 @@ Transformation
 Transformations
 Transformed
 Transformer
+Transformer-based
 Transformers
 Transforming
 Transforms
@@ -16464,6 +16530,7 @@ Unsubscribe
 Unsubsidized
 Unsubstantiated
 Unsullied
+Unsupervised
 Unsupported
 Unsure
 Unsurprising
@@ -16555,6 +16622,7 @@ Utilizing
 Utorrent
 Utter
 Uttered
+VAE
 VB
 VBA
 VBScript
@@ -16619,6 +16687,7 @@ Variance
 Variant
 Variants
 Variation
+Variational
 Variations
 Varied
 Varies
@@ -16695,6 +16764,7 @@ Veterinarians
 Veterinary
 Veto
 Vets
+ViTs
 Via
 Viable
 Vibe
@@ -17284,6 +17354,7 @@ Worship
 Worshipped
 Worshipping
 Worst
+Worst-case
 Worth
 Worthies
 Worthless
@@ -17325,6 +17396,7 @@ Wrongly
 Wrote
 Wtf
 X-axis
+X-ray
 X86
 X86-64
 XBOX
@@ -17390,6 +17462,7 @@ Zeal
 Zebra
 Zebras
 Zero
+Zero-Shot
 Zeroes
 Zeros
 Zip
@@ -18521,6 +18594,7 @@ annotation
 annotation-based
 annotations
 annotator
+annotators
 announce
 announced
 announcement
@@ -19233,6 +19307,7 @@ audiences
 audio
 audio-player
 audio-to-audio
+audio-visual
 audiobook
 audiobooks
 audios
@@ -21694,6 +21769,7 @@ close
 close-up
 close-ups
 closed
+closed-form
 closed-loop
 closed-source
 closely
@@ -22531,6 +22607,7 @@ conflicts
 confluence
 confluent
 conform
+conformal
 conformance
 conformation
 conformed
@@ -22802,6 +22879,7 @@ contestant
 contested
 contests
 context
+context-aware
 context-free
 context-sensitive
 contextmenu
@@ -22832,6 +22910,7 @@ continuing
 continuity
 continuous
 continuous-integration
+continuous-time
 continuously
 contour
 contours
@@ -23129,6 +23208,7 @@ counteractions
 counteracts
 counterclockwise
 countered
+counterfactual
 countering
 countermeasure
 countermeasures
@@ -23378,8 +23458,10 @@ cross-domain
 cross-entropy
 cross-functional
 cross-language
+cross-lingual
 cross-linking
 cross-location
+cross-modal
 cross-origin
 cross-over
 cross-platform
@@ -24815,6 +24897,7 @@ diffuser
 diffuses
 diffusing
 diffusion
+diffusion-based
 dig
 digIT
 digest
@@ -25336,6 +25419,7 @@ distrustful
 distrusting
 disturb
 disturbance
+disturbances
 disturbed
 disturbing
 disturbs
@@ -26307,6 +26391,7 @@ encodings
 encompass
 encompassed
 encompasses
+encompassing
 encounter
 encountered
 encountering
@@ -26639,6 +26724,7 @@ equator
 equatorial
 equidistant
 equilateral
+equilibrium
 equinox
 equip
 equipment
@@ -26655,6 +26741,7 @@ equivalent
 equivalently
 equivalents
 equivariance
+equivariant
 equivocation
 era
 eradicate
@@ -27557,6 +27644,7 @@ fed
 federal
 federalism
 federalist
+federated
 federation
 fedora
 fee
@@ -28749,6 +28837,7 @@ generalising
 generalist
 generalists
 generality
+generalizability
 generalizable
 generalization
 generalizations
@@ -29836,6 +29925,7 @@ high-dynamic
 high-end
 high-energy
 high-engagement
+high-fidelity
 high-frequency
 high-growth
 high-level
@@ -29962,6 +30052,7 @@ hole
 holes
 holiday
 holidays
+holistic
 holistically
 hollow
 hollywood
@@ -30174,6 +30265,7 @@ hull
 human
 human-centric
 human-like
+human-robot
 humane
 humanely
 humanism
@@ -33806,6 +33898,7 @@ messy
 met
 meta
 meta-data
+meta-learning
 metabase
 metaclass
 metadata
@@ -34589,6 +34682,7 @@ multi-mode
 multi-model
 multi-module
 multi-node
+multi-objective
 multi-paradigm
 multi-part
 multi-person
@@ -34611,6 +34705,7 @@ multi-use
 multi-user
 multi-variable
 multi-variate
+multi-view
 multi-word
 multi-worker
 multi-year
@@ -35026,6 +35121,7 @@ neurocomputing
 neurologic
 neurological
 neurology
+neuromorphic
 neuron
 neurones
 neurons
@@ -35770,6 +35866,7 @@ one-of
 one-off
 one-on-one
 one-pass
+one-shot
 one-stop
 one-time
 one-to-many
@@ -37000,6 +37097,8 @@ pertinacity
 pertinent
 pertinently
 perturbation
+perturbations
+perturbed
 perusal
 pervade
 pervaded
@@ -37238,6 +37337,7 @@ pivoted
 pivoting
 pivots
 pixel
+pixel-level
 pixelate
 pixelated
 pixelates
@@ -38825,6 +38925,7 @@ radar
 radars
 radial
 radian
+radiance
 radians
 radiant
 radiate
@@ -41087,6 +41188,7 @@ sacredness
 sacrifice
 sacrificed
 sacrifices
+sacrificing
 sad
 saddest
 sadist
@@ -43078,6 +43180,7 @@ spies
 spike
 spiked
 spikes
+spiking
 spill
 spill-over
 spilled
@@ -44205,6 +44308,7 @@ super-computers
 super-fast
 super-powerful
 super-productive
+super-resolution
 superadded
 superb
 supercharge
@@ -45313,6 +45417,7 @@ timber
 time
 time-based
 time-consuming
+time-dependent
 time-difference
 time-differenced
 time-domain
@@ -45667,6 +45772,7 @@ traineeship
 trainer
 trainers
 training
+training-free
 trainings
 trains
 trait
@@ -47598,6 +47704,7 @@ visibility
 visible
 visibly
 vision
+vision-based
 visionaries
 visionary
 visions
@@ -48144,6 +48251,7 @@ well-connected
 well-defined
 well-designed
 well-documented
+well-established
 well-explained
 well-formed
 well-functioning
@@ -48577,6 +48685,7 @@ worshipers
 worshipped
 worshipping
 worst
+worst-case
 worth
 worthful
 worthies
