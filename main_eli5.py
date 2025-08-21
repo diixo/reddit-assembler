@@ -73,12 +73,12 @@ if __name__ == "__main__":
             json.dump(dictionary, f, indent=2)
         print(f"Saved json.sz={len(dictionary.items())}")
 
-    most_common = dictionary.most_common()
+        most_common = dictionary.most_common()
 
-    sorted_words = [word for word, _ in most_common]
-    #sorted_words = sorted([word for word, _ in most_common])
+        sorted_words = [word for word, _ in most_common]
+        #sorted_words = sorted([word for word, _ in most_common])
 
 
-    with open(f"data/eli5-dictionary.txt", "w", encoding="utf-8") as f:
-        for word in sorted_words:
-            f.write(word + "\n")
+        with open(f"data/eli5-dictionary.txt", "w", encoding="utf-8") as f:
+            for word in sorted_words:
+                f.write(word + "\n")
