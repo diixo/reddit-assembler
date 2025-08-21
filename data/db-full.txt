@@ -3155,6 +3155,7 @@ Conflating
 Conflict
 Conflicting
 Conflicts
+Conformal
 Conformity
 Confounding
 Confront
@@ -3496,6 +3497,7 @@ Counter-Clockwise
 Counter-clockwise
 Counteracting
 Counteracts
+Counterfactual
 Countering
 Countermeasure
 Countermeasures
@@ -4647,6 +4649,7 @@ Distros
 Distrust
 Disturb
 Disturbance
+Disturbances
 Disturbing
 Disturbs
 Ditch
@@ -5382,6 +5385,7 @@ Equation
 Equations
 Equator
 Equatorial
+Equilibrium
 Equinox
 Equipment
 Equipments
@@ -7383,6 +7387,7 @@ Hole
 Holes
 Holiday
 Holidays
+Holistic
 Holistically
 Hollow
 Hollywood
@@ -11298,6 +11303,7 @@ Perspectives
 Persuasion
 Pertaining
 Pertinent
+Perturbations
 Pervasive
 Pervasiveness
 Perversion
@@ -13458,6 +13464,7 @@ SVN
 Sabotage
 Sacred
 Sacrifices
+Sacrificing
 Sad
 Sadist
 Sadly
@@ -15234,6 +15241,7 @@ Sunset
 Sunsets
 Sunshine
 Super
+Super-resolution
 SuperStar
 Supercharger
 Superchargers
@@ -17463,6 +17471,7 @@ Worship
 Worshipped
 Worshipping
 Worst
+Worst-case
 Worth
 Worthies
 Worthless
