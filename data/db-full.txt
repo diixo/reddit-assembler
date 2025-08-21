@@ -1574,6 +1574,7 @@ Biscuit
 Biscuits
 Bisecting
 Bisection
+Bisexuality
 Bison
 Bit
 BitCoin
@@ -2936,6 +2937,7 @@ Compensation
 Compensations
 Compete
 Competent
+Competently
 Competing
 Competition
 Competitions
@@ -3719,6 +3721,7 @@ Curves
 Curvilinear
 Cuss
 Cussing
+Custodians
 Custody
 Custom
 Customary
@@ -5788,6 +5791,7 @@ Fanatics
 Fancy
 Fancying
 Fans
+Fantasizing
 Fantastic
 Fantastical
 Fantastically
@@ -6418,6 +6422,7 @@ Full-scale
 Full-sized
 Full-text
 Full-time
+Fullback
 Fuller
 Fullscreen
 Fully
@@ -9291,6 +9296,7 @@ Massless
 Master
 Master's
 Mastered
+Masterfully
 Mastering
 Mastermind
 Masters
@@ -9843,6 +9849,7 @@ Motor
 Motorcycle
 Motorcycles
 Motorist
+Motorized
 Motors
 Mould
 Mount
@@ -10013,6 +10020,7 @@ Naps
 Narcissism
 Narcissist
 Narcissistic
+Narcissists
 Narcotic
 Narcotics
 Narrate
@@ -10484,6 +10492,7 @@ Ole
 Oligarchy
 Olive
 Olives
+Olympians
 Olympic
 Omission
 On
@@ -11898,6 +11907,7 @@ Promises
 Promising
 Promo
 Promote
+Promoters
 Promoting
 Promotion
 Promotional
@@ -12046,6 +12056,7 @@ Pulled
 Pulling
 Pulls
 Pulp
+Pulsating
 Pulse
 Pulverize
 Pulverized
@@ -16450,6 +16461,7 @@ Unsolvable
 Unsolved
 Unstable
 Unsubscribe
+Unsubsidized
 Unsubstantiated
 Unsullied
 Unsupported
@@ -16946,6 +16958,7 @@ Waving
 Wavy
 Wax
 Waxed
+Waxing
 Way
 Ways
 Wayward
@@ -17324,6 +17337,7 @@ Xcode
 Y'all
 Y-Axis
 Y-axis
+YOLO
 YOUTUBE
 Yacht
 Yahoo
@@ -17696,6 +17710,7 @@ active
 active-directory
 actively
 activerecord
+actives
 activex
 activism
 activist
@@ -18896,6 +18911,7 @@ art-director
 art-hub
 art-master
 artefacts
+artful
 article
 articles
 articulate
@@ -19993,6 +20009,7 @@ biscuits
 bisect
 bisecting
 bisection
+bisexuality
 bison
 bit
 bit-field
@@ -20147,6 +20164,7 @@ blueberries
 blueberry
 blueprint
 blueprints
+bluescreen
 bluetooth
 bluff
 bluffed
@@ -21933,6 +21951,7 @@ collator
 colleague
 colleagues
 collect
+collectable
 collected
 collectedly
 collectible
@@ -22187,6 +22206,7 @@ competences
 competencies
 competency
 competent
+competently
 competes
 competing
 competition
@@ -22641,6 +22661,7 @@ consigned
 consignment
 consist
 consisted
+consistencies
 consistency
 consistent
 consistently
@@ -23590,6 +23611,7 @@ cusses
 cussing
 custodial
 custodian
+custodians
 custody
 custom
 customary
@@ -27231,6 +27253,7 @@ extremist
 extricated
 extrinsic
 extrinsically
+extruding
 exude
 exuded
 exudes
@@ -27398,6 +27421,14 @@ fancifulness
 fancy
 fancying
 fans
+fantasise
+fantasised
+fantasises
+fantasising
+fantasize
+fantasized
+fantasizes
+fantasizing
 fantastic
 fantastical
 fantastically
@@ -27429,6 +27460,7 @@ fascism
 fascist
 fashion
 fashionable
+fashionably
 fashioned
 fast
 fast-forward
@@ -28498,6 +28530,7 @@ full-stacked
 full-text
 full-time
 full-width
+fullback
 fuller
 fullest
 fullness
@@ -29222,6 +29255,7 @@ groom
 groomed
 groomer
 grooming
+grooms
 groove
 grooves
 groovy
@@ -29366,6 +29400,8 @@ hailing
 hails
 hair
 haircut
+hairdryer
+hairdryers
 hairless
 hairs
 hairstyle
@@ -29642,6 +29678,7 @@ heapified
 heapify
 heaps
 hear
+hearable
 heard
 hearing
 hears
@@ -30484,6 +30521,7 @@ impartiality
 impartially
 imparts
 impassable
+impassioned
 impatience
 impatient
 impatiently
@@ -30543,6 +30581,8 @@ implementors
 implements
 implicate
 implicated
+implicates
+implicating
 implication
 implications
 implicit
@@ -32625,9 +32665,14 @@ legitimacy
 legitimate
 legitimately
 legitimates
+legitimise
+legitimised
+legitimises
+legitimising
 legitimize
 legitimized
 legitimizes
+legitimizing
 legs
 legume
 legumes
@@ -32846,6 +32891,7 @@ linux-kernel
 linux-specific
 linux-x64
 lion
+lioness
 lions
 lip
 lips
@@ -33460,6 +33506,7 @@ master's
 master-driven
 mastered
 masterful
+masterfully
 mastering
 mastermind
 masterpiece
@@ -33604,6 +33651,7 @@ mechanizes
 mechanizing
 medal
 medalist
+medalists
 medals
 meddle
 meddled
@@ -34133,6 +34181,7 @@ mistaken
 mistakenly
 mistakes
 mistaking
+mistakingly
 mister
 mistime
 mistimed
@@ -34435,6 +34484,10 @@ motorcycle
 motorcycles
 motorist
 motorists
+motorize
+motorized
+motorizes
+motorizing
 motors
 motto
 mould
@@ -34794,6 +34847,7 @@ naps
 narcissism
 narcissist
 narcissistic
+narcissists
 narcotic
 narcotics
 narrate
@@ -35112,6 +35166,7 @@ non-arc
 non-atomic
 non-beginners
 non-behavioural
+non-biased
 non-blocking
 non-breaking
 non-cellular
@@ -35674,6 +35729,7 @@ oledb
 oligarchy
 olive
 olives
+olympians
 olympic
 omission
 omit
@@ -36418,6 +36474,7 @@ panicking
 panics
 panned
 panorama
+panoramas
 panoramic
 pantheon
 pantheons
@@ -36964,9 +37021,11 @@ pessimization
 pest
 pests
 pet
+petaFLOPS
 petabyte
 petabyte-scale
 petabytes
+petaflops
 petition
 petrified
 petrol
@@ -37003,6 +37062,8 @@ phoenix
 phoenixes
 phone
 phone's
+phonecall
+phonecalls
 phones
 phonetic
 phonetically
@@ -37088,6 +37149,7 @@ pigment
 pigmentation
 pigments
 pigs
+pijamas
 pike
 pile
 piled
@@ -37347,6 +37409,7 @@ poem
 poems
 poet
 poetic
+poetically
 poetry
 poets
 poignant
@@ -37469,6 +37532,7 @@ popularity
 popularization
 popularize
 popularized
+popularizer
 popularizes
 popularly
 populate
@@ -38209,6 +38273,7 @@ promo
 promote
 promoted
 promoter
+promoters
 promotes
 promoting
 promotion
@@ -38429,6 +38494,10 @@ publically
 publication
 publications
 publicity
+publicize
+publicized
+publicizes
+publicizing
 publicly
 publish
 published
@@ -38454,6 +38523,10 @@ pulled
 pulling
 pulls
 pulp
+pulsate
+pulsated
+pulsates
+pulsating
 pulsation
 pulse
 pulsing
@@ -38666,6 +38739,7 @@ quest
 question
 question-answering
 questionable
+questionably
 questioned
 questioning
 questionnaire
@@ -39997,6 +40071,7 @@ reorganization
 reorganize
 reorganized
 reorganizes
+reorientation
 repack
 repackaging
 repacked
@@ -40029,6 +40104,7 @@ repeals
 repeat
 repeatability
 repeatable
+repeatably
 repeated
 repeatedly
 repeater
@@ -40823,6 +40899,7 @@ rom
 romance
 romantic
 romantically
+romanticist
 roof
 roofer
 roofing
@@ -41550,6 +41627,7 @@ self-education
 self-employed
 self-explaining
 self-explanatory
+self-expression
 self-hosted
 self-improvement
 self-knowledge
@@ -42020,6 +42098,8 @@ showers
 showing
 showman
 shown
+showroom
+showrooms
 shows
 showstopper
 shrank
@@ -42094,6 +42174,7 @@ sidewalk
 sidewalks
 sidewall
 sidewalls
+sideway
 sideways
 siding
 siege
@@ -42128,6 +42209,8 @@ signed
 significance
 significant
 significantly
+signification
+significations
 signified
 signifies
 signify
@@ -42641,6 +42724,7 @@ sociable
 social
 social-media
 social-networking
+socialisation
 socialise
 socialised
 socialism
@@ -43326,6 +43410,7 @@ staring
 stark
 starkly
 starlight
+starred
 starring
 stars
 start
@@ -44144,6 +44229,7 @@ supermarket
 supermarkets
 supermodel
 supernatural
+superposed
 superpowers
 superscaling
 supersede
@@ -44726,6 +44812,7 @@ technics
 technique
 techniques
 techno
+technocratic
 technological
 technologically
 technologies
@@ -45345,6 +45432,7 @@ tolerances
 tolerant
 tolerate
 tolerated
+tolerates
 tolerating
 toll
 tomato
@@ -45437,6 +45525,7 @@ torn
 tornado
 tornadoes
 torque
+torqued
 torques
 torrent
 torrents
@@ -46546,6 +46635,7 @@ uninitiated
 uninspired
 uninstall
 uninstalled
+uninstaller
 uninstalling
 uninstalls
 unintelligible
@@ -46824,6 +46914,7 @@ unsolicited
 unsolvable
 unsolved
 unsorted
+unspeakably
 unspecified
 unspent
 unsplash
@@ -46846,6 +46937,7 @@ unsubscribe
 unsubscribed
 unsubscribes
 unsubscribing
+unsubsidized
 unsubstantiated
 unsuccessful
 unsuccessfully
@@ -47291,6 +47383,7 @@ vegetable
 vegetables
 vegetarian
 vegetarians
+vegetated
 veggies
 vehicle
 vehicles
@@ -47415,6 +47508,7 @@ vibrating
 vibration
 vibrational
 vibrations
+vibratory
 vicarious
 vicariously
 vice
@@ -47775,6 +47869,7 @@ washed-out
 washer
 washes
 washing
+washy
 wasm
 wasmer
 wasn't
@@ -47826,6 +47921,7 @@ waving
 wavy
 wax
 waxed
+waxing
 waxy
 way
 wayland
@@ -48102,6 +48198,10 @@ wheelchair
 wheeling
 wheels
 wheely
+wheeze
+wheezed
+wheezes
+wheezing
 whelmed
 whelming
 when
