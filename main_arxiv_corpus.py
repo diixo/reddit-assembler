@@ -117,7 +117,7 @@ def processing(dictionary: Counter):
 
             tokens = str_tokenize_words(txt)
 
-            dictionary.update([ w for w in tokens if len(w) > 1 ])
+            dictionary.update([ w for w in tokens if len(w) > 3 ])
 
     print(f"total items={idx}")
 
