@@ -15,7 +15,7 @@ if __name__ == "__main__":
             txt = lemma.name().replace("_", " ")
             english_words.add(txt)
 
-    with open("data/nltk_english_wordnet_words.txt", "w", encoding="utf-8") as f:
+    with open("data/nltk_wordnet_words.txt", "w", encoding="utf-8") as f:
         for word in sorted(english_words):
             f.write(word + "\n")
 
