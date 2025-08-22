@@ -150,7 +150,7 @@ if __name__ == "__main__":
         dictionary = Counter(new_dict)
         save_embedded_dict(embedded_words)
 
-        #####################################################
+    #############################################################################
 
     if len(dictionary) > 0:
 
