@@ -130,12 +130,31 @@ if __name__ == "__main__":
 
     dictionary = Counter()
 
-    processing(dictionary)
+    #processing(dictionary)
 
-    if len(dictionary.items()) > 0:
 
-        dictionary = Counter(filter_dictionary(dictionary, embedded_words))
+    dictionary = Counter(filter_dictionary(dictionary, embedded_words))
 
+    if False:
+        new_dict = dict()
+
+        for word, count in dictionary.items():
+            word = word.strip()
+            if word not in embedded_words:
+                if word.lower() in embedded_words:
+                    embedded_words.add(word)
+                    #print(f"added: [{word}]")
+                else:
+                    new_dict[word] = count
+
+        dictionary = Counter(new_dict)
+        save_embedded_dict(embedded_words)
+
+        #####################################################
+
+    if len(dictionary) > 0:
+
+        print(f"Saved arxiv-json.sz={len(dictionary.items())}")
 
         with Path("data/arxiv-dictionary.json").open("w", encoding="utf-8") as f:
             json.dump(dictionary, f, indent=2)
