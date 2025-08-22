@@ -117,7 +117,7 @@ def processing(dictionary: Counter):
 
             tokens = str_tokenize_words(txt)
 
-            dictionary.update([ w for w in tokens if len(w) > 1 ])
+            dictionary.update([ w for w in tokens if len(w) > 3 ])
 
     print(f"total items={idx}")
 
@@ -135,7 +135,7 @@ if __name__ == "__main__":
 
     dictionary = Counter(filter_dictionary(dictionary, embedded_words))
 
-    if False:
+    if True:
         new_dict = dict()
 
         for word, count in dictionary.items():

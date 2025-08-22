@@ -2159,7 +2159,9 @@ Beware
 Bewitched
 Beyond
 Bi-Directional
+Bi-LSTM
 Bi-directional
+BiLSTM
 Bias
 Bias-Variance
 Bias-variance
@@ -9274,6 +9276,7 @@ GPS
 GPT
 GPT-2
 GPT-4
+GPTs
 GPU
 GPU-Based
 GPU-based
@@ -17762,6 +17765,7 @@ RISK
 RMSE
 RNN
 RNN's
+RNN-based
 RNNS
 RNNs
 ROI
@@ -25838,6 +25842,7 @@ admission
 admissions
 admit
 admits
+admittance
 admitted
 admittedly
 admitting
@@ -25924,6 +25929,7 @@ advocacy
 advocate
 advocated
 advocates
+advocating
 adware
 adwares
 adwords
@@ -26449,6 +26455,7 @@ ancestry
 anchor
 anchor-text
 anchored
+anchoring
 anchors
 ancient
 ancients
@@ -26772,6 +26779,7 @@ approximates
 approximating
 approximation
 approximations
+approximator
 approximators
 apps
 apricot
@@ -26787,8 +26795,10 @@ aquarium
 aquariums
 aquatic
 ar
+arXiv
 arabic
 arbiter
+arbitrage
 arbitrarily
 arbitrary
 arbitration
@@ -27645,6 +27655,7 @@ barriers
 barring
 bars
 bart
+barycenter
 barycentric
 base
 base-point
@@ -27930,6 +27941,7 @@ biased
 biases
 biasing
 bible
+bibliographic
 bibliography
 bicycle
 bicycles
@@ -27966,6 +27978,7 @@ bills
 bimodal
 bin
 binaries
+binarized
 binary
 binarysearch
 bination
@@ -30138,6 +30151,7 @@ commodities
 commodity
 common
 common-api
+common-sense
 commonalities
 commonapi
 commonapi-tools
@@ -30551,6 +30565,7 @@ conform
 conformal
 conformance
 conformation
+conformations
 conformed
 conforming
 conformity
@@ -30822,6 +30837,7 @@ contested
 contests
 context
 context-aware
+context-based
 context-dependent
 context-free
 context-sensitive
@@ -30855,6 +30871,7 @@ continuous
 continuous-integration
 continuous-time
 continuously
+continuum
 contour
 contours
 contra-variance
@@ -30868,6 +30885,7 @@ contractibility
 contracting
 contraction
 contractions
+contractive
 contractor
 contractors
 contracts
@@ -31949,6 +31967,7 @@ debian
 debiased
 debiasing
 debit
+deblurring
 debt
 debts
 debug
@@ -34044,6 +34063,7 @@ egg
 egging
 eggs
 ego
+egocentric
 eigen
 eigen3
 eigensolver
@@ -34253,6 +34273,7 @@ emits
 emitted
 emitting
 emoji
+emojis
 emotion
 emotional
 emotionality
@@ -36082,6 +36103,7 @@ fluids
 flung
 flunk
 flunked
+fluorescence
 fluorescent
 flurry
 flush
@@ -36269,6 +36291,7 @@ form-based
 form-factor
 form-feed
 formal
+formalisation
 formalise
 formalised
 formalises
@@ -36886,6 +36909,7 @@ geometrically
 geometrics
 geometries
 geometry
+geometry-based
 geophysics
 geopolitical
 geopolitically
@@ -38105,6 +38129,7 @@ hopes
 hoping
 hopped
 hopping
+hops
 horde
 hordes
 horizon
@@ -38230,6 +38255,7 @@ huggingface
 hugs
 hulking
 hull
+hulls
 human
 human-AI
 human-centric
@@ -39209,6 +39235,7 @@ ini
 inimitable
 init
 initial
+initialisation
 initialise
 initialised
 initialises
@@ -39254,6 +39281,7 @@ inked
 inking
 inky
 inlaws
+inlier
 inlinable
 inline
 inlined
@@ -39677,6 +39705,7 @@ intersect
 intersected
 intersecting
 intersection
+intersectional
 intersections
 intersects
 interval
@@ -39686,6 +39715,7 @@ intervened
 intervenes
 intervening
 intervention
+interventions
 interview
 interviewed
 interviewee
@@ -40355,6 +40385,7 @@ keynotes
 keypad
 keypair
 keyphrase
+keyphrases
 keypoint
 keypoints
 keypress
@@ -40462,6 +40493,7 @@ knowingly
 knowledgable
 knowledge
 knowledge-based
+knowledge-driven
 knowledge-sharing
 knowledge-transfer
 knowledgeable
@@ -41244,6 +41276,7 @@ low-code
 low-cost
 low-dimensional
 low-end
+low-energy
 low-frequency
 low-grade
 low-latency
@@ -41325,6 +41358,7 @@ luxury
 lvalue
 lvalues
 lying
+mBERT
 mHz
 mac
 macBook
@@ -42174,6 +42208,7 @@ misbehaved
 misbehaves
 misbehaving
 misc
+miscalibration
 miscarriage
 miscellaneous
 miscellany
@@ -42630,6 +42665,7 @@ mull
 mulling
 mulls
 multi
+multi-GPU
 multi-agent
 multi-attribute
 multi-browser
@@ -42805,6 +42841,7 @@ multiverse
 multiverses
 multiversion
 multiview
+multy-query
 mundane
 municipal
 municipality
@@ -43061,6 +43098,7 @@ neighbors
 neighbour
 neighbourhood
 neighbourhoods
+neighbouring
 neighbourly
 neighbours
 neither
@@ -43230,6 +43268,7 @@ nofollowed
 nohow
 noise
 noised
+noiseless
 noises
 noisier
 noising
@@ -43623,6 +43662,7 @@ oblige
 obliged
 obliges
 obliging
+oblique
 obliquity
 obliterate
 obliterated
@@ -44644,6 +44684,7 @@ paranoid
 paranormal
 paraphrase
 paraphrased
+paraphrases
 paraphrasing
 parasite
 parasites
@@ -44912,6 +44953,7 @@ peg
 pegs
 pen
 penal
+penalization
 penalize
 penalized
 penalizes
@@ -46353,6 +46395,7 @@ projection
 projections
 projective
 projector
+projectors
 projects
 proliferate
 proliferated
@@ -47277,6 +47320,7 @@ reason
 reasonable
 reasonably
 reasoned
+reasoner
 reasoning
 reasonings
 reasons
@@ -47353,6 +47397,7 @@ recalibrate
 recalibrated
 recalibrates
 recalibrating
+recalibration
 recall
 recalled
 recalling
@@ -48463,6 +48508,7 @@ residents
 resides
 residing
 residual
+residual-based
 residually
 residuals
 residue
@@ -48518,6 +48564,7 @@ resorts
 resound
 resource
 resource-based
+resource-constrained
 resource-intensive
 resourceful
 resources
@@ -48748,6 +48795,7 @@ reverse
 reverse-engineering
 reversed
 reverses
+reversibility
 reversible
 reversibly
 reversing
@@ -49711,6 +49759,7 @@ selection
 selections
 selective
 selectively
+selectivity
 selector
 selectors
 selects
@@ -51473,6 +51522,7 @@ stakeholder
 stakeholders
 stakes
 stale
+staleness
 stalk
 stalked
 stalker
@@ -51488,6 +51538,7 @@ stamp
 stamped
 stamps
 stance
+stances
 stand
 stand-alone
 stand-up
@@ -52341,6 +52392,7 @@ superficial
 superficially
 superhuman
 superimpose
+superimposed
 superintelligence
 superintend
 superior
@@ -52684,6 +52736,7 @@ syntaxerror
 syntaxes
 synth
 synthesis
+synthesise
 synthesize
 synthesized
 synthesizer
@@ -53426,6 +53479,7 @@ tightening
 tighter
 tightly
 tightness
+tilde
 tile
 tiled
 tiles
@@ -53633,6 +53687,7 @@ topically
 topics
 topless
 topographical
+topography
 topological
 topologically
 topologies
@@ -54425,6 +54480,7 @@ unbundled
 unbundles
 unbundling
 uncached
+uncalibrated
 uncalled
 uncanny
 uncaring
@@ -54566,6 +54622,7 @@ underrepresented
 undersampled
 undersampling
 underscore
+underscored
 underscores
 underscoring
 underside
@@ -56063,6 +56120,7 @@ waxing
 waxy
 way
 wayland
+waypoint
 waypoints
 ways
 wayside
@@ -56304,6 +56362,7 @@ well-suited
 well-targeted
 well-tuned
 well-written
+wellbeing
 welldone
 wellness
 wells
@@ -56334,6 +56393,7 @@ whatsoever
 wheat
 wheel
 wheelchair
+wheeled
 wheeling
 wheels
 wheely
