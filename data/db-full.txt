@@ -2568,6 +2568,7 @@ Brags
 Braid
 Brain
 BrainStorm
+Brained
 Brains
 Brainstorm
 Brainstorming
@@ -4528,7 +4529,9 @@ Constructively
 Constructor
 Constructors
 Constructs
+Consul
 Consulate
+Consuls
 Consult
 Consultancy
 Consultant
@@ -5847,6 +5850,7 @@ Demographic
 Demographically
 Demographics
 Demolished
+Demolishing
 Demonetization
 Demonstrably
 Demonstrate
@@ -6460,6 +6464,7 @@ Diskless
 Disks
 Dislike
 Dislikes
+Dislocation
 Dismantling
 Dismayed
 Dismiss
@@ -7322,6 +7327,9 @@ Emergent
 Emerges
 Emerging
 Emigrants
+Emigrate
+Emigrating
+Emigration
 Eminence
 Eminent
 Emission
@@ -7976,6 +7984,7 @@ Exists
 Exit
 Exiting
 Exits
+Exorcism
 Exoskeleton
 Exotic
 Expand
@@ -8337,8 +8346,10 @@ Fashion
 Fashionable
 Fashioned
 Fast
+Fast-Food
 Fast-Forward
 Fast-Paced
+Fast-food
 Fast-forward
 Fast-growing
 Fast-track
@@ -9137,6 +9148,7 @@ Frontpage
 Fronts
 Frost
 Frosted
+Frosty
 Froth
 Frothing
 Frothy
@@ -9723,6 +9735,7 @@ Granule
 Granules
 Grape
 Grapefruit
+Grapefruits
 Grapes
 Graph
 Graph-Based
@@ -12540,6 +12553,7 @@ Lecture
 Lecturer
 Lecturers
 Lectures
+Lecturing
 Led
 Left
 Left-to-Right
@@ -12549,10 +12563,12 @@ Leg
 Legacies
 Legacy
 Legal
+Legalisation
 Legality
 Legalization
 Legalize
 Legalized
+Legalizing
 Legally
 Legend
 Legendary
@@ -15529,6 +15545,7 @@ Organizers
 Organizing
 Organs
 Orgasm
+Orgasmic
 Orgasms
 Orgies
 Orgy
@@ -15982,6 +15999,7 @@ Parked
 Parking
 Parks
 Parliament
+Parlor
 Parody
 Parrot
 Parrots
@@ -16784,6 +16802,7 @@ Pork
 Porn
 Pornographic
 Pornography
+Pornstars
 Porous
 Port
 Portability
@@ -17950,6 +17969,7 @@ Ratio
 Rational
 Rationale
 Rationales
+Rationalism
 Rationality
 Rationalization
 Rationalize
@@ -20253,6 +20273,7 @@ Shifts
 Shimmer
 Shine
 Shines
+Shininess
 Shining
 Shiny
 Ship
@@ -21424,6 +21445,7 @@ Stations
 Statistic
 Statistical
 Statistically
+Statistician
 Statisticians
 Statistics
 Stats
@@ -22007,6 +22029,7 @@ Superiors
 Supermarket
 Supermarkets
 Supermodel
+Supermodels
 Supernatural
 Superposed
 Superposition
@@ -23887,6 +23910,7 @@ Uninterrupted
 Uninvited
 Union
 Unions
+Unipolar
 Unique
 Uniquely
 Uniqueness
@@ -26648,6 +26672,7 @@ antifreeze
 antimalware
 antiparticle
 antiparticles
+antipathy
 antiperspirant
 antiperspirants
 antiquity
@@ -26977,6 +27002,7 @@ article
 articles
 articulate
 articulated
+articulating
 articulation
 artifact
 artifacts
@@ -27160,6 +27186,7 @@ astounds
 astral
 astray
 astrologer
+astrologers
 astrological
 astrologist
 astrology
@@ -28454,6 +28481,7 @@ bragging
 brags
 braid
 brain
+brained
 brainless
 brains
 brainstorm
@@ -30818,7 +30846,9 @@ constructively
 constructor
 constructors
 constructs
+consul
 consulate
+consuls
 consult
 consultancy
 consultant
@@ -32315,6 +32345,10 @@ degrades
 degrading
 degree
 degrees
+dehumanize
+dehumanized
+dehumanizes
+dehumanizing
 deities
 deity
 deject
@@ -32413,6 +32447,8 @@ demographics
 demoing
 demolish
 demolished
+demolishes
+demolishing
 demonetization
 demonize
 demonized
@@ -32816,6 +32852,7 @@ devote
 devoted
 devotee
 devotees
+devotes
 devoting
 devotion
 devotional
@@ -33245,6 +33282,11 @@ disks
 dislike
 disliked
 dislikes
+dislocate
+dislocated
+dislocates
+dislocating
+dislocation
 dismal
 dismantle
 dismantled
@@ -34323,6 +34365,11 @@ emerges
 emerging
 emigrant
 emigrants
+emigrate
+emigrated
+emigrates
+emigrating
+emigration
 eminence
 eminent
 eminently
@@ -35168,6 +35215,7 @@ exit
 exited
 exiting
 exits
+exorcism
 exoskeleton
 exotic
 exotics
@@ -35597,6 +35645,7 @@ fashionable
 fashionably
 fashioned
 fast
+fast-food
 fast-forward
 fast-forwarded
 fast-growing
@@ -36596,6 +36645,7 @@ frontpage
 fronts
 frost
 frosted
+frosty
 froth
 frothed
 frothing
@@ -37260,6 +37310,7 @@ graduating
 graduation
 graffiti
 grain
+grained
 grains
 grainy
 grammar
@@ -37296,6 +37347,7 @@ granule
 granules
 grape
 grapefruit
+grapefruits
 grapes
 graph
 graph-based
@@ -37406,6 +37458,7 @@ grossed
 grosses
 grossly
 ground
+ground-breaking
 groundbreaking
 grounded
 grounding
@@ -37627,6 +37680,7 @@ handwritten
 handy
 hang
 hangar
+hangars
 hanged
 hangers
 hanging
@@ -38106,6 +38160,7 @@ holdings
 holdover
 holds
 hole
+holed
 holes
 holiday
 holidays
@@ -38190,6 +38245,7 @@ hopefully
 hopefulness
 hopeless
 hopelessly
+hopelessness
 hopes
 hoping
 hopped
@@ -38500,6 +38556,7 @@ idealised
 idealises
 idealising
 idealism
+idealist
 idealistic
 idealize
 idealized
@@ -38763,6 +38820,7 @@ importantly
 importation
 imported
 importer
+importers
 importing
 imports
 impose
@@ -40237,6 +40295,7 @@ jellyfish
 jellyfishes
 jenkins
 jerk
+jerked
 jerks
 jerky
 jest
@@ -40812,6 +40871,7 @@ lectured
 lecturer
 lecturers
 lectures
+lecturing
 led
 led-based
 left
@@ -40822,11 +40882,17 @@ leg
 legacies
 legacy
 legal
+legalisation
+legalise
+legalised
+legalises
+legalising
 legality
 legalization
 legalize
 legalized
 legalizes
+legalizing
 legally
 legend
 legendary
@@ -42686,6 +42752,7 @@ mounted
 mounting
 mounts
 mouse
+mouses
 mousey
 mouth
 mouths
@@ -44189,6 +44256,7 @@ organizes
 organizing
 organs
 orgasm
+orgasmic
 orgasms
 orgies
 orgy
@@ -44458,6 +44526,7 @@ overlapped
 overlapping
 overlaps
 overlay
+overlayed
 overlaying
 overlays
 overline
@@ -44794,6 +44863,8 @@ parking
 parks
 parley
 parliament
+parlor
+parlors
 parlour
 parlours
 parody
@@ -45123,6 +45194,7 @@ perimeter
 period
 periodic
 periodically
+periodicity
 periods
 peripheral
 peripherals
@@ -45783,6 +45855,8 @@ pork
 porn
 pornographic
 pornography
+pornstar
+pornstars
 porous
 port
 portability
@@ -47067,6 +47141,11 @@ radiation
 radiator
 radical
 radicalism
+radicalization
+radicalize
+radicalized
+radicalizes
+radicalizing
 radically
 radicals
 radio
@@ -47214,6 +47293,8 @@ ratio
 rational
 rationale
 rationales
+rationalise
+rationalism
 rationality
 rationalization
 rationalize
@@ -47683,6 +47764,7 @@ rectangular
 rectifiable
 rectified
 rectifier
+rectifiers
 rectifies
 rectify
 rectifying
@@ -48408,6 +48490,10 @@ repositioned
 repositioning
 repositories
 repository
+repossess
+repossessed
+repossesses
+repossessing
 repost
 reposted
 reposting
@@ -50221,6 +50307,7 @@ shelled
 shells
 shelter
 sheltered
+sheltering
 shelters
 shelves
 sheriff
@@ -50242,6 +50329,7 @@ shined
 shiner
 shiners
 shines
+shininess
 shining
 shiny
 ship
@@ -50912,6 +51000,7 @@ sniffer
 sniffing
 sniffs
 sniper
+snipped
 snippet
 snippets
 snitch
@@ -51724,6 +51813,7 @@ stations
 statistic
 statistical
 statistically
+statistician
 statisticians
 statistics
 stats
@@ -51847,6 +51937,7 @@ stocked
 stocking
 stocks
 stoic
+stoke
 stoked
 stokes
 stole
@@ -52494,6 +52585,7 @@ superiors
 supermarket
 supermarkets
 supermodel
+supermodels
 supernatural
 superposed
 superposition
@@ -54067,6 +54159,10 @@ transparently
 transpile
 transpiled
 transpiles
+transpire
+transpired
+transpires
+transpiring
 transplantation
 transplanted
 transport
@@ -54664,6 +54760,7 @@ undecidable
 undecided
 undeclared
 undef
+undefeated
 undefined
 undelete
 undeleted
@@ -54821,6 +54918,7 @@ unexploited
 unexplored
 unfair
 unfairly
+unfairness
 unfaithful
 unfamiliar
 unfastidious
@@ -54937,6 +55035,7 @@ uninvited
 uninvolved
 union
 unions
+unipolar
 uniprocessor
 unique
 unique_ptr
@@ -55221,6 +55320,7 @@ unsteady
 unstick
 unstoppable
 unstructured
+unstuck
 unstudied
 unsubscribe
 unsubscribed
