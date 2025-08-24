@@ -97,7 +97,6 @@ Italian
 cord
 quarks
 t
-chromosome
 N
 Vietnam
 sugars
@@ -108,7 +107,6 @@ mph
 Irish
 Greeks
 dr
-chromosomes
 conductor
 h
 amino
@@ -269,7 +267,6 @@ pan
 askscience
 z
 arc
-Vikings
 Einstein
 Apollo
 lithium
@@ -310,7 +307,6 @@ Hawking
 galactic
 ISPs
 Columbus
-Viking
 gram
 Antarctica
 sqrt
@@ -887,7 +883,6 @@ Nintendo
 childbirth
 arousal
 clot
-intestinal
 IRA
 iodine
 Italians
@@ -1197,7 +1192,6 @@ cathode
 masculine
 joules
 batter
-biblical
 Maya
 Welsh
 D-Day
@@ -1208,7 +1202,6 @@ turkey
 thrusters
 diuretic
 Victoria
-continuum
 gluons
 hypothermia
 propane
@@ -1387,7 +1380,6 @@ vagus
 opiates
 pope
 cosmology
-viking
 VII
 concussion
 Baltic
@@ -1436,7 +1428,6 @@ POWs
 carcinogens
 Yugoslavia
 telegraph
-vikings
 phosphorus
 Isles
 quo
@@ -1717,7 +1708,6 @@ Germs
 allergens
 RAF
 Mariana
-Biblical
 meiosis
 U-235
 Galileo
@@ -2214,7 +2204,6 @@ battleships
 Jimmy
 infertile
 Cape
-projectors
 decibel
 Saddam
 licence
@@ -2231,7 +2220,6 @@ esp
 coatings
 actin
 MD
-fluorescence
 jars
 Babylonian
 CS
@@ -2264,7 +2252,6 @@ Soccer
 rectum
 rib
 atleast
-hops
 vasodilation
 razors
 nitrate
@@ -2573,7 +2560,6 @@ aristocrats
 garments
 emitter
 carnivorous
-imbalances
 inanimate
 Olympus
 recoup
@@ -2595,7 +2581,6 @@ Gibraltar
 annex
 ionosphere
 Anglo-Saxons
-topography
 commiespaceinvader
 reps
 inks
@@ -2637,7 +2622,6 @@ Beethoven
 Indigenous
 manifestation
 Massacre
-plasticity
 Spaniards
 theological
 Greco-Roman
@@ -3007,7 +2991,6 @@ CP
 gyroscopes
 bra
 guerrilla
-neighbouring
 wife's
 silt
 pellets
@@ -3084,7 +3067,6 @@ Crassus
 nociceptors
 mergers
 gov
-advocating
 Nuremberg
 worsen
 prolific
@@ -3225,7 +3207,6 @@ Serbian
 acupuncture
 Shazam
 crankshaft
-barycenter
 inelastic
 hostilities
 dictatorships
@@ -4213,7 +4194,6 @@ rehydrate
 herbivore
 prosthetics
 Plato's
-low-energy
 Washington's
 shivers
 crevices
@@ -4622,7 +4602,6 @@ gummy
 sustenance
 foreigner
 videogame
-oblique
 coalesced
 robes
 humanity's
@@ -5056,7 +5035,6 @@ EMT
 snort
 Krebs
 flavorful
-superimposed
 perfected
 Radiolab
 dermal
@@ -5163,7 +5141,6 @@ proletariat
 posits
 L4
 NAT
-dunk
 Sub-Saharan
 tylenol
 mugs
@@ -5916,7 +5893,6 @@ transits
 A2
 faster-than-light
 ballistics
-Chromosomes
 Mann
 Colin
 sloped
@@ -6742,7 +6718,6 @@ CFL
 lopsided
 technicality
 sourness
-hulls
 quenching
 Kevlar
 Nigerian
@@ -6755,7 +6730,6 @@ observer's
 microstates
 keratinocytes
 adaption
-medics
 statutory
 incite
 30th
@@ -6982,7 +6956,6 @@ interned
 inkjet
 iconography
 libra
-self-control
 shoddy
 culmination
 Metabolic
@@ -7221,14 +7194,12 @@ torsion
 USN
 Israelites
 Kashmir
-emojis
 UHD
 Appalachians
 sublimates
 quinine
 destitute
 Luna
-stances
 oxidise
 cognomen
 Templars
@@ -7359,7 +7330,6 @@ innervated
 Deng
 sapphire
 Mexico's
-Chromosome
 barbed
 pouches
 Hendrix
@@ -7566,7 +7536,6 @@ kink
 notwithstanding
 forearms
 colonizers
-interventions
 Anglican
 atherosclerosis
 Harbour
@@ -7595,7 +7564,6 @@ swedish
 fiddle
 mason
 sandwiched
-enclosures
 unscrew
 PT
 overstimulated
@@ -7680,7 +7648,6 @@ viewfinder
 luminance
 Hamilton's
 aneurysm
-wellbeing
 unburnt
 megaparsec
 boo
@@ -8042,12 +8009,10 @@ scrubbed
 Reds
 ow
 kidnap
-anchoring
 arousing
 dictatorial
 bioluminescence
 alcohol's
-widows
 utopia
 drool
 stipend
@@ -8061,7 +8026,6 @@ Sergeant
 FEMA
 ala
 dissidents
-medic
 Vaseline
 overgrowth
 osmolarity
@@ -8114,7 +8078,6 @@ Ur
 Pyrex
 Vader
 Amanda
-socialization
 footwear
 Aussie
 IMDB
@@ -9653,7 +9616,6 @@ coalitions
 bpm
 Gorbachev's
 alkanes
-synthesise
 commensal
 POW's
 Pacquiao
@@ -10970,7 +10932,6 @@ Feudal
 light-emitting
 Bosnians
 topmost
-wheeled
 precinct
 sprinkler
 Quebecois
@@ -12244,7 +12205,6 @@ Sorta
 Atari
 .wav
 autopsies
-harnesses
 sativa
 jerseys
 5v
@@ -12278,7 +12238,6 @@ vile
 registrars
 curbs
 Everett
-Fluorescence
 Lo
 ketogenic
 pander
@@ -12286,7 +12245,6 @@ TLDs
 bx
 Bamboo
 tines
-arbitrage
 post-apocalyptic
 org
 Herod
@@ -12836,7 +12794,6 @@ Politburo
 center-of-mass
 Laniakea
 time-translation
-undecidable
 putative
 lorentz
 Stone's
@@ -13136,7 +13093,6 @@ high-intensity
 Slovenia
 dm
 Vinci's
-stamping
 sooo
 Carol
 tanked
@@ -13625,7 +13581,6 @@ complacent
 bracing
 babble
 streetlight
-actuator
 econ
 pimp
 confusingly
@@ -13742,7 +13697,6 @@ annoyingly
 Ouija
 hard-drive
 emotionless
-snacking
 averse
 divots
 inebriation
@@ -13965,7 +13919,6 @@ Bradford
 Sims
 Monica
 dz
-dunking
 Synesthesia
 left-over
 Interstates
@@ -14595,7 +14548,6 @@ li-ion
 Rolex
 rar
 equaling
-selectivity
 encirclement
 yellowing
 Nicaraguan
@@ -15709,7 +15661,6 @@ Hydro
 targetting
 9x
 defrag
-actuators
 Corvette
 beater
 gfycat
@@ -16610,7 +16561,6 @@ il
 9pm
 orphanage
 peeve
-suites
 eau
 jesters
 WOW
@@ -16931,7 +16881,6 @@ hailstones
 1Gb
 Annie
 hydrofoil
-supervisors
 tuba
 orchards
 infidels
@@ -18083,7 +18032,6 @@ vsauce
 groan
 Olber's
 anti-static
-waypoint
 Prostitutes
 beakers
 covenants
@@ -18952,7 +18900,6 @@ Chariot
 complex-valued
 phosphodiester
 mobilisation
-conformations
 ethnographic
 meltwater
 viscosities
@@ -19205,7 +19152,6 @@ at-will
 pro-Russian
 un-American
 adressed
-Hops
 Ales
 progressives
 small-time
@@ -19485,7 +19431,6 @@ OG
 spatula
 gigabits
 lambs
-arXiv
 HW
 earthshine
 facially
@@ -19566,7 +19511,6 @@ Androgenic
 martensite
 Goku
 quelled
-swipes
 PMCs
 Ampere's
 nationhood
@@ -20572,7 +20516,6 @@ Lynn
 Reza
 Undergrad
 5L
-apolitical
 antipodal
 anti-parallel
 Frederic
@@ -20947,7 +20890,6 @@ certian
 AHA
 jerked
 rationalise
-dunked
 handkerchief
 set-top
 Anti-depressants
@@ -21119,7 +21061,6 @@ no-name
 Megalodon
 memorise
 mammograms
-commotion
 grinders
 Alderaan
 stoner
@@ -22753,7 +22694,6 @@ impactors
 zebrafish
 macroscale
 co-rotating
-decidable
 pKb
 p450
 x-direction
@@ -22777,7 +22717,6 @@ Prader-Willi
 inhomogeneous
 unitarity
 pp-chain
-reversibility
 thermionic
 space-like
 diffusivity
@@ -23238,12 +23177,10 @@ poisonings
 bottlenecked
 anesthesiologists
 Nepalese
-overhand
 trackable
 transgenders
 shorteners
 magnates
-monumentally
 actuarial
 warzones
 midgets
@@ -24294,7 +24231,6 @@ outbreeding
 letterbox
 MDs
 fief
-Continuum
 Pancho
 100AD
 Decriminalizing
@@ -25844,7 +25780,6 @@ single-handedly
 PMC
 computer-controlled
 6'4
-staleness
 NK's
 mid-way
 Brest
@@ -27300,7 +27235,6 @@ FT
 pylon
 call-sign
 Pareidolia
-piglets
 Regnant
 ten-year
 SKS
@@ -27632,7 +27566,6 @@ TRPA1
 outter
 p-orbitals
 flexors
-admittance
 Solzhenitsyn
 Crucifixion
 fertilisers
@@ -27645,7 +27578,6 @@ Biff
 Thermonuclear
 102F
 anti-noise
-Intestinal
 conspecifics
 place's
 Nebulas
@@ -28477,7 +28409,6 @@ Sauron's
 Eukaryota
 PGA
 fanfiction
-Emojis
 U+
 200-250
 Vishnu
@@ -28674,7 +28605,6 @@ earrings
 bales
 Vulkan
 plotter
-egocentric
 anti-Semites
 chain-reaction
 judgemental
@@ -28692,7 +28622,6 @@ dicking
 taiwan
 herniated
 super-critical
-detonators
 Kruger
 Swift's
 q's
@@ -28724,7 +28653,6 @@ Saccharin
 Roald
 yellow-brown
 Prosecutors
-freestyle
 alarmingly
 devkit
 exorcism
@@ -34277,7 +34205,6 @@ nigh-impossible
 Daft
 Amanita
 km3
-Projectors
 limos
 roughtly
 rifle's
@@ -38510,7 +38437,6 @@ Immunities
 Sepp
 User1
 Laborers
-recalibration
 earthers
 re-ask
 calorie-rich
@@ -39413,7 +39339,6 @@ Guru
 householders
 8-core
 12-volt
-Dunk
 Hillary's
 Martensite
 ting
@@ -39533,7 +39458,6 @@ current-day
 Downforce
 flashdrive
 offgassing
-Freestyle
 bloodtype
 tubas
 Markus
@@ -39984,7 +39908,6 @@ bubble's
 extractable
 MyProject
 1040EZ
-amortized
 hindi
 Winglets
 NVRAM
@@ -45904,9 +45827,7 @@ LWC
 H-R
 Argentavis
 lipocytes
-larks
 preburner
-Barycenter
 hydrolyse
 fossiles
 L-DNA
@@ -47116,7 +47037,6 @@ inhereted
 re-master
 harm's
 hottie
-Staleness
 trashcan
 1630's
 procces
@@ -47286,7 +47206,6 @@ HDO
 attacted
 emboldened
 snifter
-semi-final
 3Mbit
 Similiar
 barricaded
@@ -48407,7 +48326,6 @@ multifamily
 electricity's
 non-clergy
 refference
-initialisation
 intelectual
 200M
 appallingly
@@ -48608,7 +48526,6 @@ astroturfing
 Moray
 street-level
 re-frozen
-intersectional
 ContentID
 sergeant-at-arms
 Hunchback
@@ -50334,7 +50251,6 @@ sail-powered
 payoffs
 Soybean
 Walton
-jetting
 einstein's
 foodpipe
 bynames
@@ -50768,7 +50684,6 @@ true-to-life
 clefts
 45k
 huskys
-Medic
 Climax
 infinitly
 12-pack
@@ -51400,7 +51315,6 @@ oversimplifications
 Imposter
 user-submitted
 Trudeau's
-bowled
 SJ
 Constantinian
 set-in-stone
@@ -51956,7 +51870,6 @@ Orchestras
 refloated
 Creosote
 Hinkley
-Topography
 Al-Jazeera
 caput
 casualities
@@ -52171,7 +52084,6 @@ cobblestones
 Mites
 Histamin
 adminstrative
-tilde
 fussing
 yesterdays
 liveable
@@ -52476,7 +52388,6 @@ seltzers
 sync'd
 post-dated
 connote
-Plasticity
 waaaaaay
 informercials
 hier
@@ -53353,7 +53264,6 @@ Roko's
 Thrilla
 personifies
 brunet
-Medics
 wankel
 radials
 intereference
@@ -54320,7 +54230,6 @@ Gu
 Bowing
 armys
 sacundim
-dunks
 pog
 Lubeck
 53km
@@ -55683,7 +55592,6 @@ Moynihan
 MrBigHouse
 Ruire
 Vorenus
-bibliographic
 SOAS
 FLQ
 CSN
@@ -57744,7 +57652,6 @@ Cosimo
 Novae
 Falx
 tsang
-morphing
 cor
 tuscan
 Leupp
@@ -60663,7 +60570,6 @@ hardbacks
 hardcovers
 stiching
 keypresses
-Morphing
 f5
 lacto
 grandfathering
@@ -61273,7 +61179,6 @@ middle-to-upper
 Jihadist
 proletariats
 close-minded
-optimist
 NOM
 webgames
 caracters
@@ -63694,7 +63599,6 @@ four-letter
 aliexpress
 exorcist
 eSport
-slippy
 Rudd's
 signallers
 nerve-endings
@@ -65938,7 +65842,6 @@ requestor
 sanctimonious
 non-STD
 anti-cannabis
-jetted
 cytometers
 phermones
 Batting
@@ -66811,7 +66714,6 @@ SHTF
 Krugerrands
 Xvid
 Windows-specific
-Stances
 Spencer's
 Lazenby
 biologicly
@@ -67805,7 +67707,6 @@ shelfs
 riconquer
 Schaeffer
 ELI5-friendly
-common-sense
 Nominalised
 gigaton
 SUNDIAL
@@ -68320,7 +68221,6 @@ green-eyed
 government-ran
 McSorley
 Austin's
-semi-finals
 tug-o-war
 turbo-pump
 amish
@@ -68982,7 +68882,6 @@ B00nah700
 preroll
 CPGrey
 CCFLs
-samplers
 palpate
 fibroids
 Non-Binary
@@ -69307,7 +69206,6 @@ dispaced
 chicanery
 Wiimote
 pinterest
-Widows
 non-socially
 Ixnay
 iowa
@@ -76006,7 +75904,6 @@ limerick
 wonderwall
 appraising
 unexceptional
-biblically
 zepplin
 poignancy
 Olson
@@ -84318,7 +84215,6 @@ chemosensory
 ice-nine
 10Log10
 Elana
-Low-energy
 heat-sink
 bioorthogonal
 visibile
@@ -87439,7 +87335,6 @@ Photonic
 energy-content
 cypionate
 plutoid
-Undecidable
 chromosome-specific
 goal-driven
 mars-sized
@@ -88594,7 +88489,6 @@ over-writable
 2pi6
 hypernovas
 10ly
-Overhand
 Stony
 anisocoria
 Concentrator
@@ -90465,7 +90359,6 @@ FileNotFoundException
 re-airing
 McTwisty
 TEDtalk
-cyberattacks
 Radiolap
 interviewee's
 Reckitt's
@@ -90609,7 +90502,6 @@ call-ins
 .AAC
 audiocassette
 6-film
-Waypoint
 vacinated
 iX
 6600K
@@ -91587,7 +91479,6 @@ washbasin
 atnosphere
 scariness
 mountaineer
-Egocentric
 TAKS
 60bil
 leal
@@ -92595,7 +92486,6 @@ OSD
 Stickering
 hippie-ized
 airbridge
-Arbitrage
 2-of-3
 50x50
 4px
@@ -97188,7 +97078,6 @@ Eye-witness
 Shkerelli
 placozoans
 worst-record
-Harnesses
 aggressively-marketed
 circumhorizontal
 electromicroscopes
@@ -101019,7 +100908,6 @@ regular-colored
 Gamebryo
 192GB
 wavs
-piglet
 taquito
 303K
 course-work
@@ -105258,7 +105146,6 @@ aagainst
 non-knowledge
 post-crisis
 Prick
-Intersectional
 Able-bodied
 SMB3
 MMC3
@@ -108391,7 +108278,6 @@ AmA's
 Corrolla
 JonBenet
 non-basic
-uncalibrated
 electropop
 hospital-grade
 Mudskipper
@@ -111384,7 +111270,6 @@ post-mayoral
 super-savers
 Eventuality
 Dalai's
-Dunks
 reactio
 demotivational
 quasi-sentient
@@ -114629,7 +114514,6 @@ imediatly
 statrs
 1-as
 unconscionably
-soundness
 Mello
 Yello
 potholer
@@ -122714,7 +122598,6 @@ MBAs
 hacker-free
 descision
 neurosurgey
-Anchoring
 dicing
 Stowing
 graftings
@@ -124551,7 +124434,6 @@ collegic
 idribble
 doqn
 leftfoot
-Stamping
 becausing
 Visors
 bandanas
@@ -125518,7 +125400,6 @@ neuropathways
 24K
 18K
 1ct
-Optimist
 lasagne
 nutritionism
 technially
@@ -126463,7 +126344,6 @@ waled
 ChemTrails
 alcalinity
 femur's
-penalization
 Physician's
 mini-doctors
 wound's
@@ -130032,7 +129912,6 @@ Mara-18
 CREATIONIST
 SPECIATION
 HUMAN-CREATED
-COMMON-SENSE
 SPECIATED
 Akana
 under-cutting
@@ -133617,7 +133496,6 @@ fluid-tight
 Bajaj
 Platina
 ungreen
-miscalibration
 questinons
 Sinese
 Pez
@@ -134522,7 +134400,6 @@ backstories
 wise-cracking
 videoconference
 HPMOR
-reasoner
 Tic-Tacs
 April-time
 springier
@@ -150362,7 +150239,6 @@ clock-coordination
 sinecures
 Vida
 Robineon
-Enclosures
 armiger
 bull-headed
 clew
@@ -152723,7 +152599,6 @@ Kinkaid's
 Schiffman
 irreplacibility
 pincushion
-formalisation
 1337-1453
 terram
 Salicam
@@ -157443,7 +157318,6 @@ tuento
 authoress
 Kure
 Ten-Go
-VIKINGS
 Oldcastle's
 Baynes
 lack-luster
@@ -159621,7 +159495,6 @@ ARCHER
 BRAVO
 Badon
 Dalley's
-paraphrases
 Atra-Hasis
 Enuma
 Elish
@@ -167803,7 +167676,6 @@ Gunsmiths
 Cytologists
 hungers
 Briatains
-Socialization
 Rightist
 Qin's
 Warrings
@@ -172337,7 +172209,6 @@ Alemanii
 wheelock
 lockwork
 Gunpowder-based
-Wheeled
 binarybandit
 boxcars
 ridicolous
@@ -172401,7 +172272,6 @@ Taofen
 white-only
 Zou's
 Arkush
-Biblically
 late-20th-century
 handcannons
 houfnice
@@ -183921,7 +183791,6 @@ Gravitomagnetic
 graviphotons
 uptodate
 120-125
-Decidable
 force-quit
 non-interruptible
 syscalls
@@ -188558,7 +188427,6 @@ klinokenssis
 passivization
 nasally-adminsitered
 MILLIvolts
-Swipes
 radulas
 effot
 kft
@@ -190000,7 +189868,6 @@ anti-colors
 counter-claims
 soundest
 Alphago
-Dunking
 supinated
 Shubin's
 thermo-electric
@@ -197339,7 +197206,6 @@ Dexmedetomidine
 alpha-2
 VLPON
 orexinergic
-contractive
 Scallywag
 Patchgrabber
 P-239
@@ -202796,7 +202662,6 @@ Salinities
 Intensification
 Drysol
 behooved
-approximator
 20kgs
 Maribel
 ica-caps
@@ -205919,7 +205784,6 @@ Trans-cranial
 6-10000
 melanopsin
 ionospheres
-CHROMOSOME
 Catrobbins
 telemere
 self-fertilizing
@@ -206383,7 +206247,6 @@ anyions
 anyon
 anyons
 Tice
-Self-Control
 351-355
 166665th
 666665th
@@ -206698,7 +206561,6 @@ themeaningofhaste's
 guncotton
 Aminoacyl
 aaRS
-Interventions
 beam-splitter
 SPDC
 puddle-like
@@ -207251,7 +207113,6 @@ anti-incest
 nonoverlapping
 mercury-sized
 opposite-gender
-Wellbeing
 FFCWS
 married-couple
 bronchociliary

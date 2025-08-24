@@ -967,6 +967,7 @@ Ancestors
 Ancestry
 Anchor
 Anchored
+Anchoring
 Anchors
 Ancient
 Ancients
@@ -1221,6 +1222,7 @@ Aquatic
 Ar
 Arabic
 Arbiter
+Arbitrage
 Arbitrarily
 Arbitrary
 Arbitration
@@ -1938,6 +1940,7 @@ Barriers
 Barring
 Bars
 Bart
+Barycenter
 Barycentric
 Base
 Base64
@@ -2169,6 +2172,8 @@ Biased
 Biases
 Biasing
 Bible
+Biblical
+Biblically
 Bibliography
 Bicycle
 Bicycles
@@ -3491,6 +3496,8 @@ Chrome
 Chrome's
 Chromebooks
 Chromium
+Chromosome
+Chromosomes
 Chronic
 Chronically
 Chronological
@@ -5563,6 +5570,7 @@ Deception
 Deceptions
 Deceptive
 Deceptively
+Decidable
 Decide
 Decided
 Decides
@@ -6958,6 +6966,9 @@ Dumpster
 Dune
 Dungeon
 Dungeons
+Dunk
+Dunking
+Dunks
 Duo
 Duped
 Duplex
@@ -7321,6 +7332,7 @@ Emits
 Emitted
 Emitting
 Emoji
+Emojis
 Emotion
 Emotional
 Emotionality
@@ -7386,6 +7398,7 @@ Enclose
 Enclosed
 Enclosing
 Enclosure
+Enclosures
 Encodable
 Encode
 Encoded
@@ -8785,6 +8798,7 @@ Fluffed
 Fluffy
 Fluid
 Fluids
+Fluorescence
 Fluorescent
 Flurry
 Flush
@@ -9066,6 +9080,7 @@ Freeness
 Freer
 Frees
 Freestanding
+Freestyle
 Freeware
 Freeway
 Freeways
@@ -9275,6 +9290,7 @@ GPG
 GPS
 GPT
 GPT-2
+GPT-3
 GPT-4
 GPTs
 GPU
@@ -10045,6 +10061,7 @@ Harmonized
 Harmony
 Harms
 Harness
+Harnesses
 Harnessing
 Harsh
 Harshly
@@ -10474,6 +10491,7 @@ Hopes
 Hoping
 Hopped
 Hopping
+Hops
 Horde
 Hordes
 Horizon
@@ -11739,6 +11757,7 @@ Interrupts
 Intersect
 Intersecting
 Intersection
+Intersectional
 Intersections
 Interval
 Intervals
@@ -11753,6 +11772,7 @@ Interviewer
 Interviewers
 Interviewing
 Interviews
+Intestinal
 Intimacy
 Intimate
 Intimidation
@@ -12975,6 +12995,7 @@ Low-code
 Low-cost
 Low-dimensional
 Low-end
+Low-energy
 Low-frequency
 Low-grade
 Low-latency
@@ -13427,9 +13448,11 @@ Median
 Mediate
 Mediated
 Mediates
+Medic
 Medical
 Medically
 Medicine
+Medics
 Medieval
 Mediocre
 Meditate
@@ -14075,6 +14098,7 @@ More-or-less
 Moreover
 Morning
 Mornings
+Morphing
 Morphological
 Morphologically
 Morphology
@@ -15435,6 +15459,7 @@ Optimise
 Optimised
 Optimising
 Optimism
+Optimist
 Optimistic
 Optimistically
 Optimization
@@ -15665,6 +15690,7 @@ Overfitted
 Overfitting
 Overflow
 Overflows
+Overhand
 Overhaul
 Overhead
 Overheads
@@ -16537,6 +16563,7 @@ Plants
 Plasma
 Plasmas
 Plastic
+Plasticity
 Plastics
 Plate
 Plates
@@ -17306,6 +17333,7 @@ Projection
 Projections
 Projective
 Projector
+Projectors
 Projects
 Proliferated
 Proliferation
@@ -19211,6 +19239,7 @@ Rivalry
 Rivals
 River
 Rivers
+RoBERTa
 Roach
 Roaches
 Road
@@ -19882,6 +19911,7 @@ Self-Balancing
 Self-Care
 Self-Checkout
 Self-Contained
+Self-Control
 Self-Correction
 Self-Determination
 Self-Directed
@@ -20795,6 +20825,7 @@ Social-Media
 Social-media
 Socialist
 Socialistic
+Socialization
 Socialize
 Socialized
 Socializing
@@ -21290,6 +21321,7 @@ Stakeholder
 Stakeholders
 Stakes
 Stale
+Staleness
 Stalker
 Stalkers
 Stalking
@@ -21300,8 +21332,10 @@ Stalls
 Stamina
 Stamp
 Stamped
+Stamping
 Stamps
 Stance
+Stances
 Stand
 Stand-Alone
 Stand-Up
@@ -22150,6 +22184,7 @@ Swing
 Swinging
 Swings
 Swipe
+Swipes
 Swirl
 Swirling
 Swish
@@ -22993,6 +23028,7 @@ Topic-Specific
 Topical
 Topics
 Topographical
+Topography
 Topological
 Topologically
 Topologies
@@ -23686,6 +23722,7 @@ Uncurated
 Uncut
 Undamaged
 Undead
+Undecidable
 Undecided
 Undeclared
 Undefined
@@ -24475,6 +24512,8 @@ Views
 Vigilance
 Vigor
 Vigorous
+Viking
+Vikings
 Village
 Villages
 Villain
@@ -24781,6 +24820,7 @@ Waxed
 Waxing
 Way
 Wayland
+Waypoint
 Waypoints
 Ways
 Wayward
@@ -24932,6 +24972,7 @@ Well-structured
 Well-studied
 Well-tuned
 Well-written
+Wellbeing
 Welldone
 Wellness
 Wells
@@ -24959,6 +25000,7 @@ Whatsapp
 Wheat
 Wheel
 Wheelchair
+Wheeled
 Wheels
 When
 When's
@@ -25046,6 +25088,7 @@ Widget
 Widgets
 Widow
 Widower
+Widows
 Width
 Wield
 Wielding
@@ -25730,6 +25773,8 @@ actuate
 actuated
 actuates
 actuation
+actuator
+actuators
 acute
 acutely
 acutest
@@ -25978,6 +26023,7 @@ afford
 affordability
 affordable
 affordably
+affordance
 afforded
 affording
 affords
@@ -26386,6 +26432,7 @@ among
 amongs
 amongst
 amoral
+amortized
 amount
 amounted
 amounting
@@ -26651,6 +26698,7 @@ apis
 apk
 apocalypse
 apocalyptic
+apolitical
 apologies
 apologise
 apologised
@@ -27941,6 +27989,8 @@ biased
 biases
 biasing
 bible
+biblical
+biblically
 bibliographic
 bibliography
 bicycle
@@ -28372,6 +28422,7 @@ bowed
 bowel
 bowels
 bowl
+bowled
 bowling
 bowls
 bows
@@ -29484,6 +29535,8 @@ chrome's
 chromebooks
 chromedriver
 chromium
+chromosome
+chromosomes
 chronic
 chronically
 chronological
@@ -30162,6 +30215,7 @@ commonly-used
 commonplace
 commons
 commonsense
+commotion
 comms
 commune
 communicability
@@ -31705,6 +31759,7 @@ cyber-defence
 cyber-security
 cyberarmy
 cyberattack
+cyberattacks
 cyberbionic
 cyberbionics
 cybercriminals
@@ -32011,6 +32066,7 @@ deception
 deceptions
 deceptive
 deceptively
+decidable
 decide
 decided
 decidedly
@@ -32702,6 +32758,7 @@ detonating
 detonation
 detonations
 detonator
+detonators
 detour
 detract
 detracted
@@ -33846,6 +33903,10 @@ dumpster
 dune
 dungeon
 dungeons
+dunk
+dunked
+dunking
+dunks
 duo
 dupe
 duped
@@ -34362,6 +34423,7 @@ enclosed
 encloses
 enclosing
 enclosure
+enclosures
 encodable
 encode
 encoded
@@ -36464,6 +36526,7 @@ freeness
 freer
 frees
 freestanding
+freestyle
 freesync
 freeware
 freeway
@@ -37636,6 +37699,7 @@ harmony
 harms
 harness
 harnessed
+harnesses
 harnessing
 harsh
 harshly
@@ -37785,6 +37849,7 @@ heaters
 heather
 heating
 heatmap
+heatmaps
 heaven
 heavens
 heavier
@@ -38558,6 +38623,7 @@ imaging
 imagining
 imbalance
 imbalanced
+imbalances
 imbue
 imbued
 imbues
@@ -39723,6 +39789,7 @@ interviewer
 interviewers
 interviewing
 interviews
+intestinal
 intimacy
 intimate
 intimately
@@ -40178,6 +40245,8 @@ jestjs
 jet
 jetbrains
 jets
+jetted
+jetting
 jeweler
 jewelers
 jewellery
@@ -40592,6 +40661,9 @@ larger
 largescale
 largest
 lark
+larked
+larking
+larks
 lasagna
 laser
 lasers
@@ -41772,9 +41844,11 @@ mediapad
 mediate
 mediated
 mediates
+medic
 medical
 medically
 medicine
+medics
 medieval
 mediocre
 meditate
@@ -42509,6 +42583,7 @@ monthly
 months
 monument
 monumental
+monumentally
 monuments
 mood
 moods
@@ -42538,6 +42613,7 @@ moreover
 morning
 morning's
 mornings
+morphing
 morphological
 morphologically
 morphology
@@ -44036,6 +44112,7 @@ optimised
 optimises
 optimising
 optimism
+optimist
 optimistic
 optimistically
 optimization
@@ -44359,6 +44436,7 @@ overflowed
 overflowing
 overflows
 overfull
+overhand
 overhasty
 overhaul
 overhauled
@@ -45290,6 +45368,8 @@ pig
 pigeon
 pigeons
 piggy
+piglet
+piglets
 pigment
 pigmentation
 pigments
@@ -45433,6 +45513,7 @@ plasma
 plasmas
 plastic
 plastically
+plasticity
 plastics
 plate
 plates
@@ -49303,6 +49384,7 @@ sample
 sample-based
 sampled
 sampler
+samplers
 samples
 sampling
 samsung
@@ -49767,6 +49849,7 @@ selenium
 selenium-chromedriver
 selenium-webdriver
 self
+self-adaptive
 self-assistance
 self-attention
 self-aware
@@ -49775,6 +49858,7 @@ self-care
 self-checkout
 self-conscious
 self-contained
+self-control
 self-correction
 self-criticize
 self-determination
@@ -49849,7 +49933,9 @@ semesters
 semi-automated
 semi-automatically
 semi-definite
+semi-final
 semi-finalists
+semi-finals
 semi-official
 semi-structured
 semi-supervise
@@ -50661,6 +50747,7 @@ slip-up
 slipped
 slippery
 slipping
+slippy
 slips
 slit
 slither
@@ -50786,6 +50873,7 @@ smushed
 smushes
 snack
 snacked
+snacking
 snacks
 snag
 snail
@@ -50895,6 +50983,7 @@ socialised
 socialism
 socialist
 socialistic
+socialization
 socialize
 socialized
 socializing
@@ -51042,6 +51131,7 @@ soundcore
 sounded
 sounding
 soundly
+soundness
 sounds
 soundtrack
 soundtracks
@@ -51536,6 +51626,7 @@ stalwart
 stamina
 stamp
 stamped
+stamping
 stamps
 stance
 stances
@@ -52115,6 +52206,7 @@ submits
 submitted
 submitting
 submodels
+submodular
 submodule
 submodules
 subnet
@@ -52318,6 +52410,7 @@ suitcase
 suitcases
 suite
 suited
+suites
 suits
 sulfur
 sullen
@@ -52419,6 +52512,7 @@ supervised
 supervising
 supervision
 supervisor
+supervisors
 supper
 suppers
 supplanted
@@ -52641,6 +52735,7 @@ swing
 swings
 swipe
 swiped
+swipes
 swiping
 swirl
 swirled
@@ -54565,6 +54660,7 @@ undamaged
 undaunted
 undead
 undeath
+undecidable
 undecided
 undeclared
 undef
@@ -55449,6 +55545,7 @@ vacated
 vacates
 vacating
 vacation
+vacationed
 vacations
 vaccinate
 vaccinated
@@ -55740,6 +55837,8 @@ vigor
 vigorous
 vigorously
 vigour
+viking
+vikings
 village
 villages
 villain
@@ -56519,6 +56618,7 @@ widget
 widgets
 widow
 widower
+widows
 width
 wield
 wielded
