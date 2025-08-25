@@ -3223,6 +3223,7 @@ Censor
 Censored
 Censoring
 Censorship
+Censure
 Cent
 CentOS
 Centaur
@@ -5326,6 +5327,7 @@ Cyber-security
 CyberSecurity
 Cyberattack
 Cybercriminals
+Cybernetic
 Cybernetics
 Cyberpunk
 Cybersecurity
@@ -9047,6 +9049,7 @@ Fractals
 Fraction
 Fractional
 Fractionally
+Fractioned
 Fractions
 Fracture
 Fractured
@@ -9295,6 +9298,7 @@ Futuring
 Futurism
 Futurist
 Futuristic
+Futurists
 Fuzzed
 Fuzzing
 Fuzzy
@@ -9871,6 +9875,7 @@ Guarantee
 Guaranteed
 Guaranteeing
 Guarantees
+Guarantor
 Guard
 Guarded
 Guardian
@@ -11779,6 +11784,7 @@ Interprets
 Interrelate
 Interrelated
 Interrogate
+Interrogation
 Interrogative
 Interrupt
 Interrupted
@@ -15779,6 +15785,7 @@ Overreliance
 Override
 Overrides
 Overriding
+Overruled
 Overruns
 Oversampled
 Oversampling
@@ -17481,6 +17488,8 @@ Proprietor
 Props
 Pros
 Prose
+Prosecute
+Prosecuting
 Prosecution
 Prospect
 Prospecting
@@ -18106,6 +18115,7 @@ Realism
 Realist
 Realistic
 Realistically
+Realists
 Realities
 Reality
 Reality-Based
@@ -24700,6 +24710,7 @@ Vomit
 Vomiting
 Vortex
 Vortexes
+Vorticity
 Vote
 Voted
 Voter
@@ -26138,6 +26149,7 @@ aggravate
 aggravated
 aggravates
 aggravating
+aggravation
 aggregate
 aggregated
 aggregates
@@ -26930,6 +26942,10 @@ arbiter
 arbitrage
 arbitrarily
 arbitrary
+arbitrate
+arbitrated
+arbitrates
+arbitrating
 arbitration
 arcade
 arcane
@@ -28628,6 +28644,8 @@ brides
 bridge
 bridges
 bridging
+bridle
+bridles
 brief
 briefcase
 briefcases
@@ -28796,6 +28814,10 @@ bunker
 bunkers
 bunny
 buns
+burble
+burbled
+burbles
+burbling
 burden
 burdened
 burdens
@@ -29091,6 +29113,7 @@ captions
 captious
 captivate
 captivated
+captivates
 captivating
 captive
 captives
@@ -29295,6 +29318,8 @@ censor
 censored
 censoring
 censorship
+censure
+censured
 censuring
 cent
 center
@@ -30733,6 +30758,7 @@ confusion
 confusions
 congested
 congestion
+congestions
 congestive
 conglomeration
 congrats
@@ -30822,6 +30848,8 @@ consequently
 conservation
 conservatism
 conservative
+conservator
+conservators
 conserve
 conserved
 conserves
@@ -31492,6 +31520,7 @@ creeped
 creeping
 creeps
 creepy
+crematory
 crest
 crested
 cresting
@@ -31644,6 +31673,7 @@ cruelty
 cruise
 cruises
 crumb
+crumbed
 crumble
 crumbled
 crumbles
@@ -31860,6 +31890,7 @@ cyberattacks
 cyberbionic
 cyberbionics
 cybercriminals
+cybernetic
 cybernetics
 cyberpunk
 cybersecurity
@@ -32541,6 +32572,10 @@ demote
 demoted
 demotes
 demoting
+demotivate
+demotivated
+demotivates
+demotivating
 demotivation
 demure
 demurred
@@ -33786,6 +33821,8 @@ doughy
 dove
 doves
 dovetail
+dowel
+dowels
 down
 down-sample
 downcasting
@@ -34007,6 +34044,7 @@ dulls
 dumb
 dumbass
 dumbest
+dumbs
 dummy
 dump
 dumped
@@ -35110,6 +35148,8 @@ evince
 evinced
 evincing
 evocation
+evocative
+evocatively
 evoke
 evoked
 evokes
@@ -35441,6 +35481,7 @@ expresses
 expressible
 expressing
 expression
+expressionless
 expressions
 expressive
 expressiveness
@@ -36057,13 +36098,16 @@ firm
 firmly
 firms
 firmware
+firmwares
 first
 first-class
 first-come
 first-ever
 first-hand
+first-in
 first-in-first-out
 first-order
+first-out
 first-party
 first-rate
 first-time
@@ -36596,6 +36640,7 @@ fractals
 fraction
 fractional
 fractionally
+fractioned
 fractions
 fracture
 fractured
@@ -36900,6 +36945,7 @@ futuring
 futurism
 futurist
 futuristic
+futurists
 fuzzed
 fuzziness
 fuzzing
@@ -37432,6 +37478,8 @@ granny
 granola
 grant
 granted
+grantee
+grantees
 granting
 grants
 granular
@@ -37597,6 +37645,8 @@ guarantee
 guaranteed
 guaranteeing
 guarantees
+guarantor
+guarantors
 guard
 guarded
 guardedly
@@ -38743,6 +38793,7 @@ illuminated
 illuminates
 illuminating
 illumination
+illuminations
 illusion
 illusions
 illusory
@@ -39161,6 +39212,7 @@ indefatigable
 indefinite
 indefinitely
 indelible
+indelibly
 indelicacy
 indelicate
 indemnity
@@ -39366,6 +39418,7 @@ influential
 influentially
 influenza
 influx
+influxes
 info
 infographic
 infographics
@@ -39926,6 +39979,7 @@ interrelate
 interrelated
 interrelating
 interrogate
+interrogation
 interrogative
 interrupt
 interrupted
@@ -40043,6 +40097,7 @@ invalidates
 invalidating
 invalidation
 invalidations
+invalidity
 invalids
 invaluable
 invariable
@@ -41819,6 +41874,8 @@ margins
 mariadb
 marijuana
 marine
+marionette
+marionettes
 maritime
 mark
 markdown
@@ -43715,6 +43772,7 @@ nonlocal
 nonmagical
 nonmonotonous
 nonoccurrence
+nonpainful
 nonparametric
 nonplussed
 nonpositional
@@ -44722,6 +44780,10 @@ overrided
 overrides
 overriding
 overrode
+overrule
+overruled
+overrules
+overruling
 overrun
 overruns
 oversample
@@ -45087,6 +45149,7 @@ passenger
 passengers
 passes
 passing
+passingly
 passion
 passionate
 passionately
@@ -45356,6 +45419,7 @@ perks
 perl
 perl's
 permalink
+permanency
 permanent
 permanently
 permeable
@@ -45453,6 +45517,7 @@ pervaded
 pervades
 pervading
 pervasive
+pervasively
 pervasiveness
 perverse
 perversely
@@ -46445,6 +46510,7 @@ prevented
 preventing
 prevention
 preventive
+preventively
 prevents
 preview
 previewed
@@ -46815,6 +46881,10 @@ propriety
 props
 pros
 prose
+prosecute
+prosecuted
+prosecutes
+prosecuting
 prosecution
 prosing
 prosings
@@ -47381,11 +47451,15 @@ ran
 ranch
 rand
 random
+randomise
 randomised
+randomises
+randomising
 randomization
 randomize
 randomized
 randomizer
+randomizes
 randomizing
 randomly
 randomness
@@ -47611,6 +47685,7 @@ realism
 realist
 realistic
 realistically
+realists
 realities
 reality
 reality-based
@@ -47954,6 +48029,10 @@ recursion
 recursive
 recursively
 recursivity
+recuse
+recused
+recuses
+recusing
 recyclable
 recycle
 recycled
@@ -48332,6 +48411,7 @@ rejoined
 rejoining
 rejoins
 rejuvenated
+relabeled
 relaid
 relapse
 relapsed
@@ -48952,6 +49032,8 @@ restatement
 restates
 restaurant
 restaurants
+restaurateur
+restaurateurs
 restclient
 rested
 restful
@@ -49596,6 +49678,7 @@ sad
 saddest
 sadist
 sadistic
+sadists
 sadly
 sadness
 safari
@@ -50650,6 +50733,7 @@ shutdowns
 shuts
 shutter
 shuttered
+shuttering
 shutters
 shutting
 shuttle
@@ -51126,6 +51210,7 @@ smooth
 smoothable
 smoothed
 smoother
+smoothest
 smoothing
 smoothly
 smoothness
@@ -51531,6 +51616,10 @@ speck
 specks
 specs
 spectacular
+spectate
+spectated
+spectates
+spectating
 spectral
 spectrum
 specular
@@ -51575,6 +51664,7 @@ spellcasters
 spellcasting
 spellcheck
 spelled
+speller
 spelling
 spellings
 spells
@@ -52395,6 +52485,7 @@ su
 sub
 sub-categories
 sub-category
+sub-class
 sub-collections
 sub-expression
 sub-graphs
@@ -52783,6 +52874,7 @@ supertype
 superuser
 supervise
 supervised
+supervises
 supervising
 supervision
 supervisor
@@ -54837,6 +54929,7 @@ unbeatable
 unbecoming
 unbelievable
 unbelievably
+unbending
 unbiased
 unbidden
 unbind
@@ -54970,6 +55063,7 @@ underbred
 undercover
 undercoverage
 undercut
+underdone
 underestimate
 underestimated
 underestimates
@@ -55076,6 +55170,10 @@ undresses
 undressing
 undrinkable
 undue
+undulate
+undulated
+undulates
+undulating
 undulatory
 unearthly
 unease
@@ -56288,6 +56386,7 @@ vomit
 vomiting
 vortex
 vortexes
+vorticity
 vote
 voted
 voter
@@ -57037,6 +57136,7 @@ wishful
 wishing
 wishround
 wishup
+wistful
 wit
 witch
 witches
