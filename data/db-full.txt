@@ -619,6 +619,7 @@ Affirmation
 Affirmative
 Affirms
 Affix
+Affluence
 Affluent
 Afford
 Affordability
@@ -1080,6 +1081,7 @@ Anticipation
 Antidepressant
 Antidepressants
 Antifreeze
+Antimicrobial
 Antiparticles
 Antiperspirant
 Antiperspirants
@@ -6152,6 +6154,7 @@ Dial
 Dial-Up
 Dial-up
 Dialect
+Dialectic
 Dialects
 Dialing
 Dialling
@@ -7669,6 +7672,7 @@ Equiprobable
 Equitable
 Equity
 Equivalence
+Equivalency
 Equivalent
 Equivalently
 Equivalents
@@ -7770,6 +7774,7 @@ Ethnically
 Ethnicities
 Ethnicity
 Etiquette
+Etymologically
 Etymology
 Euclidean
 Euler
@@ -10078,6 +10083,7 @@ Harnesses
 Harnessing
 Harsh
 Harshly
+Harshness
 Harvest
 Harvested
 Harvesting
@@ -10231,6 +10237,7 @@ Helpful
 Helpfulness
 Helping
 Helpless
+Helplessness
 Helps
 Hen
 Hence
@@ -11299,6 +11306,7 @@ Infinitive
 Infinitives
 Infinity
 Inflamed
+Inflammable
 Inflammation
 Inflammatory
 Inflatable
@@ -12103,6 +12111,7 @@ Jointed
 Jointly
 Joints
 Joke
+Joker
 Jokes
 Joking
 Jolt
@@ -12466,6 +12475,7 @@ Latter
 Lattice
 Laugh
 Laughable
+Laughably
 Laughed
 Laughing
 Laughs
@@ -13762,6 +13772,7 @@ Mine
 Mined
 Miner
 Mineral
+Mineralized
 Minerals
 Miners
 Mines
@@ -13989,6 +14000,7 @@ Moderation
 Moderator
 Moderators
 Modern
+Modernisation
 Modernising
 Modernity
 Modernization
@@ -15051,6 +15063,7 @@ Now's
 Nowadays
 Nowhere
 Nozzle
+Nsfw
 Nuance
 Nuanced
 Nuances
@@ -15065,6 +15078,7 @@ Nudity
 Nugget
 Nuggets
 Null
+Nullification
 Nullify
 Nulling
 Nulls
@@ -15231,6 +15245,7 @@ Octal
 Octaves
 October
 Octopus
+Octopuses
 Oculus
 Odd
 Oddities
@@ -15864,6 +15879,7 @@ PageSpeed
 Paged
 Pager
 Pagerank
+Pagers
 Pages
 Paging
 Paid
@@ -16577,6 +16593,7 @@ Plant
 Plantation
 Plantations
 Planted
+Planter
 Plants
 Plasma
 Plasmas
@@ -16929,6 +16946,7 @@ Practitioner
 Practitioners
 Pragma
 Pragmatic
+Pragmatically
 Pragmatism
 Praise
 Praises
@@ -17180,6 +17198,7 @@ Primordial
 Prince
 Princes
 Princess
+Princesses
 Principal
 Principally
 Principals
@@ -19117,6 +19136,7 @@ Revelations
 Revenge
 Revenue
 Revenues
+Reverberation
 Revere
 Reversal
 Reverse
@@ -21335,6 +21355,7 @@ Stainless
 Stains
 Stair
 Staircase
+Staircases
 Stairs
 Stairwell
 Stake
@@ -22082,6 +22103,7 @@ Surf
 Surface
 Surfaced
 Surfaces
+Surfacing
 Surfer
 Surfers
 Surfing
@@ -26042,6 +26064,7 @@ affix
 affixed
 afflicted
 affliction
+affluence
 affluent
 afford
 affordability
@@ -26562,6 +26585,8 @@ angling
 angrier
 angrily
 angry
+anguish
+anguished
 angular
 angular's
 angular-material
@@ -26670,6 +26695,7 @@ antidepressant
 antidepressants
 antifreeze
 antimalware
+antimicrobial
 antiparticle
 antiparticles
 antipathy
@@ -29357,6 +29383,7 @@ characterised
 characterises
 characterising
 characteristic
+characteristically
 characteristics
 characterization
 characterize
@@ -29765,6 +29792,8 @@ climb
 climbed
 climbing
 climbs
+clime
+climes
 cling
 clinged
 clinging
@@ -32564,6 +32593,7 @@ deposition
 depositional
 deposits
 depot
+depravation
 deprave
 depraved
 depraves
@@ -32885,6 +32915,7 @@ diagrams
 dial
 dial-up
 dialect
+dialectic
 dialects
 dialed
 dialer
@@ -33790,6 +33821,7 @@ drama
 dramas
 dramatic
 dramatically
+dramatization
 drank
 drape
 draped
@@ -34313,6 +34345,7 @@ email-header
 emailed
 emailing
 emails
+emancipated
 embarassing
 embargo
 embark
@@ -34830,6 +34863,7 @@ equisingular
 equitable
 equity
 equivalence
+equivalency
 equivalent
 equivalently
 equivalents
@@ -34859,6 +34893,7 @@ ergonomic
 ergonomics
 erlang
 erogenous
+erosive
 erotic
 errand
 erranded
@@ -34950,6 +34985,7 @@ ethnicities
 ethnicity
 etiquette
 etl
+etymologically
 etymology
 euclidean
 euler
@@ -35225,6 +35261,7 @@ expanded
 expanding
 expands
 expanse
+expanses
 expansion
 expansions
 expansive
@@ -35872,6 +35909,7 @@ files
 filesize
 filestash
 filesystem
+filesystems
 filetree
 filetype
 filetypes
@@ -36490,6 +36528,7 @@ founded
 founder
 founders
 founding
+foundry
 founds
 fountain
 fountains
@@ -36596,6 +36635,8 @@ frequented
 frequently
 fresh
 freshened
+freshener
+fresheners
 fresher
 freshers
 freshly
@@ -36813,6 +36854,7 @@ futurism
 futurist
 futuristic
 fuzzed
+fuzziness
 fuzzing
 fuzzy
 fyi
@@ -36882,6 +36924,7 @@ gargoyles
 garlic
 garment
 garnered
+garnish
 gas
 gash
 gasoline
@@ -37051,6 +37094,7 @@ ghetto
 ghost
 ghostbuster
 ghosted
+ghostly
 ghosts
 ghostwritten
 ghz
@@ -37757,6 +37801,7 @@ harnesses
 harnessing
 harsh
 harshly
+harshness
 harvest
 harvested
 harvesting
@@ -37947,6 +37992,7 @@ helpfully
 helpfulness
 helping
 helpless
+helplessness
 helpmate
 helps
 hen
@@ -38474,6 +38520,7 @@ hyperparameters
 hyperplane
 hyperplanes
 hyperpolarization
+hyperspace
 hypersphere
 hyperspheres
 hypertext
@@ -38631,6 +38678,7 @@ igpu
 iis
 ill
 illegal
+illegality
 illegally
 illegitimacy
 illegitimate
@@ -38707,6 +38755,7 @@ immigrates
 immigration
 imminent
 imminently
+immorality
 immortal
 immortality
 immune
@@ -39232,6 +39281,7 @@ infinitives
 infinity
 inflame
 inflamed
+inflammable
 inflammation
 inflammatory
 inflatable
@@ -39707,6 +39757,7 @@ intercept
 intercepted
 intercepting
 interception
+interceptor
 intercepts
 interchange
 interchangeability
@@ -39778,6 +39829,7 @@ internet-based
 internet-connected
 internet-explorer
 internet-of-things
+interns
 internship
 internships
 interoperability
@@ -40059,6 +40111,7 @@ irked
 irksome
 irksomeness
 iron
+ironed
 ironic
 ironically
 ironing
@@ -40339,6 +40392,7 @@ jointly
 joints
 joke
 joked
+joker
 jokes
 joking
 jokingly
@@ -40767,6 +40821,7 @@ latterly
 lattice
 laugh
 laughable
+laughably
 laughed
 laughes
 laughing
@@ -40811,6 +40866,7 @@ layoffs
 layout
 layouts
 lays
+lazier
 laziest
 lazily
 laziness
@@ -41082,6 +41138,7 @@ likewise
 liking
 lilac
 limb
+limber
 limbs
 lime
 limit
@@ -42086,6 +42143,7 @@ metering
 meters
 method
 methodical
+methodically
 methodological
 methodologies
 methodology
@@ -42249,6 +42307,14 @@ mine
 mined
 miner
 mineral
+mineralise
+mineralised
+mineralises
+mineralising
+mineralize
+mineralized
+mineralizes
+mineralizing
 minerals
 miners
 mines
@@ -42322,6 +42388,7 @@ minus
 minuses
 minute
 minute's
+minutely
 minutes
 mips
 miracle
@@ -42526,6 +42593,10 @@ moderation
 moderator
 moderators
 modern
+modernisation
+modernise
+modernised
+modernises
 modernising
 modernity
 modernization
@@ -43143,6 +43214,7 @@ national
 nationalism
 nationalist
 nationality
+nationalization
 nationally
 nations
 native
@@ -43683,6 +43755,7 @@ nowadays
 nowhere
 nozzle
 npm
+nsfw
 ntfs
 nuance
 nuanced
@@ -43704,6 +43777,7 @@ null-pointer
 null-terminated
 nullable
 nulled
+nullification
 nullified
 nullify
 nulling
@@ -43912,6 +43986,7 @@ octal
 octaves
 october
 octopus
+octopuses
 oculus
 odbc
 odd
@@ -44694,6 +44769,7 @@ pagelayout
 pageload
 pager
 pagerank
+pagers
 pages
 pagespeed
 paginate
@@ -45580,6 +45656,8 @@ plant
 plantation
 plantations
 planted
+planter
+planters
 plants
 plasma
 plasmas
@@ -45995,6 +46073,7 @@ practitioner
 practitioners
 pragma
 pragmatic
+pragmatically
 pragmatism
 praise
 praised
@@ -46090,6 +46169,7 @@ precompiled
 precompute
 precomputed
 preconceived
+precondition
 preconditioned
 preconditioning
 preconditions
@@ -46213,6 +46293,7 @@ prescription
 prescriptions
 presence
 present
+presentable
 presentation
 presentations
 presented
@@ -46246,6 +46327,7 @@ pressingly
 pressure
 pressured
 pressures
+pressuring
 prestige
 prestigious
 presumably
@@ -46330,6 +46412,7 @@ primordial
 prince
 princes
 princess
+princesses
 principal
 principally
 principals
@@ -46439,6 +46522,7 @@ procrastination
 procrastinator
 procrastinators
 procure
+procured
 procurement
 procuring
 prodded
@@ -47140,6 +47224,10 @@ radiating
 radiation
 radiator
 radical
+radicalise
+radicalised
+radicalises
+radicalising
 radicalism
 radicalization
 radicalize
@@ -47294,12 +47382,16 @@ rational
 rationale
 rationales
 rationalise
+rationalised
+rationalises
+rationalising
 rationalism
 rationality
 rationalization
 rationalize
 rationalized
 rationalizes
+rationalizing
 rationally
 ratios
 rats
@@ -48621,6 +48713,8 @@ rescinding
 rescript
 rescue
 rescued
+rescuer
+rescuers
 rescues
 rescuing
 research
@@ -48952,6 +49046,8 @@ reverberate
 reverberated
 reverberates
 reverberating
+reverberation
+reverberations
 revere
 revered
 reveres
@@ -51694,6 +51790,7 @@ stainless
 stains
 stair
 staircase
+staircases
 stairs
 stairwell
 stake
@@ -52651,6 +52748,7 @@ surf
 surface
 surfaced
 surfaces
+surfacing
 surfed
 surfer
 surfers
@@ -54281,6 +54379,7 @@ tribe
 tribes
 tribesman
 tribunal
+tribunals
 tribute
 trick
 tricked
@@ -54913,6 +55012,7 @@ unexpected
 unexpectedly
 unexpensively
 unexpired
+unexplainable
 unexplained
 unexploited
 unexplored
