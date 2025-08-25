@@ -907,6 +907,7 @@ Amnesia
 Amnesty
 Among
 Amongst
+Amortization
 Amount
 Amounts
 Ampere
@@ -1919,6 +1920,7 @@ Bar
 Barbarian
 Barbarians
 Barber
+Barbershop
 Barcode
 Bard
 Bardic
@@ -4547,6 +4549,7 @@ Consume
 Consumed
 Consumer
 Consumer-Driven
+Consumerism
 Consumers
 Consumes
 Consuming
@@ -5157,6 +5160,7 @@ Crucial
 Crucially
 Crucible
 Crude
+Crudely
 Cruel
 Cruelty
 Cruise
@@ -5851,6 +5855,7 @@ Demodulation
 Demographic
 Demographically
 Demographics
+Demography
 Demolished
 Demolishing
 Demonetization
@@ -7584,6 +7589,7 @@ Entities
 Entitlement
 Entitlements
 Entity
+Entomology
 Entrance
 Entrances
 Entrant
@@ -7788,6 +7794,7 @@ Euros
 Evacuate
 Evacuated
 Evacuation
+Evacuations
 Evade
 EvaluatIon
 Evaluate
@@ -8937,6 +8944,7 @@ Forgettable
 Forgetting
 Forging
 Forgive
+Forgiveness
 Forgiving
 Forgoing
 Forgot
@@ -9322,6 +9330,7 @@ GaN
 Gadget
 Gadgets
 Gag
+Gage
 Gain
 Gained
 Gaining
@@ -11179,6 +11188,7 @@ Incrementally
 Incrementation
 Increments
 Incrimination
+Incubating
 Incubator
 Incubators
 Incumbency
@@ -11449,6 +11459,7 @@ Inner
 Inning
 InnoDB
 Innocent
+Innocents
 Innocuous
 Innovate
 Innovated
@@ -13315,6 +13326,8 @@ Marshalling
 Marshmallow
 Marshmallows
 Martial
+Marvel
+Marvels
 Mash
 MashUp
 Mashup
@@ -13611,6 +13624,7 @@ Metal
 Metallic
 Metallurgy
 Metals
+Metamorphism
 Metamorphoses
 Metaphor
 Metaphorical
@@ -13772,6 +13786,7 @@ Mine
 Mined
 Miner
 Mineral
+Mineralization
 Mineralized
 Minerals
 Miners
@@ -14836,6 +14851,7 @@ Nominated
 Nominates
 Nomination
 Nominations
+Nominative
 Nominee
 Non
 Non-Adjacent
@@ -14981,6 +14997,7 @@ Nonprofit
 Nonprofits
 Nonsense
 Nonsensical
+Nonsmokers
 Nonstandard
 Nonstationary
 Nonstop
@@ -17656,6 +17673,7 @@ Pursuing
 Pursuit
 Pursuits
 Push
+Push-ups
 Pushed
 Pushes
 Pushing
@@ -20832,6 +20850,7 @@ Snippet
 Snippets
 Snitch
 Snitches
+Snobbery
 Snoop
 Snooping
 Snoozing
@@ -23444,6 +23463,7 @@ Tripping
 Trippy
 Trips
 Triumph
+Triumphal
 Triumphs
 Trivial
 Trivially
@@ -23504,6 +23524,7 @@ Tuesday
 Tulip
 Tulips
 Tumble
+Tumbler
 Tumbles
 Tumbling
 Tumor
@@ -23563,6 +23584,7 @@ Twin
 Twink
 Twinkle
 Twinkling
+Twinning
 Twins
 Twirl
 Twirled
@@ -26479,7 +26501,15 @@ among
 amongs
 amongst
 amoral
+amortise
+amortised
+amortises
+amortising
+amortization
+amortize
 amortized
+amortizes
+amortizing
 amount
 amounted
 amounting
@@ -27013,6 +27043,7 @@ arrogance
 arrogant
 arrogantly
 arrow
+arrowhead
 arrowheads
 arrows
 arsenal
@@ -27728,6 +27759,7 @@ barbarians
 barbaric
 barbecue
 barber
+barbershop
 barcode
 bard
 bardic
@@ -28780,6 +28812,7 @@ burly
 burn
 burn-down
 burn-out
+burnable
 burndown
 burned
 burner
@@ -29167,6 +29200,7 @@ catalogue
 catalogues
 catalyst
 catapult
+catapulted
 catapults
 catastrophe
 catastrophic
@@ -29579,6 +29613,7 @@ choppy
 chord
 chords
 chore
+choreographer
 chores
 chorus
 chose
@@ -30892,6 +30927,7 @@ consume
 consumed
 consumer
 consumer-driven
+consumerism
 consumers
 consumes
 consuming
@@ -31602,6 +31638,7 @@ crucifies
 crucify
 crucifying
 crude
+crudely
 cruel
 cruelty
 cruise
@@ -31762,6 +31799,7 @@ curtails
 curtain
 curtains
 curvature
+curvatures
 curve
 curved
 curves
@@ -32465,6 +32503,7 @@ democratizes
 democratizing
 democrats
 demodulate
+demodulated
 demodulates
 demodulating
 demodulation
@@ -32473,6 +32512,7 @@ demoes
 demographic
 demographically
 demographics
+demography
 demoing
 demolish
 demolished
@@ -33628,6 +33668,7 @@ document-oriented
 document-similarity
 documentary
 documentation
+documentations
 documented
 documenting
 documents
@@ -34001,6 +34042,7 @@ dusk
 dusky
 dust
 duster
+dusting
 dusty
 duties
 dutiful
@@ -34697,6 +34739,7 @@ entails
 entangle
 entangled
 entanglement
+entanglements
 entangles
 entangling
 enter
@@ -34740,6 +34783,7 @@ entitling
 entity
 entity-framework
 entity-tagged
+entomology
 entrain
 entrained
 entraining
@@ -35000,6 +35044,7 @@ euros
 evacuate
 evacuated
 evacuation
+evacuations
 evade
 evaluate
 evaluated
@@ -36094,6 +36139,7 @@ flashing
 flashlight
 flashlights
 flask
+flasks
 flat
 flatmap
 flatness
@@ -36423,6 +36469,7 @@ forgetting
 forging
 forgive
 forgiven
+forgiveness
 forgives
 forgiving
 forgo
@@ -36862,6 +36909,8 @@ g++
 gadget
 gadgets
 gag
+gage
+gages
 gain
 gained
 gainer
@@ -39092,7 +39141,10 @@ incriminated
 incriminates
 incriminating
 incrimination
+incubate
 incubated
+incubates
+incubating
 incubator
 incubators
 incumbency
@@ -39469,6 +39521,7 @@ innings
 inno
 innocent
 innocently
+innocents
 innocuous
 innodb
 innovate
@@ -39527,6 +39580,7 @@ insensibly
 insensitive
 insensitivity
 insentient
+inseparable
 inseparably
 insert
 insertable
@@ -39709,6 +39763,7 @@ intelligent
 intelligently
 intelligibility
 intelligible
+intelligibly
 intellij
 intellij-idea
 intellisense
@@ -39804,6 +39859,7 @@ interleaving
 interlinear
 interlock
 interlocking
+interlocks
 intermediaries
 intermediary
 intermediate
@@ -39812,6 +39868,7 @@ intermingled
 intermission
 intermittent
 intermittently
+intermixing
 intern
 internal
 internal-use
@@ -40744,6 +40801,7 @@ land
 landed
 landing
 landings
+landless
 landmark
 landmarks
 lands
@@ -40763,6 +40821,7 @@ languor
 lap
 laps
 lapse
+lapsed
 laptop
 laptops
 laravel
@@ -41595,6 +41654,8 @@ magicbook
 magician
 magnet
 magnetic
+magnetise
+magnetised
 magnetism
 magnets
 magnification
@@ -41787,6 +41848,12 @@ marshalling
 marshmallow
 marshmallows
 martial
+marvel
+marveled
+marveling
+marvelled
+marvelling
+marvels
 mash
 mash-up
 mashable
@@ -42124,6 +42191,7 @@ metalsmith
 metalsmiths
 metalwork
 metalworks
+metamorphism
 metamorphose
 metamorphoses
 metaphor
@@ -42311,6 +42379,7 @@ mineralise
 mineralised
 mineralises
 mineralising
+mineralization
 mineralize
 mineralized
 mineralizes
@@ -43498,6 +43567,7 @@ nominated
 nominates
 nomination
 nominations
+nominative
 nominee
 non
 non-IT
@@ -43656,6 +43726,8 @@ nonrelevant
 nonsense
 nonsenses
 nonsensical
+nonsmoker
+nonsmokers
 nonstandard
 nonstationary
 nonstop
@@ -43668,6 +43740,8 @@ nook
 nooks
 noon
 noone
+noose
+noosed
 nope
 nor
 norm
@@ -44460,6 +44534,7 @@ outlive
 outlived
 outlives
 outlook
+outmost
 outpace
 outpacing
 outperform
@@ -45169,6 +45244,7 @@ peels
 peeped
 peephole
 peer
+peer-review
 peer-to-peer
 peering
 peers
@@ -46993,6 +47069,8 @@ pursuit
 pursuits
 push
 push-notification
+push-up
+push-ups
 pushed
 pushes
 pushing
@@ -47056,6 +47134,7 @@ quad-core
 quadrangle
 quadrangular
 quadrant
+quadrants
 quadratic
 quadratically
 quadrilateral
@@ -49484,6 +49563,7 @@ ruptured
 ruptures
 rupturing
 rural
+ruse
 rush
 rushed
 rushes
@@ -50670,6 +50750,7 @@ silk
 silliest
 silly
 silver
+silvered
 silverlight
 silvery
 simd
@@ -51103,6 +51184,7 @@ snitch
 snitche
 snitched
 snitches
+snobbery
 snoop
 snooped
 snooping
@@ -51121,6 +51203,7 @@ snowballs
 snowboard
 snowed
 snowfall
+snowfalls
 snowflake
 snowflakes
 snowing
@@ -51452,6 +51535,7 @@ spectral
 spectrum
 specular
 specularity
+specularly
 speculate
 speculated
 speculates
@@ -52587,6 +52671,7 @@ suggestions
 suggestive
 suggests
 suicidal
+suicidally
 suicide
 suing
 suit
@@ -53134,6 +53219,7 @@ taller
 tallest
 tame
 tamed
+tameness
 tampered
 tampon
 tampons
@@ -53245,6 +53331,8 @@ teapot
 teapots
 tear
 teardown
+teardrop
+teardrops
 teared
 tearing
 tears
@@ -54380,6 +54468,7 @@ tribes
 tribesman
 tribunal
 tribunals
+tribunes
 tribute
 trick
 tricked
@@ -54426,6 +54515,7 @@ tripping
 trippy
 trips
 triumph
+triumphal
 triumphant
 triumphantly
 triumphs
@@ -54507,6 +54597,8 @@ tuesday
 tulip
 tulips
 tumble
+tumbler
+tumblers
 tumbles
 tumbling
 tumor
@@ -54579,6 +54671,7 @@ twin
 twink
 twinkle
 twinkling
+twinning
 twins
 twirl
 twirled
@@ -54722,6 +54815,7 @@ unarmed
 unary
 unasked
 unassigned
+unassisted
 unassuming
 unassumingly
 unattach
@@ -54849,6 +54943,7 @@ uncovered
 uncovering
 uncovers
 uncritical
+uncritically
 uncurated
 uncut
 undamaged
@@ -54889,9 +54984,11 @@ undergoing
 undergone
 undergraduate
 underground
+underlain
 underlay
 underlaying
 underlie
+underlies
 underline
 underlined
 underlines
@@ -55266,6 +55363,7 @@ unpacked
 unpacking
 unpacks
 unpaid
+unpainted
 unpaired
 unparalleled
 unpardonable
@@ -55280,6 +55378,7 @@ unpin
 unpinning
 unplanned
 unpleasant
+unpleasantly
 unplug
 unplugged
 unplugging
@@ -55364,6 +55463,7 @@ unrolled
 unrolling
 unrolls
 unsafe
+unsafely
 unsaid
 unsatisfactory
 unsatisfied
