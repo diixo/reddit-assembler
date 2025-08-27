@@ -1327,6 +1327,8 @@ Arrows
 Arsenal
 Art
 Artefacts
+Arteries
+Artery
 Artful
 Article
 Articles
@@ -1910,6 +1912,7 @@ Banging
 Bangs
 Banishing
 Bank
+Banker
 Banking
 Bankruptcy
 Banks
@@ -2262,6 +2265,7 @@ Biscuit
 Biscuits
 Bisecting
 Bisection
+Bisexual
 Bisexuality
 Bison
 Bit
@@ -2580,6 +2584,7 @@ Brainstorm
 Brainstorming
 Brake
 Brakes
+Braking
 Branch
 Branched
 Branches
@@ -2595,6 +2600,7 @@ Brave
 Bravely
 Bravery
 Braves
+Bravest
 Breach
 Breached
 Breaches
@@ -2769,6 +2775,7 @@ Bulky
 Bull
 Bullet
 Bulletin
+Bullets
 Bullies
 Bulls
 Bullshit
@@ -9062,6 +9069,7 @@ Fractions
 Fracture
 Fractured
 Fractures
+Fracturing
 Fragile
 Fragility
 Fragment
@@ -9694,6 +9702,7 @@ Governance
 Governed
 Governing
 Government
+Governmental
 Governments
 Governs
 Gps
@@ -10483,6 +10492,7 @@ Homeless
 Homelessness
 Homemade
 Homeopathy
+Homeowner
 Homeowners
 Homepage
 Homes
@@ -11823,6 +11833,7 @@ Interviews
 Intestinal
 Intimacy
 Intimate
+Intimidate
 Intimidation
 Into
 Intolerable
@@ -12411,6 +12422,7 @@ Laces
 Lack
 Lacking
 Lacks
+Lactose
 Ladder
 Ladies
 Lady
@@ -12776,6 +12788,7 @@ Linearized
 Linearizing
 Linearly
 Lined
+Liner
 Lines
 Lineup
 Linguistic
@@ -13285,6 +13298,7 @@ Manufacturers
 Manufactures
 Manufacturing
 Manure
+Manuscript
 Many
 Many-To-Many
 Many-to-Many
@@ -13645,6 +13659,7 @@ Metamorphism
 Metamorphoses
 Metaphor
 Metaphorical
+Metaphorically
 Metaphors
 Metaprogramming
 Metaverse
@@ -14648,6 +14663,7 @@ Natural-language
 Naturalistic
 Naturalized
 Naturally
+Naturals
 Nature
 Naughty
 Nausea
@@ -16466,6 +16482,7 @@ Photons
 Photorealistic
 Photos
 Photoshop
+Photosynthesis
 Phrasal
 Phrase
 Phrased
@@ -17521,10 +17538,13 @@ Protection
 Protections
 Protective
 Protector
+Protectors
 Protects
 Protein
 Proteins
 Protest
+Protestant
+Protestantism
 Protestants
 Protesters
 Protesting
@@ -19646,6 +19666,7 @@ Sang
 Sanitary
 Sanitation
 Sanitizer
+Sanitizing
 Sanity
 Sank
 Santa
@@ -19678,6 +19699,7 @@ Sauna
 Saunas
 Sausage
 Savage
+Savages
 Save
 Saved
 Saver
@@ -21248,6 +21270,7 @@ Spoil
 Spoilage
 Spoiled
 Spoiler
+Spoilers
 Spoiling
 Spoils
 Spoke
@@ -22491,6 +22514,7 @@ Tasting
 Tasty
 Tattling
 Tattoo
+Tattooing
 Tattoos
 Taught
 Taunt
@@ -23572,6 +23596,7 @@ Tunnels
 Tuple
 Tuples
 Turbine
+Turbines
 Turbo
 Turbulence
 Turbulent
@@ -24211,6 +24236,7 @@ Unveils
 Unverified
 Unvisited
 Unwanted
+Unwashed
 Unweighted
 Unwieldy
 Unwilling
@@ -24593,6 +24619,7 @@ Victims
 Video
 Video-Sharing
 Video-sharing
+Videogame
 Videogames
 Videos
 View
@@ -26764,6 +26791,7 @@ antipathy
 antiperspirant
 antiperspirants
 antiquity
+antisanitary
 antisemitism
 antisocial
 antithesis
@@ -26861,6 +26889,7 @@ appetites
 appkit
 applaud
 applauded
+applauding
 applauds
 applause
 apple
@@ -26903,6 +26932,7 @@ appreciated
 appreciates
 appreciating
 appreciation
+appreciations
 appreciative
 apprehend
 apprehended
@@ -27090,6 +27120,8 @@ art-director
 art-hub
 art-master
 artefacts
+arteries
+artery
 artful
 article
 articles
@@ -27267,6 +27299,7 @@ asthma
 asthmatic
 astonish
 astonished
+astonishes
 astonishing
 astonishingly
 astonishly
@@ -27781,6 +27814,7 @@ bangs
 banished
 banishing
 bank
+banker
 banking
 bankrupt
 bankruptcy
@@ -28205,6 +28239,7 @@ biscuits
 bisect
 bisecting
 bisection
+bisexual
 bisexuality
 bison
 bit
@@ -28585,6 +28620,7 @@ brainstorm
 brainstorming
 brake
 brakes
+braking
 bran
 branch
 branched
@@ -28603,6 +28639,7 @@ bravely
 braver
 bravery
 braves
+bravest
 braving
 breach
 breached
@@ -28808,6 +28845,7 @@ bulky
 bull
 bullet
 bulletin
+bullets
 bullied
 bullies
 bullish
@@ -29806,6 +29844,7 @@ classifies
 classify
 classifying
 classing
+classless
 classmate
 classmates
 classroom
@@ -31035,6 +31074,7 @@ contentious
 contentment
 contents
 contest
+contestable
 contestant
 contested
 contests
@@ -31201,6 +31241,7 @@ convivial
 convnet
 convnets
 convnext
+convocation
 convolute
 convoluted
 convolution
@@ -31706,6 +31747,7 @@ crumbled
 crumbles
 crumbling
 crumbs
+crummy
 crumple
 crumpled
 crumples
@@ -31721,6 +31763,7 @@ crushed
 crushes
 crushing
 crust
+crusts
 crusty
 crux
 cry
@@ -32652,6 +32695,7 @@ depart
 departed
 departing
 department
+departmental
 departments
 departure
 departures
@@ -33380,6 +33424,8 @@ disfigures
 disfiguring
 disgrace
 disgraced
+disgraceful
+disgracefully
 disgruntled
 disguise
 disguised
@@ -34542,6 +34588,7 @@ emotionally
 emotioned
 emotions
 empathetic
+empathic
 empathize
 empathized
 empathy
@@ -35576,6 +35623,7 @@ extraction
 extractions
 extractive
 extractor
+extractors
 extracts
 extradition
 extraordinarily
@@ -35739,6 +35787,10 @@ falsehood
 falsehoods
 falsely
 falsification
+falsified
+falsifies
+falsify
+falsifying
 fame
 famed
 familiar
@@ -36692,6 +36744,7 @@ fractious
 fracture
 fractured
 fractures
+fracturing
 fragile
 fragility
 fragment
@@ -37455,11 +37508,13 @@ governance
 governed
 governing
 government
+governmental
 governments
 governs
 gpg
 gps
 gpt
+gpt-3
 gpt-4
 gptengineer
 gpu
@@ -38381,6 +38436,7 @@ homelessness
 homely
 homemade
 homeopathy
+homeowner
 homeowners
 homepage
 homes
@@ -38700,6 +38756,7 @@ hypothetically
 hypotheticals
 hysteresis
 hysteria
+hysterically
 hysterics
 i
 i'd
@@ -40069,6 +40126,9 @@ intimate
 intimately
 intimates
 intimation
+intimidate
+intimidated
+intimidates
 intimidating
 intimidation
 into
@@ -40305,6 +40365,7 @@ irresolute
 irrespective
 irrespectively
 irresponsible
+irresponsibly
 irrigate
 irrigated
 irrigates
@@ -40320,6 +40381,7 @@ irritating
 irritation
 irritations
 is
+islamic
 island
 islands
 isn't
@@ -40451,6 +40513,7 @@ j2se
 jQuery
 jab
 jabs
+jacked
 jacket
 jackets
 jacking
@@ -40881,6 +40944,7 @@ lack
 lacked
 lacking
 lacks
+lactose
 ladder
 ladies
 lady
@@ -41332,6 +41396,7 @@ linearizing
 linearly
 linebreak
 lined
+liner
 lines
 lineup
 lingered
@@ -41901,6 +41966,7 @@ manufacturers
 manufactures
 manufacturing
 manure
+manuscript
 many
 many-to-many
 map
@@ -42100,6 +42166,7 @@ mean-squared
 meaning
 meaningful
 meaningfully
+meaningfulness
 meaningless
 meanings
 meanly
@@ -42312,6 +42379,7 @@ metamorphose
 metamorphoses
 metaphor
 metaphorical
+metaphorically
 metaphors
 metaprogramming
 metaverse
@@ -42968,6 +43036,7 @@ mother
 mother's
 motherboard
 motherboards
+mothered
 motherhood
 motherhoods
 mothering
@@ -43416,6 +43485,7 @@ natural-language
 naturalistic
 naturalized
 naturally
+naturals
 nature
 natured
 naughtiness
@@ -43562,6 +43632,7 @@ neuronal
 neurones
 neurons
 neuroscience
+neurotic
 neutral
 neutralise
 neutralised
@@ -44831,6 +44902,7 @@ overpowered
 overpowering
 overpriced
 overproduced
+overprotected
 overprotective
 overprotectiveness
 overqualified
@@ -45444,6 +45516,7 @@ perceptron
 perceptrons
 perceptual
 perceptually
+perch
 perchance
 peremptorily
 perennial
@@ -45662,6 +45735,7 @@ photons
 photorealistic
 photos
 photoshop
+photosynthesis
 php
 php's
 php-developer
@@ -46973,10 +47047,13 @@ protection
 protections
 protective
 protector
+protectors
 protects
 protein
 proteins
 protest
+protestant
+protestantism
 protestants
 protestation
 protested
@@ -49824,6 +49901,7 @@ sang
 sanitary
 sanitation
 sanitizer
+sanitizing
 sanity
 sank
 santa
@@ -49865,6 +49943,7 @@ saunas
 sauntering
 sausage
 savage
+savages
 save
 saved
 saver
@@ -49974,6 +50053,8 @@ scholarly
 scholars
 scholarship
 school
+schooler
+schoolers
 schooling
 schools
 schoolwork
@@ -50115,6 +50196,7 @@ sculpture
 sculptures
 scum
 scummy
+scurry
 scuttle
 scuttled
 scuttles
@@ -50341,6 +50423,7 @@ selfimportant
 selfish
 selfishly
 selfishness
+selfless
 sell
 sell-off
 seller
@@ -51427,6 +51510,8 @@ societal
 societies
 society
 sociological
+sociologist
+sociologists
 sociology
 sociopath
 sociopathic
@@ -51834,6 +51919,7 @@ spoil
 spoilage
 spoiled
 spoiler
+spoilers
 spoiling
 spoils
 spoilt
@@ -51893,6 +51979,7 @@ spray
 sprayed
 sprays
 spread
+spreadable
 spreaded
 spreading
 spreads
@@ -52141,6 +52228,9 @@ starvation
 starve
 starving
 stash
+stashed
+stashes
+stashing
 state
 state-controlled
 state-of-art
@@ -52652,6 +52742,7 @@ submission
 submissions
 submissive
 submissively
+submissiveness
 submit
 submits
 submitted
@@ -53460,6 +53551,7 @@ tattles
 tattling
 tattoo
 tattooed
+tattooing
 tattoos
 taught
 taunt
@@ -54282,6 +54374,7 @@ totaled
 totaling
 totalitarian
 totality
+totalled
 totalling
 totally
 totals
@@ -54800,6 +54893,7 @@ tunnels
 tuple
 tuples
 turbine
+turbines
 turbo
 turbulence
 turbulent
@@ -54972,6 +55066,7 @@ ultrasound
 ultraviolet
 ultrawide
 umbrella
+umbrellas
 uml
 un
 unabated
@@ -54996,6 +55091,7 @@ unanswerably
 unanswered
 unapplied
 unapply
+unappreciated
 unapproved
 unarmed
 unary
@@ -55280,6 +55376,7 @@ unemployed
 unemployment
 unencrypted
 unending
+unenjoyable
 unenlightened
 unequal
 unequalled
@@ -55587,6 +55684,7 @@ unpredictability
 unpredictable
 unpredictably
 unprepared
+unpresentable
 unpressurized
 unpretending
 unpretty
@@ -55789,6 +55887,7 @@ unveils
 unverified
 unvisited
 unwanted
+unwashed
 unwatched
 unweighted
 unwelcome
@@ -56308,6 +56407,7 @@ victims
 video
 video-recorded
 video-sharing
+videogame
 videogames
 videos
 view
