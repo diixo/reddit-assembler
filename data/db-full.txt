@@ -1803,8 +1803,10 @@ Axios
 Axis
 Aye
 Azure
+B-Spline
 B-Splines
 B-Tree
+B-spline
 B-splines
 B-tree
 B2B
@@ -3469,6 +3471,7 @@ Cherishing
 Cherries
 Cherry
 Chess
+Chessboard
 Chest
 Chew
 Chewable
@@ -5389,7 +5392,6 @@ Cyberspace
 Cycle
 Cycles
 Cyclic
-CyclicaL
 Cyclical
 Cyclically
 Cycling
@@ -5526,7 +5528,6 @@ DataRobot
 DataSet
 DataSource
 DataTypes
-DatabasEs
 Database
 Database's
 Databases
@@ -5537,7 +5538,6 @@ Dataframes
 Datagram
 Dataloader
 Datamining
-DataseT
 Dataset
 Dataset's
 Datasets
@@ -5766,7 +5766,6 @@ Deeptech
 Deer
 Deers
 Def
-DefInitely
 Default
 Defaulting
 Defaults
@@ -5890,7 +5889,6 @@ Delivers
 Delivery
 Delphi
 Delta
-DeltaS
 Deltas
 Delusion
 Delusional
@@ -6201,6 +6199,7 @@ Devs
 Dew
 Dexterity
 Dexterously
+Diabetic
 Diacritic
 Diacritics
 Diagnose
@@ -6309,7 +6308,6 @@ Digestive
 Digests
 Digging
 Digit
-DigitaL
 Digital
 Digitalization
 Digitalized
@@ -6904,7 +6902,6 @@ DoxyGen
 Dozen
 Dozens
 Dr
-DrEaMiNG
 Draconic
 Draft
 Drafted
@@ -7105,7 +7102,6 @@ E-Mobility
 E-Payment
 E-book
 E-books
-E-commeRce
 E-commerce
 E-ink
 E-learning
@@ -7707,7 +7703,6 @@ Envelope
 Enveloped
 Envelopes
 Enveloping
-EnviRonments
 Envious
 Environment
 Environmental
@@ -7765,7 +7760,6 @@ Equivalency
 Equivalent
 Equivalently
 Equivalents
-EquivarianT
 Equivariance
 Equivariant
 Equivocation
@@ -7803,7 +7797,6 @@ Error-free
 Errors
 Eruption
 Eruptions
-EsTimation
 Escalate
 Escalated
 Escalating
@@ -7879,13 +7872,13 @@ Evacuated
 Evacuation
 Evacuations
 Evade
-EvaluatIon
 Evaluate
 Evaluated
 Evaluates
 Evaluating
 Evaluation
 Evaluations
+Evaluative
 Evaluator
 Evaluators
 Evaporate
@@ -7934,12 +7927,12 @@ Evil
 Evildoer
 Evince
 Evinced
-EvoLutionary
 Evocative
 Evoke
 Evoked
 Evoking
 Evolution
+Evolutional
 Evolutionarily
 Evolutionary
 Evolutions
@@ -8738,7 +8731,6 @@ First-in-first-out
 First-order
 First-time
 Firstly
-FisH
 Fiscal
 Fiscally
 Fish
@@ -9641,7 +9633,6 @@ Gif
 Gift
 Gifted
 Gifts
-GigaBIT
 GigaByte
 GigaBytes
 Gigabit
@@ -9703,7 +9694,6 @@ Glitters
 GloVE
 GloVe
 Glob
-GlobE
 Global
 Globalising
 Globalization
@@ -9735,7 +9725,6 @@ Gnomes
 Gnu
 Go
 Go-lang
-GoT
 Goal
 Goal-Directed
 Goal-directed
@@ -10488,7 +10477,6 @@ Highly
 Highly-Optimized
 Highs
 Highschool
-HighwAys
 Highway
 Highways
 Hijack
@@ -14511,6 +14499,7 @@ Multi-view
 Multi-word
 Multi-worker
 Multi-year
+MultiAgent
 MultiCast
 MultiClass
 MultiColor
@@ -14541,6 +14530,7 @@ MultiThreaded
 MultiTrack
 MultiVerse
 MultiView
+Multiagent
 Multicast
 Multicellular
 Multichannel
@@ -21169,6 +21159,7 @@ Solute
 Solution
 Solution-Focused
 Solutions
+Solvability
 Solvable
 Solve
 Solved
@@ -21888,7 +21879,6 @@ Straws
 Stray
 Straying
 Strays
-StreAming
 Streak
 Streaks
 Stream
@@ -23751,7 +23741,6 @@ Truthful
 Truthfully
 Truths
 Try
-Try-ON
 Try-On
 Try-on
 Trying
@@ -24148,6 +24137,7 @@ Unfeasible
 Unfiltered
 Unfinished
 Unfit
+Unfitted
 Unfixed
 Unfocused
 Unfold
@@ -25297,6 +25287,7 @@ Well-ranked
 Well-rounded
 Well-structured
 Well-studied
+Well-trained
 Well-tuned
 Well-written
 Wellbeing
@@ -27896,6 +27887,7 @@ axios
 axis
 aye
 azure
+b-spline
 b-splines
 b-tree
 b2b
@@ -29849,6 +29841,7 @@ cherishing
 cherries
 cherry
 chess
+chessboard
 chest
 chests
 chew
@@ -33274,6 +33267,7 @@ dew
 dexterity
 dexterously
 dhcp
+diabetic
 diacritic
 diacritics
 diagnose
@@ -35427,6 +35421,7 @@ evaluates
 evaluating
 evaluation
 evaluations
+evaluative
 evaluator
 evaluators
 evaporate
@@ -35494,6 +35489,7 @@ evoking
 evolute
 evolutes
 evolution
+evolutional
 evolutionarily
 evolutionary
 evolutions
@@ -43474,6 +43470,7 @@ multi-view
 multi-word
 multi-worker
 multi-year
+multiagent
 multibyte
 multibyte-character
 multicast
@@ -51873,6 +51870,7 @@ solute
 solution
 solution-focused
 solutions
+solvability
 solvable
 solve
 solved
@@ -55713,6 +55711,7 @@ unfilled
 unfiltered
 unfinished
 unfit
+unfitted
 unfitting
 unfixed
 unfocus
@@ -57357,6 +57356,7 @@ well-structured
 well-studied
 well-suited
 well-targeted
+well-trained
 well-tuned
 well-written
 wellbeing
