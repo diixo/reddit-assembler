@@ -482,6 +482,7 @@ Addresses
 Addressing
 Adds
 Adept
+Adequacy
 Adequate
 Adequately
 Adhered
@@ -9172,7 +9173,6 @@ Fraud
 Frauds
 Fray
 Fraying
-FreSh
 Freak
 Freaked
 Freaking
@@ -17951,7 +17951,6 @@ Queried
 Queries
 Query
 Querying
-QuesTion-Answering
 Quest
 Questing
 Question
@@ -26154,6 +26153,7 @@ addressing
 adds
 adept
 adeptly
+adequacy
 adequate
 adequately
 adhere
