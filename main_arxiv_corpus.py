@@ -132,6 +132,11 @@ if __name__ == "__main__":
 
     #processing(dictionary)
 
+    path = Path("data/arxiv-dictionary.json")
+    if path.exists():
+        with path.open("r", encoding="utf-8") as f:
+            dictionary = Counter(json.load(f))
+
 
     dictionary = Counter(filter_dictionary(dictionary, embedded_words))
 
@@ -156,7 +161,7 @@ if __name__ == "__main__":
 
         print(f"Saved arxiv-json.sz={len(dictionary.items())}")
 
-        with Path("data/arxiv-dictionary.json").open("w", encoding="utf-8") as f:
+        with path.open("w", encoding="utf-8") as f:
             json.dump(dictionary, f, indent=2)
         print(f"Saved json.sz={len(dictionary.items())}")
 

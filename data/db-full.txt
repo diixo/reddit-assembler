@@ -414,6 +414,8 @@ Actually
 Actuate
 Actuated
 Actuation
+Actuator
+Actuators
 Acute
 Acutely
 Acyclic
@@ -518,6 +520,7 @@ Admission
 Admissions
 Admit
 Admits
+Admittance
 Admitted
 Admittedly
 Admitting
@@ -587,6 +590,7 @@ Advocacy
 Advocate
 Advocated
 Advocates
+Advocating
 Adware
 Adwords
 Aerial
@@ -625,6 +629,7 @@ Afford
 Affordability
 Affordable
 Affordably
+Affordance
 Afforded
 Affording
 Affords
@@ -681,6 +686,7 @@ Agitate
 Agitated
 Agitating
 Agitation
+Agnostic
 Ago
 Agrarian
 Agree
@@ -907,7 +913,11 @@ Amnesia
 Amnesty
 Among
 Amongst
+Amortised
 Amortization
+Amortize
+Amortized
+Amortizing
 Amount
 Amounts
 Ampere
@@ -1040,6 +1050,7 @@ Anomalous
 Anomaly
 Anonymity
 Anonymization
+Anonymize
 Anonymized
 Anonymizing
 Anonymous
@@ -1118,10 +1129,12 @@ Ape
 Aperture
 Apes
 Apex
+Aphorisms
 Api
 Apis
 Apocalypse
 Apocalyptic
+Apolitical
 Apologies
 Apologize
 Apology
@@ -1212,6 +1225,7 @@ Approximates
 Approximating
 Approximation
 Approximations
+Approximator
 Approximators
 Apps
 Apricot
@@ -1229,6 +1243,9 @@ Arbiter
 Arbitrage
 Arbitrarily
 Arbitrary
+Arbitrate
+Arbitrated
+Arbitrating
 Arbitration
 Arcade
 Arch
@@ -1324,6 +1341,7 @@ Arrived
 Arriving
 Arrogance
 Arrow
+Arrowhead
 Arrows
 Arsenal
 Art
@@ -1335,6 +1353,7 @@ Article
 Articles
 Articulate
 Articulated
+Articulating
 Articulation
 Artifact
 Artifacts
@@ -2185,6 +2204,7 @@ Biasing
 Bible
 Biblical
 Biblically
+Bibliographic
 Bibliography
 Bicycle
 Bicycles
@@ -2221,6 +2241,7 @@ Bills
 Bimodal
 Bin
 Binaries
+Binarized
 Binary
 Bind
 Binded
@@ -3029,7 +3050,9 @@ Cannot
 Canonical
 Canonicalization
 Canonicalize
+Canonization
 Canonized
+Canonizing
 Cant
 Cantrips
 Canvas
@@ -3334,6 +3357,7 @@ Character
 Characterise
 Characterising
 Characteristic
+Characteristically
 Characteristics
 Characterization
 Characterize
@@ -3505,6 +3529,7 @@ Chopping
 Chord
 Chords
 Chore
+Choreographer
 Chores
 Chorus
 Chose
@@ -3623,6 +3648,7 @@ Classifiers
 Classifies
 Classify
 Classifying
+Classless
 Classroom
 Classrooms
 Clause
@@ -4051,6 +4077,8 @@ Committing
 Commodities
 Commodity
 Common
+Common-Sense
+Common-sense
 CommonJS
 CommonSense
 Commonalities
@@ -4388,6 +4416,7 @@ Conform
 Conformal
 Conformance
 Conformation
+Conformations
 Conforming
 Conformity
 Confound
@@ -4405,6 +4434,7 @@ Confusion
 Confusions
 Congested
 Congestion
+Congestions
 Congestive
 Congrats
 Congratulate
@@ -4606,15 +4636,18 @@ Contentious
 Contentment
 Contents
 Contest
+Contestable
 Contestant
 Contested
 Contests
 Context
 Context-Aware
+Context-Based
 Context-Dependent
 Context-Free
 Context-Sensitive
 Context-aware
+Context-based
 Context-dependent
 Context-free
 Context-sensitive
@@ -4658,6 +4691,7 @@ Contractibility
 Contracting
 Contraction
 Contractions
+Contractive
 Contractor
 Contractors
 Contracts
@@ -5130,7 +5164,6 @@ Cross-validation
 Cross-view
 CrossCheck
 CrossEntropy
-CrossFiT
 CrossFit
 CrossLink
 CrossOver
@@ -5197,6 +5230,7 @@ Crushed
 Crushes
 Crushing
 Crust
+Crusts
 Crux
 Cry
 Crying
@@ -5220,6 +5254,8 @@ CuDNN
 Cube
 Cubes
 Cubic
+Cubical
+Cubically
 Cuboid
 Cucumber
 Cucumbers
@@ -5292,6 +5328,7 @@ Curtailing
 Curtain
 Curtains
 Curvature
+Curvatures
 Curve
 Curved
 Curves
@@ -5342,6 +5379,7 @@ Cyber-attacks
 Cyber-security
 CyberSecurity
 Cyberattack
+Cyberattacks
 Cybercriminals
 Cybernetic
 Cybernetics
@@ -5597,6 +5635,7 @@ Deception
 Deceptions
 Deceptive
 Deceptively
+Decidability
 Decidable
 Decide
 Decided
@@ -5725,6 +5764,7 @@ Deepmind's
 Deepsparse
 Deeptech
 Deer
+Deers
 Def
 DefInitely
 Default
@@ -5807,6 +5847,8 @@ Degrades
 Degrading
 Degree
 Degrees
+Dehumanized
+Dehumanizing
 Deities
 Delay
 Delayed
@@ -5869,6 +5911,7 @@ Democratized
 Democratizing
 Democrats
 Demodulate
+Demodulated
 Demodulation
 Demographic
 Demographically
@@ -5889,6 +5932,7 @@ Demoralizing
 Demos
 Demote
 Demoting
+Demotivate
 Demotivation
 Demure
 Demystified
@@ -5926,6 +5970,7 @@ Depart
 Departed
 Departing
 Department
+Departmental
 Departments
 Departure
 Departures
@@ -5990,6 +6035,7 @@ Depthwise
 Deputy
 Deque
 Dequeue
+Derailment
 Derangement
 Derangements
 Dereference
@@ -6201,6 +6247,7 @@ Dicks
 Dictate
 Dictated
 Dictates
+Dictation
 Dictator
 Dictators
 Dictatorship
@@ -6332,6 +6379,7 @@ Directing
 Direction
 Directional
 Directionality
+Directionally
 Directions
 Directive
 Directives
@@ -6468,6 +6516,7 @@ Disgraced
 Disgruntled
 Disguise
 Disguised
+Disguises
 Disguising
 Disgust
 Disgusted
@@ -6493,6 +6542,7 @@ Diskless
 Disks
 Dislike
 Dislikes
+Dislocated
 Dislocation
 Dismantling
 Dismayed
@@ -6720,6 +6770,7 @@ Document
 Document-Oriented
 Documentary
 Documentation
+Documentations
 Documented
 Documenting
 Documents
@@ -7020,6 +7071,7 @@ During
 Dusk
 Dusky
 Dust
+Dusting
 Dusty
 Duties
 Dutiful
@@ -7371,13 +7423,16 @@ Emitted
 Emitting
 Emoji
 Emojis
+Emote
 Emotes
 Emotion
 Emotional
 Emotionality
 Emotionally
 Emotions
+Emotive
 Empathetic
+Empathic
 Empathize
 Empathy
 Emperor
@@ -7497,6 +7552,8 @@ Endorsement
 Endorsements
 Endorses
 Endorsing
+Endow
+Endowed
 Endpoint
 Endpoints
 Ends
@@ -7583,6 +7640,7 @@ Entailed
 Entailment
 Entangled
 Entanglement
+Entanglements
 Entangling
 Enter
 Entered
@@ -7876,6 +7934,7 @@ Evildoer
 Evince
 Evinced
 EvoLutionary
+Evocative
 Evoke
 Evoked
 Evoking
@@ -8181,6 +8240,7 @@ Extraction
 Extractions
 Extractive
 Extractor
+Extractors
 Extracts
 Extradition
 Extraordinarily
@@ -8340,6 +8400,8 @@ Falsehood
 Falsehoods
 Falsely
 Falsification
+Falsify
+Falsifying
 Fame
 Famed
 Familiar
@@ -8465,6 +8527,7 @@ Federalism
 Federalist
 Federated
 Federation
+Federations
 Fedora
 Fee
 Feed
@@ -8560,6 +8623,7 @@ Filename
 Files
 Filesize
 Filesystem
+Filesystems
 Filing
 Fill
 Filled
@@ -8612,6 +8676,7 @@ Fine-tuned
 Fine-tuning
 FineTuning
 Finely
+Fineness
 Finer
 Fines
 Finesse
@@ -8658,8 +8723,10 @@ First
 First-Class
 First-Come
 First-Ever
+First-In
 First-In-First-Out
 First-Order
+First-Out
 First-Party
 First-Time
 First-class
@@ -8984,9 +9051,11 @@ Forlorn
 Form
 Form-Based
 Formal
+Formalisation
 Formalise
 Formalised
 Formalising
+Formalism
 Formality
 Formalization
 Formalize
@@ -9060,6 +9129,7 @@ Founded
 Founder
 Founders
 Founding
+Foundry
 Fountain
 Fountains
 Four
@@ -9094,6 +9164,7 @@ Frailty
 Frame
 FrameRate
 Framed
+Frameless
 Framerate
 Frames
 Framewise
@@ -9326,6 +9397,7 @@ Futurist
 Futuristic
 Futurists
 Fuzzed
+Fuzziness
 Fuzzing
 Fuzzy
 Fyi
@@ -9531,6 +9603,8 @@ Geometrical
 Geometrically
 Geometries
 Geometry
+Geometry-Based
+Geometry-based
 Geophysics
 Geopolitical
 Geopolitically
@@ -9556,6 +9630,7 @@ Ghetto
 Ghost
 GhostBuster
 Ghostbuster
+Ghostly
 Ghosts
 Ghostwritten
 Ghz
@@ -9750,6 +9825,7 @@ Graduating
 Graduation
 Graffiti
 Grain
+Grained
 Grains
 Grammar
 Grammar-Based
@@ -9851,6 +9927,7 @@ Grievous
 Grill
 Grilled
 Grilling
+Grimace
 Grind
 Grinder
 Grinding
@@ -9869,6 +9946,7 @@ Gross
 Grossed
 Grossly
 Ground
+Ground-breaking
 GroundTruth
 Groundbreaking
 Grounded
@@ -10241,6 +10319,7 @@ Heaters
 Heather
 Heating
 Heatmap
+Heatmaps
 Heaven
 Heavens
 Heavier
@@ -10649,6 +10728,7 @@ HuggingFace
 Huggingface
 Hugs
 Hull
+Hulls
 Human
 Human-Centric
 Human-Like
@@ -10739,6 +10819,7 @@ Hyperparameter
 Hyperparameters
 Hyperplane
 Hyperplanes
+Hyperspace
 Hypersphere
 Hyperspheres
 Hypertext
@@ -10914,6 +10995,7 @@ Illuminated
 Illuminates
 Illuminating
 Illumination
+Illuminations
 Illusion
 Illusionist
 Illusions
@@ -10950,6 +11032,7 @@ Imaging
 Imagining
 Imbalance
 Imbalanced
+Imbalances
 Imitate
 Imitated
 Imitates
@@ -10969,6 +11052,7 @@ Immigrants
 Immigration
 Imminent
 Imminently
+Immorality
 Immortal
 Immortality
 Immune
@@ -10991,6 +11075,7 @@ Impart
 Impartial
 Impartiality
 Imparts
+Impasse
 Impatience
 Impatient
 Impeach
@@ -11086,6 +11171,7 @@ Impulsivity
 Impure
 Impurities
 Impurity
+Imputation
 Impute
 Imputed
 Imputing
@@ -11450,6 +11536,7 @@ Inhibitions
 Inhibits
 Init
 Initial
+Initialisation
 Initialised
 Initialising
 Initialization
@@ -11484,6 +11571,7 @@ Injury
 Injustice
 Ink
 Inked
+Inlier
 Inline
 Inlining
 Innate
@@ -11717,6 +11805,7 @@ Intercept
 Intercepted
 Intercepting
 Interception
+Interceptor
 Intercepts
 Interchange
 Interchangeability
@@ -11782,6 +11871,7 @@ Internet-based
 Internet-connected
 Internet-of-Things
 Internet-of-things
+Interns
 Internship
 Internships
 InteroperAble
@@ -12136,6 +12226,7 @@ Jester
 Jet
 JetBrains
 Jets
+Jetting
 Jeweler
 Jewelers
 Jewellery
@@ -12282,6 +12373,7 @@ Keyless
 Keynote
 Keynotes
 Keyphrase
+Keyphrases
 Keypoint
 Keypoints
 Keys
@@ -12370,9 +12462,11 @@ Knowingly
 Knowledgable
 Knowledge
 Knowledge-Based
+Knowledge-Driven
 Knowledge-Sharing
 Knowledge-Transfer
 Knowledge-based
+Knowledge-driven
 Knowledge-sharing
 Knowledge-transfer
 Knowledgeable
@@ -12395,6 +12489,7 @@ LLM
 LLM's
 LLM-Powered
 LLM-based
+LLM-driven
 LLM-generated
 LLM-powered
 LLMS
@@ -12901,6 +12996,11 @@ Local
 LocalLy
 Locale
 Locales
+Localisation
+Localise
+Localised
+Localises
+Localising
 Locality
 Localization
 Localize
@@ -13056,6 +13156,7 @@ Low-Code
 Low-Cost
 Low-Dimensional
 Low-End
+Low-Energy
 Low-Frequency
 Low-Grade
 Low-Latency
@@ -13273,6 +13374,7 @@ Mandarins
 Mandate
 Mandatory
 Maneuver
+Maneuverability
 Maneuvering
 Maneuvers
 Mango
@@ -13339,6 +13441,7 @@ Margins
 MariaDB
 Marijuana
 Marine
+Marionette
 Maritime
 Mark
 Markdown
@@ -13489,6 +13592,7 @@ Mean-Squared
 Meaning
 Meaningful
 Meaningfully
+Meaningfulness
 Meaningless
 Meanings
 Means
@@ -13640,6 +13744,7 @@ Merrily
 Mesh
 Mesh-Based
 Mesh-based
+Meshed
 Meshes
 Meshing
 Mess
@@ -13685,6 +13790,7 @@ Metering
 Meters
 Method
 Methodical
+Methodically
 Methodological
 Methodologically
 Methodologies
@@ -13901,6 +14007,7 @@ Misalignment
 Misapply
 Misbehaving
 Misc
+Miscalibration
 Miscellaneous
 Mischief
 Mischievous
@@ -14059,6 +14166,7 @@ Moderator
 Moderators
 Modern
 Modernisation
+Modernised
 Modernising
 Modernity
 Modernization
@@ -14143,6 +14251,7 @@ Monolithic
 Monolithically
 Monoliths
 Monologue
+Monologues
 Monopolies
 Monopolising
 Monopolistic
@@ -14673,6 +14782,7 @@ Natural-language
 Naturalistic
 Naturalized
 Naturally
+Naturalness
 Naturals
 Nature
 Naughty
@@ -14744,6 +14854,7 @@ Neighbors
 Neighbour
 Neighbourhood
 Neighbourhoods
+Neighbouring
 Neighbours
 Neither
 Neo4J
@@ -14795,6 +14906,7 @@ Neuron
 Neuronal
 Neurons
 Neuroscience
+Neurotic
 Neutral
 Neutralising
 Neutrality
@@ -14883,6 +14995,7 @@ Nodes
 Nods
 Noise
 Noised
+Noiseless
 Noises
 Noisier
 Noising
@@ -15228,6 +15341,7 @@ Obligations
 Obligatory
 Obliges
 Obliging
+Oblique
 Obliquity
 Oblivion
 Oblivious
@@ -15398,6 +15512,7 @@ On-Site
 On-Target
 On-The-Fly
 On-board
+On-call
 On-chip
 On-demand
 On-device
@@ -15592,6 +15707,7 @@ Orchestra
 Orchestrate
 Orchestrated
 Orchestrates
+Orchestrating
 Orchestration
 Orcs
 Order
@@ -16056,6 +16172,7 @@ Paranoid
 Paranormal
 Paraphrase
 Paraphrased
+Paraphrases
 Paraphrasing
 Parasite
 Parasites
@@ -16178,6 +16295,7 @@ Path-Finding
 Path-finding
 Pathological
 Pathologically
+Pathologies
 Pathology
 Paths
 Pathway
@@ -16256,6 +16374,7 @@ Pebbles
 Peculiar
 Peculiarities
 Peculiarity
+Pedagogical
 Pedal
 Pedals
 Pedant
@@ -16275,7 +16394,9 @@ Peeled
 Peeling
 Peephole
 Peer
+Peer-Review
 Peer-To-Peer
+Peer-review
 Peer-to-Peer
 Peer-to-peer
 Peering
@@ -16284,6 +16405,7 @@ Peg
 Pegs
 Pen
 Penal
+Penalization
 Penalize
 Penalized
 Penalizing
@@ -16357,6 +16479,7 @@ Perimeter
 Period
 Periodic
 Periodically
+Periodicity
 Periods
 Peripheral
 Peripherals
@@ -16364,6 +16487,7 @@ Periphery
 Perishable
 Perks
 Perl
+Permanency
 Permanent
 Permanently
 Permeable
@@ -16548,6 +16672,7 @@ Pig
 Pigeon
 Pigeons
 Piggy
+Piglets
 Pigment
 Pigmentation
 Pigments
@@ -17076,6 +17201,7 @@ Preclude
 Precompiled
 Precompute
 Precomputed
+Precondition
 Preconditioned
 Preconditioning
 Preconditions
@@ -17176,6 +17302,7 @@ Prescription
 Prescriptions
 Presence
 Present
+Presentable
 Presentation
 Presentations
 Presented
@@ -17949,6 +18076,10 @@ Radiator
 Radiators
 Radical
 Radicalism
+Radicalization
+Radicalize
+Radicalized
+Radicalizing
 Radically
 Radicals
 Radio
@@ -18002,6 +18133,7 @@ Ran
 Ranch
 Rand
 Random
+Randomise
 Randomised
 Randomization
 Randomize
@@ -18062,10 +18194,12 @@ Ratio
 Rational
 Rationale
 Rationales
+Rationalising
 Rationalism
 Rationality
 Rationalization
 Rationalize
+Rationalizing
 Rationally
 Ratios
 Rats
@@ -18196,6 +18330,7 @@ Reason
 Reasonable
 Reasonably
 Reasoned
+Reasoner
 Reasoning
 Reasonings
 Reasons
@@ -18232,6 +18367,7 @@ Recalculation
 Recalibrate
 Recalibrated
 Recalibrating
+Recalibration
 Recall
 Recalled
 Recalling
@@ -18383,6 +18519,7 @@ Rectangular
 Rectifiable
 Rectified
 Rectifier
+Rectifiers
 Rectify
 Rectifying
 Recur
@@ -18495,6 +18632,7 @@ Reform
 Reformation
 Reformatted
 Reformed
+Reformer
 Reformers
 Reforming
 Reforms
@@ -18648,6 +18786,7 @@ Rejection
 Rejections
 Rejects
 RelU
+Relabeled
 Relapse
 Relapses
 Relatable
@@ -18811,6 +18950,7 @@ Reordering
 Reorganization
 Reorganize
 Reorganized
+Reorient
 Reorientation
 Reorienting
 Repackaging
@@ -18825,6 +18965,7 @@ Repairman
 Repairs
 Reparameterization
 Reparameterize
+Reparation
 Reparations
 Repayment
 Repeal
@@ -19012,6 +19153,8 @@ Residential
 Residents
 Residing
 Residual
+Residual-Based
+Residual-based
 Residuals
 Residue
 Residues
@@ -19216,6 +19359,7 @@ Revenge
 Revenue
 Revenues
 Reverberation
+Reverberations
 Revere
 Reversal
 Reverse
@@ -19223,6 +19367,7 @@ Reverse-Engineering
 Reverse-engineering
 Reversed
 Reverses
+Reversibility
 Reversible
 Reversing
 Reversion
@@ -19460,6 +19605,7 @@ Rotational
 Rotationally
 Rotations
 Rotator
+Rotatory
 Rotor
 Rots
 Rotted
@@ -19666,6 +19812,7 @@ Sample-Based
 Sample-based
 Sampled
 Sampler
+Samplers
 Samples
 Sampling
 Samsung
@@ -20023,11 +20170,13 @@ Selection
 Selections
 Selective
 Selectively
+Selectivity
 Selector
 Selectors
 Selects
 Selenium
 Self
+Self-Adaptive
 Self-Attention
 Self-Aware
 Self-Balancing
@@ -20056,6 +20205,7 @@ Self-Organization
 Self-Organized
 Self-Organizing
 Self-Reflection
+Self-Rule
 Self-Service
 Self-Sufficiency
 Self-Sufficient
@@ -20063,11 +20213,13 @@ Self-Supervised
 Self-Taught
 Self-Testing
 Self-Training
+Self-adaptive
 Self-attention
 Self-aware
 Self-balancing
 Self-checkout
 Self-contained
+Self-control
 Self-correction
 Self-determination
 Self-directed
@@ -20098,6 +20250,7 @@ Selfie
 Selfies
 Selfish
 Selfishness
+Selfless
 Sell
 Seller
 Sellers
@@ -20950,6 +21103,7 @@ Social-Media
 Social-media
 Socialist
 Socialistic
+Sociality
 Socialization
 Socialize
 Socialized
@@ -20959,6 +21113,8 @@ Societal
 Societies
 Society
 Sociological
+Sociologist
+Sociologists
 Sociology
 Sociopath
 Sociopaths
@@ -21067,6 +21223,7 @@ Sound
 Sounded
 Sounding
 Soundly
+Soundness
 Sounds
 Soundtrack
 Soundtracks
@@ -21176,6 +21333,7 @@ Specious
 Specks
 Specs
 Spectacular
+Spectating
 Spectral
 Spectrum
 Specular
@@ -21213,6 +21371,7 @@ Spellcasters
 Spellcasting
 Spellcheck
 Spelled
+Speller
 Spelling
 Spellings
 Spells
@@ -21333,6 +21492,7 @@ Sprayed
 Sprays
 Spread
 SpreadSheet
+Spreadable
 Spreading
 Spreads
 Spreadsheet
@@ -21521,6 +21681,7 @@ Starvation
 Starve
 Starving
 Stash
+Stashing
 State
 State-Controlled
 State-Of-The-Art
@@ -21648,6 +21809,7 @@ Stock
 Stocking
 Stocks
 Stoic
+Stoke
 Stokes
 Stole
 Stolen
@@ -21866,6 +22028,7 @@ Stylus
 Su
 Sub
 Sub-Category
+Sub-Class
 Sub-Graphs
 Sub-Matrix
 Sub-Optimal
@@ -21874,6 +22037,7 @@ Sub-String
 Sub-System
 Sub-Tree
 Sub-categories
+Sub-class
 Sub-graphs
 Sub-optimal
 Sub-sequence
@@ -21918,6 +22082,7 @@ Submit
 Submitted
 Submitting
 Submodels
+Submodular
 Submodule
 Subnet
 Subnets
@@ -22071,6 +22236,7 @@ Suitable
 Suitably
 Suite
 Suited
+Suites
 Suits
 Sulfur
 Sum
@@ -22129,6 +22295,7 @@ Superconductivity
 Superficial
 Superficially
 Superhuman
+Superimposed
 Superintelligence
 Superior
 Superiority
@@ -22148,6 +22315,7 @@ Supervised
 Supervising
 Supervision
 Supervisor
+Supervisors
 Supper
 Suppers
 Supplement
@@ -22328,6 +22496,7 @@ Switchers
 Switches
 Switching
 Swollen
+Swoosh
 Sword
 Swords
 Sworn
@@ -22380,6 +22549,7 @@ Syntax
 Syntaxes
 Synth
 Synthesis
+Synthesise
 Synthesize
 Synthesized
 Synthesizer
@@ -22478,6 +22648,7 @@ Taller
 Tallest
 Tame
 Tamed
+Tameness
 Tampered
 Tampon
 Tampons
@@ -23492,6 +23663,7 @@ Tribal
 Tribe
 Tribes
 Tribunal
+Tribunals
 Tribute
 Trick
 Tricked
@@ -23520,6 +23692,7 @@ Trilogy
 Trim
 Trimmed
 Trimming
+Trims
 Trip
 Triple
 Tripled
@@ -23618,6 +23791,7 @@ Turbulence
 Turbulent
 Turmoil
 Turn
+Turn-over
 Turnaround
 Turned
 Turning
@@ -23766,6 +23940,7 @@ Ultrafast
 Ultrasound
 Ultraviolet
 Umbrella
+Umbrellas
 Un
 Unable
 Unacceptable
@@ -23779,9 +23954,11 @@ Unambiguously
 Unannotated
 Unanswerable
 Unanswered
+Unappreciated
 Unarmed
 Unary
 Unassigned
+Unassisted
 Unattainable
 Unattended
 Unattractive
@@ -23796,6 +23973,7 @@ Unbalanced
 Unbearable
 Unbeatable
 Unbelievable
+Unbending
 Unbiased
 Unbinding
 Unbleached
@@ -23808,6 +23986,7 @@ Unbreakable
 Unbridled
 Unbroken
 Unbundling
+Uncalibrated
 Uncanny
 Uncategorized
 Uncensored
@@ -23856,6 +24035,7 @@ Uncover
 Uncovered
 Uncovering
 Uncovers
+Uncritically
 Uncurated
 Uncut
 Undamaged
@@ -23883,6 +24063,7 @@ Underground
 Underlay
 Underlaying
 Underlie
+Underlies
 Underlined
 Underlines
 Underlying
@@ -23935,6 +24116,8 @@ Undoing
 Undone
 Undoubtedly
 Undue
+Undulated
+Undulating
 Undulatory
 Unearthly
 Uneasy
@@ -23953,11 +24136,13 @@ Unevenness
 Unexamined
 Unexpected
 Unexpectedly
+Unexplainable
 Unexplained
 Unexploited
 Unexplored
 Unfair
 Unfairly
+Unfairness
 Unfaithful
 Unfamiliar
 Unfavorable
@@ -24845,6 +25030,7 @@ Walkers
 Walking
 Walks
 Walkthrough
+Walkthroughs
 Walkway
 Wall
 Walled
@@ -26244,6 +26430,7 @@ agitation
 agitator
 agitators
 aglow
+agnostic
 ago
 agrarian
 agree
@@ -32306,6 +32493,7 @@ deception
 deceptions
 deceptive
 deceptively
+decidability
 decidable
 decide
 decided
@@ -32461,6 +32649,7 @@ deepmind's
 deepsparse
 deeptech
 deer
+deers
 def
 defacing
 defacto
@@ -34798,6 +34987,8 @@ endorsement
 endorsements
 endorses
 endorsing
+endow
+endowed
 endpoint
 endpoints
 ends
@@ -41603,6 +41794,11 @@ locale
 locale-dependent
 locales
 localhost
+localisation
+localise
+localised
+localises
+localising
 locality
 localization
 localize
@@ -43554,6 +43750,7 @@ natural-language
 naturalistic
 naturalized
 naturally
+naturalness
 naturals
 nature
 natured
@@ -45404,6 +45601,7 @@ pathname
 pathnames
 pathological
 pathologically
+pathologies
 pathology
 paths
 pathway
@@ -45495,6 +45693,7 @@ peculiar
 peculiarities
 peculiarity
 peculiarly
+pedagogical
 pedal
 pedals
 pedant
@@ -52378,6 +52577,7 @@ stealing
 steals
 stealth
 stealthily
+stealthy
 steam
 steampunk
 steel
