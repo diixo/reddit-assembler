@@ -987,6 +987,7 @@ Angel
 Angeles
 Angels
 Anger
+Angers
 Angle
 Angles
 Angling
@@ -1596,6 +1597,7 @@ Audited
 Auditing
 Audition
 Auditor
+Auditors
 Auditory
 Audits
 Augment
@@ -2650,6 +2652,7 @@ Brew
 Brewed
 Brewer
 Breweries
+Brewers
 Brewery
 Brewing
 Bribe
@@ -3026,6 +3029,7 @@ Cannot
 Canonical
 Canonicalization
 Canonicalize
+Canonized
 Cant
 Cantrips
 Canvas
@@ -4919,6 +4923,8 @@ Coupon
 Coupons
 Courage
 Courageous
+Courier
+Couriers
 Course
 Courses
 Coursework
@@ -5870,6 +5876,7 @@ Demographics
 Demography
 Demolished
 Demolishing
+Demolition
 Demonetization
 Demonstrably
 Demonstrate
@@ -6086,6 +6093,7 @@ Detector
 Detectors
 Detects
 Detention
+Detentions
 Deter
 Deteriorate
 Deteriorated
@@ -7683,6 +7691,7 @@ Equator
 Equatorial
 Equidistant
 Equilibrium
+Equine
 Equinox
 Equip
 Equipment
@@ -8897,6 +8906,7 @@ Fool
 Fooled
 Fooling
 Foolish
+Foolishness
 Fools
 Foot
 Footage
@@ -15341,6 +15351,7 @@ Offline
 Offload
 Offloaded
 Offloading
+Offroad
 Offset
 Offsets
 Offshoot
@@ -17935,6 +17946,7 @@ Radiated
 Radiating
 Radiation
 Radiator
+Radiators
 Radical
 Radicalism
 Radically
@@ -18800,6 +18812,7 @@ Reorganization
 Reorganize
 Reorganized
 Reorientation
+Reorienting
 Repackaging
 Repaint
 Repainting
@@ -18812,6 +18825,7 @@ Repairman
 Repairs
 Reparameterization
 Reparameterize
+Reparations
 Repayment
 Repeal
 Repealing
@@ -19599,6 +19613,8 @@ Sacrifice
 Sacrifices
 Sacrificing
 Sad
+Saddle
+Saddles
 Sadist
 Sadly
 Sadness
@@ -24661,6 +24677,7 @@ Violin
 Viper
 Viral
 Virgin
+Virginity
 Virgins
 Virtual
 VirtualBox
@@ -26668,6 +26685,7 @@ angels
 anger
 angered
 angering
+angers
 angle
 angles
 angling
@@ -26737,6 +26755,7 @@ anomalous
 anomaly
 anonymity
 anonymization
+anonymize
 anonymized
 anonymizes
 anonymizing
@@ -26830,6 +26849,8 @@ aped
 aperture
 apes
 apex
+aphorism
+aphorisms
 api
 api's
 api-design
@@ -27462,6 +27483,7 @@ audition
 auditions
 auditor
 auditorium
+auditors
 auditory
 audits
 aught
@@ -27488,7 +27510,10 @@ authenticity
 author
 authored
 authoring
+authorise
 authorised
+authorises
+authorising
 authoritarian
 authoritarianism
 authoritative
@@ -28692,6 +28717,7 @@ brew
 brewed
 brewer
 breweries
+brewers
 brewery
 brewing
 bribe
@@ -29123,6 +29149,15 @@ canonical
 canonicalization
 canonicalize
 canonicalizes
+canonise
+canonised
+canonises
+canonising
+canonization
+canonize
+canonized
+canonizes
+canonizing
 cant
 cantrip
 cantrips
@@ -30088,6 +30123,8 @@ coats
 coauthor
 coauthors
 coaxial
+cobble
+cobbles
 cobol
 coca
 cocaine
@@ -31441,6 +31478,8 @@ coupon
 coupons
 courage
 courageous
+courier
+couriers
 course
 coursed
 courses
@@ -32622,6 +32661,8 @@ demolish
 demolished
 demolishes
 demolishing
+demolition
+demolitions
 demonetization
 demonize
 demonized
@@ -32785,6 +32826,10 @@ deque
 dequeue
 dequeued
 dequeues
+derail
+derailed
+derailment
+derails
 deranged
 derangement
 derangements
@@ -32945,6 +32990,7 @@ detector
 detectors
 detects
 detention
+detentions
 deter
 deteriorate
 deteriorated
@@ -33243,6 +33289,7 @@ directing
 direction
 directional
 directionality
+directionally
 directions
 directive
 directives
@@ -33978,7 +34025,15 @@ drama
 dramas
 dramatic
 dramatically
+dramatise
+dramatised
+dramatises
+dramatising
 dramatization
+dramatize
+dramatized
+dramatizes
+dramatizing
 drank
 drape
 draped
@@ -34269,6 +34324,7 @@ easy-to-understand
 easy-to-use
 easymock
 eat
+eatable
 eaten
 eater
 eatery
@@ -34433,6 +34489,7 @@ electronics-based
 electrons
 electroshock
 electrostatic
+electrostatically
 electrotechnical
 elects
 elegance
@@ -34587,6 +34644,7 @@ emotionality
 emotionally
 emotioned
 emotions
+emotive
 empathetic
 empathic
 empathize
@@ -35020,6 +35078,7 @@ equatorial
 equidistant
 equilateral
 equilibrium
+equine
 equinox
 equip
 equipment
@@ -35325,6 +35384,7 @@ excitingly
 exclaim
 exclaimed
 exclaiming
+exclaims
 exclamation
 exclamations
 exclude
@@ -35387,6 +35447,7 @@ exhales
 exhaling
 exhaust
 exhausted
+exhaustible
 exhausting
 exhaustingly
 exhaustion
@@ -36517,6 +36578,7 @@ foolhardy
 fooling
 foolish
 foolishly
+foolishness
 fools
 foot
 footage
@@ -36634,6 +36696,7 @@ formalise
 formalised
 formalises
 formalising
+formalism
 formality
 formalization
 formalize
@@ -36760,6 +36823,7 @@ frailty
 frame
 framed
 frameguard
+frameless
 framerate
 framerates
 frames
@@ -37034,6 +37098,7 @@ fusing
 fusion
 fusions
 fuss
+fussing
 fussy
 futile
 futility
@@ -37679,6 +37744,7 @@ grievously
 grill
 grilled
 grilling
+grimace
 grind
 grinded
 grinder
@@ -38992,6 +39058,7 @@ impartiality
 impartially
 imparts
 impassable
+impasse
 impassioned
 impatience
 impatient
@@ -39133,6 +39200,7 @@ impulsivity
 impure
 impurities
 impurity
+imputation
 impute
 imputed
 imputes
@@ -42248,6 +42316,7 @@ megabyte
 megabytes
 megapixel
 megapixels
+melancholic
 melancholy
 melded
 melee
@@ -44316,6 +44385,7 @@ offloaded
 offloading
 offloads
 offpeak
+offroad
 offset
 offsets
 offshoot
@@ -44358,6 +44428,7 @@ omitting
 on
 on-access
 on-board
+on-call
 on-chip
 on-demand
 on-device
@@ -44564,6 +44635,7 @@ orchestra
 orchestrate
 orchestrated
 orchestrates
+orchestrating
 orchestration
 orcs
 ordbms
@@ -45718,6 +45790,7 @@ phone
 phone's
 phonecall
 phonecalls
+phoned
 phones
 phonetic
 phonetically
@@ -47519,6 +47592,7 @@ radiated
 radiating
 radiation
 radiator
+radiators
 radical
 radicalise
 radicalised
@@ -48791,7 +48865,11 @@ reorganization
 reorganize
 reorganized
 reorganizes
+reorient
 reorientation
+reoriented
+reorienting
+reorients
 repack
 repackaging
 repacked
@@ -48811,6 +48889,8 @@ repairman
 repairs
 reparameterization
 reparameterize
+reparation
+reparations
 reparse
 reparsed
 reparsing
@@ -49500,6 +49580,7 @@ righteousness
 rightful
 rightfully
 rightly
+rightness
 rights
 righty
 rigid
@@ -49830,6 +49911,8 @@ sacrifices
 sacrificing
 sad
 saddest
+saddle
+saddles
 sadist
 sadistic
 sadists
@@ -49839,6 +49922,7 @@ safari
 safe
 safeguard
 safely
+safeness
 safer
 safest
 safety
@@ -50221,6 +50305,7 @@ seamlessly
 search
 search-based
 searchable
+searchbar
 searched
 searcher
 searcher's
@@ -50424,6 +50509,7 @@ selfish
 selfishly
 selfishness
 selfless
+selflessness
 sell
 sell-off
 seller
@@ -52191,6 +52277,7 @@ standup
 stanford
 stank
 staple
+stapled
 staples
 star
 starbucks
@@ -53304,6 +53391,8 @@ swoop
 swooped
 swooping
 swoops
+swoosh
+swooshing
 sword
 swordplay
 swords
@@ -53340,6 +53429,7 @@ sympathiser
 sympathize
 sympathized
 sympathizes
+sympathizing
 sympathy
 symphonies
 symphony
@@ -55870,6 +55960,10 @@ untruthful
 untuned
 unturned
 untwine
+untwist
+untwisted
+untwisting
+untwists
 untyped
 untypical
 unusable
@@ -56407,6 +56501,7 @@ victims
 video
 video-recorded
 video-sharing
+videocard
 videogame
 videogames
 videos
@@ -56466,6 +56561,7 @@ violin
 viper
 viral
 virgin
+virginity
 virgins
 virtual
 virtualbox
@@ -56680,6 +56776,7 @@ walkers
 walking
 walks
 walkthrough
+walkthroughs
 walkway
 walkways
 wall
@@ -56760,6 +56857,8 @@ washed-out
 washer
 washes
 washing
+washroom
+washrooms
 washy
 wasm
 wasmer
@@ -57413,6 +57512,7 @@ work-in-progress
 work-shop
 workable
 workaholic
+workaholics
 workaround
 workarounds
 workbench
