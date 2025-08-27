@@ -7554,6 +7554,7 @@ Endorses
 Endorsing
 Endow
 Endowed
+Endowing
 Endpoint
 Endpoints
 Ends
@@ -12637,7 +12638,6 @@ Lawful
 Lawlessness
 Lawmakers
 Lawn
-LawnMower
 Lawnmower
 Lawns
 Laws
@@ -12782,7 +12782,6 @@ Leveled
 Leveling
 Levels
 Lever
-LeveragIng
 Leverage
 Leveraged
 Leverages
@@ -12844,7 +12843,6 @@ Lifted
 Lifting
 Lifts
 Light
-LightHouse
 Lighten
 Lightening
 Lighter
@@ -34989,6 +34987,8 @@ endorses
 endorsing
 endow
 endowed
+endowing
+endows
 endpoint
 endpoints
 ends
