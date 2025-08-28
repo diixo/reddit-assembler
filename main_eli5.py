@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
         with path.open("w", encoding="utf-8") as f:
             json.dump(dictionary, f, indent=2)
-        print(f"Saved json.sz={len(dictionary.items())}")
+        print(f"Saved: json.sz={len(dictionary.items())}")
 
         most_common = dictionary.most_common()
 

@@ -61,7 +61,7 @@ if __name__ == "__main__":
             dictionary = Counter(new_dict)
             save_embedded_dict(embedded_words)
 
-        print(f"Saved json.sz={len(dictionary.items())}")
+        print(f"Saved: json.sz={len(dictionary.items())}")
         #####################################################
 
         with path.open("w", encoding="utf-8") as f:
