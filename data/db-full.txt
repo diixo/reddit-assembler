@@ -2905,7 +2905,6 @@ C-like
 C-style
 CAD
 CAN
-CANCERS
 CBOW
 CBoW
 CCA
@@ -3864,8 +3863,10 @@ Cocoa
 Coconut
 Coconuts
 Code
+Code-Based
 Code-First
 Code-Review
+Code-based
 CodeFest
 CodeForces
 CodeReview
@@ -13402,13 +13403,11 @@ Many-To-Many
 Many-to-Many
 Many-to-many
 Map
-MapReduce
 Maple
 Mapped
 Mapper
 Mapping
 Mappings
-Mapreduce
 Maps
 Marathon
 Marathons
@@ -16573,6 +16572,8 @@ Phonetic
 Phonetically
 Phonological
 Photo
+Photo-Realistic
+Photo-realistic
 PhotoShop
 Photograph
 Photographer
@@ -18190,6 +18191,7 @@ Re-Evaluation
 Re-Ranking
 Re-Think
 Re-Train
+Re-Training
 Re-Use
 Re-enable
 Re-engineering
@@ -18201,6 +18203,7 @@ Re-ranking
 Re-read
 Re-render
 Re-testing
+Re-training
 Re-use
 ReLU
 ReWritable
@@ -19694,6 +19697,7 @@ SMTP
 SOCKET
 SOCKS
 SOLID
+SOTA
 SQL
 SQL-Server
 SQL-based
@@ -21174,6 +21178,8 @@ Sort
 Sorted
 Sorting
 Sorts
+SotA
+Sota
 Sought
 Soul
 Soulmate
@@ -22959,6 +22965,7 @@ Therapeutic
 Therapeutically
 Therapies
 Therapist
+Therapists
 Therapy
 There
 There'd
@@ -24164,6 +24171,7 @@ Uninstall
 Uninstalling
 Unintelligible
 Unintended
+Unintentional
 Uninteresting
 Uninterrupted
 Uninvited
@@ -24352,7 +24360,6 @@ Unsubstantiated
 Unsuccessful
 Unsuitable
 Unsullied
-UnsupErvised
 Unsupervised
 Unsupported
 Unsure
@@ -29672,6 +29679,7 @@ chapped
 chapter
 chapters
 char
+char-level
 char16
 char16_t
 char32
@@ -30290,6 +30298,7 @@ coconut
 coconuts
 code
 code-base
+code-based
 code-first
 code-review
 code-sprint
@@ -33354,7 +33363,6 @@ diffusing
 diffusion
 diffusion-based
 dig
-digIT
 digest
 digestive
 digests
@@ -41320,7 +41328,6 @@ lawsuits
 lawyer
 lawyers
 lay
-layIng
 layer
 layered
 layering
@@ -42218,7 +42225,6 @@ mapped
 mapper
 mapping
 mappings
-mapreduce
 maps
 marathon
 marathons
@@ -42486,8 +42492,6 @@ meets
 meetup
 meetups
 mega
-megaBYTE
-megaBYTES
 megabyte
 megabytes
 megapixel
@@ -45979,6 +45983,7 @@ phonetically
 phonological
 photo
 photo's
+photo-realistic
 photograph
 photographer
 photographers
@@ -48012,6 +48017,7 @@ re-run
 re-testing
 re-think
 re-train
+re-training
 re-upped
 re-use
 re-used
@@ -50082,7 +50088,6 @@ rvalues
 rwd
 rxjs
 rythm
-sCaRiEsT
 saas
 saas-based
 sabotage
@@ -51915,6 +51920,7 @@ sortable
 sorted
 sorting
 sorts
+sota
 sought
 soul
 soulmate
@@ -54206,6 +54212,7 @@ therapeutic
 therapeutically
 therapies
 therapist
+therapists
 therapy
 there
 there'd
@@ -55794,6 +55801,7 @@ uninstalling
 uninstalls
 unintelligible
 unintended
+unintentional
 unintentionally
 uninteresting
 uninterpolated
