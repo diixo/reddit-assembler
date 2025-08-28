@@ -13,7 +13,6 @@
 .net6
 16-Bit
 16-bit
-16GB
 16Gb
 16bit
 16gb
@@ -366,7 +365,6 @@ Acknowledgment
 Acknowledgments
 Acoustic
 Acoustics
-AcquIsition
 Acquaint
 Acquaintance
 Acquaintances
@@ -3197,6 +3195,7 @@ Catapult
 Catapults
 Catastrophe
 Catastrophic
+Catastrophically
 Catch
 Catches
 Catching
@@ -4436,6 +4435,7 @@ Confused
 Confusing
 Confusion
 Confusions
+Congest
 Congested
 Congestion
 Congestions
@@ -5668,6 +5668,7 @@ Decline
 Declined
 Declines
 Declining
+Decodable
 Decode
 Decoded
 Decoder
@@ -5869,6 +5870,8 @@ Deliberate
 Deliberated
 Deliberately
 Deliberating
+Deliberation
+Deliberations
 Deliberative
 Delicate
 Delicately
@@ -5991,6 +5994,7 @@ Depicting
 Depleted
 Depletion
 Deploy
+Deployability
 Deployable
 Deployed
 Deploying
@@ -6389,7 +6393,6 @@ Directors
 Directory
 Directs
 Directx
-Directx9
 Dirichlet
 Dirt
 Dirty
@@ -6866,7 +6869,6 @@ Dove
 Doves
 Dovetail
 Down
-DownLink
 DownScaling
 DownStream
 Downed
@@ -8332,6 +8334,7 @@ Factorial
 Factorials
 Factories
 Factoring
+Factorisation
 Factorization
 Factorizations
 Factorize
@@ -9792,8 +9795,6 @@ Grace
 Graceful
 Gracefully
 Graces
-GradIents
-GradUally
 Gradation
 Grade
 Graded
@@ -10458,7 +10459,6 @@ High-throughput
 High-traffic
 High-value
 High-velocity
-HighLight
 Higher
 Higher-Level
 Higher-Order
@@ -10927,11 +10927,8 @@ Ideals
 Ideas
 Identical
 Identically
-IdentifiCation
 Identifiability
 Identifiable
-IdentificAtioN
-IdentificAtion
 Identification
 Identified
 Identifier
@@ -11863,7 +11860,6 @@ Internet-of-things
 Interns
 Internship
 Internships
-InteroperAble
 Interoperability
 Interoperable
 Interoperating
@@ -12476,7 +12472,12 @@ LIFO
 LLAMA
 LLM
 LLM's
+LLM-Assisted
+LLM-Based
+LLM-Driven
+LLM-Generated
 LLM-Powered
+LLM-assisted
 LLM-based
 LLM-driven
 LLM-generated
@@ -13423,6 +13424,7 @@ Marching
 Margin
 Marginal
 Marginally
+Marginals
 Margins
 MariaDB
 Marijuana
@@ -13434,6 +13436,7 @@ Markdown
 Marked
 Markedly
 Marker
+Markerless
 Markers
 Market
 Marketed
@@ -13753,6 +13756,7 @@ Metal
 Metallic
 Metallurgy
 Metals
+Metamodel
 Metamorphism
 Metamorphoses
 Metaphor
@@ -14430,7 +14434,6 @@ Multi-cloud
 Multi-core
 Multi-device
 Multi-dimensional
-Multi-domAin
 Multi-domain
 Multi-embodiment
 Multi-environment
@@ -14458,7 +14461,6 @@ Multi-model
 Multi-module
 Multi-node
 Multi-object
-Multi-objectIve
 Multi-objective
 Multi-paradigm
 Multi-part
@@ -14863,7 +14865,6 @@ Network-Based
 Network-Oriented
 Network-based
 Network-oriented
-NetworkS
 Networked
 Networking
 Networks
@@ -15146,6 +15147,7 @@ Norm
 Normal
 Normalisation
 Normalise
+Normalised
 Normality
 Normalization
 Normalize
@@ -15463,7 +15465,6 @@ Oldie
 Oldies
 Olds
 Ole
-OliVe
 Oligarchy
 Olive
 Olives
@@ -16231,6 +16232,7 @@ Passionate
 Passions
 Passive
 Passively
+Passivity
 Passkey
 Passkeys
 Passphrase
@@ -18256,6 +18258,7 @@ Real-world
 RealTime
 RealWorld
 Realignment
+Realisation
 Realise
 Realised
 Realising
@@ -19249,7 +19252,6 @@ Resurgence
 Resurrecting
 Resurrection
 Resynchronization
-RetaiL
 Retail
 Retailer
 Retailers
@@ -20650,6 +20652,7 @@ Sign-on
 Signal
 Signaled
 Signaling
+Signalized
 Signalling
 Signals
 Signature
@@ -22207,11 +22210,13 @@ Summaries
 Summarisation
 Summarise
 Summarised
+Summariser
 Summarising
 Summarization
 Summarizations
 Summarize
 Summarized
+Summarizer
 Summarizing
 Summary
 Summation
@@ -22548,7 +22553,6 @@ TFIDF
 TLS
 TV
 TVs
-TXT
 Tab
 Tabby
 Table
@@ -25286,7 +25290,6 @@ What-If
 What-if
 Whatever
 Whats
-WhatsAPP
 WhatsApp
 Whatsapp
 Wheat
@@ -25322,7 +25325,6 @@ Whipping
 Whirl
 Whirling
 Whirlpool
-WhiskEy
 Whiskey
 Whisky
 Whisper
@@ -29475,6 +29477,7 @@ catapulted
 catapults
 catastrophe
 catastrophic
+catastrophically
 catch
 catched
 catches
@@ -31010,10 +31013,13 @@ confuses
 confusing
 confusion
 confusions
+congest
 congested
+congesting
 congestion
 congestions
 congestive
+congests
 conglomeration
 congrats
 congratulate
@@ -32497,6 +32503,7 @@ declines
 declining
 decltype
 declutter
+decodable
 decode
 decoded
 decoder
@@ -32740,6 +32747,8 @@ deliberate
 deliberated
 deliberately
 deliberating
+deliberation
+deliberations
 deliberative
 delicacy
 delicate
@@ -32919,6 +32928,7 @@ depletion
 deplorable
 deplore
 deploy
+deployability
 deployable
 deployed
 deploying
@@ -35933,6 +35943,7 @@ factorializing
 factorials
 factories
 factoring
+factorisation
 factorization
 factorizations
 factorize
@@ -41729,6 +41740,10 @@ living
 lizard
 llama
 llm
+llm-assisted
+llm-based
+llm-driven
+llm-generated
 llm-powered
 llms
 llvm
@@ -42228,6 +42243,7 @@ marching
 margin
 marginal
 marginally
+marginals
 margins
 mariadb
 marijuana
@@ -42240,6 +42256,7 @@ markdown
 marked
 markedly
 marker
+markerless
 markers
 market
 marketed
@@ -42610,6 +42627,7 @@ metalsmith
 metalsmiths
 metalwork
 metalworks
+metamodel
 metamorphism
 metamorphose
 metamorphoses
@@ -44178,6 +44196,7 @@ norm
 normal
 normalisation
 normalise
+normalised
 normality
 normalization
 normalize
@@ -45536,6 +45555,7 @@ passionately
 passions
 passive
 passively
+passivity
 passkey
 passkeys
 passphrase
@@ -48068,6 +48088,7 @@ real-time
 real-valued
 real-world
 realignment
+realisation
 realise
 realised
 realises
@@ -51220,6 +51241,10 @@ sign-ups
 signal
 signaled
 signaling
+signalize
+signalized
+signalizes
+signalizing
 signalling
 signals
 signature
@@ -53224,12 +53249,14 @@ summaries
 summarisation
 summarise
 summarised
+summariser
 summarises
 summarising
 summarization
 summarizations
 summarize
 summarized
+summarizer
 summarizes
 summarizing
 summary
@@ -54779,7 +54806,6 @@ tranquilizer
 tranquilizers
 tranquillised
 tranquillity
-transGENDER
 transact
 transaction
 transactional
