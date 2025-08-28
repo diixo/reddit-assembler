@@ -13642,9 +13642,6 @@ Meetings
 Meets
 Meetup
 Mega
-MegaBYTE
-MegaBYTES
-MegaBYTEs
 MegaByte
 MegaBytes
 Megabyte
@@ -14050,7 +14047,6 @@ Misspellings
 Misstep
 Missteps
 Mist
-MistAkes
 Mistake
 Mistaken
 Mistakes
@@ -14074,7 +14070,6 @@ Mitigating
 Mitigation
 Mitigations
 Mix
-MixUP
 MixUp
 Mixable
 Mixed
@@ -14086,7 +14081,6 @@ Mixture
 Mixtures
 Mixup
 Mnemonic
-MoD
 Mobile
 Mobile-Friendly
 Mobile-friendly
@@ -14108,7 +14102,6 @@ Mock-Up
 Mock-up
 Mockery
 Mocking
-Mockito
 Mockup
 Mockups
 Mod
@@ -14118,9 +14111,6 @@ Modality
 Modbus
 Modded
 Mode
-ModeL
-ModeLing
-ModeLs
 Model
 Model's
 Model-Based
@@ -14261,7 +14251,6 @@ Mood
 Moods
 Moody
 Moon
-MoonLight
 Moonlight
 Moonshine
 Moore's
@@ -14883,8 +14872,6 @@ Neural-Network
 Neural-network
 Neuralink
 Neuro
-NeuroLogic
-NeuroMorphic
 Neurocomputing
 Neurologic
 Neurological
@@ -15117,9 +15104,6 @@ Non-universal
 Non-verbal
 Non-volatile
 Non-zero
-NonLinear
-NonLocal
-NonStandard
 Nonassociative
 Noncommutativity
 Noncompliance
@@ -15578,7 +15562,6 @@ OpenAPI
 OpenAi
 OpenBSD
 OpenCV
-OpenCv
 OpenDNS
 OpenFlow
 OpenGL
@@ -15603,7 +15586,6 @@ Opens
 Opensource
 Openstack
 Openstreetmap
-OperA
 Opera
 Operable
 Operand
@@ -15820,7 +15802,6 @@ Outlined
 Outlines
 Outlining
 Outlook
-OutpUt
 Outpace
 Outperform
 Outperformed
@@ -16211,7 +16192,6 @@ Participating
 Participation
 Participle
 Particle
-ParticleS
 Particles
 Particular
 Particularity
@@ -18772,7 +18752,6 @@ Rejecting
 Rejection
 Rejections
 Rejects
-RelU
 Relabeled
 Relapse
 Relapses
@@ -19170,7 +19149,6 @@ Resnet
 ResoLution
 Resolution
 Resolutions
-ResolvIng
 Resolvable
 Resolve
 Resolved
@@ -19790,10 +19768,8 @@ Salty
 Salvage
 Salvageable
 Salvation
-SamPling
 Same
 Sameness
-SampLing
 Sample
 Sample-Based
 Sample-based
@@ -20322,7 +20298,6 @@ September
 Seq2Seq
 Seq2seq
 SeqUential
-SequeL
 Sequel
 Sequelize
 Sequence
@@ -43071,7 +43046,6 @@ mock-up
 mocked
 mockery
 mocking
-mockito
 mockup
 mockups
 mod
