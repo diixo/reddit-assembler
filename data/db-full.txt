@@ -6929,7 +6929,6 @@ Drape
 Drapes
 Drastically
 Draw
-DrawTalking
 Drawback
 Drawbacks
 Drawer
@@ -15552,7 +15551,6 @@ Opacity
 Opaque
 Opcode
 Opcodes
-OpeN-source
 Open
 Open-Source
 Open-Sourced
@@ -18725,12 +18723,9 @@ Reimagined
 Reimagining
 Reimburse
 Reimplementation
-ReinForcement
 Reincarnate
 Reincarnating
 Reincarnation
-ReinforCement
-ReinforcEmenT
 Reinforce
 Reinforced
 Reinforcement
@@ -19149,7 +19144,6 @@ Resized
 Resizing
 Reskilling
 Resnet
-ResoLution
 Resolution
 Resolutions
 Resolvable
@@ -20299,7 +20293,6 @@ Separators
 September
 Seq2Seq
 Seq2seq
-SeqUential
 Sequel
 Sequelize
 Sequence
@@ -34217,7 +34210,6 @@ drawing
 drawings
 drawn
 draws
-drawtalking
 dread
 dreaded
 dreadful
