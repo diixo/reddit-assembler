@@ -10,8 +10,8 @@ from utils import read_embedded_dict, filter_dictionary, clean_text, str_tokeniz
 
 
 
-#filepath = "datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl" #=962567
-filepath = "datasets/arxiv-corpus/arxiv_cs_2015_2020.jsonl" #=469458
+filepath = "datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl" #=962567
+#filepath = "datasets/arxiv-corpus/arxiv_cs_2015_2020.jsonl" #=469458
 
 
 start_date = date(2015, 1, 1)
@@ -24,7 +24,7 @@ ns = {
 }
 
 
-def main():
+def parse():
 
     base = "https://export.arxiv.org/oai2"
 
@@ -123,7 +123,8 @@ def processing(dictionary: Counter):
 
 
 if __name__ == "__main__":
-    #main()
+
+    #parse()
     statistic()
 
     embedded_words = read_embedded_dict()
