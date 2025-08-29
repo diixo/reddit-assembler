@@ -241,6 +241,7 @@ Abstraction
 Abstractions
 Abstractive
 Abstractly
+Abstractness
 Abstracts
 Absurd
 Absurdly
@@ -1216,7 +1217,6 @@ Approve
 Approved
 Approves
 Approx
-ApproximAte
 Approximate
 Approximated
 Approximately
@@ -1260,7 +1260,6 @@ Arches
 Archetypal
 Archetype
 Archetypes
-ArchiTecture
 Architect
 Architected
 Architecting
@@ -1602,7 +1601,6 @@ Audible
 Audience
 Audiences
 Audio
-Audio-VIsual
 Audio-Visual
 Audio-to-Audio
 Audio-visual
@@ -1656,7 +1654,6 @@ Auto
 Auto-Complete
 Auto-Completion
 Auto-Correct
-Auto-ENcoder
 Auto-Encoder
 Auto-Scaling
 Auto-Tagging
@@ -2133,8 +2130,6 @@ Below
 Belt
 Belted
 Bench
-BenchmArk
-BenchmarK
 Benchmark
 Benchmarked
 Benchmarking
@@ -2316,7 +2311,6 @@ Bitwise
 Bivariate
 Bizarre
 Bizarrely
-BlOck
 Black
 Black-Box
 Black-box
@@ -4245,6 +4239,7 @@ Comprehensible
 Comprehension
 Comprehensive
 Comprehensively
+Comprehensiveness
 Compress
 Compressed
 Compressibility
@@ -4402,6 +4397,7 @@ Confine
 Confined
 Confinement
 Confines
+Confining
 Confirm
 Confirmation
 Confirmations
@@ -4536,6 +4532,7 @@ Consolidation
 Consonant
 Consonants
 Consortium
+Conspicuous
 Conspicuously
 Conspiracy
 Conspire
@@ -9987,6 +9984,7 @@ Guests
 Guid
 Guidable
 Guidance
+Guidances
 Guide
 Guided
 Guideline
@@ -13542,8 +13540,6 @@ Maven
 Max
 Max-Pooling
 Max-pooling
-MaxImization
-MaxImum
 MaxPooling
 Maximal
 Maximally
@@ -14086,7 +14082,6 @@ Mnemonic
 Mobile
 Mobile-Friendly
 Mobile-friendly
-MobileNET
 MobileNet
 MobileNetV2
 MobileNetV3
@@ -17737,7 +17732,6 @@ Psychotropic
 Pthreads
 Pub
 Puberty
-PubliC
 Public
 Public-Key
 Public-key
@@ -18206,7 +18200,6 @@ Re-testing
 Re-training
 Re-use
 ReLU
-ReWritable
 Reach
 Reachability
 Reachable
@@ -18415,9 +18408,7 @@ Recoloring
 Recombination
 Recombine
 Recombined
-RecommeNdation
 Recommend
-RecommendAtion
 Recommendation
 Recommendations
 Recommended
@@ -19785,6 +19776,7 @@ Sanctions
 Sanctuary
 Sand
 Sandal
+Sandbox
 Sandwich
 Sandwiches
 Sandy
@@ -22958,6 +22950,7 @@ Theoretic
 Theoretical
 Theoretically
 Theories
+Theorist
 Theorists
 Theorized
 Theory
@@ -23339,6 +23332,7 @@ Touch-based
 Touched
 Touches
 Touching
+Touchless
 Touchpad
 Touchpads
 Touchscreen
@@ -23534,6 +23528,7 @@ Transpiled
 Transplantation
 Transplanted
 Transport
+Transportability
 Transportable
 Transportation
 Transported
@@ -24956,7 +24951,6 @@ W3C
 WCF
 WI-FI
 WIFI
-WIKI
 WLAN
 WSDL
 WTF
@@ -25392,7 +25386,6 @@ Wiggle
 Wiggling
 Wiki
 WikiData
-WikiPedia
 Wikidata
 Wikipedia
 Wild
@@ -25652,7 +25645,6 @@ XQuery
 XSLT
 Xbox
 Xcode
-Y'all
 Y-Axis
 Y-axis
 YAML
@@ -25841,6 +25833,7 @@ abstraction
 abstractions
 abstractive
 abstractly
+abstractness
 abstracts
 absurd
 absurdly
@@ -30772,6 +30765,7 @@ comprehension
 comprehensions
 comprehensive
 comprehensively
+comprehensiveness
 compress
 compressed
 compresses
@@ -30968,6 +30962,7 @@ confine
 confined
 confinement
 confines
+confining
 confirm
 confirmation
 confirmations
@@ -31148,6 +31143,7 @@ consoling
 consonant
 consonants
 consortium
+conspicuous
 conspicuously
 conspiracy
 conspire
@@ -32030,6 +32026,7 @@ culls
 culminate
 culminated
 culminating
+culmination
 cult
 cultivate
 cultivated
@@ -38010,6 +38007,7 @@ gui
 guid
 guidable
 guidance
+guidances
 guide
 guided
 guideline
@@ -38068,7 +38066,6 @@ hacks
 had
 hadn't
 hadoop
-hadoop2
 haft
 hafts
 hag
@@ -50166,6 +50163,7 @@ sanctuary
 sand
 sandal
 sandals
+sandbox
 sandwich
 sandwiches
 sandy
@@ -54204,6 +54202,7 @@ theoretic
 theoretical
 theoretically
 theories
+theorist
 theorists
 theorize
 theorized
@@ -54677,6 +54676,7 @@ touch-interface
 touched
 touches
 touching
+touchless
 touchpad
 touchpads
 touchscreen
@@ -54913,6 +54913,7 @@ transpiring
 transplantation
 transplanted
 transport
+transportability
 transportable
 transportation
 transported
@@ -57894,7 +57895,6 @@ xpath
 xps
 xquery
 xslt
-y'all
 y-axis
 yacht
 yachting
