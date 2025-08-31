@@ -1,6 +1,7 @@
 
 dictionary-*.*
 datasets/
+train-results/
 
 owb2-dictionary-top*.csv
 owb2-dictionary-top*.txt
