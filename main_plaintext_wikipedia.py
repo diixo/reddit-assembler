@@ -3,10 +3,14 @@
 
 import os
 from utils import str_tokenize_words
+from transformers import GPT2Tokenizer
 
 
-input_dir = './datasets/wikipedia-fullEnglish'
-output_dir = './train-results'
+tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+
+
+input_dir = "./datasets/wikipedia-fullEnglish"
+output_dir = "./train-results"
 output_file = "plaintext-wikipedia-en.txt"
 
 
@@ -21,6 +25,7 @@ if __name__ == "__main__":
     sents = 0
     words = 0
     max_words = 0
+    gpt_tokens = 0
 
     os.makedirs(output_dir, exist_ok=True)
 
@@ -42,15 +47,20 @@ if __name__ == "__main__":
                         words += len(tokens)
                         max_words = max(max_words, len(tokens))
 
+                        tokens = tokenizer.encode(line)
+                        gpt_tokens += len(tokens)
+
                         outfile.write(line.strip())
                         outfile.write("\n")
 
+                    outfile.flush()
                     sents += len(lines)
 
-                print(f"Read files({len(filenames)}) in {root} [...sents={sents} ...words={words}]")
+                print(f"Read files({len(filenames)}) in: {root} [...sents={sents} ...words={words}]")
     ################################################################################################
     print(
         "sents:", sents,
+        "gpt-tokens:", gpt_tokens,
         "words:", words,
         "max_words_sent:", max_words,
-        "avg_words_sent:", int(words/sents) + 1) # sents: 79_087_472 words: 1_953_810_569
+        "avg_words_sent:", int(words/sents + 1)) # sents: 79_087_472 words: 1_953_810_569
