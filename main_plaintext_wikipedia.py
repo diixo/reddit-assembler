@@ -63,4 +63,10 @@ if __name__ == "__main__":
         "gpt-tokens:", gpt_tokens,
         "words:", words,
         "max_words_sent:", max_words,
-        "avg_words_sent:", int(words/sents + 1)) # sents: 79_087_472 words: 1_953_810_569
+        "avg_words_sent:", int(words/sents + 1))
+    # sents: 79_087_472
+    # gpt-tokens: 2_714_678_926
+    # gpt-tokens:
+    # words: 1_953_810_569
+    # max_words_sent: 2767
+    # avg_words_sent: 25
