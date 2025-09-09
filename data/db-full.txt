@@ -496,6 +496,7 @@ Adjacency
 Adjacent
 Adjective
 Adjectives
+Adjoined
 Adjoining
 Adjoint
 Adjust
@@ -810,6 +811,7 @@ Alliance
 Alliances
 Allied
 Allies
+Alliteration
 Allocate
 Allocated
 Allocates
@@ -923,6 +925,7 @@ Amortizing
 Amount
 Amounts
 Ampere
+Amphibians
 Ample
 Amplification
 Amplified
@@ -1106,6 +1109,7 @@ Antisocial
 Antithesis
 Antivirus
 Antiviruses
+Antonym
 Antonyms
 Ants
 Anus
@@ -1657,12 +1661,14 @@ Auto-Complete
 Auto-Completion
 Auto-Correct
 Auto-Encoder
+Auto-Regressive
 Auto-Scaling
 Auto-Tagging
 Auto-completion
 Auto-encoder
 Auto-generate
 Auto-grading
+Auto-regressive
 Auto-saved
 Auto-saves
 Auto-scaling
@@ -2946,6 +2952,7 @@ CUDA
 CUDNN
 Cab
 Cabin
+Cabins
 Cable
 Cables
 Cache
@@ -3703,6 +3710,7 @@ Cliffs
 Climate
 Climates
 Climatic
+Climax
 Climb
 Climbing
 Climbs
@@ -4001,6 +4009,7 @@ Colours
 Column
 Columns
 Com
+Comb
 Combat
 Combatant
 Combatants
@@ -4016,6 +4025,7 @@ Combined
 Combines
 Combining
 Combo
+Combs
 Combustible
 Combustion
 Come
@@ -4657,6 +4667,7 @@ Context-free
 Context-sensitive
 Contexts
 Contextual
+Contextualization
 Contextualize
 Contextualized
 Contextually
@@ -4848,6 +4859,7 @@ Copyrights
 Copywriting
 Cordless
 Core
+Coreference
 Cores
 Cork
 Corks
@@ -4973,6 +4985,7 @@ Courtyard
 Cousin
 Cousins
 Cout
+Covalent
 Covariance
 Covariant
 Covariate
@@ -4990,6 +5003,7 @@ Covert
 Covet
 Cow
 Cowardice
+Cowardly
 Cowboy
 Cowboys
 Coworker
@@ -5300,12 +5314,14 @@ Curates
 Curating
 Curation
 Curator
+Curators
 Curb
 Curbing
 Cure
 Cured
 Cures
 Curing
+Curiosities
 Curiosity
 Curious
 Curiousity
@@ -5930,6 +5946,7 @@ Demonstrates
 Demonstrating
 Demonstration
 Demonstrations
+Demonstrative
 Demoralizing
 Demos
 Demote
@@ -7636,6 +7653,7 @@ Ensures
 Ensuring
 Entail
 Entailed
+Entailing
 Entailment
 Entangled
 Entanglement
@@ -7669,6 +7687,8 @@ Entities
 Entitlement
 Entitlements
 Entity
+Entity-Based
+Entity-based
 Entomology
 Entrance
 Entrances
@@ -7783,6 +7803,7 @@ Erects
 Ergonomic
 Ergonomics
 Erlang
+Erosion
 Erotic
 Errands
 Errant
@@ -7978,6 +7999,7 @@ Excel
 Excellence
 Excellent
 Excellently
+Excelling
 Excels
 Except
 Excepted
@@ -8254,6 +8276,7 @@ Extremism
 Extremist
 Extrinsic
 Extrinsically
+Exuberant
 Eye
 Eye-Tracking
 Eye-tracking
@@ -9403,6 +9426,7 @@ GB
 GCC
 GHz
 GIT
+GLUE
 GMail
 GNN
 GNNs
@@ -9476,6 +9500,7 @@ Gargoyles
 Garlic
 Garment
 Gas
+Gases
 Gasoline
 Gassed
 Gate
@@ -9489,6 +9514,7 @@ Gatherer
 Gatherers
 Gathering
 Gathers
+Gating
 Gauge
 Gauges
 Gauging
@@ -10001,6 +10027,8 @@ Guitar
 Guitarist
 Guitarists
 Guitars
+Gull
+Gulls
 Gulp
 Gums
 Gun
@@ -10079,6 +10107,8 @@ Hallucinates
 Hallucinating
 Hallucination
 Hallucinations
+Hallway
+Hallways
 Halt
 Halted
 Halting
@@ -10721,9 +10751,11 @@ Hulls
 Human
 Human-Centric
 Human-Like
+Human-Readable
 Human-Robot
 Human-centric
 Human-like
+Human-readable
 Human-robot
 Humane
 Humanism
@@ -11337,6 +11369,7 @@ Indices
 Indicted
 Indifference
 Indifferent
+Indigo
 Indirect
 Indirection
 Indirectly
@@ -11902,6 +11935,7 @@ Intersecting
 Intersection
 Intersectional
 Intersections
+Interspersed
 Interval
 Intervals
 Intervene
@@ -12550,6 +12584,7 @@ Landscape
 Landscapes
 Lane
 Lanes
+Langchain
 Language
 Language-Based
 Language-Specific
@@ -12923,6 +12958,7 @@ Listings
 Lists
 Lit
 Lite
+Liter
 Literacy
 Literal
 Literally
@@ -13233,6 +13269,7 @@ ML
 ML-based
 MLOPS
 MLOps
+MLP
 MNIST
 MOCK
 MP3
@@ -13653,6 +13690,8 @@ Mellow
 Melodic
 Melodies
 Melody
+Melon
+Melons
 Melt
 Meltdown
 Meltdowns
@@ -14078,9 +14117,13 @@ Mixers
 Mixes
 Mixing
 Mixture
+Mixture-Of-Experts
+Mixture-of-Experts
+Mixture-of-experts
 Mixtures
 Mixup
 Mnemonic
+MoE
 Mobile
 Mobile-Friendly
 Mobile-friendly
@@ -14185,6 +14228,8 @@ Mole
 Molecular
 Molecule
 Molecules
+Mollusk
+Mollusks
 Molten
 Mom
 Mom's
@@ -14350,6 +14395,7 @@ Ms
 Much
 Muffin
 Muffins
+Mugs
 Mule
 Mules
 Mull
@@ -14820,6 +14866,8 @@ Negotiated
 Negotiating
 Negotiation
 Negotiations
+Negotiator
+Negotiators
 Neighbor
 Neighborhood
 Neighborhoods
@@ -15190,6 +15238,7 @@ Notifier
 Notify
 Noting
 Notion
+Notional
 Notions
 Notorious
 Notoriously
@@ -15679,6 +15728,7 @@ Order
 Orderable
 Ordered
 Ordering
+Orderings
 Orderly
 Orders
 Ordinal
@@ -15965,6 +16015,7 @@ Owners
 Ownership
 Owning
 Owns
+Ox
 Oxygen
 Oyster
 Oysters
@@ -16327,6 +16378,7 @@ Peak
 Peaked
 Peaking
 Peaks
+Peaky
 Peanut
 Peanuts
 Pearl
@@ -16816,6 +16868,9 @@ Plotting
 Plow
 Plowing
 Pluck
+Plucked
+Plucking
+Plucks
 Plug
 Plug-And-Play
 Plug-In
@@ -17126,6 +17181,7 @@ Pre-Ordering
 Pre-Processed
 Pre-Processing
 Pre-Release
+Pre-Train
 Pre-Trained
 Pre-Training
 Pre-built
@@ -17142,6 +17198,7 @@ Pre-processing
 Pre-recorded
 Pre-registration
 Pre-sales
+Pre-train
 Pre-trained
 Pre-training
 Preach
@@ -17159,6 +17216,7 @@ Precedes
 Preceding
 Precious
 Precipitate
+Precipitation
 Precise
 Precisely
 Precision
@@ -18595,6 +18653,7 @@ Refocusing
 Reform
 Reformation
 Reformatted
+Reformatting
 Reformed
 Reformer
 Reformers
@@ -19164,6 +19223,7 @@ Resource-based
 Resource-constrained
 Resource-intensive
 Resourceful
+Resourcefully
 Resources
 Resourcing
 Respect
@@ -19374,6 +19434,9 @@ Rewards
 Reweight
 Reweighting
 Rewind
+Reword
+Reworded
+Rewording
 Rework
 Reworking
 Rewritable
@@ -19461,6 +19524,7 @@ Rivals
 River
 Rivers
 RoBERTa
+RoPE
 Roach
 Roaches
 Road
@@ -19791,6 +19855,7 @@ Sanity
 Sank
 Santa
 Sap
+Sapphire
 Sarcasm
 Sarcastic
 Sassy
@@ -20011,6 +20076,8 @@ Scrutinized
 Scrutinizing
 Scrutiny
 Scuffed
+Scull
+Sculls
 Sculpture
 Sculptures
 Scum
@@ -20018,6 +20085,8 @@ Sd
 Sea
 Seafaring
 Seafood
+Seagull
+Seagulls
 Seal
 Sealed
 Sealing
@@ -20304,6 +20373,7 @@ Sequent
 Sequential
 Sequentiality
 Sequentially
+Serendipity
 Serenity
 Serial
 Serializable
@@ -21801,6 +21871,7 @@ Stormy
 Story
 Storyboard
 Storyboards
+Storyline
 Storyteller
 Storytelling
 Stout
@@ -22537,6 +22608,7 @@ T-Shirt
 T-Shirts
 T-shirt
 T-shirts
+T5
 TCP
 TDD
 TF-IDF
@@ -23052,6 +23124,7 @@ Thrift
 Thrill
 Thrilled
 Thriller
+Thrillingly
 Thrive
 Thrives
 Thriving
@@ -23272,6 +23345,7 @@ Toothpaste
 Toothpastes
 Top
 Top-Down
+Top-K
 Top-Level
 Top-N
 Top-Performing
@@ -23279,6 +23353,7 @@ Top-Ranked
 Top-Rated
 Top-Secret
 Top-down
+Top-k
 Top-level
 Top-n
 Top-performing
@@ -23525,6 +23600,7 @@ Transparent
 Transparently
 Transpile
 Transpiled
+Transpiration
 Transplantation
 Transplanted
 Transport
@@ -24308,6 +24384,7 @@ Unregistered
 Unregulated
 Unrelated
 Unreliable
+Unrepresentative
 Unrequited
 Unresolved
 Unresponsive
@@ -25937,6 +26014,7 @@ accrue
 accrued
 accrues
 accruing
+accumbent
 accumulate
 accumulated
 accumulates
@@ -26139,6 +26217,7 @@ adjacent
 adjective
 adjectives
 adjoin
+adjoined
 adjoining
 adjoins
 adjoint
@@ -26593,6 +26672,7 @@ alliance
 alliances
 allied
 allies
+alliteration
 allocatable
 allocate
 allocated
@@ -26738,6 +26818,8 @@ amounting
 amounts
 ampere
 ampersand
+amphibian
+amphibians
 amping
 ample
 amplication
@@ -26962,6 +27044,7 @@ antisocial
 antithesis
 antivirus
 antiviruses
+antonym
 antonyms
 ants
 antsy
@@ -27687,6 +27770,7 @@ auto-encoder
 auto-generate
 auto-grading
 auto-reconnection
+auto-regressive
 auto-related
 auto-restart
 auto-saved
@@ -27985,6 +28069,7 @@ banging
 bangs
 banished
 banishing
+banishment
 bank
 banker
 banking
@@ -29174,6 +29259,7 @@ c99
 cAlves
 cab
 cabin
+cabins
 cable
 cabled
 cables
@@ -30096,6 +30182,7 @@ cliffs
 climate
 climates
 climatic
+climax
 climb
 climbed
 climbing
@@ -30471,6 +30558,7 @@ colours
 column
 columns
 com
+comb
 combat
 combatant
 combatants
@@ -30488,6 +30576,7 @@ combines
 combining
 combo
 combobox
+combs
 combust
 combusted
 combustible
@@ -31281,6 +31370,7 @@ context-sensitive
 contextmenu
 contexts
 contextual
+contextualization
 contextualize
 contextualized
 contextually
@@ -31506,6 +31596,8 @@ cordova
 core
 core-data
 coredata
+coreference
+coreferenced
 cores
 cork
 corks
@@ -31649,6 +31741,7 @@ courtyards
 cousin
 cousins
 cout
+covalent
 covariance
 covariant
 covariate
@@ -31668,6 +31761,7 @@ coveted
 covets
 cow
 cowardice
+cowardly
 cowboy
 cowboys
 coworker
@@ -32055,6 +32149,7 @@ curates
 curating
 curation
 curator
+curators
 curb
 curbed
 curbes
@@ -32067,6 +32162,7 @@ cure
 cured
 cures
 curing
+curiosities
 curiosity
 curious
 curiousity
@@ -32840,6 +32936,7 @@ demonstrating
 demonstration
 demonstrational
 demonstrations
+demonstrative
 demoralize
 demoralized
 demoralizes
@@ -35084,6 +35181,7 @@ ensures
 ensuring
 entail
 entailed
+entailing
 entailment
 entails
 entangle
@@ -35131,6 +35229,7 @@ entitlements
 entitles
 entitling
 entity
+entity-based
 entity-framework
 entity-tagged
 entomology
@@ -35288,6 +35387,7 @@ ergonomic
 ergonomics
 erlang
 erogenous
+erosion
 erosive
 erotic
 errand
@@ -35520,6 +35620,7 @@ excelled
 excellence
 excellent
 excellently
+excelling
 excels
 except
 excepted
@@ -35877,6 +35978,7 @@ extricated
 extrinsic
 extrinsically
 extruding
+exuberant
 exude
 exuded
 exudes
@@ -37358,6 +37460,7 @@ garment
 garnered
 garnish
 gas
+gases
 gash
 gasoline
 gassed
@@ -38023,6 +38126,8 @@ guitar
 guitarist
 guitarists
 guitars
+gull
+gulls
 gulp
 gum
 gums
@@ -38105,6 +38210,8 @@ hallucinates
 hallucinating
 hallucination
 hallucinations
+hallway
+hallways
 halt
 halted
 halting
@@ -38869,6 +38976,7 @@ human
 human-AI
 human-centric
 human-like
+human-readable
 human-robot
 humane
 humanely
@@ -39605,6 +39713,7 @@ indignant
 indignantly
 indignation
 indignity
+indigo
 indirect
 indirection
 indirectly
@@ -39842,8 +39951,11 @@ inhale
 inhaled
 inhaling
 inhere
+inhered
 inherent
 inherently
+inheres
+inhering
 inherit
 inheritable
 inheritance
@@ -40002,6 +40114,7 @@ insights
 insignificance
 insignificant
 insincere
+insincerely
 insinuate
 insinuated
 insinuates
@@ -40343,6 +40456,10 @@ intersection
 intersectional
 intersections
 intersects
+intersperse
+interspersed
+intersperses
+interspersing
 interval
 intervals
 intervene
@@ -41458,6 +41575,7 @@ lemonade
 lemons
 lend
 lending
+lends
 length
 lengthen
 lengthened
@@ -41691,6 +41809,7 @@ lists
 listview
 lit
 lite
+liter
 literacy
 literal
 literally
@@ -42502,6 +42621,8 @@ mellowed
 melodic
 melodies
 melody
+melon
+melons
 melt
 meltdown
 meltdowns
@@ -42775,6 +42896,8 @@ mill
 millennial
 millennials
 millennium
+milliliter
+milliliters
 millimeters
 million
 millionaire
@@ -43030,6 +43153,7 @@ mixers
 mixes
 mixing
 mixture
+mixture-of-experts
 mixtures
 mixup
 ml
@@ -43143,6 +43267,8 @@ molecular
 molecule
 molecules
 moles
+mollusk
+mollusks
 molten
 mom
 mom's
@@ -43374,9 +43500,11 @@ muffle
 muffled
 muffles
 muffling
+mug
 mugger
 muggers
 muggy
+mugs
 mui
 mule
 mules
@@ -43813,6 +43941,8 @@ negotiates
 negotiating
 negotiation
 negotiations
+negotiator
+negotiators
 neighbor
 neighborhood
 neighborhoods
@@ -44246,6 +44376,7 @@ notify
 notifying
 noting
 notion
+notional
 notions
 notoriety
 notorious
@@ -44823,6 +44954,7 @@ order
 orderable
 ordered
 ordering
+orderings
 orderly
 orders
 ordinal
@@ -45265,6 +45397,7 @@ owners
 ownership
 owning
 owns
+ox
 oxygen
 oyster
 oysters
@@ -45665,6 +45798,7 @@ peak
 peaked
 peaking
 peaks
+peaky
 peanut
 peanuts
 pearl
@@ -46277,6 +46411,9 @@ plowed
 plowing
 plsql
 pluck
+plucked
+plucking
+plucks
 plug
 plug-and-play
 plug-in
@@ -46673,6 +46810,7 @@ pre-sale
 pre-sales
 pre-scheduled
 pre-team
+pre-train
 pre-trained
 pre-training
 preach
@@ -46697,6 +46835,7 @@ precedes
 preceding
 precious
 precipitate
+precipitation
 precipitous
 precipitously
 precise
@@ -48593,7 +48732,9 @@ refocusing
 reform
 reformat
 reformation
+reformats
 reformatted
+reformatting
 reformed
 reformer
 reformers
@@ -49405,6 +49546,7 @@ resource-based
 resource-constrained
 resource-intensive
 resourceful
+resourcefully
 resources
 resourcing
 respecify
@@ -49707,6 +49849,10 @@ rewatching
 reweight
 reweighting
 rewind
+reword
+reworded
+rewording
+rewords
 rework
 reworked
 reworking
@@ -49910,6 +50056,8 @@ roofer
 roofing
 roofs
 room
+roomer
+roomers
 rooming
 roommate
 roommates
@@ -50177,6 +50325,7 @@ sank
 santa
 sap
 sap's
+sapphire
 sarcasm
 sarcastic
 sarcastically
@@ -50462,6 +50611,8 @@ scuff
 scuffed
 scuffing
 scuffle
+scull
+sculls
 sculpture
 sculptures
 scum
@@ -50480,6 +50631,8 @@ sdram
 sea
 seafaring
 seafood
+seagull
+seagulls
 seal
 sealant
 sealed
@@ -50801,6 +50954,7 @@ sequential
 sequentiality
 sequentially
 sequentially-consistent
+serendipity
 serenity
 serial
 serial-port
@@ -52712,6 +52866,7 @@ stormy
 story
 storyboard
 storyboards
+storyline
 storyteller
 storytelling
 stout
@@ -54329,6 +54484,7 @@ thrilled
 thriller
 thrillers
 thrilling
+thrillingly
 thrive
 thrived
 thrives
@@ -54596,9 +54752,11 @@ toothpicks
 top
 top-10
 top-Down
+top-K
 top-N
 top-down
 top-end
+top-k
 top-left
 top-level
 top-line
@@ -54905,6 +55063,7 @@ transparently
 transpile
 transpiled
 transpiles
+transpiration
 transpire
 transpired
 transpires
@@ -56028,6 +56187,7 @@ unrelated
 unreleased
 unrelenting
 unreliable
+unrepresentative
 unrequired
 unrequited
 unreserve
