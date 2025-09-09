@@ -1271,6 +1271,7 @@ Architected
 Architecting
 Architects
 Architectural
+Architecturally
 Architecture
 Architectures
 Archival
@@ -8178,7 +8179,6 @@ Exploited
 Exploiting
 Exploits
 Explorable
-ExploratIon
 Exploration
 Explorations
 Exploratory
@@ -12999,7 +12999,6 @@ Livestream
 Living
 Lizard
 Llama
-Llms
 LoL
 LoRA
 Load
@@ -17733,6 +17732,7 @@ Prototypes
 Prototypical
 Prototyping
 Proud
+Provability
 Prove
 Proved
 Proven
@@ -23968,7 +23968,6 @@ Ubiquitous
 Ubiquity
 Ubuntu
 Ugly
-Ui
 Ukraine
 Ultimate
 Ultimately
@@ -26901,7 +26900,6 @@ anchors
 ancient
 ancients
 and
-and_eq
 android
 android's
 android-emulator
@@ -27281,6 +27279,7 @@ architected
 architecting
 architects
 architectural
+architecturally
 architecture
 architectures
 archival
@@ -29774,11 +29773,8 @@ chapters
 char
 char-level
 char16
-char16_t
 char32
-char32_t
 char8
-char8_t
 character
 character-encoding
 character-separated
@@ -31254,7 +31250,6 @@ conspired
 conspires
 conspiring
 const
-const_cast
 constancy
 constant
 constant-time
@@ -34514,7 +34509,6 @@ dyed
 dying
 dynamic
 dynamic-proxy
-dynamic_cast
 dynamical
 dynamically
 dynamically-linked
@@ -44361,7 +44355,6 @@ nostalgia
 nostalgic
 not
 not-in-place
-not_eq
 notable
 notables
 notably
@@ -44947,7 +44940,6 @@ options
 optometry
 opts
 or
-or_eq
 oracle
 oracle's
 oral
@@ -47504,6 +47496,7 @@ prouded
 proudest
 proudly
 prouds
+provability
 provable
 provably
 prove
@@ -48958,7 +48951,6 @@ reinstated
 reintegrate
 reintegrated
 reintegrating
-reinterpret_cast
 reinterpretation
 reinterprets
 reintroduced
@@ -52703,8 +52695,6 @@ statements
 states
 statesman
 static
-static_assert
-static_cast
 statically
 statically-typed
 statics
@@ -54780,7 +54770,6 @@ toothpicks
 top
 top-10
 top-Down
-top-K
 top-N
 top-down
 top-end
@@ -57313,7 +57302,6 @@ wayward
 waywardness
 wcf
 wchar
-wchar_t
 we
 we'd
 we'll
@@ -58079,7 +58067,6 @@ xml-parsing
 xmldocument
 xna
 xor
-xor_eq
 xpath
 xps
 xquery
