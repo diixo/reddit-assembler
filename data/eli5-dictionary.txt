@@ -85,7 +85,6 @@ Egypt
 g
 HIV
 P
-glucose
 Y
 metabolism
 p
@@ -125,7 +124,6 @@ gasses
 moons
 antibodies
 George
-medication
 heats
 DC
 18th
@@ -606,7 +604,6 @@ Joe
 digesting
 GM
 dimmer
-pendulum
 1980s
 didnt
 tidally
@@ -2725,7 +2722,6 @@ Samuel
 utero
 reflux
 solutes
-symmetries
 constipation
 intellectuals
 cavemen
@@ -3308,7 +3304,6 @@ crippling
 gelatin
 yeasts
 Inquisition
-Glucose
 Gaius
 bulletproof
 pollinators
@@ -4025,7 +4020,6 @@ laymen
 quirks
 Hilbert
 AH
-assimilation
 cold-blooded
 soviets
 Ross
@@ -5631,7 +5625,6 @@ ISIL
 femur
 refuel
 odours
-pendulums
 Webster
 Benadryl
 amenities
@@ -7574,7 +7567,6 @@ boo
 insect's
 Zika
 chicken's
-photonic
 bibles
 HCO3
 papillae
@@ -13106,7 +13098,6 @@ Pete
 shrouded
 governement
 cupping
-Medication
 Dominion
 macular
 bromide
@@ -16228,7 +16219,6 @@ immeasurably
 fairing
 ducats
 Apophis
-extremal
 thermohaline
 electrophoresis
 CFD
@@ -20076,7 +20066,6 @@ individualistic
 piecemeal
 Amadeus
 plotters
-Pendulum
 HIIT
 Jeffery
 workpiece
@@ -26222,7 +26211,6 @@ f-stop
 spillway
 Neuroplasticity
 epicenters
-disentangle
 pixelation
 120fps
 currency's
@@ -28451,7 +28439,6 @@ nee
 Bicameral
 raven
 PCH
-supervisory
 Caffiene
 big-budget
 Trypophobia
@@ -32740,7 +32727,6 @@ Demons
 JW
 re-light
 GPL
-Assimilation
 bruteforce
 ill-feeling
 fluorines
@@ -35100,7 +35086,6 @@ terephthalate
 25-year-old
 Katie
 Denmark-Norway
-participatory
 cold-weather
 eq
 nothern
@@ -39437,7 +39422,6 @@ Drummers
 unequipped
 A-1
 bubble's
-extractable
 MyProject
 1040EZ
 hindi
@@ -84272,7 +84256,6 @@ S-IVBs
 13-17
 water-salt
 julia
-Extractable
 ICP-MS
 99F
 immunoglobin
@@ -86658,7 +86641,6 @@ depolymerise
 interconvert
 ligther
 supose
-Photonic
 energy-content
 cypionate
 plutoid
@@ -190846,7 +190828,6 @@ oxime
 earhrises
 earthsets
 reinflation
-Pendulums
 less-healthy
 Hausdorf
 Precincts

@@ -1449,6 +1449,7 @@ Assignment
 Assignments
 Assimilate
 Assimilating
+Assimilation
 Assimilative
 Assist
 Assistance
@@ -6530,7 +6531,9 @@ Disease
 Diseases
 Disengage
 DisentangLed
+Disentangle
 Disentangled
+Disentangles
 Disgraced
 Disgruntled
 Disguise
@@ -8252,6 +8255,7 @@ Extinguish
 Extra
 Extracellular
 Extract
+Extractable
 Extracted
 Extracting
 Extraction
@@ -8269,6 +8273,7 @@ Extrapolating
 Extrapolation
 Extrapolations
 Extras
+Extremal
 Extreme
 Extremely
 Extremes
@@ -9743,6 +9748,7 @@ Gloves
 Glow
 Glowing
 Glows
+Glucose
 Glue
 Glued
 Glyph
@@ -11838,6 +11844,7 @@ Interconnectivity
 Interconnects
 Intercourse
 Interdependence
+Interdependencies
 Interdependent
 Interest
 Interested
@@ -12995,7 +13002,6 @@ Llama
 Llms
 LoL
 LoRA
-LoRa
 Load
 Loadable
 Loaded
@@ -13016,7 +13022,6 @@ Lobbying
 Lobster
 Lobsters
 Local
-LocalLy
 Locale
 Locales
 Localisation
@@ -13055,7 +13060,6 @@ Locker
 Locking
 Locks
 Log
-Log4J
 Log4j
 Logarithm
 Logarithmic
@@ -13657,6 +13661,7 @@ Mediates
 Medic
 Medical
 Medically
+Medication
 Medicine
 Medics
 Medieval
@@ -16236,6 +16241,7 @@ Participated
 Participates
 Participating
 Participation
+Participatory
 Participle
 Particle
 Particles
@@ -16431,6 +16437,8 @@ Penance
 Pencil
 Pencils
 Pending
+Pendulum
+Pendulums
 Penetrated
 Penetrates
 Penetrating
@@ -16631,6 +16639,7 @@ Photographic
 Photographs
 Photography
 Photon
+Photonic
 Photons
 Photorealistic
 Photos
@@ -18750,6 +18759,7 @@ Regularizations
 Regularize
 Regularized
 Regularizer
+Regularizers
 Regularizes
 Regularizing
 Regularly
@@ -22347,6 +22357,7 @@ Supervising
 Supervision
 Supervisor
 Supervisors
+Supervisory
 Supper
 Suppers
 Supplement
@@ -22541,6 +22552,7 @@ Symbols
 Symmetric
 Symmetrical
 Symmetrically
+Symmetries
 Symmetrization
 Symmetry
 Sympathetic
@@ -24177,6 +24189,7 @@ Unexplainable
 Unexplained
 Unexploited
 Unexplored
+Unextractable
 Unfair
 Unfairly
 Unfairness
@@ -27502,6 +27515,7 @@ assimilate
 assimilated
 assimilates
 assimilating
+assimilation
 assimilative
 assist
 assistance
@@ -33725,7 +33739,9 @@ disease
 diseases
 disengage
 disengaged
+disentangle
 disentangled
+disentangles
 disfigure
 disfigured
 disfigures
@@ -35948,6 +35964,7 @@ extra
 extra-easy
 extracellular
 extract
+extractable
 extracted
 extracting
 extraction
@@ -35969,6 +35986,7 @@ extrapolations
 extras
 extravagance
 extravagant
+extremal
 extreme
 extremely
 extremes
@@ -37758,6 +37776,7 @@ glowed
 glowing
 glows
 glsl
+glucose
 glue
 glued
 glut
@@ -40341,6 +40360,7 @@ interconnectivity
 interconnects
 intercourse
 interdependence
+interdependencies
 interdependent
 interdependently
 interest
@@ -42585,6 +42605,7 @@ mediates
 medic
 medical
 medically
+medication
 medicine
 medics
 medieval
@@ -45633,6 +45654,7 @@ participated
 participates
 participating
 participation
+participatory
 participle
 particle
 particles
@@ -45861,6 +45883,8 @@ pencilled
 pencils
 pend
 pending
+pendulum
+pendulums
 penetrate
 penetrated
 penetrates
@@ -46122,6 +46146,7 @@ photographic
 photographs
 photography
 photon
+photonic
 photons
 photorealistic
 photos
@@ -48855,6 +48880,7 @@ regularizations
 regularize
 regularized
 regularizer
+regularizers
 regularizes
 regularizing
 regularly
@@ -53495,6 +53521,7 @@ supervising
 supervision
 supervisor
 supervisors
+supervisory
 supper
 suppers
 supplanted
@@ -53769,6 +53796,7 @@ symfony
 symmetric
 symmetrical
 symmetrically
+symmetries
 symmetrization
 symmetry
 sympathetic
@@ -55850,6 +55878,7 @@ unexplainable
 unexplained
 unexploited
 unexplored
+unextractable
 unfair
 unfairly
 unfairness
