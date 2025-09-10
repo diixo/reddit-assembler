@@ -3193,6 +3193,7 @@ Casualties
 Casualty
 Cat
 Catalog
+Cataloging
 Catalogs
 Catalogue
 Catalogues
@@ -3623,6 +3624,8 @@ Claiming
 Claims
 Clamp
 Clamped
+Clamping
+Clamps
 Clan
 Clang
 Clanging
@@ -29588,6 +29591,7 @@ casualty
 cat
 catalog
 cataloged
+cataloging
 catalogs
 catalogue
 catalogues
@@ -30112,6 +30116,8 @@ claiming
 claims
 clamp
 clamped
+clamping
+clamps
 clan
 clang
 clang++
@@ -47093,6 +47099,7 @@ pretense
 pretenses
 pretension
 pretensions
+pretentious
 pretrain
 pretrained
 pretraining
