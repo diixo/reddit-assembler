@@ -903,6 +903,7 @@ Ambush
 Amd
 Amenable
 Amend
+Amendable
 Amended
 Amendment
 Amendments
@@ -1025,6 +1026,7 @@ Annealed
 Annealing
 Annexed
 Annihilate
+Annihilating
 Annihilation
 Anniversary
 Annotate
@@ -3971,6 +3973,7 @@ Collision
 Collision-Free
 Collision-free
 Collisional
+Collisionless
 Collisions
 Collocated
 Collocation
@@ -4242,6 +4245,7 @@ Compositing
 Composition
 Compositional
 Compositionality
+Compositionally
 Compositions
 Compound
 Compounded
@@ -4441,6 +4445,7 @@ Confrontation
 Confronted
 Confronting
 Confronts
+Confusability
 Confuse
 Confused
 Confusing
@@ -4477,6 +4482,7 @@ Conjure
 Conjuring
 Connect
 Connected
+Connectedness
 Connecting
 Connection
 Connections
@@ -4654,6 +4660,7 @@ Contents
 Contest
 Contestable
 Contestant
+Contestation
 Contested
 Contests
 Context
@@ -5949,6 +5956,8 @@ Demonstrating
 Demonstration
 Demonstrations
 Demonstrative
+Demonstrator
+Demonstrators
 Demoralizing
 Demos
 Demote
@@ -6512,6 +6521,7 @@ Discretizations
 Discretize
 Discretized
 Discretizing
+Discriminability
 Discriminant
 Discriminate
 Discriminated
@@ -6635,6 +6645,7 @@ Dissecting
 Dissection
 Disseminate
 Disseminated
+Dissemination
 Dissent
 Dissenter
 Dissenting
@@ -7505,6 +7516,8 @@ Encapsulated
 Encapsulating
 Encapsulation
 Enchanting
+Encirclement
+Encircling
 Enclave
 Enclaves
 Enclose
@@ -8022,6 +8035,7 @@ Exchanged
 Exchanger
 Exchanges
 Exchanging
+Excision
 Excitable
 Excitation
 Excitations
@@ -8169,6 +8183,7 @@ Explanations
 Explanatory
 Explicit
 Explicitly
+Explicitness
 Exploded
 Explodes
 Exploding
@@ -12700,6 +12715,7 @@ Leads
 Leaf
 Leaflet
 Leafs
+Leafy
 League
 Leagues
 Leak
@@ -16527,6 +16543,7 @@ Permitted
 Permitting
 Permutable
 Permutation
+Permutational
 Permutations
 Permutative
 Permute
@@ -18232,6 +18249,7 @@ Rationalization
 Rationalize
 Rationalizing
 Rationally
+Rationing
 Ratios
 Rats
 Rattlesnake
@@ -19280,6 +19298,8 @@ Restoration
 Restorations
 Restore
 Restored
+Restorer
+Restorers
 Restores
 Restoring
 Restrain
@@ -22003,6 +22023,7 @@ Structural
 Structurally
 Structure
 Structured
+Structureless
 Structures
 Structuring
 Struggle
@@ -22058,11 +22079,14 @@ Styles
 Stylesheet
 Stylesheets
 Styling
+Stylised
 Stylish
 Stylist
 Stylistic
 Stylization
+Stylize
 Stylized
+Stylizing
 Stylus
 Su
 Sub
@@ -23790,6 +23814,7 @@ Truncation
 Trunk
 Trunks
 Trust
+Trustability
 Trusted
 Trustful
 Trusting
@@ -25566,6 +25591,7 @@ Withheld
 Within
 Without
 Withstand
+Withstands
 Witness
 Witnessed
 Witnesses
@@ -26793,6 +26819,7 @@ ambushes
 amd
 amenable
 amend
+amendable
 amended
 amendment
 amendments
@@ -26961,6 +26988,7 @@ annealing
 anneals
 annexed
 annihilate
+annihilating
 annihilation
 anniversary
 annotate
@@ -30520,6 +30548,7 @@ collinearity
 collision
 collision-free
 collisional
+collisionless
 collisions
 collocated
 collocation
@@ -30850,6 +30879,7 @@ compositing
 composition
 compositional
 compositionality
+compositionally
 compositions
 compound
 compounded
@@ -31103,6 +31133,7 @@ confrontational
 confronted
 confronting
 confronts
+confusability
 confuse
 confused
 confuses
@@ -31156,6 +31187,7 @@ conjuring
 connect
 connectable
 connected
+connectedness
 connecting
 connection
 connection-oriented
@@ -31368,6 +31400,7 @@ contents
 contest
 contestable
 contestant
+contestation
 contested
 contests
 context
@@ -32946,6 +32979,8 @@ demonstration
 demonstrational
 demonstrations
 demonstrative
+demonstrator
+demonstrators
 demoralize
 demoralized
 demoralizes
@@ -33711,6 +33746,7 @@ discretizations
 discretize
 discretized
 discretizing
+discriminability
 discriminant
 discriminate
 discriminated
@@ -33903,6 +33939,7 @@ dissects
 disseminate
 disseminated
 disseminates
+dissemination
 dissent
 dissenter
 dissentient
@@ -34991,6 +35028,11 @@ enchanting
 encharge
 encharged
 encharges
+encircle
+encircled
+encirclement
+encircles
+encircling
 enclave
 enclaves
 enclose
@@ -35507,6 +35549,7 @@ evacuated
 evacuation
 evacuations
 evade
+evaluable
 evaluate
 evaluated
 evaluates
@@ -35652,6 +35695,7 @@ exchanged
 exchanger
 exchanges
 exchanging
+excision
 excitable
 excitation
 excitations
@@ -35851,6 +35895,7 @@ explicated
 explication
 explicit
 explicitly
+explicitness
 explode
 exploded
 explodes
@@ -37488,6 +37533,7 @@ gatherers
 gathering
 gatherings
 gathers
+gating
 gauge
 gauges
 gauging
@@ -41484,6 +41530,7 @@ leads
 leaf
 leaflet
 leafs
+leafy
 league
 leagues
 leak
@@ -43942,6 +43989,7 @@ negatively
 negatives
 negativity
 neglect
+neglectable
 neglected
 neglectful
 neglecting
@@ -45989,6 +46037,7 @@ permutable
 permutated
 permutates
 permutation
+permutational
 permutations
 permutative
 permute
@@ -48108,6 +48157,7 @@ rationalized
 rationalizes
 rationalizing
 rationally
+rationing
 ratios
 rats
 rattlesnake
@@ -49624,6 +49674,8 @@ restorations
 restoratives
 restore
 restored
+restorer
+restorers
 restores
 restoring
 restrain
@@ -53035,6 +53087,7 @@ structural
 structurally
 structure
 structured
+structureless
 structures
 structuring
 struggle
@@ -53103,12 +53156,19 @@ styles
 stylesheet
 stylesheets
 styling
+stylise
+stylised
+stylises
 stylish
+stylising
 stylist
 stylistic
 stylists
 stylization
+stylize
 stylized
+stylizes
+stylizing
 stylus
 su
 sub
@@ -55305,6 +55365,7 @@ trunk
 trunking
 trunks
 trust
+trustability
 trusted
 trustful
 trusting
@@ -57827,6 +57888,9 @@ withheld
 within
 without
 withstand
+withstanding
+withstands
+withstood
 witness
 witnessed
 witnesses
