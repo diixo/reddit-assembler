@@ -39186,7 +39186,6 @@ iPhone
 iPhones
 iPod
 iTunes
-i_t
 ia-32
 ia-64
 iaas
@@ -40300,7 +40299,6 @@ int
 int16
 int32
 int64
-int64_t
 intact
 intake
 intakes
@@ -51178,7 +51176,6 @@ shards
 share
 shareable
 shared
-shared_ptr
 sharepoint
 sharepoint-specific
 sharer
@@ -55566,9 +55563,7 @@ uikit's
 uint16
 uint32
 uint64
-uint64_t
 uint8
-uint8_t
 uis
 uiscrollview
 uiview
@@ -56053,7 +56048,6 @@ unions
 unipolar
 uniprocessor
 unique
-unique_ptr
 uniquely
 uniqueness
 unison
@@ -58113,7 +58107,6 @@ x-axis
 x64
 x86
 x86-64
-x86_64
 xHTML
 xamarin
 xaml
