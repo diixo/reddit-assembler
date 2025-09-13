@@ -1,3 +1,4 @@
+import json
 
 
 def load_txt(file_path: str) -> list:
@@ -28,5 +29,17 @@ if __name__ == "__main__":
         verbs.append(words[0])
         dictionary[words[1]] = verbs
 
-    print("dictionary:", len(dictionary))
+    ########################################
+    wordnet = []
 
+    for verb, verbs in dictionary.items():
+        wordnet.append({
+            "input": f"Forms of word \"{verb}\":",
+            "output": " ".join([w for w in verbs]),
+            "verbs": [verb] + verbs,
+        })
+
+    print("wordnet:", len(wordnet))
+
+    with open("data/wordnet-verb-forms.json", "w", encoding="utf-8") as f:
+        json.dump(wordnet, f, ensure_ascii=False, indent=2)
