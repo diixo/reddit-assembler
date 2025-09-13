@@ -7,7 +7,7 @@ def load_txt(file_path: str) -> list:
             word = line.strip()
             if not word:
                 continue
-            items.append((word, word))
+            items.append(word)
     return items
 
 
@@ -16,3 +16,17 @@ if __name__ == "__main__":
     txt = load_txt("data/WordNet/wordnet/verb.exc")
 
     print(len(txt))
+
+    dictionary = {}
+
+    for line in txt:
+        words = line.split(" ")
+        assert len(words) > 1
+
+        verbs = []
+        verbs = dictionary.get(words[1], [])
+        verbs.append(words[0])
+        dictionary[words[1]] = verbs
+
+    print("dictionary:", len(dictionary))
+
