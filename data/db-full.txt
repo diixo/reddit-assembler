@@ -1107,6 +1107,7 @@ Antimicrobial
 Antiparticles
 Antiperspirant
 Antiperspirants
+Antique
 Antiquity
 Antisemitism
 Antisocial
@@ -1445,6 +1446,8 @@ Assesses
 Assessing
 Assessment
 Assessments
+Assessor
+Assessors
 Asset
 Assets
 Asshole
@@ -1767,6 +1770,7 @@ Avenue
 Avenues
 Average
 Averaged
+Averagely
 Averages
 Averaging
 Aversion
@@ -2588,6 +2592,8 @@ Boundless
 Bounds
 Bounties
 Bounty
+Bouquet
+Bouquets
 Boutique
 Bow
 Bowel
@@ -4017,6 +4023,7 @@ Colonized
 Colonizing
 Colony
 Color
+Colorable
 Coloration
 Colored
 Colorful
@@ -4054,6 +4061,7 @@ Combo
 Combs
 Combustible
 Combustion
+Combustor
 Come
 Comeback
 Comedian
@@ -4380,6 +4388,7 @@ Concurrence
 Concurrency
 Concurrent
 Concurrently
+Concussion
 Condensation
 Condense
 Condensed
@@ -4483,6 +4492,7 @@ Congratulation
 Congratulations
 Congress
 Congressman
+Congruence
 Congruency
 Congruent
 Congruential
@@ -4556,6 +4566,7 @@ Considering
 Considers
 Consignment
 Consisted
+Consistence
 Consistencies
 Consistency
 Consistent
@@ -4867,6 +4878,8 @@ Coordinates
 Coordinating
 Coordination
 Coordinator
+Coot
+Cooties
 Cope
 Coped
 Copied
@@ -4909,6 +4922,7 @@ Corporation's
 Corporations
 Corpus
 Correct
+Correctability
 Corrected
 Correcting
 Correction
@@ -5685,6 +5699,7 @@ Decently
 Decentralization
 Decentralize
 Decentralized
+Decentralizing
 Deception
 Deceptions
 Deceptive
@@ -7117,6 +7132,7 @@ Dunks
 Duo
 Duped
 Duplex
+Duplexing
 Duplicate
 Duplicated
 Duplicates
@@ -7281,9 +7297,9 @@ Education
 Educational
 Educative
 Educators
-Ef
 Effect
 Effected
+Effectful
 Effecting
 Effective
 Effectively
@@ -7420,6 +7436,7 @@ Elsewhere
 Elucidate
 Elucidated
 Elucidates
+Elucidating
 Elude
 Eluding
 Elusive
@@ -7943,6 +7960,10 @@ Evacuated
 Evacuation
 Evacuations
 Evade
+Evader
+Evaders
+Evades
+Evading
 Evaluate
 Evaluated
 Evaluates
@@ -9216,6 +9237,7 @@ Fowl
 Fox
 Foxes
 Fractal
+Fractality
 Fractals
 Fraction
 Fractional
@@ -11296,6 +11318,7 @@ Inaction
 Inactive
 Inactivity
 Inadequate
+Inadequately
 Inadvertent
 Inadvertently
 Inappropriate
@@ -15057,6 +15080,7 @@ Nightmares
 Nights
 Nighttime
 Nil
+Nimble
 Nine
 Nineteen
 Ninety
@@ -16181,6 +16205,7 @@ Paired
 Pairing
 Pairs
 Pairwise
+Pajamas
 Pale
 Paleontologist
 Paleontologists
@@ -17171,6 +17196,7 @@ Possibilities
 Possibility
 Possible
 Possibly
+Possum
 Possums
 Post
 Post-Modern
@@ -17830,7 +17856,9 @@ Prove
 Proved
 Proven
 Provenance
+Prover
 Proverb
+Provers
 Proves
 Provide
 Provided
@@ -18296,6 +18324,7 @@ Raptor
 Raptors
 Rare
 Rarely
+Rareness
 Rarer
 Rarity
 Raspberries
@@ -19452,6 +19481,7 @@ Retrievals
 Retrieve
 Retrieved
 Retriever
+Retrievers
 Retrieves
 Retrieving
 Retro
@@ -20169,6 +20199,7 @@ Screwdriver
 Screwed
 Screwing
 Screws
+Scribble
 Script
 Script's
 Script-Based
@@ -20663,6 +20694,8 @@ Shielding
 Shields
 Shift
 Shifted
+Shifter
+Shifters
 Shifting
 Shifts
 Shimmer
@@ -21668,6 +21701,7 @@ Spyder
 Spying
 Spyware
 Squad
+Squads
 Square
 Squared
 Squared-Error
@@ -23244,6 +23278,7 @@ Three-dimensional
 Three-layer
 Threefold
 Threshold
+Thresholded
 Thresholding
 Thresholds
 Threw
@@ -24347,6 +24382,7 @@ Unharmed
 Unhealthy
 Unheard
 Unhelpful
+Unhinged
 Uni-Directional
 Uni-directional
 UniProcessor
@@ -27184,6 +27220,7 @@ antiparticles
 antipathy
 antiperspirant
 antiperspirants
+antique
 antiquity
 antisanitary
 antisemitism
@@ -27636,6 +27673,8 @@ assesses
 assessing
 assessment
 assessments
+assessor
+assessors
 asset
 assets
 asshole
@@ -28025,6 +28064,7 @@ avenue
 avenues
 average
 averaged
+averagely
 averages
 averaging
 aversion
@@ -28359,6 +28399,7 @@ bearer
 bearing
 bears
 beast
+beastly
 beasts
 beat
 beaten
@@ -28559,6 +28600,7 @@ bewitches
 bewitching
 beyond
 bi-directional
+biLSTM
 bias
 bias-variance
 biased
@@ -28601,6 +28643,7 @@ billionaire
 billionaires
 billions
 bills
+bilstm
 bimodal
 bin
 binaries
@@ -28993,6 +29036,8 @@ boundless
 bounds
 bounties
 bounty
+bouquet
+bouquets
 boutique
 bow
 bowed
@@ -30712,6 +30757,7 @@ colonizes
 colonizing
 colony
 color
+colorable
 coloration
 colored
 colorful
@@ -30755,6 +30801,7 @@ combusted
 combustible
 combusting
 combustion
+combustor
 combusts
 come
 comeback
@@ -31150,6 +31197,7 @@ concurrence
 concurrency
 concurrent
 concurrently
+concussion
 condemn
 condemned
 condemns
@@ -31296,6 +31344,7 @@ congregates
 congregating
 congress
 congressman
+congruence
 congruency
 congruent
 congruential
@@ -31390,6 +31439,7 @@ consigned
 consignment
 consist
 consisted
+consistence
 consistencies
 consistency
 consistent
@@ -31744,6 +31794,8 @@ coordinates
 coordinating
 coordination
 coordinator
+coot
+cooties
 cope
 coped
 copied
@@ -31796,6 +31848,7 @@ corporations
 corpus
 corpuses
 correct
+correctability
 corrected
 correcting
 correction
@@ -32742,10 +32795,12 @@ decencies
 decency
 decent
 decently
+decentralise
 decentralization
 decentralize
 decentralized
 decentralizes
+decentralizing
 deception
 deceptions
 deceptive
@@ -33515,6 +33570,9 @@ device's
 devices
 devil
 devils
+devious
+deviously
+deviousness
 devise
 devised
 devising
@@ -33924,6 +33982,7 @@ disentangled
 disentangles
 disfigure
 disfigured
+disfigurement
 disfigures
 disfiguring
 disgrace
@@ -34657,6 +34716,7 @@ duo
 dupe
 duped
 duplex
+duplexing
 duplicate
 duplicated
 duplicates
@@ -34846,9 +34906,9 @@ educations
 educative
 educators
 ee-based
-ef
 effect
 effected
+effectful
 effecting
 effective
 effectively
@@ -35008,6 +35068,7 @@ elsewhere
 elucidate
 elucidated
 elucidates
+elucidating
 elude
 eluded
 eludes
@@ -35702,6 +35763,11 @@ evacuated
 evacuation
 evacuations
 evade
+evaded
+evader
+evaders
+evades
+evading
 evaluable
 evaluate
 evaluated
@@ -37291,6 +37357,7 @@ fpga
 fps
 fpu
 fractal
+fractality
 fractals
 fraction
 fractional
@@ -37726,6 +37793,8 @@ gemcutters
 gemini
 gems
 gen
+genAI
+genai
 gender
 gendered
 genders
@@ -39025,6 +39094,11 @@ homogeneity
 homogeneous
 homogeneously
 homogenous
+homologate
+homologated
+homologates
+homologating
+homologation
 homophobia
 homosexual
 homosexuality
@@ -39371,6 +39445,7 @@ iceberg
 icecream
 iced
 icing
+icky
 icon
 iconic
 icons
@@ -39748,6 +39823,7 @@ inaction
 inactive
 inactivity
 inadequate
+inadequately
 inadmissibility
 inadvertent
 inadvertently
@@ -42961,6 +43037,7 @@ meshing
 mess
 mess-up
 message
+messaged
 messages
 messaging
 messed
@@ -44332,6 +44409,7 @@ nightmares
 nights
 nighttime
 nil
+nimble
 nine
 nineteen
 ninety
@@ -44628,6 +44706,7 @@ notions
 notoriety
 notorious
 notoriously
+notorway
 notwithstanding
 nought
 noun
@@ -45719,6 +45798,7 @@ paired
 pairing
 pairs
 pairwise
+pajamas
 palatable
 pale
 paleontological
@@ -46932,6 +47012,7 @@ possibilities
 possibility
 possible
 possibly
+possum
 possums
 post
 post-modern
@@ -47438,6 +47519,7 @@ probability
 probable
 probably
 probation
+probations
 probe
 probed
 probes
@@ -47766,7 +47848,9 @@ prove
 proved
 proven
 provenance
+prover
 proverb
+provers
 proves
 provide
 provided
@@ -48140,6 +48224,7 @@ quill
 quills
 quilt
 quilted
+quintessence
 quintessential
 quire
 quired
@@ -48335,6 +48420,7 @@ rapturous
 rare
 rared
 rarely
+rareness
 rarer
 rarest
 raring
@@ -50013,6 +50099,7 @@ retrievals
 retrieve
 retrieved
 retriever
+retrievers
 retrieves
 retrieving
 retro
@@ -50469,6 +50556,8 @@ ruining
 ruins
 rule
 rule-based
+rulebase
+rulebases
 ruled
 ruler
 rulers
@@ -50866,6 +50955,7 @@ screwdrivers
 screwed
 screwing
 screws
+scribble
 scribbled
 scrimp
 scrimped
@@ -51462,6 +51552,8 @@ shielding
 shields
 shift
 shifted
+shifter
+shifters
 shifting
 shifts
 shimmer
@@ -52774,6 +52866,7 @@ sqlite3
 sqlplus
 sqlserver
 squad
+squads
 square
 squared
 squared-error
@@ -54787,6 +54880,7 @@ three.js
 threefold
 threesome
 threshold
+thresholded
 thresholding
 thresholds
 threw
@@ -56239,6 +56333,7 @@ unheard
 unheeding
 unhelpful
 unhide
+unhinged
 uni-bit
 uni-direction
 uni-directional
@@ -56288,6 +56383,7 @@ uninteresting
 uninterpolated
 uninterrupted
 uninterruptedly
+uninvestigated
 uninvited
 uninvolved
 union
