@@ -206,6 +206,7 @@ Ablation
 Ablations
 Able
 Abnormal
+Abnormalities
 Abnormality
 Abnormally
 Aboard
@@ -2896,7 +2897,6 @@ But
 Butcher
 Butt
 Butter
-ButterFly
 Butterflies
 Butterfly
 Button
@@ -3221,6 +3221,9 @@ Catalogs
 Catalogue
 Catalogues
 Catalyst
+Catalyze
+Catalyzed
+Catalyzing
 Catapult
 Catapults
 Catastrophe
@@ -3900,6 +3903,7 @@ Coconuts
 Code
 Code-Based
 Code-First
+Code-Related
 Code-Review
 Code-based
 CodeFest
@@ -5261,8 +5265,6 @@ Crowd-Sourced
 Crowd-Sourcing
 Crowd-sourced
 Crowd-sourcing
-CrowdSourced
-CrowdSourcing
 Crowded
 Crowdfunding
 Crowding
@@ -8382,7 +8384,6 @@ FPGA
 FPS
 FPU
 FPs
-FRY
 FSB
 FTP
 FYI
@@ -8439,6 +8440,7 @@ Factors
 Factory
 Facts
 Factual
+Factuality
 Factually
 Faculty
 Fade
@@ -9684,6 +9686,7 @@ Geo-spatial
 GeoLocation
 Geocoding
 Geodata
+Geodesic
 Geodesy
 Geographer
 Geographers
@@ -10389,7 +10392,6 @@ Healed
 Healing
 Heals
 Health
-HealthCare
 Healthcare
 Healthier
 Healthiness
@@ -11143,6 +11145,7 @@ Imitated
 Imitates
 Imitating
 Imitation
+Imitations
 Immaterial
 Immediate
 Immediately
@@ -12950,10 +12953,12 @@ Life
 Life-Cycle
 Life-cycle
 LifeHack
+LifeLong
 LifeSpan
 Lifecycle
 Lifecycles
 Lifelike
+Lifelong
 Lifespan
 Lifestyle
 Lifetime
@@ -14457,6 +14462,8 @@ Motorcycles
 Motorist
 Motorized
 Motors
+Motorway
+Motorways
 Mould
 Mound
 Mounds
@@ -18121,7 +18128,9 @@ Querying
 Quest
 Questing
 Question
+Question-Answer
 Question-Answering
+Question-answer
 Question-answering
 Questionable
 Questioned
@@ -18880,6 +18889,9 @@ Regrets
 Regroup
 Regrouping
 Regular
+Regularisation
+Regularised
+Regularising
 Regularities
 Regularity
 Regularization
@@ -26025,6 +26037,7 @@ ablations
 able
 ably
 abnormal
+abnormalities
 abnormality
 abnormally
 aboard
@@ -29765,6 +29778,10 @@ catalogs
 catalogue
 catalogues
 catalyst
+catalyze
+catalyzed
+catalyzes
+catalyzing
 catapult
 catapulted
 catapults
@@ -30597,6 +30614,7 @@ code
 code-base
 code-based
 code-first
+code-related
 code-review
 code-sprint
 code-verify
@@ -36330,6 +36348,7 @@ factors
 factory
 facts
 factual
+factuality
 factually
 faculty
 fade
@@ -37871,6 +37890,7 @@ geo-information
 geo-spatial
 geocoding
 geodata
+geodesic
 geodesy
 geographer
 geographers
@@ -39599,6 +39619,7 @@ imitated
 imitates
 imitating
 imitation
+imitations
 immaterial
 immediate
 immediately
@@ -42000,6 +42021,7 @@ lifehack
 lifehacks
 lifeless
 lifelike
+lifelong
 lifespan
 lifestyle
 lifetime
@@ -43764,6 +43786,8 @@ motorized
 motorizes
 motorizing
 motors
+motorway
+motorways
 motto
 mould
 mound
@@ -44706,7 +44730,6 @@ notions
 notoriety
 notorious
 notoriously
-notorway
 notwithstanding
 nought
 noun
@@ -47564,6 +47587,7 @@ procrastinators
 procure
 procured
 procurement
+procurements
 procuring
 prodded
 prodding
@@ -48189,6 +48213,7 @@ querying
 querystring
 quest
 question
+question-answer
 question-answering
 questionable
 questionably
@@ -48942,12 +48967,14 @@ recuperated
 recuperates
 recuperating
 recur
+recurred
 recurrence
 recurrenced
 recurrences
 recurrent
 recurrently
 recurring
+recurs
 recursion
 recursive
 recursively
@@ -49225,6 +49252,11 @@ regrouping
 regroups
 regrow
 regular
+regularisation
+regularise
+regularised
+regularises
+regularising
 regularities
 regularity
 regularization
