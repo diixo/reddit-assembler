@@ -1853,8 +1853,6 @@ BackFlip
 BackLink
 BackPropagation
 BackSlash
-BackStory
-BackTrack
 Backbone
 Backdoor
 Backdoors
@@ -17904,7 +17902,6 @@ Psychiatry
 Psychic
 Psychoanalysis
 Psycholinguistics
-PsychologIcally
 Psychological
 Psychologically
 Psychologist
@@ -21517,6 +21514,8 @@ Specks
 Specs
 Spectacular
 Spectating
+Spectator
+Spectators
 Spectral
 Spectrum
 Specular
@@ -22233,7 +22232,6 @@ Sub-graphs
 Sub-optimal
 Sub-sequence
 Sub-system
-SubWay
 Subarray
 Subarrays
 Subcategory
@@ -25897,7 +25895,6 @@ XBox
 XHTML
 XML
 XML-based
-XPATH
 XPS
 XPath
 XQuery
@@ -25915,7 +25912,6 @@ Yards
 Yarn
 Yawn
 Yawning
-Ye
 Yeah
 Year
 Year's
@@ -28896,6 +28892,8 @@ boasts
 boat
 boating
 boats
+bodice
+bodices
 bodies
 bodily
 body
@@ -52638,6 +52636,8 @@ spectate
 spectated
 spectates
 spectating
+spectator
+spectators
 spectral
 spectrum
 specular
