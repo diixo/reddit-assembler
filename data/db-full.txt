@@ -7110,6 +7110,7 @@ Dull
 Dulled
 Dulling
 Dumb
+Dummies
 Dummy
 Dump
 Dumped
@@ -10121,7 +10122,6 @@ Guys
 Gym
 Gzip
 HCL
-HCl
 HD
 HDD
 HDDs
@@ -21119,6 +21119,8 @@ Slings
 Slingshot
 Slip
 Slipped
+Slipper
+Slippers
 Slippery
 Slipping
 Slips
@@ -24287,7 +24289,6 @@ Underpinned
 Underpinning
 Underpinnings
 Underrepresented
-UndersTandable
 Undersampled
 Undersampling
 Underscoring
@@ -34707,6 +34708,7 @@ dumb
 dumbass
 dumbest
 dumbs
+dummies
 dummy
 dump
 dumped
@@ -52103,6 +52105,8 @@ slingshot
 slip
 slip-up
 slipped
+slipper
+slippers
 slippery
 slipping
 slippy
@@ -52520,10 +52524,6 @@ souvenir
 souvenirs
 sovereign
 sovereignty
-sp1
-sp2
-sp3
-spaCy
 space
 spacecraft
 spacecrafts
