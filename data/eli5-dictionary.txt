@@ -4021,7 +4021,6 @@ LCDs
 IUPAC
 Dehydration
 rehab
-tailor
 yen
 Salmonella
 st
@@ -38162,7 +38161,6 @@ visage
 V-sync
 VOC's
 underwire
-Tailor
 obama
 Decongestants
 Brainfreeze
@@ -41083,7 +41081,6 @@ MacDougall
 re-activation
 XVII
 fait
-deontic
 cerevisiae
 wrangling
 10-10

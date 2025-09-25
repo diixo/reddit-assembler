@@ -5228,7 +5228,6 @@ CrossCheck
 CrossEntropy
 CrossFit
 CrossLink
-CrossOver
 CrossRoad
 CrossWalk
 Crossbow
@@ -6034,6 +6033,7 @@ Dentists
 Deny
 Denying
 Deodorant
+Deontic
 Depart
 Departed
 Departing
@@ -15407,7 +15407,6 @@ OLED
 OOP
 OOPS
 OOPs
-OOps
 ORM
 OS
 Oak
@@ -15712,7 +15711,6 @@ OpenSUSE
 OpenSource
 OpenStack
 OpenStreetMap
-OpenStreetmap
 Openai
 Opened
 Openflow
@@ -17358,7 +17356,6 @@ Predicate
 Predicated
 Predicates
 Predict
-PredictIng
 Predictability
 Predictable
 Predictably
@@ -22806,6 +22803,7 @@ Tagging
 Tags
 Tail
 Tailed
+Tailor
 Tailored
 Tails
 Tainted
@@ -33248,6 +33246,7 @@ dentists
 deny
 denying
 deodorant
+deontic
 depart
 departed
 departing
@@ -54325,6 +54324,7 @@ tagline
 tags
 tail
 tailed
+tailor
 tailored
 tails
 tainted
