@@ -7702,7 +7702,6 @@ kilowatts
 truce
 gall
 ballon
-steered
 thr
 Harper
 incarcerated

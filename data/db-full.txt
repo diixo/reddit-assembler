@@ -9797,7 +9797,6 @@ Glitched
 Glitches
 Glitter
 Glitters
-GloVE
 GloVe
 Glob
 Global
@@ -11303,7 +11302,6 @@ In-store
 In-time
 In-use
 In-vehicle
-InSight
 Inability
 Inaccessible
 Inaccuracies
@@ -13350,7 +13348,6 @@ MFC
 MGM
 MHZ
 MHz
-MICRO
 MIDI
 MIPS
 MIPs
@@ -21932,7 +21929,9 @@ Steep
 Steeper
 Steepest
 Steer
+Steerability
 Steerable
+Steered
 Steering
 Steers
 Stem
@@ -34916,7 +34915,6 @@ educational
 educations
 educative
 educators
-ee-based
 effect
 effected
 effectful
@@ -53157,7 +53155,9 @@ steepest
 steeply
 steepness
 steer
+steerability
 steerable
+steered
 steering
 steers
 stem
