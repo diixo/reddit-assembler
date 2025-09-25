@@ -12903,7 +12903,6 @@ Leveraged
 Leverages
 Leveraging
 Levitated
-LexIcal
 Lexical
 Lexically
 Lexicographic
@@ -23332,6 +23331,7 @@ Thwarted
 Thwarting
 Thyself
 Tick
+Ticker
 Ticket
 Ticketed
 Ticketing
@@ -33131,7 +33131,6 @@ delivery
 delocalize
 delphi
 delta
-deltaS
 deltas
 delude
 deluded
@@ -54975,6 +54974,7 @@ thwarts
 thyself
 tick
 ticked
+ticker
 ticket
 ticketed
 ticketing

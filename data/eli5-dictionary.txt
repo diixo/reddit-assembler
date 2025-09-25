@@ -21540,7 +21540,6 @@ riled
 crapload
 super-high
 Pell
-ticker
 Thermos
 sought-after
 Acropolis
@@ -115650,7 +115649,6 @@ Dopamin
 Acrylamides
 0x0001
 0x0002
-Ticker
 fartiness
 someonthing
 5mbps
