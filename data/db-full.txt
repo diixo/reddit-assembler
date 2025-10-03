@@ -3413,6 +3413,7 @@ Charred
 Chart
 Charted
 Charter
+Charters
 Charting
 Charts
 Chase
@@ -5346,6 +5347,8 @@ Cumulative
 Cumulatively
 Cunning
 Cup
+Cupboard
+Cupboards
 Cupcake
 Cupcakes
 Cups
@@ -7050,6 +7053,8 @@ Drives
 Driving
 Drone
 Drones
+Drool
+Drools
 Drop
 Drop-In
 Drop-Off
@@ -7145,6 +7150,7 @@ Dusk
 Dusky
 Dust
 Dusting
+Dustpan
 Dusty
 Duties
 Dutiful
@@ -10159,6 +10165,7 @@ Haggle
 Hail
 Hailing
 Hair
+Hairbrush
 Haircut
 Hairless
 Hairs
@@ -10722,6 +10729,8 @@ Hooks
 Hooligan
 Hooligans
 Hoop
+Hoover
+Hoovering
 Hop
 Hope
 Hoped
@@ -11311,6 +11320,7 @@ Inaccuracy
 Inaccurate
 Inaccurately
 Inaction
+Inactivated
 Inactive
 Inactivity
 Inadequate
@@ -12470,6 +12480,8 @@ KeySpace
 KeyWord
 Keyboard
 Keyboards
+Keychain
+Keychains
 Keycode
 Keyed
 Keyframe
@@ -12671,6 +12683,7 @@ Landmarks
 Lands
 Landscape
 Landscapes
+Landscaping
 Lane
 Lanes
 Langchain
@@ -13360,6 +13373,7 @@ MLOps
 MLP
 MNIST
 MOCK
+MOps
 MP3
 MP4
 MPEG
@@ -14392,6 +14406,8 @@ Moore's
 Moose
 Mooses
 Moot
+Mop
+Mops
 Moral
 Morale
 Morality
@@ -14488,6 +14504,7 @@ Ms
 Much
 Muffin
 Muffins
+Mug
 Mugs
 Mule
 Mules
@@ -15115,6 +15132,7 @@ Noisy
 Nomad
 Nomadic
 Nomads
+Nomenclature
 Nominal
 Nominally
 Nominate
@@ -16208,6 +16226,7 @@ Pallets
 Palm
 Pamper
 Pampers
+Pan
 Pancake
 Pancakes
 Panda
@@ -16223,6 +16242,7 @@ Panics
 Panorama
 Panoramas
 Panoramic
+Pans
 Pantheon
 Pantheons
 Panther
@@ -17218,6 +17238,7 @@ Postulate
 Postulates
 Posture
 Postures
+Pot
 Potato
 Potatoes
 Potent
@@ -17226,6 +17247,7 @@ Potentially
 Potentials
 Potion
 Potions
+Pots
 Pottery
 Pouch
 Poultry
@@ -17805,6 +17827,8 @@ Prospective
 Prospectively
 Prospects
 Prosperity
+Prosthesis
+Prosthetic
 Protagonist
 Protagonists
 Protect
@@ -19488,6 +19512,7 @@ Returning
 Returns
 Retweet
 Reunion
+Reunions
 Reusability
 Reusable
 Reuse
@@ -22236,6 +22261,7 @@ Subcluster
 Subcomplex
 Subconsciously
 Subdivided
+Subdividing
 Subdivision
 Subdomain
 Subdomains
@@ -22497,6 +22523,7 @@ Superposition
 Superpowers
 Superset
 Superstar
+Superstitious
 Supervise
 Supervised
 Supervising
@@ -23041,6 +23068,7 @@ Tensorflow's
 Tensors
 Tentative
 Tentatively
+Tenuous
 Tenure
 Tequila
 Terabyte
@@ -24839,6 +24867,7 @@ Vaccinations
 Vaccine
 Vaccines
 Vacuum
+Vacuums
 Vagina
 Vague
 Vaguely
@@ -30022,6 +30051,7 @@ chart
 chart-drawing
 charted
 charter
+charters
 charting
 charts
 chase
@@ -31649,6 +31679,7 @@ contractor
 contractors
 contracts
 contractual
+contractually
 contradict
 contradicted
 contradicting
@@ -32380,6 +32411,8 @@ cumulative
 cumulatively
 cunning
 cup
+cupboard
+cupboards
 cupcake
 cupcakes
 cups
@@ -34633,6 +34666,10 @@ driving
 drnn
 drone
 drones
+drool
+drooled
+drooling
+drools
 drop
 drop-down
 drop-in
@@ -38489,6 +38526,7 @@ hailed
 hailing
 hails
 hair
+hairbrush
 haircut
 hairdryer
 hairdryers
@@ -39147,6 +39185,9 @@ hooligan
 hooligans
 hoop
 hoops
+hoover
+hoovered
+hoovering
 hop
 hope
 hoped
@@ -39673,6 +39714,7 @@ impede
 impeded
 impedes
 impediment
+impediments
 impeding
 impelled
 impelling
@@ -39831,6 +39873,7 @@ inaccuracy
 inaccurate
 inaccurately
 inaction
+inactivated
 inactive
 inactivity
 inadequate
@@ -41459,6 +41502,8 @@ key-speaker
 key-value
 keyboard
 keyboards
+keychain
+keychains
 keycode
 keycontrol
 keydown
@@ -41661,6 +41706,7 @@ lands
 landscape
 landscaper
 landscapes
+landscaping
 lane
 lanes
 language
@@ -43696,6 +43742,8 @@ mooses
 moot
 mooted
 moots
+mop
+mops
 moral
 morale
 moralised
@@ -44470,6 +44518,7 @@ noisy
 nomad
 nomadic
 nomads
+nomenclature
 nominal
 nominally
 nominate
@@ -45526,6 +45575,7 @@ over-the-top
 over-training
 overactivity
 overall
+overallocated
 overarching
 overboard
 overbooked
@@ -45833,6 +45883,7 @@ pamper
 pampered
 pampering
 pampers
+pan
 pancake
 pancakes
 panda
@@ -45851,6 +45902,7 @@ panned
 panorama
 panoramas
 panoramic
+pans
 pantheon
 pantheons
 panther
@@ -47059,6 +47111,7 @@ postulate
 postulates
 posture
 postures
+pot
 potato
 potatoes
 potent
@@ -47068,6 +47121,7 @@ potentials
 potently
 potion
 potions
+pots
 pottery
 pouch
 poultry
@@ -47810,6 +47864,8 @@ prospectively
 prospects
 prosperity
 prosperous
+prosthesis
+prosthetic
 protagonist
 protagonists
 protect
@@ -49399,6 +49455,7 @@ releaming
 relearn
 relearning
 relearns
+releasable
 release
 released
 releases
@@ -50140,6 +50197,7 @@ returns
 retweet
 retyping
 reunion
+reunions
 reunite
 reunited
 reunites
@@ -53118,6 +53176,7 @@ statistics
 stats
 statue
 statues
+statuette
 status
 statuses
 statute
@@ -53563,7 +53622,9 @@ subconsciously
 subcontainers
 subdirectories
 subdirectory
+subdivide
 subdivided
+subdividing
 subdivision
 subdocument
 subdomain
@@ -53916,6 +53977,7 @@ supersedes
 superset
 supersolvable
 superstar
+superstitious
 supertype
 superuser
 supervise
@@ -54624,6 +54686,7 @@ tensorflow.js
 tensors
 tentative
 tentatively
+tenuous
 tenure
 tequila
 terabyte
@@ -57054,6 +57117,7 @@ vaccine
 vaccines
 vaccuum
 vacuum
+vacuums
 vagaries
 vagina
 vague
