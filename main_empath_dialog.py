@@ -76,5 +76,3 @@ if __name__ == "__main__":
             for word in sorted_words:
                 f.write(word + "\n")
 
-
-# 13271

@@ -2669,6 +2669,7 @@ Breaks
 Breakthrough
 Breakthroughs
 Breakup
+Breakups
 Breast
 Breasts
 Breath
@@ -6625,6 +6626,8 @@ Dismayed
 Dismiss
 Dismissal
 Dismissing
+Disobeyed
+Disobeying
 Disorder
 Disordered
 Disorderly
@@ -7618,6 +7621,7 @@ End-users
 EndPoint
 Endangered
 Endeavor
+Endeavoring
 Endeavors
 Endeavour
 Endeavouring
@@ -7934,7 +7938,6 @@ Etc
 Eternal
 Eternally
 Eternity
-EtherNet
 Ethereal
 Ethernet
 Ethic
@@ -8111,6 +8114,7 @@ Exclusions
 Exclusive
 Exclusively
 Exclusivity
+Excursion
 Excuse
 Exec
 Executability
@@ -8797,8 +8801,6 @@ Finite
 Finitely
 Fintech
 Fire
-FireFly
-FireFox
 FireWorks
 Fireball
 Fireballs
@@ -10187,7 +10189,6 @@ Halfway
 Hall
 Halloween
 Halls
-HallucInation
 Hallucinate
 Hallucinated
 Hallucinates
@@ -11209,6 +11210,7 @@ Impersonating
 Impersonation
 Impinging
 Implant
+Implantation
 Implanted
 Implants
 Implausible
@@ -11898,7 +11900,6 @@ Inter-Connected
 Inter-Process
 Inter-cluster
 Inter-process
-InterNET
 InterNet
 Interact
 Interactable
@@ -12326,6 +12327,7 @@ Jaw
 Jaws
 Jazz
 Jboss
+Jealously
 Jealousy
 Jeans
 Jello
@@ -15626,6 +15628,7 @@ Olive
 Olives
 Olympians
 Olympic
+Ominous
 Omission
 Omitted
 Omitting
@@ -16586,6 +16589,7 @@ Percent
 Percentage
 Percentages
 Percentile
+Perceptible
 Perception
 Perceptions
 Perceptive
@@ -18161,6 +18165,7 @@ Quills
 Quilt
 Quilted
 Quintessential
+Quintic
 Quire
 Quirky
 Quit
@@ -18596,6 +18601,7 @@ Reclaiming
 Reclassification
 Reclassify
 Reclassifying
+Recluse
 Recoding
 Recognise
 Recognises
@@ -19103,6 +19109,7 @@ Renormalized
 Renormalizing
 Renouncing
 Renovate
+Renovating
 Renovation
 Renovations
 Renown
@@ -19262,6 +19269,7 @@ Requisite
 Rerank
 Reranked
 Reranking
+Rereading
 Reroll
 Reroute
 Rerouting
@@ -19592,6 +19600,8 @@ Rewards
 Reweight
 Reweighting
 Rewind
+Rewired
+Rewires
 Reword
 Reworded
 Rewording
@@ -20165,6 +20175,7 @@ Scion
 Scipy
 Scissors
 Scold
+Scolding
 Scoop
 Scooping
 Scooter
@@ -20862,6 +20873,7 @@ Sidestep
 Sidestepping
 Sidewalk
 Sidewalks
+Sideward
 Sideways
 Siding
 Siege
@@ -22384,6 +22396,7 @@ Subversion
 Subway
 Subways
 Subword
+Subwords
 Succeed
 Succeeded
 Succeeding
@@ -22831,6 +22844,7 @@ Tailed
 Tailor
 Tailored
 Tails
+Tailwind
 Tainted
 Take
 Take-Off
@@ -23200,6 +23214,7 @@ Theirs
 Them
 Thematic
 Theme
+Themed
 Themes
 Theming
 Themselves
@@ -23812,6 +23827,7 @@ Transposition
 Transversal
 Transverse
 Trap
+Trapeze
 Trapped
 Trapping
 Traps
@@ -24647,6 +24663,7 @@ Untapped
 Untargeted
 Untested
 Untethered
+Unthinkable
 Unthinking
 Until
 Untitled
@@ -25551,6 +25568,7 @@ Were
 Weren't
 West
 Western
+Westerns
 Wet
 Wetting
 Whale
@@ -26677,6 +26695,10 @@ agitators
 aglow
 agnostic
 ago
+agonize
+agonized
+agonizes
+agonizing
 agrarian
 agree
 agreeable
@@ -27160,6 +27182,7 @@ annexed
 annihilate
 annihilating
 annihilation
+anniversaries
 anniversary
 annotate
 annotated
@@ -27418,6 +27441,7 @@ appropriate
 appropriated
 appropriately
 appropriateness
+appropriating
 appropriation
 approval
 approvals
@@ -29161,6 +29185,7 @@ breaks
 breakthrough
 breakthroughs
 breakup
+breakups
 breast
 breasted
 breasts
@@ -30039,6 +30064,8 @@ charisma
 charismatic
 charities
 charity
+charlatan
+charlatans
 charm
 charmed
 charming
@@ -32563,7 +32590,6 @@ dB
 dBA
 dBs
 dCNN
-dE
 dabble
 dabbled
 dad
@@ -34089,6 +34115,10 @@ dismissed
 dismisses
 dismissing
 dismissive
+disobey
+disobeyed
+disobeying
+disobeys
 disorder
 disordered
 disorderly
@@ -35348,6 +35378,7 @@ endeared
 endearment
 endeavor
 endeavored
+endeavoring
 endeavors
 endeavour
 endeavoured
@@ -35988,6 +36019,7 @@ excrete
 excreted
 excretes
 excreting
+excursion
 excusable
 excuse
 excused
@@ -38231,6 +38263,7 @@ graduated
 graduates
 graduating
 graduation
+graduations
 graffiti
 grain
 grained
@@ -39744,6 +39777,7 @@ impertinently
 impetuous
 impinging
 implant
+implantation
 implanted
 implants
 implausible
@@ -41288,6 +41322,7 @@ jdk
 jdk8
 jdo
 jealous
+jealously
 jealousy
 jeans
 jello
@@ -41396,7 +41431,6 @@ jscript
 jsdom
 jsf
 json
-json.net
 jsp
 jtable
 judge
@@ -45121,6 +45155,8 @@ olive
 olives
 olympians
 olympic
+ominous
+ominously
 omission
 omit
 omits
@@ -45908,6 +45944,7 @@ pantheons
 panther
 panthers
 panties
+pantry
 pants
 papa
 papas
@@ -46307,6 +46344,7 @@ percentage
 percentages
 percentile
 percents
+perceptible
 perception
 perceptions
 perceptive
@@ -46404,6 +46442,9 @@ perplexed
 perplexing
 perplexities
 perplexity
+persecute
+persecuted
+persecutes
 perseverance
 persevered
 persevering
@@ -47126,6 +47167,7 @@ pottery
 pouch
 poultry
 pound
+pounded
 pounds
 pour
 poured
@@ -48297,6 +48339,7 @@ quilt
 quilted
 quintessence
 quintessential
+quintic
 quire
 quired
 quires
@@ -48878,6 +48921,7 @@ reclassified
 reclassifies
 reclassify
 reclassifying
+recluse
 reclusive
 reclusively
 reclusiveness
@@ -49581,7 +49625,9 @@ remonstrance
 remonstrances
 remonstrate
 remonstrated
+remorse
 remorseful
+remorseless
 remote
 remotely
 remotes
@@ -49624,6 +49670,7 @@ renouncing
 renovate
 renovated
 renovates
+renovating
 renovation
 renovations
 renown
@@ -49856,6 +49903,7 @@ rerank
 reranked
 reranking
 reread
+rereading
 rereads
 reroll
 rerolled
@@ -50310,6 +50358,9 @@ rewatching
 reweight
 reweighting
 rewind
+rewire
+rewired
+rewires
 reword
 reworded
 rewording
@@ -50966,6 +51017,7 @@ scissors
 scold
 scolded
 scoldind
+scolding
 scolds
 scoop
 scooped
@@ -51834,6 +51886,7 @@ sidewalk
 sidewalks
 sidewall
 sidewalls
+sideward
 sideway
 sideways
 siding
@@ -52380,6 +52433,7 @@ snuggles
 snuggling
 so
 so-called
+so-so
 soak
 soaked
 soaking
@@ -53799,6 +53853,7 @@ subvocabulary
 subway
 subways
 subword
+subwords
 succeed
 succeeded
 succeeding
@@ -54388,6 +54443,7 @@ tailed
 tailor
 tailored
 tails
+tailwind
 tainted
 take
 take-away
@@ -54563,6 +54619,8 @@ techie
 techies
 techmaker
 technical
+technicalities
+technicality
 technically
 technician
 technicians
@@ -54842,6 +54900,7 @@ them
 thematic
 thematically
 theme
+themed
 themes
 theming
 themself
@@ -55592,6 +55651,7 @@ transverse
 transversed
 transverses
 trap
+trapeze
 trapped
 trappers
 trapping
@@ -56711,6 +56771,7 @@ unrestrained
 unrestricted
 unrevealed
 unrivaled
+unrivalled
 unroll
 unrolled
 unrolling
@@ -56808,6 +56869,7 @@ unterminated
 untested
 untether
 untethered
+unthinkable
 unthinking
 until
 untitled
@@ -56852,6 +56914,7 @@ unveils
 unverified
 unvisited
 unwanted
+unwarranted
 unwashed
 unwatched
 unweighted
@@ -58043,6 +58106,7 @@ were
 weren't
 west
 western
+westerns
 wet
 wetted
 wetting
