@@ -8422,6 +8422,8 @@ Facilitated
 Facilitates
 Facilitating
 Facilitation
+Facilitator
+Facilitators
 Facilities
 Facility
 Facing
@@ -10340,6 +10342,7 @@ Hastily
 Hasty
 Hat
 Hatch
+Hatchback
 Hatched
 Hatching
 Hate
@@ -14267,7 +14270,6 @@ Model-Dependent
 Model-Driven
 Model-Free
 Model-Guided
-Model-bAsed
 Model-based
 Model-driven
 Model-free
@@ -14527,6 +14529,7 @@ Multi-Embodiment
 Multi-Environment
 Multi-Factor
 Multi-Frame
+Multi-Function
 Multi-Functional
 Multi-Genre
 Multi-Group
@@ -14592,6 +14595,7 @@ Multi-embodiment
 Multi-environment
 Multi-factor
 Multi-frame
+Multi-function
 Multi-functional
 Multi-genre
 Multi-group
@@ -17763,6 +17767,7 @@ Prompting
 Promptly
 Prompts
 Prone
+Proneness
 Prong
 Prongs
 Pronoun
@@ -20867,6 +20872,7 @@ Sidebar
 Sided
 Sideline
 Sidelink
+Sidelong
 Sidenote
 Sides
 Sidestep
@@ -22050,6 +22056,7 @@ Storages
 Store
 Stored
 Stores
+Storied
 Stories
 Storing
 Storks
@@ -23065,6 +23072,7 @@ Tenement
 Tenet
 Tenets
 Tennis
+Tens
 Tense
 Tenses
 Tensile
@@ -23648,6 +23656,7 @@ Toy
 Toys
 Trace
 Traceability
+Traceable
 Traceback
 Traced
 Traceless
@@ -25608,6 +25617,7 @@ Which
 Whichever
 While
 Whilst
+Whimsical
 Whine
 Whiners
 Whining
@@ -25891,6 +25901,7 @@ Wound
 Wounded
 Wounds
 Woven
+Wrangle
 Wrangler
 Wrap
 Wrap-Up
@@ -27650,6 +27661,8 @@ ascending
 ascends
 ascension
 ascent
+ascential
+ascents
 ascertain
 ascertained
 ascertaining
@@ -27707,7 +27720,6 @@ assembles
 assemblies
 assembling
 assembly
-assembly-type
 assent
 assented
 assert
@@ -36381,6 +36393,8 @@ facilitated
 facilitates
 facilitating
 facilitation
+facilitator
+facilitators
 facilities
 facility
 facing
@@ -42235,6 +42249,7 @@ litheness
 little
 little-known
 littleness
+livability
 live
 live-action
 live-coding
@@ -43948,6 +43963,7 @@ multi-embodiment
 multi-environment
 multi-factor
 multi-frame
+multi-function
 multi-functional
 multi-genre
 multi-group
@@ -44233,6 +44249,7 @@ nanotechnology
 nap
 napkin
 napkins
+nappy
 naps
 narcissism
 narcissist
@@ -46919,6 +46936,7 @@ pods
 poem
 poems
 poet
+poetess
 poetic
 poetically
 poetry
@@ -47824,6 +47842,7 @@ promptitude
 promptly
 prompts
 prone
+proneness
 prong
 prongs
 pronoun
@@ -51014,6 +51033,12 @@ scion
 scions
 scipy
 scissors
+scoff
+scoffed
+scoffer
+scoffers
+scoffing
+scoffs
 scold
 scolded
 scoldind
@@ -51878,6 +51903,7 @@ sidelined
 sidelines
 sidelining
 sidelink
+sidelong
 sidenote
 sides
 sidestep
@@ -52902,6 +52928,7 @@ spontaneously
 spoof
 spoofed
 spoofing
+spook
 spooked
 spooks
 spooky
@@ -53389,6 +53416,7 @@ stored
 stored-procedures
 storefront
 stores
+storied
 stories
 storing
 stork
@@ -54728,6 +54756,7 @@ tenement
 tenet
 tenets
 tennis
+tens
 tense
 tensed
 tenses
@@ -55441,6 +55470,7 @@ toys
 tpu
 trace
 traceability
+traceable
 traceback
 traced
 traceless
@@ -58173,6 +58203,7 @@ whiles
 whilst
 whim
 whims
+whimsical
 whine
 whined
 whiner
@@ -58545,6 +58576,7 @@ woven
 wow-effect
 wpf
 wracking
+wrangle
 wrangler
 wrap
 wrap-up
