@@ -1118,6 +1118,7 @@ Antonym
 Antonyms
 Ants
 Anus
+Anxieties
 Anxiety
 Anxious
 Any
@@ -5970,6 +5971,7 @@ Demanded
 Demanding
 Demands
 Dementia
+Demerit
 Demo
 Democracy
 Democrat
@@ -12437,7 +12439,7 @@ Justifications
 Justified
 Justify
 Justifying
-K-MEANS
+Juvenile
 K-Means
 K-Nearest
 K-means
@@ -14950,6 +14952,8 @@ Necessitates
 Necessities
 Necessity
 Neck
+Necklace
+Necklaces
 Necks
 Necrotic
 Nectar
@@ -15533,6 +15537,7 @@ Occluding
 Occlusion
 Occlusions
 Occult
+Occultism
 Occupancy
 Occupant
 Occupation
@@ -16602,6 +16607,7 @@ Perceptrons
 Perceptual
 Perceptually
 Perennial
+Perennials
 Perfect
 Perfecting
 Perfection
@@ -22003,6 +22009,7 @@ Stickiness
 Sticking
 Sticks
 Sticky
+Stiff
 Stiffness
 Stifle
 Still
@@ -27296,6 +27303,7 @@ antonyms
 ants
 antsy
 anus
+anxieties
 anxiety
 anxious
 anxiously
@@ -30952,6 +30960,10 @@ commits
 committed
 committee
 committing
+commode
+commoded
+commodes
+commodious
 commodities
 commodity
 common
@@ -33215,6 +33227,7 @@ demanding
 demands
 demeanor
 dementia
+demerit
 demerits
 demo
 democracy
@@ -35209,6 +35222,10 @@ embrace
 embraced
 embraces
 embracing
+embrocate
+embrocated
+embrocates
+embrocating
 embrocation
 embroidery
 emerald
@@ -41504,6 +41521,7 @@ justifying
 justly
 jutted
 jutting
+juvenile
 jvm
 jvm's
 jvm-based
@@ -44338,6 +44356,8 @@ necessitating
 necessities
 necessity
 neck
+necklace
+necklaces
 necks
 necrotic
 nectar
@@ -45047,6 +45067,9 @@ occluding
 occlusion
 occlusions
 occult
+occultism
+occultist
+occultists
 occupancy
 occupant
 occupation
@@ -46339,6 +46362,8 @@ pensive
 pent
 pentagon
 pentium
+penurious
+penuriousness
 penury
 people
 people's
@@ -46371,9 +46396,12 @@ perceptual
 perceptually
 perch
 perchance
+peremption
 peremptorily
+peremptory
 perennial
 perennially
+perennials
 perfect
 perfecting
 perfection
@@ -53338,6 +53366,8 @@ stickiness
 sticking
 sticks
 sticky
+stiff
+stiffen
 stiffness
 stifle
 still
@@ -53965,6 +53995,7 @@ suites
 suits
 sulfur
 sullen
+sullenly
 sullenness
 sum
 summability
@@ -55313,6 +55344,7 @@ tongues
 tonic
 tonight
 tonight's
+toning
 tons
 tonsils
 too
