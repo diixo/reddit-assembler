@@ -426,7 +426,6 @@ Ad-Hoc
 Ad-hoc
 AdBlock
 AdHoc
-AdS
 AdSense
 AdWords
 Ada
@@ -566,7 +565,6 @@ Adventuring
 Adventurous
 Adverb
 Adverbs
-AdversariaL
 Adversarial
 Adversarially
 Adversaries
@@ -699,11 +697,13 @@ Agreeing
 Agreement
 Agreements
 Agricultural
+Agriculture
 Ahead
 Ai
 Ai-Driven
 Ai-generated
 Aid
+Aided
 Aiding
 Aim
 Aimed
@@ -3303,6 +3303,7 @@ Centimeter
 Centimeters
 Centos
 Central
+Centrality
 Centralization
 Centralize
 Centralized
@@ -4006,6 +4007,7 @@ Collocated
 Collocation
 Collocations
 Colloquial
+Colloquium
 Collude
 Colluded
 Colluding
@@ -4276,6 +4278,9 @@ Compositional
 Compositionality
 Compositionally
 Compositions
+Compost
+Composter
+Composting
 Compound
 Compounded
 Compounding
@@ -5037,6 +5042,7 @@ Covariant
 Covariate
 Covariates
 Covenant
+Covenants
 Cover
 Coverable
 Coverage
@@ -6603,6 +6609,7 @@ Disgusting
 Dish
 Dishes
 Dishonest
+Dishonesty
 Dishwasher
 Dishwashers
 Disinclined
@@ -6722,6 +6729,7 @@ Distantly
 Distill
 Distillation
 Distilled
+Distiller
 Distilling
 Distinct
 Distinction
@@ -11353,6 +11361,7 @@ Incensed
 Incenses
 Incensing
 Incentive
+Incentives
 Incentivized
 Inception
 InceptionV3
@@ -11438,6 +11447,7 @@ Indecision
 Indeed
 Indefinite
 Indefinitely
+Indemnification
 Indent
 Indentation
 Independence
@@ -12683,6 +12693,7 @@ Lance
 Lances
 Land
 Landed
+Landfill
 Landing
 Landings
 Landmark
@@ -13631,6 +13642,7 @@ Masterfully
 Mastering
 Mastermind
 Masterpiece
+Masterpieces
 Masters
 Mastery
 Masturbate
@@ -13872,6 +13884,7 @@ Meridian
 Merit
 Meritorious
 Merits
+Merrier
 Merrily
 Mesh
 Mesh-Based
@@ -13930,6 +13943,7 @@ Methodologies
 Methodology
 Methods
 Meticulous
+Meticulously
 Metric
 Metrics
 Mexican
@@ -13977,6 +13991,7 @@ Microprocessors
 Microscope
 Microscopes
 Microscopic
+Microscopy
 Microsecond
 Microseconds
 Microsensors
@@ -16301,7 +16316,6 @@ Param
 Parameter
 Parameter-Efficient
 Parameter-efficient
-ParameterS
 Parameterised
 Parameterising
 Parameterization
@@ -16726,6 +16740,7 @@ Petabyte
 Petabyte-Scale
 Petabytes
 Petaflops
+Petite
 Petition
 Petrified
 Pets
@@ -17363,7 +17378,9 @@ Precedent
 Precedes
 Preceding
 Precious
+Precipice
 Precipitate
+Precipitated
 Precipitation
 Precise
 Precisely
@@ -17928,6 +17945,7 @@ Pseudocode
 Pseudorandom
 Pseudoscience
 Psychiatric
+Psychiatrist
 Psychiatrists
 Psychiatry
 Psychic
@@ -18267,6 +18285,7 @@ Radicals
 Radio
 Radioactive
 Radioactivity
+Radiology
 Radios
 Radius
 Raffle
@@ -19483,6 +19502,7 @@ Retain
 Retained
 Retaining
 Retains
+Retargetable
 Retargeting
 Retell
 Retelling
@@ -21700,7 +21720,6 @@ Sport
 Sporting
 Sports
 Spot
-SpotLight
 Spotify
 Spotless
 Spotlight
@@ -21737,6 +21756,7 @@ Sprouts
 Spruce
 Spur
 Spurious
+Spurning
 Spurred
 Spurring
 Spurs
@@ -22291,6 +22311,7 @@ Subdividing
 Subdivision
 Subdomain
 Subdomains
+Subduction
 Subexpression
 Subfield
 Subfolder
@@ -25074,6 +25095,7 @@ Viability
 Viable
 Vibe
 Vibes
+Vibrancy
 Vibrant
 Vibrate
 Vibrates
@@ -26728,6 +26750,7 @@ agreement
 agreements
 agrees
 agricultural
+agriculture
 ahead
 aheld
 ahold
@@ -26798,6 +26821,7 @@ ai-voiced
 ai-write
 ai-written
 aid
+aided
 aiding
 aim
 aimable
@@ -29958,6 +29982,7 @@ centralise
 centralised
 centralises
 centralising
+centrality
 centralization
 centralize
 centralized
@@ -30816,6 +30841,7 @@ collocated
 collocation
 collocations
 colloquial
+colloquium
 collude
 colluded
 colludes
@@ -31149,6 +31175,11 @@ compositional
 compositionality
 compositionally
 compositions
+compost
+composted
+composter
+composting
+composts
 compound
 compounded
 compounding
@@ -32066,6 +32097,7 @@ covariant
 covariate
 covariates
 covenant
+covenants
 cover
 coverable
 coverage
@@ -33229,6 +33261,8 @@ demeanor
 dementia
 demerit
 demerits
+demned
+demnity
 demo
 democracy
 democrat
@@ -33525,6 +33559,9 @@ desperately
 desperates
 desperation
 despise
+despised
+despises
+despising
 despite
 despoil
 despoiled
@@ -34094,6 +34131,7 @@ dish
 disheartened
 dishes
 dishonest
+dishonesty
 dishonor
 dishwasher
 dishwashers
@@ -34280,6 +34318,7 @@ distasteful
 distill
 distillation
 distilled
+distiller
 distilling
 distinct
 distinction
@@ -39977,6 +40016,7 @@ incensed
 incenses
 incensing
 incentive
+incentives
 incentivized
 incept
 inception
@@ -40098,6 +40138,11 @@ indelible
 indelibly
 indelicacy
 indelicate
+indemnification
+indemnified
+indemnifies
+indemnify
+indemnifying
 indemnity
 indent
 indentation
@@ -41763,6 +41808,7 @@ lanced
 lances
 land
 landed
+landfill
 landing
 landings
 landless
@@ -41805,6 +41851,7 @@ lasagna
 laser
 lasers
 lash
+lashed
 lashes
 last
 last-in-first-out
@@ -42870,6 +42917,7 @@ masterfully
 mastering
 mastermind
 masterpiece
+masterpieces
 masters
 mastery
 masturbate
@@ -43152,6 +43200,7 @@ merit
 merited
 meritorious
 merits
+merrier
 merrily
 merriment
 mesh
@@ -43216,6 +43265,7 @@ methodologies
 methodology
 methods
 meticulous
+meticulously
 metres
 metric
 metrics
@@ -43270,6 +43320,7 @@ micropython
 microscope
 microscopes
 microscopic
+microscopy
 microsd
 microsecond
 microseconds
@@ -46316,6 +46367,7 @@ peeking
 peel
 peeled
 peeling
+peelings
 peels
 peeped
 peephole
@@ -46565,6 +46617,7 @@ petabyte
 petabyte-scale
 petabytes
 petaflops
+petite
 petition
 petrified
 petrol
@@ -46970,6 +47023,7 @@ poetically
 poetry
 poets
 poignant
+poignantly
 point
 point-in-time
 point-of-view
@@ -47342,7 +47396,9 @@ precedent
 precedes
 preceding
 precious
+precipice
 precipitate
+precipitated
 precipitation
 precipitous
 precipitously
@@ -48065,6 +48121,7 @@ pseudoscience
 psql
 psyched
 psychiatric
+psychiatrist
 psychiatrists
 psychiatry
 psychic
@@ -48464,6 +48521,7 @@ radicals
 radio
 radioactive
 radioactivity
+radiology
 radios
 radish
 radius
@@ -49534,6 +49592,7 @@ relaunch
 relaunched
 relaunching
 relax
+relaxant
 relaxation
 relaxed
 relaxes
@@ -50224,7 +50283,7 @@ retaliate
 retaliated
 retaliates
 retaliating
-retargatable
+retargetable
 retargeted
 retargeting
 retell
@@ -53033,6 +53092,8 @@ spur
 spurious
 spurn
 spurned
+spurning
+spurns
 spurred
 spurring
 spurs
@@ -53741,6 +53802,7 @@ subdivision
 subdocument
 subdomain
 subdomains
+subduction
 subdue
 subdued
 subduing
@@ -55447,6 +55509,7 @@ totem
 tother
 totter
 tottered
+totterer
 tottering
 totters
 touch
@@ -57475,6 +57538,7 @@ vibe
 vibes
 vibing
 vibrance
+vibrancy
 vibrant
 vibrantly
 vibrate
