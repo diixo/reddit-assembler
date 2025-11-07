@@ -1024,6 +1024,7 @@ Anneal
 Annealed
 Annealing
 Annexed
+Annexure
 Annihilate
 Annihilating
 Annihilation
@@ -4847,7 +4848,6 @@ Convincingly
 Convnet
 Convnets
 Convnext
-ConvolutIonal
 Convoluted
 Convolution
 Convolution-Based
@@ -4922,6 +4922,7 @@ Corollaries
 Corollary
 Coroutine
 Coroutines
+Corpora
 Corporate
 Corporation
 Corporation's
@@ -8126,6 +8127,7 @@ Exclusive
 Exclusively
 Exclusivity
 Excursion
+Excursions
 Excuse
 Exec
 Executability
@@ -9536,7 +9538,11 @@ GPS
 GPT
 GPT-2
 GPT-3
+GPT-3.5
 GPT-4
+GPT-4O
+GPT-4o
+GPT-5
 GPTs
 GPU
 GPU-Based
@@ -16566,6 +16572,7 @@ Peer-to-Peer
 Peer-to-peer
 Peering
 Peers
+Peeve
 Peg
 Pegs
 Pen
@@ -27221,6 +27228,7 @@ annealed
 annealing
 anneals
 annexed
+annexure
 annihilate
 annihilating
 annihilation
@@ -31960,6 +31968,7 @@ corollaries
 corollary
 coroutine
 coroutines
+corpora
 corporate
 corporates
 corporation
@@ -36088,6 +36097,7 @@ excreted
 excretes
 excreting
 excursion
+excursions
 excusable
 excuse
 excused
@@ -38297,7 +38307,10 @@ gpg
 gps
 gpt
 gpt-3
+gpt-3.5
 gpt-4
+gpt-4o
+gpt-5
 gptengineer
 gpu
 gpu-based
@@ -46377,7 +46390,13 @@ peer-to-peer
 peering
 peers
 pees
+peeve
 peeved
+peeves
+peeving
+peevish
+peevishly
+peevishness
 peg
 pegs
 pen
@@ -47164,6 +47183,7 @@ porcupine
 pore
 pored
 pores
+poring
 pork
 porn
 pornographic
