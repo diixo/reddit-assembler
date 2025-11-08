@@ -269,6 +269,7 @@ Acceleration
 Accelerations
 Accelerator
 Accelerators
+Accelerometer
 Accent
 Accented
 Accents
@@ -418,6 +419,7 @@ Actuated
 Actuation
 Actuator
 Actuators
+Acuity
 Acute
 Acutely
 Acyclic
@@ -491,6 +493,7 @@ Adherence
 Adherent
 Adherents
 Adhering
+Adhesion
 Adhoc
 Adjacency
 Adjacent
@@ -935,6 +938,7 @@ Amplifies
 Amplify
 Amplifying
 Amplitude
+Amplitudes
 Amulet
 Amuse
 Amusement
@@ -1066,6 +1070,7 @@ Another
 Another's
 Ansible
 Answer
+Answerable
 Answered
 Answerer
 Answering
@@ -1261,6 +1266,7 @@ Arbitrating
 Arbitration
 Arcade
 Arch
+Archaeologically
 Archaeologist
 Archaic
 Arched
@@ -1819,6 +1825,7 @@ Axioms
 Axios
 Axis
 Aye
+Azimuth
 Azure
 B-Spline
 B-Splines
@@ -1827,6 +1834,7 @@ B-spline
 B-splines
 B-tree
 B2B
+BART
 BASH
 BBQ
 BDD
@@ -1965,6 +1973,7 @@ Bar
 Barbarian
 Barbarians
 Barber
+Barbers
 Barbershop
 Barcode
 Bard
@@ -3621,6 +3630,7 @@ Circumstances
 Circumstantial
 Circumvent
 Circumventing
+Circumvents
 Circus
 Cisco
 Citation
@@ -3933,6 +3943,7 @@ Cognition
 Cognitive
 Cognitively
 Coherence
+Coherency
 Coherent
 Coherently
 Cohesion
@@ -4420,6 +4431,7 @@ Conducting
 Conduction
 Conductive
 Conductivity
+Conductor
 Conductors
 Conducts
 Conduit
@@ -4486,6 +4498,7 @@ Confusability
 Confuse
 Confused
 Confusing
+Confusingly
 Confusion
 Confusions
 Congest
@@ -4715,6 +4728,7 @@ Context-free
 Context-sensitive
 Contexts
 Contextual
+Contextuality
 Contextualization
 Contextualize
 Contextualized
@@ -5703,6 +5717,8 @@ December
 Decency
 Decent
 Decently
+Decentralise
+Decentralised
 Decentralization
 Decentralize
 Decentralized
@@ -5826,6 +5842,7 @@ DeepFakes
 DeepLearning
 DeepMind
 DeepMind's
+DeepSeek
 DeepSparse
 Deepen
 Deepened
@@ -5838,6 +5855,7 @@ Deeplearning
 Deeply
 Deepmind
 Deepmind's
+Deepseek
 Deepsparse
 Deeptech
 Deer
@@ -5914,6 +5932,7 @@ Defunct
 Defuse
 Defy
 Defying
+Degeneracy
 Degenerate
 Degeneration
 Degradation
@@ -5971,6 +5990,7 @@ Delta
 Deltas
 Delusion
 Delusional
+Delusive
 Delve
 Delves
 Delving
@@ -6231,6 +6251,7 @@ Deteriorated
 Deteriorates
 Deteriorating
 Determinant
+Determinants
 Determinate
 Determination
 Determine
@@ -6238,6 +6259,7 @@ Determined
 Determiners
 Determines
 Determining
+Determinism
 Deterministic
 Deterministically
 Deterring
@@ -6609,6 +6631,7 @@ Disgust
 Disgusted
 Disgusting
 Dish
+Disharmony
 Dishes
 Dishonest
 Dishonesty
@@ -6822,6 +6845,7 @@ Divides
 Dividing
 Divine
 Diving
+Divining
 Divinity
 Divisible
 Division
@@ -7951,6 +7975,7 @@ Eternal
 Eternally
 Eternity
 Ethereal
+Ethereum
 Ethernet
 Ethic
 Ethical
@@ -8054,6 +8079,10 @@ Evolves
 Evolving
 Ex
 Exabytes
+Exacerbate
+Exacerbated
+Exacerbates
+Exacerbating
 Exact
 Exacting
 Exactly
@@ -8801,6 +8830,7 @@ Finesse
 Finest
 Finetune
 Finetuned
+Finetunes
 Finetuning
 Finger
 Fingerprint
@@ -9122,6 +9152,7 @@ Forcing
 Fore
 Forecast
 Forecasted
+Forecaster
 Forecasting
 Forecasts
 Forefront
@@ -9525,6 +9556,7 @@ GAN-based
 GANs
 GB
 GCC
+GELU
 GHz
 GIT
 GLUE
@@ -9630,6 +9662,7 @@ Gay
 Gays
 Gaze
 Gb
+GeLU
 Gear
 Geared
 Gearing
@@ -9638,8 +9671,10 @@ Geek
 Geeks
 Geese
 Gels
+Gelu
 Gem
 Gemini
+Gemma
 Gems
 Gen
 GenAI
@@ -10027,6 +10062,7 @@ Greatly
 Greatness
 Greats
 Greed
+Greedily
 Greedy
 Green
 Greener
@@ -10064,6 +10100,7 @@ Groomer
 Grooming
 Grooms
 Groove
+Grooved
 Grooves
 Groovy
 Gross
@@ -10520,6 +10557,7 @@ Hers
 Hesitant
 Hesitation
 Hesitations
+Heterogeneity
 Heterogeneous
 Heterosexual
 Heterosexuality
@@ -10684,6 +10722,7 @@ Holder
 Holders
 Holding
 Holdings
+Holdout
 Holds
 Hole
 Holes
@@ -11566,6 +11605,7 @@ Infers
 Infersent
 Infill
 Infilling
+Infiltration
 Infinite
 Infinitely
 Infinitive
@@ -12263,6 +12303,8 @@ Isometric
 Isometrically
 Isometry
 Isomorphic
+Isothermal
+Isothermic
 Isotropic
 Isotropy
 Israel
@@ -12402,6 +12444,7 @@ Journalist
 Journalists
 Journals
 Journey
+Journeys
 Joy
 Joyful
 Joyous
@@ -12488,6 +12531,7 @@ Kernel
 KernelS
 Kernelized
 Kernels
+Kerosene
 Ketchup
 Kettle
 Kettles
@@ -12629,6 +12673,7 @@ LDA
 LED
 LIFO
 LLAMA
+LLAVA
 LLM
 LLM's
 LLM-Assisted
@@ -12646,7 +12691,10 @@ LLMs
 LLVM
 LLaMA
 LLaMa
+LLaVA
+LLaVa
 LLama
+LLava
 LLms
 LMs
 LOL
@@ -13067,6 +13115,7 @@ Linux-Kernel
 Linux-based
 Lion
 Lions
+Liposuction
 Lips
 Liquid
 Liquidate
@@ -13122,7 +13171,9 @@ Lives
 Livestream
 Living
 Lizard
+LlaVA
 Llama
+Llava
 LoL
 LoRA
 Load
@@ -13631,6 +13682,7 @@ Mask
 Masked
 Masking
 Masks
+Masochist
 Mass
 Mass-produced
 Massage
@@ -13781,6 +13833,8 @@ Median
 Mediate
 Mediated
 Mediates
+Mediator
+Mediators
 Medic
 Medical
 Medically
@@ -15056,6 +15110,7 @@ Neural-network
 Neuralink
 Neuro
 Neurocomputing
+Neuroevolution
 Neurologic
 Neurological
 Neurology
@@ -15312,6 +15367,7 @@ Nonlocal
 Nonparametric
 Nonprofit
 Nonprofits
+Nonreversible
 Nonsense
 Nonsensical
 Nonsmokers
@@ -15541,6 +15597,7 @@ Obstruct
 Obstructed
 Obstructing
 Obstruction
+Obstructions
 Obstructs
 Obtain
 Obtainable
@@ -16374,6 +16431,8 @@ Parsed
 Parser
 Parsers
 Parses
+Parsimonious
+Parsimoniously
 Parsing
 Part
 Part-Time
@@ -16540,6 +16599,7 @@ Pearls
 Peas
 Peasant
 Peasants
+Pebble
 Pebbles
 Peculiar
 Peculiarities
@@ -16830,6 +16890,7 @@ Picked
 Picker
 Picking
 Pickle
+Pickled
 Pickles
 Picks
 Pickup
@@ -17965,6 +18026,7 @@ Psychology
 Psychopath
 Psychopaths
 Psychopathy
+Psychophysical
 Psychosis
 Psychotherapist
 Psychotherapy
@@ -17978,6 +18040,7 @@ Public-key
 Publically
 Publication
 Publications
+Publicist
 Publicity
 Publicly
 Publish
@@ -18102,6 +18165,7 @@ QEMU
 QLoRA
 QR
 QT
+QWen
 Qemu
 Quack
 Quacks
@@ -18142,6 +18206,8 @@ Quantity
 Quantization
 Quantize
 Quantized
+Quantizer
+Quantizers
 Quantizing
 Quantum
 Quarantine
@@ -18215,6 +18281,7 @@ Quote
 Quoted
 Quotes
 Quoting
+Qwen
 Qwerty
 R's
 R-Squared
@@ -18222,6 +18289,7 @@ R-Tree
 R-squared
 R-tree
 RAG
+RAG-based
 RAM
 RCNN
 RDBMS
@@ -18988,6 +19056,7 @@ Reinitializing
 Reinsertion
 Reinstalling
 Reinstated
+Reinsurance
 Reinterpretation
 Reintroducing
 Reinvent
@@ -19255,6 +19324,7 @@ Representation
 Representational
 Representations
 Representative
+Representativeness
 Representatives
 Represented
 Representer
@@ -20127,6 +20197,7 @@ Scale-Up
 Scale-out
 Scale-up
 Scaled
+Scaler
 Scales
 Scaling
 Scalp
@@ -20211,6 +20282,7 @@ Scikit-learn
 Scimitar
 Scion
 Scipy
+Scissor
 Scissors
 Scold
 Scolding
@@ -20292,6 +20364,8 @@ Scrutiny
 Scuffed
 Scull
 Sculls
+Sculptor
+Sculptors
 Sculpture
 Sculptures
 Scum
@@ -21586,6 +21660,7 @@ Spectating
 Spectator
 Spectators
 Spectral
+Spectrally
 Spectrum
 Specular
 Specularity
@@ -21856,6 +21931,8 @@ Stair
 Staircase
 Staircases
 Stairs
+Stairway
+Stairways
 Stairwell
 Stake
 Stakeholder
@@ -22338,6 +22415,7 @@ Subjects
 Sublime
 Sublinear
 Submarine
+Submatrices
 Submatrix
 Submission
 Submissions
@@ -23206,6 +23284,7 @@ Text-centric
 Text-image
 Text-only
 Text-preprocessing
+Text-to-3D
 Text-to-Image
 Text-to-Speech
 Text-to-Text
@@ -24241,6 +24320,7 @@ Un
 Unable
 Unacceptable
 Unaccountable
+Unaccounted
 Unadjusted
 Unaffected
 Unafraid
@@ -24265,6 +24345,7 @@ Unavailable
 Unavoidable
 Unavoidably
 Unaware
+Unbalance
 Unbalanced
 Unbearable
 Unbeatable
@@ -24529,7 +24610,6 @@ Unity
 Unity3D
 Univalent
 Univariate
-UniversaL
 Universal
 Universality
 Universally
@@ -24581,6 +24661,7 @@ Unmasked
 Unmasking
 Unmatched
 Unmistakable
+Unmodeled
 Unmodified
 Unnamed
 Unnatural
@@ -25120,6 +25201,7 @@ Vicinity
 Vicious
 Victim
 Victims
+Vicuna
 Video
 Video-Sharing
 Video-sharing
@@ -25239,6 +25321,7 @@ Voiceless
 Voices
 Voicing
 Void
+Voiding
 Voip
 Volatile
 Volatiles
@@ -25976,6 +26059,7 @@ Wrongly
 Wrongs
 Wrote
 Wtf
+X-Ray
 X-axis
 X-ray
 X86
@@ -26063,6 +26147,8 @@ Zero-shot
 Zeroes
 Zeroing
 Zeros
+ZigZag
+Zigzag
 Zip
 Zipper
 Zippers
@@ -26211,6 +26297,7 @@ acceleration
 accelerations
 accelerator
 accelerators
+accelerometer
 accent
 accented
 accents
@@ -26412,6 +26499,7 @@ actuates
 actuation
 actuator
 actuators
+acuity
 acute
 acutely
 acutest
@@ -26483,6 +26571,7 @@ adherent
 adherents
 adheres
 adhering
+adhesion
 adhoc
 adjacency
 adjacent
@@ -27110,6 +27199,7 @@ amplifies
 amplify
 amplifying
 amplitude
+amplitudes
 amply
 amqp
 amulet
@@ -27277,6 +27367,7 @@ ansi
 ansible
 ansistring
 answer
+answerable
 answered
 answerer
 answerers
@@ -27540,6 +27631,7 @@ arbitration
 arcade
 arcane
 arch
+archaeologically
 archaeologist
 archaic
 arched
@@ -28239,6 +28331,7 @@ axioms
 axios
 axis
 aye
+azimuth
 azure
 b-spline
 b-splines
@@ -28390,6 +28483,7 @@ barbarians
 barbaric
 barbecue
 barber
+barbers
 barbershop
 barcode
 bard
@@ -29266,6 +29360,7 @@ brewers
 brewery
 brewing
 bribe
+briber
 bribery
 bribes
 brick
@@ -30369,6 +30464,7 @@ circumstantial
 circumvent
 circumvented
 circumventing
+circumvents
 circus
 cisco
 citation
@@ -30765,6 +30861,7 @@ cognition
 cognitive
 cognitively
 coherence
+coherency
 coherent
 coherently
 cohesion
@@ -31222,6 +31319,7 @@ compromise
 compromised
 compromises
 compromising
+compulsion
 compulsive
 compulsory
 compunction
@@ -31356,6 +31454,7 @@ conducting
 conduction
 conductive
 conductivity
+conductor
 conductors
 conducts
 conduit
@@ -31447,6 +31546,7 @@ confuse
 confused
 confuses
 confusing
+confusingly
 confusion
 confusions
 congest
@@ -31723,6 +31823,7 @@ context-sensitive
 contextmenu
 contexts
 contextual
+contextuality
 contextualization
 contextualize
 contextualized
@@ -32927,6 +33028,7 @@ decency
 decent
 decently
 decentralise
+decentralised
 decentralization
 decentralize
 decentralized
@@ -33090,6 +33192,7 @@ deeplearning
 deeply
 deepmind
 deepmind's
+deepseek
 deepsparse
 deeptech
 deer
@@ -33179,6 +33282,7 @@ defuse
 defused
 defy
 defying
+degeneracy
 degenerate
 degeneration
 degradation
@@ -33259,6 +33363,7 @@ deludes
 delusion
 delusional
 delusionally
+delusive
 delve
 delved
 delves
@@ -33645,6 +33750,7 @@ deteriorates
 deteriorating
 determinant
 determinantial
+determinants
 determinate
 determinately
 determination
@@ -33653,6 +33759,7 @@ determined
 determiners
 determines
 determining
+determinism
 deterministic
 deterministically
 deterred
@@ -34137,6 +34244,7 @@ disgusting
 disgustingly
 disgusts
 dish
+disharmony
 disheartened
 dishes
 dishonest
@@ -34353,6 +34461,7 @@ distorts
 distract
 distracted
 distractedly
+distractibility
 distracting
 distraction
 distractions
@@ -34432,6 +34541,7 @@ dividing
 divine
 divined
 diving
+divining
 divisible
 division
 divisions
@@ -35886,6 +35996,7 @@ eternally
 eternals
 eternity
 ethereal
+ethereum
 ethernet
 ethic
 ethical
@@ -36007,6 +36118,10 @@ evolves
 evolving
 ex
 exabytes
+exacerbate
+exacerbated
+exacerbates
+exacerbating
 exact
 exacted
 exacting
@@ -36927,6 +37042,7 @@ finest
 finetunable
 finetune
 finetuned
+finetunes
 finetuning
 finger
 fingerprint
@@ -37339,6 +37455,7 @@ foreboded
 forebodings
 forecast
 forecasted
+forecaster
 forecasting
 forecasts
 forefront
@@ -37639,6 +37756,7 @@ frightened
 frightening
 frightful
 frightfully
+frilly
 fringe
 frivolous
 froasting
@@ -37945,10 +38063,12 @@ geeks
 geese
 gel
 gels
+gelu
 gem
 gemcutter
 gemcutters
 gemini
+gemma
 gems
 gen
 genAI
@@ -38444,6 +38564,7 @@ greatly
 greatness
 greats
 greed
+greedily
 greedy
 green
 greener
@@ -38494,6 +38615,7 @@ groomer
 grooming
 grooms
 groove
+grooved
 grooves
 groovy
 gross
@@ -39049,6 +39171,7 @@ hesitating
 hesitatingly
 hesitation
 hesitations
+heterogeneity
 heterogeneous
 heterosexual
 heterosexuality
@@ -39215,6 +39338,7 @@ holder
 holders
 holding
 holdings
+holdout
 holdover
 holds
 hole
@@ -40320,6 +40444,7 @@ infill
 infilled
 infilling
 infills
+infiltration
 infinite
 infinitely
 infinitive
@@ -41243,6 +41368,8 @@ isometric
 isometrically
 isometry
 isomorphic
+isothermal
+isothermic
 isotropic
 isotropy
 isp
@@ -41488,6 +41615,7 @@ journalist
 journalists
 journals
 journey
+journeys
 joy
 joyed
 joyful
@@ -41617,6 +41745,7 @@ kernelize
 kernelized
 kernelizes
 kernels
+kerosene
 ketchup
 kettle
 kettles
@@ -42284,6 +42413,7 @@ lion
 lioness
 lions
 lip
+liposuction
 lips
 liquid
 liquidate
@@ -42356,6 +42486,7 @@ livestream
 living
 lizard
 llama
+llava
 llm
 llm-assisted
 llm-based
@@ -42911,6 +43042,8 @@ mask
 masked
 masking
 masks
+masochist
+masochists
 mass
 mass-produced
 massage
@@ -43086,6 +43219,8 @@ mediapad
 mediate
 mediated
 mediates
+mediator
+mediators
 medic
 medical
 medically
@@ -44411,6 +44546,7 @@ nearness
 neat
 neater
 neatly
+necessaries
 necessarily
 necessary
 necessitate
@@ -44522,6 +44658,7 @@ neural-network
 neuralink
 neuro
 neurocomputing
+neuroevolution
 neurologic
 neurological
 neurology
@@ -44818,6 +44955,7 @@ nonprofits
 nonregular
 nonrelational
 nonrelevant
+nonreversible
 nonsense
 nonsenses
 nonsensical
@@ -45105,6 +45243,7 @@ obstructed
 obstructes
 obstructing
 obstruction
+obstructions
 obstructs
 obtain
 obtainable
@@ -46158,6 +46297,9 @@ parsed
 parser
 parsers
 parses
+parsimonious
+parsimoniously
+parsimoniousness
 parsing
 part
 part-time
@@ -46352,6 +46494,7 @@ pearls
 peas
 peasant
 peasants
+pebble
 pebbles
 peculiar
 peculiarities
@@ -46733,6 +46876,7 @@ picked
 picker
 picking
 pickle
+pickled
 pickles
 picks
 pickup
@@ -47432,6 +47576,7 @@ precludes
 precompiled
 precompute
 precomputed
+precomputes
 preconceived
 precondition
 preconditioned
@@ -48156,6 +48301,7 @@ psychopath
 psychopathic
 psychopaths
 psychopathy
+psychophysical
 psychoses
 psychosis
 psychotherapist
@@ -48171,6 +48317,8 @@ public-key
 publically
 publication
 publications
+publicist
+publicists
 publicity
 publicize
 publicized
@@ -48389,6 +48537,8 @@ quantity
 quantization
 quantize
 quantized
+quantizer
+quantizers
 quantizes
 quantizing
 quantum
@@ -48485,6 +48635,7 @@ quote
 quoted
 quotes
 quoting
+qwen
 qwerty
 r&d
 r's
@@ -49554,6 +49705,7 @@ reinstalls
 reinstantiate
 reinstate
 reinstated
+reinsurance
 reintegrate
 reintegrated
 reintegrating
@@ -49948,6 +50100,7 @@ representation
 representational
 representations
 representative
+representativeness
 representatives
 represented
 representer
@@ -51043,6 +51196,7 @@ scale
 scale-out
 scale-up
 scaled
+scaler
 scales
 scaling
 scalp
@@ -51139,6 +51293,7 @@ scimitars
 scion
 scions
 scipy
+scissor
 scissors
 scoff
 scoffed
@@ -51267,6 +51422,8 @@ scuffing
 scuffle
 scull
 sculls
+sculptor
+sculptors
 sculpture
 sculptures
 scum
@@ -52274,6 +52431,7 @@ slam
 slammed
 slamming
 slams
+slanderer
 slang
 slant
 slanted
@@ -52880,6 +53038,7 @@ spectating
 spectator
 spectators
 spectral
+spectrally
 spectrum
 specular
 specularity
@@ -53208,6 +53367,7 @@ stack-based
 stackable
 stacked
 stacking
+stackled
 stackoverflow
 stacks
 stadium
@@ -53239,6 +53399,8 @@ stair
 staircase
 staircases
 stairs
+stairway
+stairways
 stairwell
 stake
 stakeholder
@@ -53855,6 +54017,7 @@ sublinearly
 sublist
 submarine
 submarines
+submatrices
 submatrix
 submenu
 submission
@@ -54983,6 +55146,8 @@ text-only
 text-preprocessing
 text-processing
 text-search
+text-to-3D
+text-to-3d
 text-to-image
 text-to-speech
 text-to-text
@@ -56234,6 +56399,7 @@ unable
 unacceptable
 unacceptably
 unaccountable
+unaccounted
 unachievable
 unadjusted
 unadorned
@@ -56272,6 +56438,7 @@ unavailable
 unavoidable
 unavoidably
 unaware
+unbalance
 unbalanced
 unbearable
 unbearably
@@ -56782,6 +56949,7 @@ unmirthful
 unmistakable
 unmistakably
 unmixed
+unmodeled
 unmodifiable
 unmodified
 unmodulated
@@ -57580,6 +57748,7 @@ viciously
 victim
 victimless
 victims
+vicuna
 video
 video-recorded
 video-sharing
@@ -57737,6 +57906,7 @@ voices
 voicing
 void
 voided
+voiding
 voip
 volatile
 volatileness
@@ -58765,6 +58935,7 @@ wtf
 www
 wysiwyg
 x-axis
+x-ray
 x64
 x86
 x86-64
@@ -58876,6 +59047,7 @@ zeroes
 zeroing
 zeroness
 zeros
+zigzag
 zip
 zipped
 zipper
