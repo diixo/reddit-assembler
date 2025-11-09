@@ -1086,6 +1086,7 @@ Antagonists
 Antelope
 Antenna
 Antennas
+Anthropomorphic
 Anti
 Anti-Aliasing
 Anti-Malware
@@ -1379,6 +1380,7 @@ Articulate
 Articulated
 Articulating
 Articulation
+Articulatory
 Artifact
 Artifacts
 Artifice
@@ -3347,6 +3349,7 @@ Ceremony
 Certain
 Certainly
 Certainty
+Certifiable
 Certificate
 Certificates
 Certification
@@ -3711,6 +3714,7 @@ Classless
 Classroom
 Classrooms
 Claude
+Claude-2
 Clause
 Clauses
 Claw
@@ -5483,6 +5487,7 @@ Cyber-security
 CyberSecurity
 Cyberattack
 Cyberattacks
+Cybercrime
 Cybercriminals
 Cybernetic
 Cybernetics
@@ -5794,6 +5799,8 @@ Decomposed
 Decomposes
 Decomposing
 Decomposition
+Decomposition-Based
+Decomposition-based
 Decompositions
 Decompress
 Decompressed
@@ -8563,6 +8570,10 @@ Falling
 Fallout
 Falls
 False
+False-Negative
+False-Positive
+False-negative
+False-positive
 Falsehood
 Falsehoods
 Falsely
@@ -9595,10 +9606,13 @@ GPT-2
 GPT-3
 GPT-3.5
 GPT-4
+GPT-4's
 GPT-4O
+GPT-4V
 GPT-4o
 GPT-4o-mini
 GPT-5
+GPT-Based
 GPT-based
 GPT2
 GPT4
@@ -10368,8 +10382,10 @@ Hardness
 Hardware
 Hardware-Accelerated
 Hardware-Based
+Hardware-Friendly
 Hardware-accelerated
 Hardware-based
+Hardware-friendly
 Hardware-supported
 Hardwired
 Hardworking
@@ -11910,8 +11926,10 @@ Instruct
 Instructed
 Instructing
 Instruction
+Instruction-Based
 Instruction-Following
 Instruction-Level
+Instruction-based
 Instruction-following
 Instruction-level
 Instructional
@@ -12882,6 +12900,7 @@ Lawyer
 Lawyers
 Lay
 Layer
+Layer's
 Layered
 Layering
 Layers
@@ -13655,6 +13674,8 @@ Many-To-Many
 Many-to-Many
 Many-to-many
 Map
+Map-Based
+Map-based
 Maple
 Mapped
 Mapper
@@ -14255,6 +14276,7 @@ Misaligned
 Misalignment
 Misapply
 Misbehaving
+Misbehavior
 Misc
 Miscalibration
 Miscellaneous
@@ -14635,6 +14657,7 @@ Mulling
 Multi
 Multi-Agent
 Multi-Attribute
+Multi-Cell
 Multi-Channel
 Multi-Class
 Multi-Cloud
@@ -14702,6 +14725,7 @@ Multi-Year
 Multi-agent
 Multi-attribute
 Multi-byte
+Multi-cell
 Multi-channel
 Multi-class
 Multi-cloud
@@ -15155,6 +15179,7 @@ Neuralink
 Neuro
 Neurocomputing
 Neuroevolution
+Neuroimaging
 Neurologic
 Neurological
 Neurology
@@ -18359,6 +18384,7 @@ RNN's
 RNN-based
 RNNS
 RNNs
+ROC-AUC
 ROI
 ROIs
 ROM
@@ -19340,6 +19366,7 @@ Replacement
 Replacements
 Replaces
 Replacing
+Replanning
 Replay
 Replayed
 Replaying
@@ -22909,6 +22936,8 @@ Syllable
 Syllables
 Symbian
 Symbiosis
+Symbiotic
+Symbiotically
 Symbol
 Symbolic
 Symbolism
@@ -23212,7 +23241,9 @@ Tempered
 Tempers
 Tempest
 Template
+Template-Based
 Template-Driven
+Template-based
 Template-driven
 Templated
 Templates
@@ -23888,7 +23919,9 @@ Trainees
 Trainer
 Trainers
 Training
+Training-Based
 Training-Free
+Training-based
 Training-free
 Trainings
 Trains
@@ -23944,6 +23977,7 @@ Transformations
 Transformative
 Transformed
 Transformer
+Transformer's
 Transformer-Based
 Transformer-based
 Transformers
@@ -24161,6 +24195,7 @@ Trousers
 Truck
 Trucks
 True
+True-Positive
 Truffle
 Truly
 Trump
@@ -24210,6 +24245,8 @@ Tuner
 Tunes
 Tunica
 Tuning
+Tuning-Free
+Tuning-free
 Tunnel
 Tunneling
 Tunnelling
@@ -24719,6 +24756,7 @@ Unmask
 Unmasked
 Unmasking
 Unmatched
+Unmeasured
 Unmistakable
 Unmodeled
 Unmodified
@@ -25146,6 +25184,7 @@ Vector
 Vector-Based
 Vector-Space
 Vector-based
+Vectorial
 Vectorised
 Vectorization
 Vectorized
@@ -27444,6 +27483,7 @@ antelope
 antelopes
 antenna
 antennas
+anthropomorphic
 anti
 anti-Semitic
 anti-aliasing
@@ -27827,6 +27867,7 @@ articulate
 articulated
 articulating
 articulation
+articulatory
 artifact
 artifacts
 artifice
@@ -30181,6 +30222,7 @@ certain
 certainly
 certainties
 certainty
+certifiable
 certificate
 certificates
 certification
@@ -30617,6 +30659,7 @@ classmates
 classroom
 classrooms
 claude
+claude-2
 clause
 clauses
 claustrophobic
@@ -32795,6 +32838,7 @@ cyberattack
 cyberattacks
 cyberbionic
 cyberbionics
+cybercrime
 cybercriminals
 cybernetic
 cybernetics
@@ -33171,6 +33215,7 @@ decomposed
 decomposes
 decomposing
 decomposition
+decomposition-based
 decompositions
 decompress
 decompressed
@@ -36750,6 +36795,8 @@ fallouts
 fallow
 falls
 false
+false-negative
+false-positive
 falsehood
 falsehoods
 falsely
@@ -38516,6 +38563,7 @@ gpt-3.5
 gpt-4
 gpt-4o
 gpt-5
+gpt-based
 gptengineer
 gpu
 gpu-based
@@ -38987,6 +39035,7 @@ hardskills
 hardware
 hardware-accelerated
 hardware-based
+hardware-friendly
 hardware-supported
 hardwares
 hardwired
@@ -40916,6 +40965,7 @@ instruct
 instructed
 instructing
 instruction
+instruction-based
 instruction-following
 instruction-level
 instructional
@@ -42167,6 +42217,7 @@ lawyer
 lawyers
 lay
 layer
+layer's
 layered
 layering
 layers
@@ -43067,6 +43118,7 @@ manuscript
 many
 many-to-many
 map
+map-based
 map-function
 maple
 mapped
@@ -43785,6 +43837,7 @@ misbehave
 misbehaved
 misbehaves
 misbehaving
+misbehavior
 misc
 miscalibration
 miscarriage
@@ -44270,6 +44323,7 @@ multi-attribute
 multi-browser
 multi-byte
 multi-bytes
+multi-cell
 multi-channel
 multi-class
 multi-cloud
@@ -44763,6 +44817,7 @@ neuralink
 neuro
 neurocomputing
 neuroevolution
+neuroimaging
 neurologic
 neurological
 neurology
@@ -50160,6 +50215,7 @@ replacement
 replacements
 replaces
 replacing
+replanning
 replay
 replayed
 replaying
@@ -54726,6 +54782,8 @@ syllable
 syllables
 symbian
 symbiosis
+symbiotic
+symbiotically
 symbol
 symbolic
 symbolise
@@ -55110,6 +55168,7 @@ temperatures
 tempered
 tempers
 template
+template-based
 template-driven
 templated
 templates
@@ -55937,6 +55996,7 @@ traineeship
 trainer
 trainers
 training
+training-based
 training-free
 trainings
 trains
@@ -56271,6 +56331,7 @@ trousers
 truck
 trucks
 true
+true-positive
 trueness
 truer
 truest
@@ -56333,6 +56394,7 @@ tuner
 tunes
 tunica
 tuning
+tuning-free
 tunnel
 tunneling
 tunnelling
@@ -57067,6 +57129,7 @@ unmasked
 unmasking
 unmasks
 unmatched
+unmeasured
 unmentioned
 unmerited
 unmirthful
@@ -57719,6 +57782,7 @@ vector
 vector-based
 vector-space
 vectordb
+vectorial
 vectorised
 vectorizable
 vectorization
