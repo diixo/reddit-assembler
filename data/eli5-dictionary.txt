@@ -493,7 +493,6 @@ brain's
 Sun's
 Oxford
 neurotransmitter
-propulsion
 airborne
 piston
 Victorian
@@ -527,7 +526,6 @@ esophagus
 Kelvin
 amps
 men's
-terrestrial
 shareholders
 Caribbean
 Everest
@@ -1239,7 +1237,6 @@ Titanic
 Joules
 subspecies
 Wilson
-seismic
 landmass
 aroused
 Congo
@@ -1797,7 +1794,6 @@ germany
 dime
 Mohammed
 blister
-forensic
 sedimentary
 Seattle
 Enlightenment
@@ -2361,7 +2357,6 @@ kilometres
 Aspirin
 browning
 derogatory
-embryonic
 Dakota
 pregnancies
 PRC
@@ -4183,7 +4178,6 @@ birthing
 hindsight
 Iran's
 Ethiopian
-reagents
 Viagra
 MPG
 drywall
@@ -7617,7 +7611,6 @@ anti-communist
 deregulation
 Pat
 modernism
-phoneme
 pears
 kilowatts
 truce
@@ -8005,7 +7998,6 @@ phloem
 RTGs
 Michelson-Morley
 retard
-arrhythmia
 Pedro
 incursions
 grappling
@@ -8257,7 +8249,6 @@ Jeffrey
 babbling
 dissociated
 Rica
-disapproval
 Quincy
 hornets
 coalescing
@@ -8854,7 +8845,6 @@ Sunburn
 K-12
 cadaver
 high-powered
-reagent
 cheetah
 baring
 superbugs
@@ -9881,7 +9871,6 @@ YY
 truely
 Smith's
 frontiers
-kinematics
 swatted
 doesn
 doze
@@ -10775,7 +10764,6 @@ Perseus
 Angevin
 Avars
 Beevor
-oscillatory
 BEC
 D2O
 inflaton
@@ -10983,7 +10971,6 @@ Lot's
 slimmer
 Numberphile
 Todd
-galvanic
 Mk
 manning
 Myopia
@@ -11668,7 +11655,6 @@ Belfast
 laymans
 quadrupeds
 phagocytes
-Propulsion
 smallish
 Rudd
 Prostaglandins
@@ -12299,7 +12285,6 @@ tablespoon
 censuses
 Chang
 tac
-Forensic
 couches
 Masonic
 Imperator
@@ -14723,7 +14708,6 @@ Kokura
 lurker
 estradiol
 cambium
-Terrestrial
 n-2
 NH
 QE
@@ -17644,7 +17628,6 @@ lobotomies
 detainment
 Curry
 checkmate
-spectrogram
 HAM
 single-stranded
 spiderwebs
@@ -18018,7 +18001,6 @@ Norway's
 virology
 Navies
 breastfed
-Embryonic
 Sodomy
 rosy
 patio
@@ -20310,7 +20292,6 @@ remarking
 greenland
 anti-clockwise
 Goldfish
-light-weight
 back-to-back
 certian
 AHA
@@ -20612,7 +20593,6 @@ photodiode
 deflating
 transgressions
 what-not
-Galvanic
 Tuvalu
 skewer
 tins
@@ -20659,7 +20639,6 @@ endo
 erg
 ss
 c-sections
-Seismic
 700-800
 sucessfully
 wildcards
@@ -21558,7 +21537,6 @@ calcite
 thrombus
 Hyrule
 Presley
-insufficiency
 Carbine
 marksmanship
 manors
@@ -33637,7 +33615,6 @@ DCI
 buckshot
 observances
 infarct
-Arrhythmia
 duty-free
 pornsites
 khalifa
@@ -36280,7 +36257,6 @@ HEIC
 Belgica
 maya
 bilingualism
-explicable
 Aulus
 Maxima
 AEF
@@ -38060,7 +38036,6 @@ Navel
 Ruble
 2x1
 chequered
-Kinematics
 flower's
 off-roading
 palmaris
@@ -44080,7 +44055,6 @@ ALI
 craton
 Susskind
 feldspars
-circularity
 Centipedes
 supercavitation
 Ducts
@@ -49822,7 +49796,6 @@ Sailor's
 squall
 Pension
 ultra-thin
-reallocating
 twisty
 fuq
 pollinates
@@ -59321,7 +59294,6 @@ cuboids
 Wheras
 305mbit
 intolerably
-Disapproval
 Snowdens
 Semite
 strummed
@@ -68831,7 +68803,6 @@ Bundesrepublik
 alphabetized
 PK
 rock-like
-agent's
 printer's
 Mihaly
 Csikszentmihalyi
@@ -73438,7 +73409,6 @@ BJJ
 Mansfield
 short-sleeved
 cyberthreat
-degradations
 Milking
 Zero-knowledge
 Indian-American
@@ -83446,7 +83416,6 @@ Hook's
 5-sigma
 path-independent
 haved
-elicitation
 deltaG
 ferrochelatase
 H0
@@ -84115,7 +84084,6 @@ diameterofaperture
 circular-ish
 light-like
 geomagnetism
-nearest-neighbor
 WFIRST
 DeltaG
 Geiger-Nuttall
@@ -181303,7 +181271,6 @@ equvalent
 4-8x10
 metoerites
 XIIV
-Affordances
 8-Tetrachlorodibenzo-p-dioxin
 MPO
 cold-welding
@@ -183180,7 +183147,6 @@ product-log
 gravitostatics
 highly-symmetric
 creatine-phosphate
-well-approximated
 Bolztmann's
 phacoemulsification
 even-dimensional
@@ -194854,7 +194820,6 @@ bitwaba
 positive-defined
 pseudo-Riemannian
 compatble
-experience-based
 ductile-brittle
 Edinger
 Tropicamide

@@ -155,6 +155,7 @@ AI-voice
 AI-voiced
 AI-written
 AID
+AIOps
 AIoT
 AJAX
 AKA
@@ -638,6 +639,7 @@ Affordability
 Affordable
 Affordably
 Affordance
+Affordances
 Afforded
 Affording
 Affords
@@ -662,6 +664,7 @@ Agency
 Agenda
 Agendas
 Agent
+Agent's
 Agent-Based
 Agent-based
 Agentic
@@ -1147,6 +1150,7 @@ Apache
 Apart
 Apartment
 Apartments
+Apartness
 Apathy
 Ape
 Aperture
@@ -1358,6 +1362,7 @@ Arrays
 Arrest
 Arrested
 Arrests
+Arrhythmia
 Arrival
 Arrivals
 Arrive
@@ -3630,6 +3635,7 @@ Circuit
 Circuitry
 Circuits
 Circular
+Circularity
 Circularly
 Circulate
 Circulated
@@ -3848,6 +3854,7 @@ Cluster-based
 Clustered
 Clusterer
 Clustering
+Clusterization
 Clusters
 Clutch
 Clutches
@@ -3979,6 +3986,8 @@ Coke
 Cola
 Colab
 Cold
+Cold-Start
+Cold-start
 ColdFusion
 Colder
 Coldest
@@ -5276,6 +5285,7 @@ CrossRoad
 CrossWalk
 Crossbow
 Crossbows
+Crosscorrelation
 Crossed
 Crossentropy
 Crosses
@@ -5957,6 +5967,7 @@ Degeneracy
 Degenerate
 Degeneration
 Degradation
+Degradations
 Degrade
 Degraded
 Degrades
@@ -6550,6 +6561,7 @@ Disappointed
 Disappointing
 Disappointment
 Disappointments
+Disapproval
 Disarm
 Disarming
 Disassembled
@@ -7346,6 +7358,7 @@ Edges
 Edible
 Edibles
 Edit
+Editability
 Editable
 Edited
 Editing
@@ -7474,6 +7487,7 @@ Elevators
 Eleven
 Elf
 Elicit
+Elicitation
 Elicited
 Eliciting
 Elicits
@@ -7543,6 +7557,7 @@ Embrace
 Embraces
 Embracing
 Embroidery
+Embryonic
 Emerald
 Emerge
 Emerged
@@ -7645,8 +7660,10 @@ Encoded
 Encoder
 Encoder-Based
 Encoder-Decoder
+Encoder-Only
 Encoder-based
 Encoder-decoder
+Encoder-only
 Encoders
 Encodes
 Encoding
@@ -8281,6 +8298,8 @@ Expense
 Expenses
 Expensive
 Experience
+Experience-Based
+Experience-based
 Experienced
 Experiences
 Experiencing
@@ -8311,6 +8330,7 @@ Explains
 Explanation
 Explanations
 Explanatory
+Explicable
 Explicit
 Explicitly
 Explicitness
@@ -9196,6 +9216,7 @@ Forehead
 Foreign
 Foreigners
 Foremost
+Forensic
 Forerunner
 Foresee
 Foreseeable
@@ -9596,6 +9617,7 @@ GIT
 GLUE
 GMail
 GNN
+GNN-based
 GNNs
 GNU
 GO
@@ -9607,6 +9629,7 @@ GPT-3
 GPT-3.5
 GPT-4
 GPT-4's
+GPT-4-turbo
 GPT-4O
 GPT-4V
 GPT-4o
@@ -9615,6 +9638,7 @@ GPT-5
 GPT-Based
 GPT-based
 GPT2
+GPT3
 GPT4
 GPTs
 GPU
@@ -9641,6 +9665,7 @@ Gallant
 Galleries
 Gallery
 Gallon
+Galvanic
 Gamble
 Gambler
 Gamblers
@@ -9715,6 +9740,8 @@ Gels
 Gelu
 Gem
 Gemini
+Gemini-Pro
+Gemini-pro
 Gemma
 Gems
 Gen
@@ -11223,10 +11250,12 @@ Illustrative
 Illustrator
 Image
 Image-Based
+Image-Caption
 Image-Processing
 Image-To-Image
 Image-To-Text
 Image-based
+Image-caption
 Image-processing
 Image-to-Image
 Image-to-Text
@@ -11929,9 +11958,11 @@ Instruction
 Instruction-Based
 Instruction-Following
 Instruction-Level
+Instruction-Tuned
 Instruction-based
 Instruction-following
 Instruction-level
+Instruction-tuned
 Instructional
 Instructions
 Instructive
@@ -11943,6 +11974,7 @@ Instrument's
 Instrumental
 Instrumented
 Instruments
+Insufficiency
 Insufficient
 Insufficiently
 Insult
@@ -12654,6 +12686,7 @@ Kindly
 Kindness
 Kinds
 Kinematic
+Kinematics
 Kinetic
 King
 Kingdom
@@ -12722,8 +12755,11 @@ Kubernetes-related
 LCD
 LDA
 LED
+LIDAR-Based
+LIDAR-based
 LIFO
 LLAMA
+LLAMA-3
 LLAVA
 LLM
 LLM's
@@ -12731,21 +12767,26 @@ LLM-Assisted
 LLM-Based
 LLM-Driven
 LLM-Generated
+LLM-Integrated
 LLM-Powered
 LLM-assisted
 LLM-based
 LLM-driven
 LLM-generated
+LLM-integrated
 LLM-powered
 LLMS
 LLMs
 LLVM
 LLaMA
 LLaMA-2
+LLaMA-3
 LLaMa
+LLaMa-3
 LLaVA
 LLaVa
 LLama
+LLama-3
 LLava
 LLms
 LMs
@@ -13052,6 +13093,8 @@ Lexicography
 Lexicon
 Lexicons
 LiDAR
+LiDAR-Based
+LiDAR-based
 Liabilities
 Liability
 Liable
@@ -13078,6 +13121,8 @@ Licenses
 Licensing
 Licking
 Lidar
+Lidar-Based
+Lidar-based
 Lie
 Lied
 Lies
@@ -13100,6 +13145,8 @@ Lifted
 Lifting
 Lifts
 Light
+Light-Weight
+Light-weight
 Lighten
 Lightening
 Lighter
@@ -13226,8 +13273,10 @@ Lives
 Livestream
 Living
 Lizard
+LlaMA-3
 LlaVA
 Llama
+Llama-3
 Llava
 LoL
 LoRA
@@ -13298,6 +13347,8 @@ Logged
 Logger
 Logging
 Logic
+Logic-Based
+Logic-based
 Logical
 Logically
 Logics
@@ -14329,6 +14380,7 @@ Missing
 Missingness
 Mission
 Missions
+Misspecified
 Misspelled
 Misspelling
 Misspellings
@@ -14702,6 +14754,7 @@ Multi-Platform
 Multi-Purpose
 Multi-Query
 Multi-Range
+Multi-Resolution
 Multi-Robot
 Multi-Scale
 Multi-Source
@@ -14768,6 +14821,7 @@ Multi-platform
 Multi-purpose
 Multi-query
 Multi-range
+Multi-resolution
 Multi-robot
 Multi-scale
 Multi-source
@@ -15083,6 +15137,8 @@ Near-Future
 Nearby
 Nearer
 Nearest
+Nearest-Neighbor
+Nearest-neighbor
 Nearly
 Nearness
 Neat
@@ -16062,6 +16118,7 @@ Oscillation
 Oscillations
 Oscillator
 Oscillators
+Oscillatory
 Oscilloscope
 Ostensibly
 Other
@@ -16310,6 +16367,7 @@ PDFs
 PDO
 PERL
 PGP
+PHI-3
 PHP
 PHP's
 PI
@@ -16899,6 +16957,7 @@ Phenomenal
 Phenomenally
 Phenomenon
 Pheromones
+Phi-3
 Philosopher
 Philosophers
 Philosophic
@@ -16910,6 +16969,7 @@ Phobia
 Phobias
 Phoenix
 Phone
+Phoneme
 Phones
 Phonetic
 Phonetically
@@ -17989,6 +18049,7 @@ Propped
 Proprietary
 Proprietor
 Props
+Propulsion
 Pros
 Prose
 Prosecute
@@ -18228,6 +18289,8 @@ Pyramids
 Pytest
 Python
 Python's
+Python-Based
+Python-based
 Python3
 Pythonic
 Pythons
@@ -18274,6 +18337,7 @@ Quantifiers
 Quantifies
 Quantify
 Quantifying
+Quantile
 Quantitative
 Quantitatively
 Quantities
@@ -18357,8 +18421,11 @@ Quoted
 Quotes
 Quoting
 Qwen
+Qwen2
+Qwen2-VL
 Qwerty
 R's
+R-CNN
 R-Squared
 R-Tree
 R-squared
@@ -18667,6 +18734,7 @@ Realizations
 Realize
 Realized
 Realizing
+Reallocating
 Really
 Realm
 Realms
@@ -20553,6 +20621,7 @@ Segregating
 Segregation
 Segue
 Segues
+Seismic
 Seize
 Seized
 Seizing
@@ -21746,6 +21815,7 @@ Spectator
 Spectators
 Spectral
 Spectrally
+Spectrogram
 Spectrum
 Specular
 Specularity
@@ -22104,9 +22174,12 @@ State-Of-The-Art
 State-Of-the-Art
 State-of-Art
 State-of-The-Art
+State-of-The-Arts
 State-of-art
 State-of-the-Art
+State-of-the-Arts
 State-of-the-art
+State-of-the-arts
 Stated
 Stateful
 Statehood
@@ -22436,6 +22509,7 @@ Stutter
 Stuttered
 Stuttering
 Style
+StyleGAN
 Styled
 Styles
 Stylesheet
@@ -22460,6 +22534,7 @@ Sub-Optimal
 Sub-Sequence
 Sub-String
 Sub-System
+Sub-Tasks
 Sub-Tree
 Sub-categories
 Sub-class
@@ -22467,6 +22542,7 @@ Sub-graphs
 Sub-optimal
 Sub-sequence
 Sub-system
+Sub-tasks
 Subarray
 Subarrays
 Subcategory
@@ -23014,6 +23090,7 @@ T-Shirts
 T-shirt
 T-shirts
 T5
+T5-based
 TCP
 TDD
 TF-IDF
@@ -23318,6 +23395,7 @@ Terrain
 Terrain-Based
 Terrain-based
 Terrains
+Terrestrial
 Terrible
 Terribly
 Terrier
@@ -26854,6 +26932,7 @@ affordability
 affordable
 affordably
 affordance
+affordances
 afforded
 affording
 affords
@@ -26888,6 +26967,7 @@ agency
 agenda
 agendas
 agent
+agent's
 agent-based
 agentic
 agents
@@ -27552,6 +27632,7 @@ apache2
 apart
 apartment
 apartments
+apartness
 apathetic
 apathy
 ape
@@ -27836,6 +27917,7 @@ arrear
 arrest
 arrested
 arrests
+arrhythmia
 arrival
 arrivals
 arrive
@@ -30560,6 +30642,7 @@ circuit
 circuitry
 circuits
 circular
+circularity
 circularly
 circulate
 circulated
@@ -30818,6 +30901,7 @@ cluster-based
 clustered
 clusterer
 clustering
+clusterization
 clusters
 clutch
 clutches
@@ -30998,6 +31082,7 @@ coke
 cola
 colab
 cold
+cold-start
 colder
 coldest
 coldfusion
@@ -32556,6 +32641,7 @@ cross-view
 crossbow
 crossbows
 crosscheck
+crosscorrelation
 crossed
 crossed-out
 crossentropy
@@ -33404,6 +33490,7 @@ degeneracy
 degenerate
 degeneration
 degradation
+degradations
 degrade
 degraded
 degrades
@@ -34222,6 +34309,7 @@ disappointment
 disappointments
 disappoints
 disapprobation
+disapproval
 disapprovals
 disapprove
 disapproved
@@ -35266,6 +35354,7 @@ edgy
 edible
 edibles
 edit
+editability
 editable
 edited
 editing
@@ -35416,6 +35505,7 @@ elevators
 eleven
 elf
 elicit
+elicitation
 elicited
 eliciting
 elicits
@@ -35511,6 +35601,7 @@ embrocates
 embrocating
 embrocation
 embroidery
+embryonic
 emerald
 emerge
 emerged
@@ -35645,6 +35736,7 @@ encoded
 encoder
 encoder-based
 encoder-decoder
+encoder-only
 encoders
 encodes
 encoding
@@ -36473,6 +36565,7 @@ expensive
 expensively
 expensiveness
 experience
+experience-based
 experienced
 experiences
 experiencing
@@ -36508,6 +36601,7 @@ explains
 explanation
 explanations
 explanatory
+explicable
 explicated
 explication
 explicit
@@ -37601,6 +37695,7 @@ foreheads
 foreign
 foreigners
 foremost
+forensic
 foreplay
 forerunner
 foresaw
@@ -38108,6 +38203,7 @@ gallery
 gallon
 gallow
 gallows
+galvanic
 gamble
 gambled
 gambler
@@ -38200,6 +38296,7 @@ gem
 gemcutter
 gemcutters
 gemini
+gemini-pro
 gemma
 gems
 gen
@@ -38564,6 +38661,7 @@ gpt-4
 gpt-4o
 gpt-5
 gpt-based
+gpt3
 gptengineer
 gpu
 gpu-based
@@ -39996,6 +40094,7 @@ illustrator
 imac
 image
 image-based
+image-caption
 image-processing
 image-segmentation
 image-to-image
@@ -40968,6 +41067,7 @@ instruction
 instruction-based
 instruction-following
 instruction-level
+instruction-tuned
 instructional
 instructions
 instructive
@@ -40980,6 +41080,7 @@ instrumental
 instrumented
 instruments
 insufferable
+insufficiency
 insufficient
 insufficiently
 insult
@@ -41974,6 +42075,7 @@ kindly
 kindness
 kinds
 kinematic
+kinematics
 kinetic
 king
 kingdom
@@ -42447,6 +42549,7 @@ licensing
 licentiousness
 licking
 lidar
+lidar-based
 lie
 lied
 lies
@@ -42471,6 +42574,7 @@ lifted
 lifting
 lifts
 light
+light-weight
 lighted
 lighten
 lightened
@@ -42635,12 +42739,14 @@ livestream
 living
 lizard
 llama
+llama-3
 llava
 llm
 llm-assisted
 llm-based
 llm-driven
 llm-generated
+llm-integrated
 llm-powered
 llms
 llvm
@@ -42734,6 +42840,7 @@ logger
 loggin
 logging
 logic
+logic-based
 logical
 logically
 logics
@@ -43907,6 +44014,7 @@ missing
 missingness
 mission
 missions
+misspecified
 misspeled
 misspell
 misspelled
@@ -44369,6 +44477,7 @@ multi-platform
 multi-purpose
 multi-query
 multi-range
+multi-resolution
 multi-robot
 multi-scale
 multi-source
@@ -44698,6 +44807,7 @@ nearby
 neared
 nearer
 nearest
+nearest-neighbor
 nearing
 nearly
 nearness
@@ -45862,6 +45972,7 @@ oscillation
 oscillations
 oscillator
 oscillators
+oscillatory
 oscilloscope
 ostensible
 ostensibly
@@ -46965,6 +47076,7 @@ phenomenally
 phenomenon
 phenomenons
 pheromones
+phi-3
 philosopher
 philosophers
 philosophic
@@ -46981,6 +47093,7 @@ phone's
 phonecall
 phonecalls
 phoned
+phoneme
 phones
 phonetic
 phonetically
@@ -48321,6 +48434,7 @@ proprieties
 proprietor
 propriety
 props
+propulsion
 pros
 prose
 prosecute
@@ -48635,6 +48749,7 @@ pytest
 python
 python's
 python-3
+python-based
 python-gui
 python-requests
 python3
@@ -48695,6 +48810,7 @@ quantifiers
 quantifies
 quantify
 quantifying
+quantile
 quantitative
 quantitatively
 quantities
@@ -48801,9 +48917,11 @@ quoted
 quotes
 quoting
 qwen
+qwen2
 qwerty
 r&d
 r's
+r-cnn
 r-squared
 r-tree
 rabbit
@@ -49147,6 +49265,8 @@ ready-to-use
 reaffirm
 reaffirmed
 reaffirms
+reagent
+reagents
 real
 real-life
 real-time
@@ -49175,6 +49295,7 @@ realized
 realizes
 realizing
 reallocate
+reallocating
 really
 realm
 realms
@@ -51741,6 +51862,7 @@ segue
 segued
 segueing
 segues
+seismic
 seize
 seized
 seizing
@@ -53214,6 +53336,7 @@ spectator
 spectators
 spectral
 spectrally
+spectrogram
 spectrum
 specular
 specularity
@@ -53674,6 +53797,7 @@ state
 state-controlled
 state-of-art
 state-of-the-art
+state-of-the-arts
 stated
 stateful
 statehood
@@ -54133,6 +54257,7 @@ sub-sequence
 sub-steps
 sub-string
 sub-system
+sub-tasks
 sub-topics
 sub-tree
 subarea
@@ -54887,6 +55012,7 @@ t-shirt
 t-shirts
 t-sne
 t-sql
+t5-based
 tab
 tabbed
 tabby
@@ -55257,6 +55383,7 @@ terraform
 terrain
 terrain-based
 terrains
+terrestrial
 terrible
 terribly
 terrier
@@ -58570,6 +58697,7 @@ welfare
 well
 well-abstracted
 well-adapted
+well-approximated
 well-architected
 well-balanced
 well-behaved
