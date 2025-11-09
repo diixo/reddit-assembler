@@ -11,6 +11,8 @@
 .net4
 .net5
 .net6
+1-Dimensional
+1-dimensional
 16-Bit
 16-bit
 16Gb
@@ -153,6 +155,7 @@ AI-voice
 AI-voiced
 AI-written
 AID
+AIoT
 AJAX
 AKA
 AMD
@@ -979,6 +982,7 @@ Analyzers
 Analyzes
 Analyzing
 Anarchic
+Anarchy
 Anatomical
 Anatomically
 Anatomy
@@ -1365,6 +1369,7 @@ Arrows
 Arsenal
 Art
 Artefacts
+Arterial
 Arteries
 Artery
 Artful
@@ -1517,6 +1522,7 @@ Astronomers
 Astronomical
 Astronomically
 Astronomy
+Astrophysical
 Astrophysicist
 Astrophysicists
 Astrophysics
@@ -1529,6 +1535,7 @@ Asymptotically
 Async
 Asynchronous
 Asynchronously
+Asynchrony
 At
 Ate
 Atheism
@@ -2421,6 +2428,7 @@ Block-chain
 BlockChain
 Blockade
 Blockage
+Blockages
 Blockbuster
 Blockchain
 Blockchain's
@@ -2622,6 +2630,7 @@ Braced
 Bracelet
 Bracelets
 Braces
+Bracing
 Bracket
 Brackets
 Brag
@@ -2637,6 +2646,7 @@ Brainstorming
 Brake
 Brakes
 Braking
+Bramble
 Branch
 Branched
 Branches
@@ -3700,6 +3710,7 @@ Classifying
 Classless
 Classroom
 Classrooms
+Claude
 Clause
 Clauses
 Claw
@@ -3935,6 +3946,7 @@ Codify
 Coding
 Coefficient
 Coefficients
+Coercive
 Coexist
 Coexistence
 Coexisting
@@ -4958,6 +4970,7 @@ Correlating
 Correlation
 Correlational
 Correlations
+Correlative
 Correspond
 Correspondence
 Correspondences
@@ -5036,6 +5049,7 @@ Couple
 Coupled
 Couples
 Coupling
+Couplings
 Coupon
 Coupons
 Courage
@@ -6056,6 +6070,7 @@ Denoting
 Dense
 Densely
 Densenet
+Densest
 Densification
 Densify
 Densifying
@@ -6262,6 +6277,8 @@ Determining
 Determinism
 Deterministic
 Deterministically
+Deterrence
+Deterrent
 Deterring
 Deters
 Detonate
@@ -7418,6 +7435,8 @@ Electrified
 Electro
 ElectroMagnetic
 Electrochemical
+Electrode
+Electrodes
 Electromagnetic
 Electromechanical
 Electron
@@ -7845,6 +7864,7 @@ Epic
 Epics
 Epidemic
 Epidural
+Epileptic
 Epilogue
 Episode
 Episodes
@@ -8023,6 +8043,7 @@ Evaporation
 Evasion
 Evasions
 Evasive
+Evasiveness
 Even
 Evening
 Evenly
@@ -8382,6 +8403,7 @@ Extractor
 Extractors
 Extracts
 Extradition
+Extraneous
 Extraordinarily
 Extraordinary
 Extrapolate
@@ -9127,6 +9149,7 @@ Footage
 Football
 Footballers
 Footed
+Footnote
 Footpath
 Footprint
 Footprints
@@ -9574,7 +9597,11 @@ GPT-3.5
 GPT-4
 GPT-4O
 GPT-4o
+GPT-4o-mini
 GPT-5
+GPT-based
+GPT2
+GPT4
 GPTs
 GPU
 GPU-Based
@@ -10959,6 +10986,7 @@ Hut
 Hybrid
 Hybrids
 Hybris
+Hydraulic
 Hyena
 Hyenas
 Hype
@@ -11532,9 +11560,12 @@ Indirection
 Indirectly
 Indispensable
 Individual
+Individualised
 Individuality
+Individualization
 Individualize
 Individualized
+Individualizing
 Individually
 Individuals
 Indolent
@@ -11630,6 +11661,7 @@ Inflexible
 Inflict
 Inflicted
 Inflicting
+Inflow
 Influence
 Influenced
 Influencer
@@ -12486,6 +12518,7 @@ Junk
 Junkyard
 Jupyter
 Jurisdiction
+Jurisprudence
 Jury
 Just
 Just-In-Time
@@ -12690,6 +12723,7 @@ LLMS
 LLMs
 LLVM
 LLaMA
+LLaMA-2
 LLaMa
 LLaVA
 LLaVa
@@ -12700,6 +12734,7 @@ LMs
 LOL
 LSD
 LSTM
+LVLM
 LaGrange
 LaGrangian
 LaTeX
@@ -13149,6 +13184,7 @@ Literately
 Literature
 Liters
 Lithe
+Lithium
 Little
 Live
 Live-Coding
@@ -13447,6 +13483,7 @@ ML-based
 MLOPS
 MLOps
 MLP
+MLaaS
 MNIST
 MOCK
 MOps
@@ -13742,8 +13779,10 @@ Matlab
 Matplotlib
 Matrices
 Matrix
+Matrix-Based
 Matrix-Product
 Matrix-Vector
+Matrix-based
 Matrix-product
 Matrix-vector
 Matte
@@ -13777,6 +13816,7 @@ May
 Maybe
 Mayonnaise
 Maze
+Mazes
 McDonald's
 McDonalds
 Mcdonald's
@@ -14503,6 +14543,7 @@ Mornings
 Morphing
 Morphological
 Morphologically
+Morphologies
 Morphology
 Morrow
 Mortal
@@ -14753,6 +14794,7 @@ MultiStep
 MultiTask
 MultiThreaded
 MultiTrack
+MultiUser
 MultiVerse
 MultiView
 Multiagent
@@ -14802,6 +14844,7 @@ Multiple
 Multiple-Input
 Multiple-input
 Multiples
+Multiplex
 Multiplexed
 Multiplexer
 Multiplexers
@@ -14837,6 +14880,7 @@ Multithreading
 Multitouch
 Multitrack
 Multitude
+Multiuser
 Multivalued
 Multivariable
 Multivariate
@@ -15832,6 +15876,7 @@ Opensource
 Openstack
 Openstreetmap
 Opera
+Operability
 Operable
 Operand
 Operands
@@ -16358,6 +16403,7 @@ Paradigms
 Paradise
 Paradox
 Paradoxes
+Paradoxical
 Paradoxically
 Paragraph
 Paragraphs
@@ -16786,6 +16832,7 @@ Persuasion
 Persuasive
 Pertaining
 Pertinent
+Perturb
 Perturbation
 Perturbations
 Perturbed
@@ -17007,6 +17054,7 @@ Placing
 Plagiarism
 Plague
 Plagued
+Plagues
 Plain
 Plain-text
 Plains
@@ -18196,6 +18244,8 @@ Quality
 Quantifiable
 Quantification
 Quantified
+Quantifier
+Quantifiers
 Quantifies
 Quantify
 Quantifying
@@ -18360,6 +18410,7 @@ Radicals
 Radio
 Radioactive
 Radioactivity
+Radiologic
 Radiology
 Radios
 Radius
@@ -18462,6 +18513,7 @@ Rasterizer
 Rat
 Rate
 Rated
+Rateless
 Raters
 Rates
 Rather
@@ -18866,6 +18918,8 @@ Reeling
 Reels
 Reentering
 Reentry
+Reexamination
+Reexamining
 Ref
 Refactor
 Refactored
@@ -18933,6 +18987,7 @@ Refracts
 Refrain
 Reframe
 Reframed
+Reframing
 Refresh
 Refreshed
 Refreshing
@@ -19071,6 +19126,7 @@ Rejection
 Rejections
 Rejects
 Relabeled
+Relabeling
 Relapse
 Relapses
 Relatable
@@ -19678,6 +19734,7 @@ Revisions
 Revisit
 Revisited
 Revisiting
+Revisits
 Revitalize
 Revitalizing
 Revival
@@ -21587,6 +21644,7 @@ Spamming
 Span
 Spanking
 Spanned
+Spanner
 Spanning
 Spans
 Spare
@@ -23951,6 +24009,7 @@ Transversal
 Transverse
 Trap
 Trapeze
+Trapezoidal
 Trapped
 Trapping
 Traps
@@ -24801,6 +24860,7 @@ Untrained
 Untranscribed
 Untranslated
 Untreated
+Untrimmed
 Untrusted
 Untrustworthy
 Untruthful
@@ -24899,6 +24959,7 @@ Upward
 Upwards
 Upweighting
 Urban
+Urbanization
 Urge
 Urgency
 Urgent
@@ -24986,6 +25047,7 @@ VGGnet
 VHDL
 VISA
 VISAs
+VLMs
 VMWare
 VMware
 VOIP
@@ -27243,6 +27305,7 @@ analyzers
 analyzes
 analyzing
 anarchic
+anarchy
 anatomical
 anatomically
 anatomy
@@ -27754,6 +27817,7 @@ art-director
 art-hub
 art-master
 artefacts
+arterial
 arteries
 artery
 artful
@@ -27963,6 +28027,7 @@ astronomers
 astronomical
 astronomically
 astronomy
+astrophysical
 astrophysicist
 astrophysicists
 astrophysics
@@ -27977,6 +28042,7 @@ async
 async-await
 asynchronous
 asynchronously
+asynchrony
 asyncio
 asynctask
 at
@@ -29007,6 +29073,7 @@ block-chain
 block-scoped
 blockade
 blockage
+blockages
 blockbuster
 blockchain
 blockchain's
@@ -29268,6 +29335,7 @@ braced
 bracelet
 bracelets
 braces
+bracing
 bracket
 brackets
 brag
@@ -29284,6 +29352,7 @@ brainstorming
 brake
 brakes
 braking
+bramble
 bran
 branch
 branched
@@ -30547,6 +30616,7 @@ classmate
 classmates
 classroom
 classrooms
+claude
 clause
 clauses
 claustrophobic
@@ -30848,6 +30918,7 @@ coding
 coefficient
 coefficients
 coerced
+coercive
 coexist
 coexisted
 coexistence
@@ -32094,6 +32165,7 @@ correlating
 correlation
 correlational
 correlations
+correlative
 correspond
 corresponded
 correspondence
@@ -32184,6 +32256,7 @@ couple
 coupled
 couples
 coupling
+couplings
 coupon
 coupons
 courage
@@ -33344,6 +33417,7 @@ delimiting
 delimits
 delineate
 delineated
+delineates
 delineation
 deliver
 deliverable
@@ -33465,6 +33539,7 @@ dense
 densely
 denseness
 densenet
+densest
 densification
 densify
 densifying
@@ -33762,7 +33837,10 @@ determining
 determinism
 deterministic
 deterministically
+deterrable
 deterred
+deterrence
+deterrent
 deterring
 deters
 detestable
@@ -35253,6 +35331,8 @@ electrified
 electrify
 electro
 electrochemical
+electrode
+electrodes
 electroluminescent
 electromagnetic
 electromechanical
@@ -35835,6 +35915,7 @@ epically
 epics
 epidemic
 epidural
+epileptic
 epilogue
 episode
 episodes
@@ -36049,6 +36130,7 @@ evaporation
 evasion
 evasions
 evasive
+evasiveness
 even
 evening
 evenings
@@ -36138,6 +36220,7 @@ examinations
 examine
 examined
 examinee
+examinees
 examiner
 examiners
 examines
@@ -36502,6 +36585,7 @@ extractor
 extractors
 extracts
 extradition
+extraneous
 extraordinarily
 extraordinary
 extraplanar
@@ -37417,6 +37501,7 @@ footballers
 footed
 footer
 footing
+footnote
 footpath
 footprint
 footprints
@@ -38822,6 +38907,7 @@ handaxes
 handball
 handbook
 handbrake
+handbreak
 handed
 handful
 handheld
@@ -39641,6 +39727,7 @@ huts
 hybrid
 hybrids
 hybris
+hydraulic
 hydrodynamic
 hyena
 hyenas
@@ -40337,9 +40424,17 @@ indisputable
 indistinct
 indistinctness
 individual
+individualisation
+individualise
+individualised
+individualises
+individualising
 individuality
+individualization
 individualize
 individualized
+individualizes
+individualizing
 individually
 individuals
 indolent
@@ -40474,6 +40569,7 @@ inflexions
 inflict
 inflicted
 inflicting
+inflow
 influence
 influenced
 influencer
@@ -41691,6 +41787,7 @@ junkyard
 jupyter
 jupyter-notebook
 jurisdiction
+jurisprudence
 jury
 just
 just-in-time
@@ -42454,6 +42551,7 @@ liters
 lithe
 lithely
 litheness
+lithium
 little
 little-known
 littleness
@@ -42784,6 +42882,7 @@ luxuriously
 luxury
 lvalue
 lvalues
+lvlm
 lying
 mBERT
 mHz
@@ -43115,6 +43214,7 @@ matrices
 matrimonial
 matrimony
 matrix
+matrix-based
 matrix-multiplied
 matrix-product
 matrix-vector
@@ -43151,6 +43251,7 @@ may
 maybe
 mayonnaise
 maze
+mazes
 mbr
 mcdonalds
 mcu
@@ -44028,6 +44129,7 @@ mornings
 morphing
 morphological
 morphologically
+morphologies
 morphology
 morrow
 morrow's
@@ -44293,6 +44395,7 @@ multiple
 multiple-input
 multiple-term
 multiples
+multiplex
 multiplexed
 multiplexer
 multiplexers
@@ -44333,6 +44436,7 @@ multithreading
 multitouch
 multitrack
 multitude
+multiuser
 multivalued
 multivariable
 multivariate
@@ -45517,6 +45621,7 @@ openstreetmap
 opensuse
 openxml
 opera
+operability
 operable
 operand
 operands
@@ -46209,6 +46314,7 @@ paradings
 paradise
 paradox
 paradoxes
+paradoxical
 paradoxically
 paragraph
 paragraphs
@@ -46749,6 +46855,7 @@ pertains
 pertinacity
 pertinent
 pertinently
+perturb
 perturbation
 perturbations
 perturbed
@@ -47021,6 +47128,7 @@ placing
 plagiarism
 plague
 plagued
+plagues
 plain
 plain-text
 plainer
@@ -48527,6 +48635,8 @@ qualms
 quantifiable
 quantification
 quantified
+quantifier
+quantifiers
 quantifies
 quantify
 quantifying
@@ -48692,6 +48802,7 @@ radicals
 radio
 radioactive
 radioactivity
+radiologic
 radiology
 radios
 radish
@@ -48828,6 +48939,7 @@ rasterizes
 rat
 rate
 rated
+rateless
 raters
 rates
 rather
@@ -49439,9 +49551,11 @@ reentry
 reestablish
 reestablished
 reestablishes
+reexamination
 reexamine
 reexamined
 reexamines
+reexamining
 ref
 refactor
 refactored
@@ -49528,6 +49642,7 @@ refrains
 reframe
 reframed
 reframes
+reframing
 refresh
 refreshed
 refresher
@@ -49738,6 +49853,7 @@ rejoining
 rejoins
 rejuvenated
 relabeled
+relabeling
 relaid
 relapse
 relapsed
@@ -50597,6 +50713,7 @@ revisions
 revisit
 revisited
 revisiting
+revisits
 revitalize
 revitalized
 revitalizes
@@ -52879,6 +52996,7 @@ soothe
 soothing
 soothings
 sophisticated
+sophisticatedly
 sophistication
 sorcerer
 sorcery
@@ -52945,6 +53063,7 @@ spank
 spanked
 spanking
 spanned
+spanner
 spanning
 spans
 spare
@@ -53960,9 +54079,11 @@ sub-string
 sub-system
 sub-topics
 sub-tree
+subarea
 subareas
 subarray
 subarrays
+subcategories
 subcategory
 subclass
 subclassed
@@ -55443,6 +55564,7 @@ till
 tilt
 tilted
 tilting
+tilts
 timber
 time
 time-based
@@ -55962,6 +56084,7 @@ transversed
 transverses
 trap
 trapeze
+trapezoidal
 trapped
 trappers
 trapping
@@ -56613,6 +56736,7 @@ undermines
 undermining
 underneath
 underperforming
+underperforms
 underpin
 underpinned
 underpinning
@@ -57200,6 +57324,7 @@ untrammeled
 untranscribed
 untranslated
 untreated
+untrimmed
 untrusted
 untrustworthy
 untruthful
@@ -57363,6 +57488,7 @@ upwards
 upweighting
 urban
 urbanity
+urbanization
 urbanize
 urbanized
 urbanizes
@@ -57818,6 +57944,7 @@ virtual
 virtualbox
 virtualization
 virtualized
+virtualizes
 virtually
 virtue
 virtues
@@ -57874,6 +58001,7 @@ vitamins
 vivacity
 vivid
 vividly
+vlms
 vmware
 vocabularies
 vocabulary
