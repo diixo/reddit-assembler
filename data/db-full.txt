@@ -26,9 +26,11 @@
 2-dimensional
 2D
 2D-3D
+2D-to-3D
 2G
 2d
 2d-3d
+2d-to-3d
 2g
 2nd
 3-D
@@ -499,6 +501,7 @@ Adherents
 Adhering
 Adhesion
 Adhoc
+Adiabatic
 Adjacency
 Adjacent
 Adjective
@@ -802,6 +805,8 @@ All-electric
 All-in-One
 All-in-all
 All-in-one
+All-to-All
+All-to-all
 Allegations
 Alleged
 Allegedly
@@ -1090,6 +1095,7 @@ Antagonists
 Antelope
 Antenna
 Antennas
+Anthropometric
 Anthropomorphic
 Anti
 Anti-Aliasing
@@ -2315,6 +2321,7 @@ Biologists
 Biology
 Biomass
 Biomechanical
+Biomechanics
 Biomedical
 Biometric
 Bionic
@@ -3010,6 +3017,7 @@ Cached
 Caches
 Caching
 Cactus
+Cadastral
 Cafe
 Cafeteria
 Caffeine
@@ -3246,6 +3254,7 @@ Catalogs
 Catalogue
 Catalogues
 Catalyst
+Catalytic
 Catalyze
 Catalyzed
 Catalyzing
@@ -4037,6 +4046,7 @@ College
 Colleges
 Collide
 Collided
+Collider
 Collides
 Colliding
 Collinear
@@ -4984,6 +4994,7 @@ Corrections
 Corrective
 Correctly
 Correctness
+Corrector
 Correlate
 Correlated
 Correlates
@@ -5013,6 +5024,7 @@ Cortex
 Cosine
 Cosmetic
 Cosmic
+Cosmonaut
 Cosmos
 Cosplay
 Cost
@@ -5224,6 +5236,7 @@ Criterion
 Critical
 Criticality
 Critically
+Criticised
 Criticising
 Criticism
 Criticisms
@@ -5356,6 +5369,7 @@ Crusts
 Crux
 Cry
 Crying
+Cryogenic
 Crypto
 CryptoCurrency
 Cryptocurrencies
@@ -7727,6 +7741,7 @@ Endorsement
 Endorsements
 Endorses
 Endorsing
+Endoscopy
 Endow
 Endowed
 Endowing
@@ -8775,6 +8790,7 @@ Fence
 Fender
 Fenders
 Fermented
+Ferromagnetic
 Ferry
 Fertility
 Fester
@@ -9684,7 +9700,9 @@ Gambles
 Gambling
 Game
 Game's
+Game-Based
 Game-Playing
+Game-based
 Game-playing
 Gamepad
 Gameplay
@@ -11044,6 +11062,7 @@ Hybrid
 Hybrids
 Hybris
 Hydraulic
+Hydrothermal
 Hyena
 Hyenas
 Hype
@@ -11555,6 +11574,7 @@ Incorporating
 Incorporation
 Incorrect
 Incorrectly
+Incorrectness
 Increase
 Increased
 Increases
@@ -12031,6 +12051,8 @@ Intellectual
 Intellectually
 IntelliJ
 Intelligence
+Intelligence-Based
+Intelligence-based
 Intelligent
 Intelligently
 Intelligibility
@@ -12984,6 +13006,7 @@ League
 Leagues
 Leak
 Leakage
+Leakages
 Leaked
 Leaking
 Leaks
@@ -13607,6 +13630,8 @@ Machinery
 Machines
 Macintosh
 Macro
+Macroeconomic
+Macroeconomics
 Macros
 Macs
 Mad
@@ -13706,6 +13731,7 @@ Mandate
 Mandatory
 Maneuver
 Maneuverability
+Maneuverable
 Maneuvering
 Maneuvers
 Mango
@@ -13770,6 +13796,7 @@ Marches
 Marching
 Margin
 Marginal
+Marginalization
 Marginally
 Marginals
 Margins
@@ -16166,14 +16193,17 @@ Out
 Out-Of-Distribution
 Out-Of-Memory
 Out-Of-Order
+Out-Of-Vocabulary
 Out-Of-distribution
 Out-of-Distribution
 Out-of-Memory
 Out-of-Order
 Out-of-Range
+Out-of-Vocabulary
 Out-of-distribution
 Out-of-memory
 Out-of-order
+Out-of-vocabulary
 Outage
 Outages
 Outback
@@ -18018,6 +18048,7 @@ Promotions
 Prompt
 Prompt-Based
 Prompt-based
+Promptable
 Prompted
 Prompting
 Promptly
@@ -18174,7 +18205,9 @@ Prunes
 Pruning
 Pseudo
 Pseudo-Code
+Pseudo-Random
 Pseudo-code
+Pseudo-random
 Pseudocode
 Pseudorandom
 Pseudoscience
@@ -23509,6 +23542,7 @@ Textually
 Textural
 Texture
 Textured
+Textureless
 Textures
 Texturing
 Tf-Idf
@@ -23895,6 +23929,7 @@ Topic-Focused
 Topic-Specific
 Topical
 Topics
+Topographic
 Topographical
 Topography
 Topological
@@ -25173,6 +25208,7 @@ Utensil
 Utilisation
 Utilised
 Utilising
+Utilitarian
 Utilities
 Utility
 Utilization
@@ -26789,6 +26825,7 @@ adheres
 adhering
 adhesion
 adhoc
+adiabatic
 adjacency
 adjacent
 adjective
@@ -27234,6 +27271,7 @@ all-out
 all-over
 all-powerful
 all-time
+all-to-all
 allay
 allegations
 allege
@@ -27601,6 +27639,7 @@ antelope
 antelopes
 antenna
 antennas
+anthropometric
 anthropomorphic
 anti
 anti-Semitic
@@ -29107,6 +29146,7 @@ biologists
 biology
 biomass
 biomechanical
+biomechanics
 biomedical
 biometric
 bionic
@@ -29915,6 +29955,7 @@ caching
 cactus
 cactuses
 cad
+cadastral
 cafe
 cafeteria
 caffeine
@@ -30198,6 +30239,7 @@ catalogs
 catalogue
 catalogues
 catalyst
+catalytic
 catalyze
 catalyzed
 catalyzes
@@ -31175,6 +31217,7 @@ college
 colleges
 collide
 collided
+collider
 collides
 colliding
 collinear
@@ -32329,6 +32372,7 @@ corrections
 corrective
 correctly
 correctness
+corrector
 corrects
 correlate
 correlated
@@ -32366,6 +32410,7 @@ cosmetic
 cosmetical
 cosmetically
 cosmic
+cosmonaut
 cosmos
 cosplay
 cost
@@ -32628,6 +32673,7 @@ critic
 critical
 criticality
 critically
+criticised
 criticising
 criticism
 criticisms
@@ -32771,6 +32817,7 @@ crusty
 crux
 cry
 crying
+cryogenic
 crypto
 cryptocommunity
 cryptocurrencies
@@ -35848,6 +35895,7 @@ endorsement
 endorsements
 endorses
 endorsing
+endoscopy
 endow
 endowed
 endowing
@@ -37164,6 +37212,7 @@ fenders
 fermented
 ferocious
 ferocity
+ferromagnetic
 ferry
 fertility
 fervour
@@ -38259,6 +38308,7 @@ gambles
 gambling
 game
 game's
+game-based
 game-dev
 game-developer
 game-developing
@@ -39926,6 +39976,7 @@ hybrids
 hybris
 hydraulic
 hydrodynamic
+hydrothermal
 hyena
 hyenas
 hype
@@ -40517,6 +40568,7 @@ incorporating
 incorporation
 incorrect
 incorrectly
+incorrectness
 increase
 increased
 increases
@@ -41181,6 +41233,7 @@ intellects
 intellectual
 intellectually
 intelligence
+intelligence-based
 intelligent
 intelligently
 intelligibility
@@ -42403,6 +42456,7 @@ league
 leagues
 leak
 leakage
+leakages
 leaked
 leaking
 leaks
@@ -43116,6 +43170,8 @@ macintosh
 macos
 macos-specific
 macro
+macroeconomic
+macroeconomics
 macros
 macs
 mad
@@ -43234,6 +43290,7 @@ mandate
 mandatory
 maneuver
 maneuverability
+maneuverable
 maneuvering
 maneuvers
 mangled
@@ -43302,6 +43359,7 @@ marches
 marching
 margin
 marginal
+marginalization
 marginally
 marginals
 margins
@@ -46058,6 +46116,7 @@ out-of-distribution
 out-of-memory
 out-of-order
 out-of-range
+out-of-vocabulary
 outage
 outages
 outback
@@ -48421,6 +48480,7 @@ promotional
 promotions
 prompt
 prompt-based
+promptable
 prompted
 prompting
 promptitude
@@ -48617,6 +48677,7 @@ prunes
 pruning
 pseudo
 pseudo-code
+pseudo-random
 pseudocode
 pseudorandom
 pseudoscience
@@ -55538,6 +55599,7 @@ textually
 textural
 texture
 textured
+textureless
 textures
 texturing
 textview
@@ -56015,6 +56077,7 @@ topical
 topically
 topics
 topless
+topographic
 topographical
 topography
 topological
@@ -57829,6 +57892,7 @@ utilise
 utilised
 utilises
 utilising
+utilitarian
 utilities
 utility
 utilization
