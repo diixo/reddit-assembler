@@ -232,6 +232,8 @@ Abruptly
 Abs
 Absence
 Absent
+Absentee
+Absentees
 Absolute
 Absolutely
 Absorb
@@ -610,6 +612,7 @@ Aerobic
 Aerodynamic
 Aerodynamically
 Aerodynamics
+Aerosol
 Aesthetic
 Aesthetically
 Aesthetics
@@ -799,6 +802,7 @@ All-Electric
 All-In-One
 All-Inclusive
 All-Time
+All-To-All
 All-around
 All-digital
 All-electric
@@ -1129,6 +1133,7 @@ Antiperspirants
 Antique
 Antiquity
 Antisemitism
+Antiseptic
 Antisocial
 Antithesis
 Antivirus
@@ -3062,6 +3067,8 @@ Calmness
 Caloric
 Calorically
 Calories
+Calorimeter
+Calorimeters
 Calves
 Came
 Camel
@@ -3447,6 +3454,7 @@ Charges
 Charging
 Charisma
 Charismatic
+Charitable
 Charities
 Charity
 Charm
@@ -3568,6 +3576,7 @@ Chill
 Chilled
 Chilling
 Chills
+Chimpanzee
 Chimpanzees
 Chin
 China
@@ -4245,6 +4254,7 @@ Compensated
 Compensating
 Compensation
 Compensations
+Compensatory
 Compete
 Competence
 Competences
@@ -5251,6 +5261,7 @@ Critter
 Critters
 Croaking
 Crocodile
+Crocodiles
 Crook
 Crooked
 Crooks
@@ -5317,6 +5328,7 @@ Crossing
 Crosslink
 Crosslinks
 Crossover
+Crossovers
 Crossroad
 Crossroads
 Crosswalk
@@ -8174,6 +8186,7 @@ Examining
 Example
 Examples
 Exams
+Excavated
 Excavation
 Excavations
 Exceed
@@ -9416,6 +9429,7 @@ Freaked
 Freaking
 Freaks
 Freaky
+Freckles
 Free
 Free-Form
 Free-form
@@ -9823,6 +9837,7 @@ Genetics
 Genius
 Geniuses
 Genocide
+Genotype
 Genre
 Genres
 Genteel
@@ -11020,6 +11035,8 @@ Humanoids
 Humans
 Humble
 Humid
+Humidifies
+Humidifying
 Humidity
 Humiliation
 Humility
@@ -12363,6 +12380,7 @@ Ionization
 Ionized
 Ionizes
 Ionizing
+Ionosphere
 Ions
 Ipad
 Ipads
@@ -12475,6 +12493,7 @@ JUnit4
 JVM
 JVM-based
 Jab
+Jackass
 Jacket
 Jackets
 Jackpot
@@ -12941,6 +12960,7 @@ Lateral
 Laterally
 Latest
 Latex
+Lather
 Latin
 Latina
 Latino
@@ -13236,6 +13256,7 @@ Lined
 Liner
 Lines
 Lineup
+Linguist
 Linguistic
 Linguistically
 Linguistics
@@ -18135,6 +18156,7 @@ Protection
 Protections
 Protective
 Protector
+Protectorate
 Protectors
 Protects
 Protein
@@ -22328,6 +22350,8 @@ Stereotypes
 Stereotypical
 Stereotyping
 Sterile
+Sterility
+Sterilized
 Stern
 Stews
 Stick
@@ -22442,6 +22466,7 @@ Stratification
 Stratified
 Stratify
 Stratifying
+Stratosphere
 Stratum
 Straw
 Strawberries
@@ -25415,6 +25440,7 @@ Vertices
 Very
 Vessel
 Vest
+Vestibular
 Vests
 Vet
 Veteran
@@ -26498,6 +26524,8 @@ absences
 absent
 absent-minded
 absented
+absentee
+absentees
 absenting
 absolute
 absolutely
@@ -26964,6 +26992,7 @@ aerobic
 aerodynamic
 aerodynamically
 aerodynamics
+aerosol
 aesthetic
 aesthetically
 aesthetics
@@ -27675,6 +27704,7 @@ antique
 antiquity
 antisanitary
 antisemitism
+antiseptic
 antisocial
 antithesis
 antivirus
@@ -30012,6 +30042,8 @@ calms
 caloric
 calorically
 calories
+calorimeter
+calorimeters
 calves
 camcorder
 came
@@ -30485,6 +30517,7 @@ charges
 charging
 charisma
 charismatic
+charitable
 charities
 charity
 charlatan
@@ -30624,6 +30657,7 @@ chill
 chilled
 chilling
 chills
+chimpanzee
 chimpanzees
 chin
 china
@@ -31463,6 +31497,7 @@ compensates
 compensating
 compensation
 compensations
+compensatory
 compete
 competed
 competence
@@ -32692,6 +32727,7 @@ croak
 croaking
 croaks
 crocodile
+crocodiles
 cron
 crook
 crooked
@@ -32743,6 +32779,7 @@ crossing
 crosslink
 crosslinks
 crossover
+crossovers
 crossplay
 crossroad
 crossroads
@@ -36460,6 +36497,7 @@ examining
 example
 examples
 exams
+excavated
 excavation
 excavations
 exceed
@@ -38009,6 +38047,7 @@ freaked
 freaking
 freaks
 freaky
+freckles
 free
 free-form
 free-up
@@ -38452,6 +38491,7 @@ geniuses
 genkey
 genocidal
 genocide
+genotype
 genre
 genres
 genteel
@@ -39922,7 +39962,12 @@ humbleness
 humbles
 humbling
 humid
+humidification
+humidified
 humidifier
+humidifies
+humidify
+humidifying
 humidity
 humiliation
 humility
@@ -40620,6 +40665,7 @@ indemnifying
 indemnity
 indent
 indentation
+indentations
 indented
 indenting
 indents
@@ -41624,6 +41670,7 @@ ionize
 ionized
 ionizes
 ionizing
+ionosphere
 ions
 ios
 ios7
@@ -41833,6 +41880,7 @@ j2se
 jQuery
 jab
 jabs
+jackass
 jacked
 jacket
 jackets
@@ -42376,6 +42424,8 @@ laterals
 lates
 latest
 latex
+lather
+lathered
 latin
 latina
 latino
@@ -42742,6 +42792,7 @@ liner
 lines
 lineup
 lingered
+linguist
 linguistic
 linguistically
 linguistics
@@ -48582,6 +48633,7 @@ protection
 protections
 protective
 protector
+protectorate
 protectors
 protects
 protein
@@ -49705,6 +49757,9 @@ recount
 recounted
 recounting
 recounts
+recoup
+recouped
+recoupment
 recourse
 recover
 recoverability
@@ -54018,6 +54073,10 @@ stereotypes
 stereotypical
 stereotyping
 sterile
+sterility
+sterilize
+sterilized
+sterilizes
 stern
 stew
 stewed
@@ -54176,6 +54235,7 @@ stratified
 stratifies
 stratify
 stratifying
+stratosphere
 stratum
 straw
 strawberries
@@ -54706,6 +54766,8 @@ sun
 sunday
 sundays
 sundering
+sundown
+sundowns
 sundry
 sung
 sunglasses
@@ -54713,6 +54775,7 @@ sunk
 sunlight
 sunny
 sunrise
+sunrises
 sunscreen
 sunset
 sunsets
@@ -58137,6 +58200,7 @@ very
 vessel
 vest
 vested
+vestibular
 vesting
 vests
 vet
