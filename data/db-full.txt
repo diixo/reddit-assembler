@@ -734,6 +734,7 @@ Aircraft
 Airflow
 Airing
 Airline
+Airliners
 Airlines
 Airplane
 Airplanes
@@ -816,6 +817,8 @@ Alleged
 Allegedly
 Allegorical
 Allegory
+Allergen
+Allergens
 Allergic
 Allergies
 Allergy
@@ -955,6 +958,8 @@ Amplify
 Amplifying
 Amplitude
 Amplitudes
+Amputate
+Amputation
 Amulet
 Amuse
 Amusement
@@ -995,6 +1000,7 @@ Analyzers
 Analyzes
 Analyzing
 Anarchic
+Anarchist
 Anarchy
 Anatomical
 Anatomically
@@ -1290,6 +1296,7 @@ Arcade
 Arch
 Archaeologically
 Archaeologist
+Archaeologists
 Archaic
 Arched
 Archeological
@@ -3286,6 +3293,8 @@ Categorizing
 Category
 Cater
 Catering
+Caterpillar
+Caterpillars
 Catholic
 Catholicism
 Catholics
@@ -3367,6 +3376,7 @@ Century
 Ceramic
 Cereal
 Cereals
+Cerebral
 Ceremonial
 Ceremonies
 Ceremony
@@ -3545,6 +3555,7 @@ Chemically
 Chemicals
 Chemist
 Chemistry
+Chemists
 Chemotherapy
 Cherish
 Cherishing
@@ -5025,6 +5036,7 @@ Corridors
 Corroborated
 Corroborating
 Corrosion
+Corrosive
 Corrupt
 Corrupted
 Corrupting
@@ -5241,6 +5253,7 @@ Cringing
 Crises
 Crisis
 Crisp
+Crispy
 Criteria
 Criterion
 Critical
@@ -8816,6 +8829,7 @@ Fetching
 Fetish
 Fetus
 Feud
+Feudalism
 Fever
 Fevers
 Few
@@ -13260,6 +13274,7 @@ Linguist
 Linguistic
 Linguistically
 Linguistics
+Linguists
 Lining
 Link
 Linkage
@@ -13569,6 +13584,7 @@ Ltd
 Lua
 Lubricant
 Lubricated
+Lubrication
 Lubuntu
 Lucene
 Lucid
@@ -14747,6 +14763,7 @@ Mound
 Mounds
 Mount
 Mountain
+Mountainous
 Mountains
 Mounted
 Mounting
@@ -16632,6 +16649,8 @@ Parked
 Parking
 Parks
 Parliament
+Parliamentarian
+Parliamentary
 Parlor
 Parody
 Parrot
@@ -17052,6 +17071,7 @@ Phobias
 Phoenix
 Phone
 Phoneme
+Phonemes
 Phones
 Phonetic
 Phonetically
@@ -17234,6 +17254,7 @@ Planes
 Planet
 Planetary
 Planets
+Plankton
 Planned
 Planner
 Planning
@@ -18727,6 +18748,7 @@ RayTracing
 Rays
 Raytracing
 Razor
+Razors
 Re
 Re-Engineering
 Re-Entry
@@ -18758,6 +18780,8 @@ Reaching
 React
 React-based
 ReactJS
+Reactant
+Reactants
 Reacting
 Reaction
 Reactions
@@ -19057,6 +19081,7 @@ Red-Black
 Red-black
 Redact
 Redacted
+Reddish
 Reddit
 Redefine
 Redefined
@@ -22253,6 +22278,7 @@ Startup's
 Startups
 Starvation
 Starve
+Starved
 Starving
 Stash
 Stashing
@@ -25287,6 +25313,7 @@ Vaccines
 Vacuum
 Vacuums
 Vagina
+Vaginal
 Vague
 Vaguely
 Vagueness
@@ -25608,6 +25635,7 @@ Volcanic
 Volcano
 Volcanoes
 Volleyball
+Volt
 Voltage
 Voltages
 Volts
@@ -25680,6 +25708,8 @@ Waiving
 Wake
 Wake-Up
 Wake-up
+Wakeful
+Wakefulness
 Wakes
 Wakeup
 Waking
@@ -27219,6 +27249,8 @@ aired
 airflow
 airing
 airline
+airliner
+airliners
 airlines
 airplane
 airplanes
@@ -27310,6 +27342,8 @@ alleges
 alleging
 allegorical
 allegory
+allergen
+allergens
 allergic
 allergies
 allergy
@@ -27487,6 +27521,10 @@ amplifying
 amplitude
 amplitudes
 amply
+amputate
+amputated
+amputates
+amputation
 amqp
 amulet
 amuse
@@ -27529,6 +27567,7 @@ analyzers
 analyzes
 analyzing
 anarchic
+anarchist
 anarchy
 anatomical
 anatomically
@@ -27925,6 +27964,7 @@ arcane
 arch
 archaeologically
 archaeologist
+archaeologists
 archaic
 arched
 archeological
@@ -29969,7 +30009,6 @@ c-string
 c-structure
 c-style
 c99
-cAlves
 cab
 cabin
 cabins
@@ -30302,6 +30341,8 @@ category
 cater
 catered
 catering
+caterpillar
+caterpillars
 caters
 catholic
 catholicism
@@ -30410,6 +30451,7 @@ ceo
 ceramic
 cereal
 cereals
+cerebral
 ceremonial
 ceremonies
 ceremony
@@ -30621,6 +30663,7 @@ chemically
 chemicals
 chemist
 chemistry
+chemists
 chemotherapy
 cherish
 cherished
@@ -32432,6 +32475,7 @@ corroborated
 corroborates
 corroborating
 corrosion
+corrosive
 corrupt
 corrupted
 corrupting
@@ -32701,6 +32745,7 @@ crisis
 crisp
 crisply
 crisps
+crispy
 criteria
 criterias
 criterion
@@ -35547,6 +35592,8 @@ eighteen
 eighth
 eighty
 either
+ejaculate
+ejaculated
 ejaculation
 eject
 ejected
@@ -37274,6 +37321,7 @@ fetish
 fetishism
 fetus
 feud
+feudalism
 fever
 fevers
 few
@@ -42796,6 +42844,7 @@ linguist
 linguistic
 linguistically
 linguistics
+linguists
 lining
 link
 linkage
@@ -43156,6 +43205,7 @@ lubricant
 lubricate
 lubricated
 lubricates
+lubrication
 lubuntu
 lucene
 lucid
@@ -44528,6 +44578,7 @@ mounded
 mounds
 mount
 mountain
+mountainous
 mountains
 mounted
 mounting
@@ -46724,6 +46775,8 @@ parking
 parks
 parley
 parliament
+parliamentarian
+parliamentary
 parlor
 parlors
 parlour
@@ -47263,6 +47316,7 @@ phonecall
 phonecalls
 phoned
 phoneme
+phonemes
 phones
 phonetic
 phonetically
@@ -47482,6 +47536,7 @@ planes
 planet
 planetary
 planets
+plankton
 planned
 planner
 planning
@@ -49333,6 +49388,7 @@ ray-tracing
 rays
 raytracing
 razor
+razors
 rcnn
 rdbms
 rds
@@ -49396,6 +49452,8 @@ react-native
 react-redux
 react-router
 react.js
+reactant
+reactants
 reacted
 reacting
 reaction
@@ -49825,6 +49883,7 @@ red-black
 redact
 redacted
 redacts
+reddish
 reddit
 redeclaration
 redeclare
@@ -53965,6 +54024,7 @@ startuppers
 startups
 starvation
 starve
+starved
 starving
 stash
 stashed
@@ -58003,6 +58063,7 @@ vacuum
 vacuums
 vagaries
 vagina
+vaginal
 vague
 vaguely
 vagueness
@@ -58428,6 +58489,7 @@ volcanically
 volcano
 volcanoes
 volleyball
+volt
 voltage
 voltages
 volts
@@ -58527,6 +58589,8 @@ waives
 waiving
 wake
 wake-up
+wakeful
+wakefulness
 wakes
 wakeup
 waking
