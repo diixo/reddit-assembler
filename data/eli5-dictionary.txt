@@ -193,7 +193,6 @@ Russians
 denser
 digestion
 Planck
-insulin
 salts
 spinal
 cm
@@ -409,7 +408,6 @@ earths
 nutrient
 Wales
 octane
-meteor
 mucous
 ADHD
 moon's
@@ -606,7 +604,6 @@ Walmart
 man-made
 QM
 graphene
-corrosion
 advent
 mg
 chimps
@@ -1764,7 +1761,6 @@ dealerships
 sterilize
 russian
 Nordic
-airspace
 rappers
 Sperm
 USPS
@@ -2072,7 +2068,6 @@ linguists
 epigenetics
 civilisations
 Benjamin
-gyroscope
 retaliation
 sulfuric
 mythological
@@ -2970,7 +2965,6 @@ Nuremberg
 worsen
 prolific
 eugenics
-plateau
 Caucasus
 pharmacist
 fin
@@ -3352,7 +3346,6 @@ red-shifted
 L2
 Palace
 T-cells
-teleportation
 coinage
 diploid
 boron
@@ -4467,7 +4460,6 @@ Brexit
 Deutschland
 squeaky
 piling
-Insulin
 starchy
 oxygens
 ploy
@@ -5717,7 +5709,6 @@ Mexican-American
 RTG
 dominoes
 carbon-12
-geomagnetic
 heyday
 Li-ion
 iridium
@@ -6020,7 +6011,6 @@ wave-particle
 asksocialscience
 taco
 guinea
-nonverbal
 acidosis
 Madrid
 heterozygous
@@ -7441,7 +7431,6 @@ Carlin's
 buttermilk
 resonator
 Archaeological
-Plateau
 Eugene
 Chuck
 Saladin
@@ -7977,7 +7966,6 @@ acidification
 Ghengis
 SR-71
 1a
-tetrahedral
 4d
 eleventh
 adblocker
@@ -9215,7 +9203,6 @@ hCG
 PHD
 tsar
 entomologist
-Meteor
 inundated
 hydrolyze
 igloo
@@ -15173,7 +15160,6 @@ hotline
 goof
 hand-drawn
 Betamax
-Corrosion
 meld
 ciphers
 pimps
@@ -19170,7 +19156,6 @@ nfl
 Bicarbonate
 head-to-head
 Aero
-conceptualization
 X2
 lazer
 superfluidity
@@ -19773,7 +19758,6 @@ Morgan's
 Maldives
 busters
 ambidexterity
-geophysical
 frag
 Cis
 Xrays
@@ -24096,7 +24080,6 @@ XIV's
 Rossby
 M87
 anti-down
-Geomagnetic
 sterols
 Ecclesiastical
 lowest-energy
@@ -28464,7 +28447,6 @@ Fischer's
 annuities
 Stoicism
 enourmous
-collectives
 McWhorter
 outoftheloop
 repolarize
@@ -31258,7 +31240,6 @@ BHs
 equilibrated
 XXXXXX
 presynaptically
-Geophysical
 4p
 strontium-90
 sandstorm
@@ -35144,7 +35125,6 @@ fibula
 Phillies
 adenoviruses
 overfilling
-Teleportation
 Bitumen
 eyecolor
 bh
@@ -51426,7 +51406,6 @@ un-vaccinated
 bagger
 Phenom
 triple-core
-Airspace
 outdoorsy
 Mortar
 ambassador's
@@ -58503,7 +58482,6 @@ Margulis
 Rsun
 spectras
 ceruminous
-upper-bound
 trans-unsaturated
 recollapse
 Neonics
@@ -61105,7 +61083,6 @@ brimmed
 Momma's
 binge-watching
 up-bringing
-Cyberbullying
 howler
 tree-dwellers
 consonant-vowel
@@ -77441,7 +77418,6 @@ Anaxeos
 Parthenope
 Belarusian
 coroner's
-Collectives
 collectivisation
 Seidman's
 algernonasimov
@@ -82234,7 +82210,6 @@ Spin-Statistics
 ameboid
 Carhart-Harris
 IAS
-skewness
 Pearson's
 quasi-particle
 trefoil
@@ -109801,7 +109776,6 @@ Algoritmi
 Hand-drawn
 business-class
 mybe
-Gyroscope
 fuiding
 lessor's
 mortgagee
@@ -134216,7 +134190,6 @@ auto-downvotes
 periodically-variable
 zoolander
 alcohl
-cyberbullying
 mothertongue
 sealth
 1meter

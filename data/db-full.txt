@@ -734,6 +734,7 @@ Airplanes
 Airport
 Airports
 Airs
+Airspace
 Airtight
 Airway
 Airways
@@ -1245,6 +1246,7 @@ Approve
 Approved
 Approves
 Approx
+Approximability
 Approximate
 Approximated
 Approximately
@@ -2974,6 +2976,7 @@ CMS
 CMake
 CMoS
 CNN
+CNN-LSTM
 CNN-based
 CNNs
 COM
@@ -3709,6 +3712,8 @@ Classic
 Classical
 Classically
 Classification
+Classification-Based
+Classification-based
 Classifications
 Classified
 Classifier
@@ -4024,6 +4029,7 @@ Collection
 Collections
 Collective
 Collectively
+Collectives
 Collector
 Collectors
 Collects
@@ -4325,6 +4331,7 @@ Compounding
 Compounds
 Comprehend
 Comprehending
+Comprehensibility
 Comprehensible
 Comprehension
 Comprehensive
@@ -4403,6 +4410,7 @@ Conceptional
 Conceptions
 Concepts
 Conceptual
+Conceptualization
 Conceptualize
 Conceptualized
 Conceptually
@@ -4995,6 +5003,7 @@ Corridor
 Corridors
 Corroborated
 Corroborating
+Corrosion
 Corrupt
 Corrupted
 Corrupting
@@ -5497,6 +5506,7 @@ Cyber-security
 CyberSecurity
 Cyberattack
 Cyberattacks
+Cyberbullying
 Cybercrime
 Cybercriminals
 Cybernetic
@@ -6818,6 +6828,7 @@ Distracted
 Distracting
 Distraction
 Distractions
+Distractor
 Distracts
 Distress
 Distressed
@@ -9829,6 +9840,7 @@ Geological
 Geologically
 Geologist
 Geology
+Geomagnetic
 Geometric
 Geometrical
 Geometrically
@@ -9836,6 +9848,7 @@ Geometries
 Geometry
 Geometry-Based
 Geometry-based
+Geophysical
 Geophysics
 Geopolitical
 Geopolitically
@@ -10253,6 +10266,7 @@ Gut
 Guy
 Guys
 Gym
+Gyroscope
 Gzip
 HCL
 HD
@@ -11977,6 +11991,7 @@ Instruments
 Insufficiency
 Insufficient
 Insufficiently
+Insulin
 Insult
 Insulting
 Insults
@@ -13356,6 +13371,7 @@ Login
 Logistic
 Logistical
 Logistics
+Logit
 Logits
 Logo
 Logon
@@ -13494,6 +13510,8 @@ Low-rank
 Low-resolution
 Low-skill
 Lower
+Lower-Bound
+Lower-bound
 Lowercase
 Lowered
 Lowering
@@ -13553,6 +13571,7 @@ ML-based
 MLOPS
 MLOps
 MLP
+MLP-based
 MLaaS
 MNIST
 MOCK
@@ -13576,9 +13595,12 @@ Machine
 Machine-Generated
 Machine-Learned
 Machine-Learning
+Machine-Learning-Based
+Machine-Learning-based
 Machine-generated
 Machine-learned
 Machine-learning
+Machine-learning-based
 Machine-to-Machine
 MachineLearning
 Machinery
@@ -13722,8 +13744,11 @@ Manure
 Manuscript
 Many
 Many-To-Many
+Many-To-One
 Many-to-Many
+Many-to-One
 Many-to-many
+Many-to-one
 Map
 Map-Based
 Map-based
@@ -14013,7 +14038,9 @@ Memorizes
 Memorizing
 Memory
 Memory-Based
+Memory-Efficient
 Memory-based
+Memory-efficient
 Memoryless
 Men
 Menacing
@@ -14097,6 +14124,7 @@ Metaphors
 Metaprogramming
 Metaverse
 Metaverses
+Meteor
 Meteorite
 Meteorites
 Meteorological
@@ -15045,6 +15073,7 @@ NETs
 NLP
 NLTK
 NN
+NN-based
 NPM
 NSFW
 NTFS
@@ -15500,6 +15529,7 @@ Nonstandard
 Nonstationary
 Nonstop
 Nontrivial
+Nonverbal
 Nonzero
 Noodle
 Noodles
@@ -16902,6 +16932,7 @@ Personality
 Personalization
 Personalize
 Personalized
+Personalizing
 Personally
 Personification
 Personified
@@ -17168,6 +17199,7 @@ Plastic
 Plasticity
 Plastics
 Plate
+Plateau
 Plates
 Platform
 Platform's
@@ -21318,6 +21350,7 @@ Sketchy
 Skew
 Skewed
 Skewing
+Skewness
 Ski
 Skies
 Skiing
@@ -23301,6 +23334,7 @@ Telephone
 Telephones
 Telephony
 Teleport
+Teleportation
 Telescope
 Telescopes
 Television
@@ -23433,6 +23467,7 @@ Tests
 Tether
 Tethered
 Tethering
+Tetrahedral
 Tetrahedron
 Tetris
 Texas
@@ -25042,6 +25077,8 @@ Uploads
 Upon
 Upped
 Upper
+Upper-Bound
+Upper-bound
 Uppercase
 Upping
 Upright
@@ -27122,6 +27159,7 @@ airplanes
 airport
 airports
 airs
+airspace
 airtight
 airway
 airways
@@ -27777,6 +27815,7 @@ approver
 approves
 approving
 approx
+approximability
 approximate
 approximated
 approximately
@@ -30728,6 +30767,7 @@ classic
 classical
 classically
 classification
+classification-based
 classifications
 classified
 classifier
@@ -30915,6 +30955,7 @@ cmd
 cmos
 cms
 cnn
+cnn-lstm
 cnns
 co
 co-author
@@ -31126,6 +31167,7 @@ collection
 collections
 collective
 collectively
+collectives
 collector
 collectors
 collects
@@ -31493,6 +31535,7 @@ comprehend
 comprehended
 comprehending
 comprehends
+comprehensibility
 comprehensible
 comprehension
 comprehensions
@@ -31588,6 +31631,7 @@ conceptional
 conceptions
 concepts
 conceptual
+conceptualization
 conceptualize
 conceptualized
 conceptually
@@ -32308,6 +32352,7 @@ corroborate
 corroborated
 corroborates
 corroborating
+corrosion
 corrupt
 corrupted
 corrupting
@@ -32924,6 +32969,7 @@ cyberattack
 cyberattacks
 cyberbionic
 cyberbionics
+cyberbullying
 cybercrime
 cybercriminals
 cybernetic
@@ -34676,6 +34722,7 @@ distractibility
 distracting
 distraction
 distractions
+distractor
 distracts
 distress
 distressed
@@ -38395,6 +38442,7 @@ geological
 geologically
 geologist
 geology
+geomagnetic
 geometria
 geometric
 geometrical
@@ -38403,6 +38451,7 @@ geometrics
 geometries
 geometry
 geometry-based
+geophysical
 geophysics
 geopolitical
 geopolitically
@@ -38961,6 +39010,7 @@ guy
 guys
 gwt
 gym
+gyroscope
 gzip
 gzipped
 habit
@@ -41083,6 +41133,7 @@ insufferable
 insufficiency
 insufficient
 insufficiently
+insulin
 insult
 insulted
 insulting
@@ -42849,6 +42900,7 @@ logins
 logistic
 logistical
 logistics
+logit
 logits
 loglevel
 logo
@@ -42974,6 +43026,7 @@ low-rank
 low-resolution
 low-skill
 lower
+lower-bound
 lower-cased
 lower-casing
 lowerbound
@@ -43054,6 +43107,7 @@ machine
 machine-generated
 machine-learned
 machine-learning
+machine-learning-based
 machine-to-machine
 machinelearning
 machinery
@@ -43224,6 +43278,7 @@ manure
 manuscript
 many
 many-to-many
+many-to-one
 map
 map-based
 map-function
@@ -43555,6 +43610,7 @@ memorizes
 memorizing
 memory
 memory-based
+memory-efficient
 memory-leaks
 memory-management
 memorybound
@@ -43655,6 +43711,7 @@ metaphors
 metaprogramming
 metaverse
 metaverses
+meteor
 meteorite
 meteorites
 meteorological
@@ -45235,6 +45292,7 @@ nonstationary
 nonstop
 nonstructural
 nontrivial
+nonverbal
 nonzero
 noodle
 noodles
@@ -46999,6 +47057,7 @@ personality
 personalization
 personalize
 personalized
+personalizing
 personally
 personification
 personified
@@ -47331,6 +47390,7 @@ plastically
 plasticity
 plastics
 plate
+plateau
 plates
 platform
 platform's
@@ -52674,6 +52734,7 @@ sketchy
 skew
 skewed
 skewing
+skewness
 ski
 skies
 skiing
@@ -55277,6 +55338,7 @@ telephone
 telephones
 telephony
 teleport
+teleportation
 telescope
 telescopes
 television
@@ -55440,6 +55502,7 @@ tests
 tether
 tethered
 tethering
+tetrahedral
 tetrahedron
 tetris
 text
@@ -57621,6 +57684,7 @@ uploads
 upon
 upped
 upper
+upper-bound
 upperbound
 uppercase
 uppercased
