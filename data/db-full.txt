@@ -1078,7 +1078,6 @@ Annual
 Annualized
 Annually
 Annuals
-AnomaLous
 Anomalies
 Anomalous
 Anomaly
@@ -1294,6 +1293,7 @@ Arbitrating
 Arbitration
 Arcade
 Arch
+Archaeological
 Archaeologically
 Archaeologist
 Archaeologists
@@ -1348,6 +1348,7 @@ Arises
 Arising
 Aristocracy
 Aristocratic
+Aristocrats
 Arithmetic
 Arithmetical
 Arithmetically
@@ -2558,6 +2559,7 @@ Bookkeeping
 Booklet
 Bookmarks
 Books
+Bookshelf
 Bookstore
 Bool
 Boolean
@@ -3148,6 +3150,8 @@ Capacitive
 Capacitor
 Capacitors
 Capacity
+Capillaries
+Capillary
 Capital
 Capitalise
 Capitalised
@@ -3644,6 +3648,7 @@ Chromosome
 Chromosomes
 Chronic
 Chronically
+Chronicle
 Chronological
 Chronologically
 Chronology
@@ -3953,6 +3958,7 @@ Coasters
 Coastline
 Coasts
 Coat
+Coated
 Coating
 Coats
 Coauthor
@@ -4885,6 +4891,7 @@ Controversy
 Conundrum
 Conundrums
 Conv
+Convection
 Convective
 Convenience
 Convenient
@@ -5584,6 +5591,7 @@ DBScan
 DBs
 DDOS
 DDR
+DDR3
 DDR4
 DDR5
 DDoS
@@ -6156,6 +6164,7 @@ Dentists
 Deny
 Denying
 Deodorant
+Deodorants
 Deontic
 Depart
 Departed
@@ -7557,6 +7566,7 @@ Elimination
 Eliminator
 Elite
 Elites
+Elixir
 Elk
 Elks
 Ellipse
@@ -8367,6 +8377,8 @@ Experimental
 Experimentally
 Experimentation
 Experimented
+Experimenter
+Experimenters
 Experimenting
 Experiments
 Expert
@@ -9210,6 +9222,8 @@ Foliage
 Folk
 Folklore
 Folks
+Folktale
+Folktales
 Follow
 Follow-On
 Follow-Up
@@ -11677,6 +11691,7 @@ Indices
 Indicted
 Indifference
 Indifferent
+Indigenous
 Indigo
 Indirect
 Indirection
@@ -14186,6 +14201,7 @@ Meta-learning
 MetaData
 MetaGPT
 MetaVerse
+Metabolism
 Metadata
 Metagpt
 Metal
@@ -16163,6 +16179,7 @@ Orchestrated
 Orchestrates
 Orchestrating
 Orchestration
+Orchestrator
 Orchid
 Orcs
 Order
@@ -16969,6 +16986,7 @@ Peripheral
 Peripherals
 Periphery
 Perishable
+Peristaltic
 Perks
 Perl
 Permanency
@@ -17081,6 +17099,7 @@ Philosopher
 Philosophers
 Philosophic
 Philosophical
+Philosophically
 Philosophies
 Philosophy
 Phishing
@@ -18500,6 +18519,8 @@ Queering
 Queried
 Queries
 Query
+Query-Based
+Query-based
 Querying
 Quest
 Questing
@@ -18912,6 +18933,7 @@ Rebate
 Rebates
 Rebel
 Rebellion
+Rebellions
 Rebels
 Rebirth
 Reboot
@@ -21546,6 +21568,7 @@ Sliding-window
 Slight
 Slightly
 Slim
+Slime
 Slimy
 Sling
 Slings
@@ -22662,6 +22685,7 @@ Stylised
 Stylish
 Stylist
 Stylistic
+Stylistically
 Stylization
 Stylize
 Stylized
@@ -23173,6 +23197,7 @@ Sympathy
 Symphonies
 Symphony
 Symptom
+Symptomatic
 Symptoms
 Sync
 Synced
@@ -24666,6 +24691,7 @@ Unavailable
 Unavoidable
 Unavoidably
 Unaware
+Unawareness
 Unbalance
 Unbalanced
 Unbearable
@@ -25366,6 +25392,7 @@ Value-Based
 Value-based
 Valued
 Values
+Valuing
 Valve
 Valves
 Vampire
@@ -25493,6 +25520,7 @@ Verticals
 Vertices
 Very
 Vessel
+Vessels
 Vest
 Vestibular
 Vests
@@ -27990,6 +28018,7 @@ arbitration
 arcade
 arcane
 arch
+archaeological
 archaeologically
 archaeologist
 archaeologists
@@ -28049,7 +28078,9 @@ arisen
 arises
 arising
 aristocracy
+aristocrat
 aristocratic
+aristocrats
 arithmetic
 arithmetical
 arithmetically
@@ -29512,6 +29543,7 @@ bookmarked
 bookmarking
 bookmarks
 books
+bookshelf
 bookstore
 bookstores
 bool
@@ -30196,6 +30228,8 @@ capacitive
 capacitor
 capacitors
 capacity
+capillaries
+capillary
 capital
 capital-focused
 capitalise
@@ -30794,6 +30828,7 @@ chromosome
 chromosomes
 chronic
 chronically
+chronicle
 chronological
 chronologically
 chronology
@@ -31174,6 +31209,7 @@ coasters
 coastline
 coasts
 coat
+coated
 coating
 coats
 coauthor
@@ -32319,6 +32355,7 @@ controversy
 conundrum
 conundrums
 conv
+convection
 convective
 convene
 convened
@@ -33342,6 +33379,7 @@ dbus-monitor
 dcnn
 ddos
 ddr
+ddr3
 ddr4
 ddr5
 de
@@ -33894,6 +33932,7 @@ dentists
 deny
 denying
 deodorant
+deodorants
 deontic
 depart
 departed
@@ -35188,6 +35227,7 @@ downward
 downwards
 downy
 doxygen
+doze
 dozen
 dozens
 dpi
@@ -35510,6 +35550,7 @@ eases
 easier
 easiest
 easily
+easiness
 easing
 east
 easter
@@ -35734,6 +35775,7 @@ elimination
 eliminator
 elite
 elites
+elixir
 elk
 elks
 ellipse
@@ -36791,6 +36833,8 @@ experimental
 experimentally
 experimentation
 experimented
+experimenter
+experimenters
 experimenting
 experiments
 expert
@@ -37141,6 +37185,7 @@ fancifulness
 fancy
 fancying
 fans
+fantasies
 fantasise
 fantasised
 fantasises
@@ -37820,6 +37865,8 @@ foliage
 folk
 folklore
 folks
+folktale
+folktales
 follies
 follow
 follow-on
@@ -40792,6 +40839,7 @@ indicted
 indicts
 indifference
 indifferent
+indigenous
 indignant
 indignantly
 indignation
@@ -43893,6 +43941,7 @@ meta
 meta-data
 meta-learning
 metabase
+metabolism
 metaclass
 metadata
 metagpt
@@ -46156,6 +46205,7 @@ orchestrated
 orchestrates
 orchestrating
 orchestration
+orchestrator
 orchid
 orcs
 ordbms
@@ -47195,6 +47245,7 @@ peripheral
 peripherals
 periphery
 perishable
+peristaltic
 perks
 perl
 perl's
@@ -47353,6 +47404,7 @@ philosopher
 philosophers
 philosophic
 philosophical
+philosophically
 philosophies
 philosophy
 phishing
@@ -47788,6 +47840,7 @@ political
 politically
 politician
 politicians
+politicized
 politics
 poll
 polling
@@ -49133,6 +49186,7 @@ queers
 queried
 queries
 query
+query-based
 querying
 querystring
 quest
@@ -49650,6 +49704,7 @@ rebel
 rebelled
 rebelling
 rebellion
+rebellions
 rebels
 rebind
 rebinded
@@ -52266,6 +52321,7 @@ semester
 semesters
 semi-automated
 semi-automatically
+semi-conductor
 semi-definite
 semi-final
 semi-finalists
@@ -53086,6 +53142,7 @@ slighting
 slightingly
 slightly
 slim
+slime
 slimy
 sling
 slings
@@ -54532,6 +54589,7 @@ stylish
 stylising
 stylist
 stylistic
+stylistically
 stylists
 stylization
 stylize
@@ -54648,6 +54706,7 @@ subpage
 subpart
 subparts
 subpixel
+subpixels
 subproblem
 subproblems
 subprocess
@@ -55245,6 +55304,7 @@ sympathy
 symphonies
 symphony
 symptom
+symptomatic
 symptoms
 sync
 synced
@@ -57059,6 +57119,7 @@ unavailable
 unavoidable
 unavoidably
 unaware
+unawareness
 unbalance
 unbalanced
 unbearable
@@ -57723,6 +57784,7 @@ unsatisfying
 unsaturated
 unsaved
 unsay
+unscalable
 unscaling
 unscientific
 unscrewed
@@ -58157,6 +58219,7 @@ valueengineering
 valueerror
 valueof
 values
+valuing
 valve
 valves
 vampire
@@ -58321,6 +58384,7 @@ verticals
 vertices
 very
 vessel
+vessels
 vest
 vested
 vestibular

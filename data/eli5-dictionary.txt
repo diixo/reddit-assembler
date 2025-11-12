@@ -24,7 +24,6 @@ Mars
 Greek
 Rome
 WWII
-vessels
 km
 Romans
 Russian
@@ -86,7 +85,6 @@ g
 HIV
 P
 Y
-metabolism
 p
 retina
 URL5
@@ -197,7 +195,6 @@ salts
 spinal
 cm
 Byzantine
-convection
 4th
 mercury
 David
@@ -302,7 +299,6 @@ centrifugal
 isotope
 16th
 Norway
-indigenous
 half-life
 Portuguese
 AIDS
@@ -355,7 +351,6 @@ Renaissance
 ect
 Chicago
 Portugal
-capillaries
 Indians
 penny
 Pope
@@ -389,7 +384,6 @@ Hong
 grease
 Austria
 blacks
-archaeological
 byproduct
 siblings
 medicines
@@ -513,7 +507,6 @@ hydrocarbons
 positron
 urinate
 refugees
-coated
 Jackson
 assassination
 nukes
@@ -683,7 +676,6 @@ spores
 archaeology
 Nobel
 blackbody
-capillary
 suction
 50s
 Siberia
@@ -2404,7 +2396,6 @@ Nepal
 measles
 chromosomal
 Claudius
-rebellions
 exp
 eccentric
 grazing
@@ -2416,13 +2407,11 @@ outs
 lingering
 tsunamis
 trickier
-slime
 gimmick
 tumour
 projectiles
 ticklish
 pirating
-aristocrats
 garments
 emitter
 inanimate
@@ -2473,7 +2462,6 @@ bastard
 acetone
 lifestyles
 Beethoven
-Indigenous
 Massacre
 Spaniards
 theological
@@ -3861,7 +3849,6 @@ Ross
 offhand
 1cm
 Dame
-Convection
 UVA
 placental
 papal
@@ -4346,7 +4333,6 @@ Betelgeuse
 rhinovirus
 opportunistic
 polarizer
-Chronicle
 flyby
 Crusaders
 flank
@@ -4685,7 +4671,6 @@ Sept
 Prague
 raisins
 write-up
-Capillary
 liar
 Venom
 enteric
@@ -5808,7 +5793,6 @@ light-year
 Edwin
 aphids
 agonists
-aristocrat
 Entente
 proton-proton
 NaOH
@@ -6728,7 +6712,6 @@ respire
 infomercials
 bookie
 mA
-Metabolism
 enigma
 heritability
 condensates
@@ -7346,7 +7329,6 @@ auroras
 Carlin's
 buttermilk
 resonator
-Archaeological
 Eugene
 Chuck
 Saladin
@@ -8300,7 +8282,6 @@ Hobbes
 trucking
 prob
 farsightedness
-symptomatic
 amalgam
 Hart
 DST
@@ -8477,14 +8458,12 @@ pheomelanin
 strictest
 conscripts
 Greens
-bookshelf
 doctoral
 decapitation
 Iran-Iraq
 aspirated
 thymus
 fossilize
-philosophically
 SK
 Boris
 uvula
@@ -9688,7 +9667,6 @@ Sagas
 Hun
 AskLiteraryStudies
 Matilda
-chronicle
 14C
 Theodosius
 Octavius
@@ -9708,8 +9686,6 @@ warranties
 2am
 Sachs
 hallmark
-peristaltic
-politicized
 Pao
 Seth
 67P
@@ -9740,7 +9716,6 @@ Gasses
 dictating
 haystack
 pushback
-subpixels
 Amex
 invincible
 Noam
@@ -9759,10 +9734,8 @@ Smith's
 frontiers
 swatted
 doesn
-doze
 Spider-Man
 duper
-fantasies
 checkers
 colloidal
 Saturnalia
@@ -9773,7 +9746,6 @@ korean
 replenishes
 secretaries
 draconian
-deodorants
 straight-up
 B2
 psychics
@@ -9782,7 +9754,6 @@ Eurocentric
 athleticism
 K-T
 Orthostatic
-DDR3
 bladeless
 renters
 wad
@@ -9794,7 +9765,6 @@ BTU
 post-secondary
 molting
 Feces
-valuing
 combos
 reheating
 Leonard
@@ -12238,7 +12208,6 @@ S2
 glycine
 Dalton
 equestrian
-Aristocrats
 catalogued
 Gm
 faring
@@ -12927,7 +12896,6 @@ cyanoacrylate
 Acetaldehyde
 libration
 ova
-Capillaries
 terahertz
 Cuba's
 sphere's
@@ -13464,7 +13432,6 @@ commemorative
 ACC
 pa
 exons
-experimenter
 singer's
 splotches
 50kg
@@ -14782,7 +14749,6 @@ Lakota
 Sultans
 Martel
 Diogenes
-folktales
 Donner
 Hoo
 Borgia
@@ -18260,7 +18226,6 @@ Foote
 Caro
 Cornwell's
 Pliny's
-folktale
 Sherman's
 Corsican
 punic
@@ -22597,7 +22562,6 @@ ovals
 cross-posted
 cashmere
 DOCSIS
-Vessels
 cosy
 CICO
 mumbling
@@ -27328,7 +27292,6 @@ Afganistan
 Chroma
 Ummm
 ressources
-Deodorants
 Caeser
 sub-human
 defile
@@ -28931,7 +28894,6 @@ overproduces
 storey
 monoamines
 circlejerking
-semi-conductor
 wicker
 moistened
 Gymnasium
@@ -29749,7 +29711,6 @@ staccato
 Cumulus
 OE
 sleep-promoting
-Slime
 ium
 lower-end
 botanists
@@ -33585,7 +33546,6 @@ cashless
 casei
 tanners
 Fappening
-experimenters
 artichokes
 pacifism
 Breastmilk
@@ -34709,7 +34669,6 @@ heat-producing
 Congresses
 stifled
 suncream
-Philosophically
 franchising
 culminates
 fundus
@@ -35093,7 +35052,6 @@ NP-Complete
 dysregulation
 tenancy
 limbless
-elixir
 proteinaceous
 meshwork
 sackings
@@ -42401,7 +42359,6 @@ cytometry
 wombs
 Chagas
 hypervalent
-Peristaltic
 Ambie
 smoulder
 bergs
@@ -48603,7 +48560,6 @@ biopic
 striation
 preasure
 unquestioned
-easiness
 rapidly-moving
 doohickey
 TiVo
@@ -52797,7 +52753,6 @@ strabismic
 peons
 warmongers
 person-to-person
-stylistically
 biodegrades
 tilapia
 metal-to-metal
@@ -54243,7 +54198,6 @@ Fernand
 1863-1877
 Macas
 VI's
-Rebellions
 Mai
 Schmitt
 Almagest
@@ -61305,7 +61259,6 @@ Uhauls
 carborated
 Paterno
 MacDonald's
-Stylistically
 hang-glider
 Sahib
 mucle
@@ -62488,7 +62441,6 @@ great-great-great-grandmother
 mmmm
 member-owned
 ultra-high-def
-orchestrator
 thigs
 ahed
 dopamine-level
@@ -66749,7 +66701,6 @@ micromorts
 stepbairn
 Bleh
 16-22
-ddr3
 Ps4
 pi-3
 read-head
@@ -77896,7 +77847,6 @@ understrength
 Austrialian
 Indees
 suseran
-Folktale
 Historiarum
 Soter
 Flamethrowers
@@ -81511,7 +81461,6 @@ eis
 Commanche
 adroitly
 Lucre
-Elixir
 Curbera
 Kleon
 Ushki
@@ -116154,7 +116103,6 @@ tootbrush
 sanitised
 depressors
 over-ridden
-unscalable
 Sveinn's
 wharf
 Strum
@@ -138073,7 +138021,6 @@ propriatary
 burnoff
 channelge
 measurmen
-Coated
 radar-absorbing
 Lib-soc
 Blacktop
@@ -186656,7 +186603,6 @@ theoryofreddit
 Alternator-Starter
 undervolting
 KC-135
-METABOLISM
 Cryptodira
 Pleurodira
 side-necked
@@ -194473,7 +194419,6 @@ RFID-blocking
 contractilty
 space-station
 anti-fields
-Experimenters
 anti-Fe
 wind-shadow
 pitzer
