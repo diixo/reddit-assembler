@@ -553,6 +553,7 @@ Adorable
 Adoration
 Adore
 Adorned
+Adrenalin
 Adrenaline
 Ads
 Adsense
@@ -900,6 +901,7 @@ Altitudes
 Altogether
 Altruist
 Altruistic
+Aluminium
 Always
 Always-On
 Always-on
@@ -3090,6 +3092,7 @@ Calming
 Calmness
 Caloric
 Calorically
+Calorie
 Calories
 Calorimeter
 Calorimeters
@@ -3588,6 +3591,7 @@ Chew
 Chewable
 Chewed
 Chewing
+Chewy
 Chick
 Chicken
 Chickens
@@ -3649,6 +3653,7 @@ Chores
 Chorus
 Chose
 Chosen
+Christianity
 Christmas
 Chromatic
 Chrome
@@ -5074,6 +5079,7 @@ Corruptions
 Cortex
 Cosine
 Cosmetic
+Cosmetics
 Cosmic
 Cosmonaut
 Cosmos
@@ -6534,6 +6540,7 @@ Diffusion-Based
 Diffusion-based
 Dig
 Digest
+Digestion
 Digestive
 Digests
 Digging
@@ -7935,6 +7942,7 @@ Entrance
 Entrances
 Entrant
 Entrants
+Entrapment
 Entrapping
 Entree
 Entrench
@@ -8569,7 +8577,6 @@ FLOAT32
 FLOATS
 FLOP
 FLOPS
-FLOPs
 FLOps
 FOV
 FPGA
@@ -9709,7 +9716,6 @@ Fuzzed
 Fuzziness
 Fuzzing
 Fuzzy
-Fyi
 GAN
 GAN-based
 GANs
@@ -9766,7 +9772,6 @@ Gain
 Gained
 Gaining
 Gains
-GalaXies
 Galaxies
 Galaxy
 Gallant
@@ -10068,6 +10073,7 @@ Glows
 Glucose
 Glue
 Glued
+Gluten
 Glyph
 Glyphs
 Gmail
@@ -10232,6 +10238,7 @@ Graveyard
 Gravitate
 Gravitation
 Gravitational
+Gravitationally
 Gravity
 Gravy
 Gray
@@ -10541,6 +10548,7 @@ Harmfulness
 Harming
 Harmless
 Harmonic
+Harmonically
 Harmonics
 Harmonious
 Harmonization
@@ -12071,6 +12079,7 @@ Instill
 Instilling
 Instinct
 Instinctive
+Instinctively
 Instincts
 Institute
 Institutes
@@ -13130,6 +13139,7 @@ Learns
 Learnt
 Lease
 Leases
+Leasing
 Least
 Least-Square
 Least-square
@@ -13943,6 +13953,8 @@ Marshmallows
 Martial
 Marvel
 Marvels
+Masculine
+Masculinity
 Mash
 MashUp
 Mashup
@@ -14242,6 +14254,7 @@ Meta-learning
 MetaData
 MetaGPT
 MetaVerse
+Metabolic
 Metabolism
 Metadata
 Metagpt
@@ -15711,6 +15724,8 @@ Noses
 Nosql
 Nostalgia
 Nostalgic
+Nostril
+Nostrils
 Not
 Notable
 Notably
@@ -17152,6 +17167,7 @@ Phenomena
 Phenomenal
 Phenomenally
 Phenomenon
+Pheromone
 Pheromones
 Phi-3
 Philosopher
@@ -17361,6 +17377,8 @@ Plantations
 Planted
 Planter
 Plants
+Plaque
+Plaques
 Plasma
 Plasmas
 Plastic
@@ -18427,6 +18445,7 @@ Punctuated
 Punctuation
 Puncturing
 Punish
+Punishable
 Punished
 Punishing
 Punishment
@@ -18789,6 +18808,7 @@ Ranked
 Ranking
 Rankings
 Ranks
+Ransom
 Ransomware
 Rant
 Rap
@@ -19307,6 +19327,7 @@ Refresh
 Refreshed
 Refreshing
 Refreshment
+Refrigerate
 Refrigerated
 Refrigeration
 Refrigerator
@@ -20146,6 +20167,7 @@ Rims
 Ring
 Ringing
 Rings
+Rinse
 Rinsing
 Riot
 Riots
@@ -23421,6 +23443,8 @@ Tangle
 Tangled
 Tangling
 Tank
+Tanker
+Tankers
 Tanks
 Tap
 Tape
@@ -24022,6 +24046,7 @@ Toads
 Toast
 Toaster
 Toasting
+Tobacco
 Today
 Today's
 Toddler
@@ -24273,6 +24298,7 @@ Transactions
 Transceiver
 Transceivers
 Transcend
+Transcendental
 Transcending
 Transcoding
 Transcribe
@@ -25459,6 +25485,7 @@ Vague
 Vaguely
 Vagueness
 Vain
+Valence
 Valid
 Validate
 Validated
@@ -25710,6 +25737,7 @@ Virus
 Viruses
 Visa
 Visas
+Viscous
 Vise
 Visibility
 Visible
@@ -27102,6 +27130,7 @@ adorn
 adorned
 adornment
 adorns
+adrenalin
 adrenaline
 adrift
 ads
@@ -27582,6 +27611,7 @@ altruist
 altruistic
 altruistically
 altruists
+aluminium
 always
 always-on
 always-on-display
@@ -30246,6 +30276,7 @@ calmness
 calms
 caloric
 calorically
+calorie
 calories
 calorimeter
 calorimeters
@@ -30849,6 +30880,7 @@ chewable
 chewed
 chewing
 chews
+chewy
 chick
 chicken
 chickens
@@ -30919,6 +30951,7 @@ chores
 chorus
 chose
 chosen
+christianity
 christmas
 chromatic
 chrome
@@ -32667,6 +32700,7 @@ cosine
 cosmetic
 cosmetical
 cosmetically
+cosmetics
 cosmic
 cosmonaut
 cosmos
@@ -34526,6 +34560,7 @@ diffusion
 diffusion-based
 dig
 digest
+digestion
 digestive
 digests
 digging
@@ -36361,6 +36396,7 @@ entrances
 entrant
 entrants
 entrap
+entrapment
 entrapped
 entrapping
 entraps
@@ -38742,6 +38778,7 @@ genetically
 geneticist
 genetics
 genial
+genitals
 genius
 geniuses
 genkey
@@ -38959,6 +38996,7 @@ glucose
 glue
 glued
 glut
+gluten
 glyph
 glyphs
 gmail
@@ -39180,6 +39218,7 @@ gravitates
 gravitating
 gravitation
 gravitational
+gravitationally
 gravity
 gravy
 gray
@@ -39547,6 +39586,7 @@ harming
 harmless
 harmlessly
 harmonic
+harmonically
 harmonics
 harmonious
 harmoniously
@@ -41468,6 +41508,7 @@ instills
 instils
 instinct
 instinctive
+instinctively
 instincts
 institute
 instituted
@@ -42807,6 +42848,7 @@ learnt
 lease
 leases
 leash
+leasing
 least
 least-square
 leather
@@ -42912,6 +42954,7 @@ let's
 letdown
 lethal
 lethality
+lethally
 lets
 letter
 lettered
@@ -43203,6 +43246,7 @@ loathe
 loathed
 loathes
 loathing
+lobbied
 lobby
 lobbying
 lobbyist
@@ -43736,6 +43780,8 @@ marveling
 marvelled
 marvelling
 marvels
+masculine
+masculinity
 mash
 mash-up
 mashable
@@ -44078,6 +44124,7 @@ meta
 meta-data
 meta-learning
 metabase
+metabolic
 metabolism
 metaclass
 metadata
@@ -45732,6 +45779,8 @@ noses
 nosql
 nostalgia
 nostalgic
+nostril
+nostrils
 not
 not-in-place
 notable
@@ -45795,6 +45844,7 @@ now
 now's
 nowadays
 nowhere
+noxious
 nozzle
 npm
 nsfw
@@ -47553,6 +47603,7 @@ phenomenal
 phenomenally
 phenomenon
 phenomenons
+pheromone
 pheromones
 phi-3
 philosopher
@@ -47805,6 +47856,8 @@ planted
 planter
 planters
 plants
+plaque
+plaques
 plasma
 plasmas
 plastic
@@ -49153,6 +49206,7 @@ punctuations
 punctuators
 puncturing
 punish
+punishable
 punished
 punishes
 punishing
@@ -49566,6 +49620,7 @@ ransack
 ransacked
 ransacking
 ransacks
+ransom
 ransomware
 rant
 rap
@@ -50333,6 +50388,7 @@ refreshing
 refreshingly
 refreshment
 refreshments
+refrigerate
 refrigerated
 refrigerates
 refrigeration
@@ -51522,7 +51578,9 @@ ring
 ringer
 ringing
 rings
+rinse
 rinsed
+rinses
 rinsing
 riot
 riots
@@ -55646,6 +55704,8 @@ tangle
 tangled
 tangling
 tank
+tanker
+tankers
 tanks
 tap
 tape
@@ -56391,6 +56451,7 @@ toasted
 toaster
 toasting
 toasts
+tobacco
 today
 today's
 toddler
@@ -56702,6 +56763,7 @@ transceivers
 transcend
 transcended
 transcendent
+transcendental
 transcending
 transcends
 transclude
@@ -58382,6 +58444,7 @@ vaguely
 vagueness
 vain
 vainly
+valence
 valid
 validate
 validated
@@ -58715,6 +58778,7 @@ viruses
 vis-a-vis
 visa
 visas
+viscous
 vise
 visibilities
 visibility
