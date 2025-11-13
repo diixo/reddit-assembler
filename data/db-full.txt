@@ -435,6 +435,7 @@ Ad
 Ad-Hoc
 Ad-hoc
 AdBlock
+AdBlocker
 AdHoc
 AdSense
 AdWords
@@ -463,6 +464,7 @@ Adaptors
 Adapts
 Adas
 Adblock
+Adblocker
 Add
 Add-On
 Add-in
@@ -704,6 +706,7 @@ Agitating
 Agitation
 Agnostic
 Ago
+Agony
 Agrarian
 Agree
 Agreeableness
@@ -1042,6 +1045,7 @@ Animated
 Animating
 Animation
 Animations
+Animator
 Animators
 Anime
 Anisotropic
@@ -1959,6 +1963,7 @@ Bailed
 Bake
 Baked
 Baker
+Bakers
 Bakery
 Baking
 Balance
@@ -2127,6 +2132,7 @@ Becomes
 Becoming
 Bed
 Bedroom
+Bedrooms
 Beds
 Bee
 Beef
@@ -2433,6 +2439,8 @@ Blessing
 Blessings
 Bleu
 Blew
+Blimp
+Blimps
 Blind
 Blinded
 Blinder
@@ -4107,6 +4115,7 @@ Colonisation
 Colonising
 Colonization
 Colonized
+Colonizers
 Colonizing
 Colony
 Color
@@ -4997,6 +5006,7 @@ Copyright
 Copyrighted
 Copyrights
 Copywriting
+Coral
 Cord
 Cordless
 Cords
@@ -5011,6 +5021,7 @@ Corners
 Cornerstone
 Corollaries
 Corollary
+Coronavirus
 Coroutine
 Coroutines
 Corpora
@@ -5024,6 +5035,7 @@ Correctability
 Corrected
 Correcting
 Correction
+Correctional
 Corrections
 Corrective
 Correctly
@@ -6113,7 +6125,9 @@ Demography
 Demolished
 Demolishing
 Demolition
+Demon
 Demonetization
+Demonic
 Demonstrably
 Demonstrate
 Demonstrated
@@ -6368,6 +6382,7 @@ Detonating
 Detonation
 Detonations
 Detour
+Detours
 Detrimental
 Dev
 Dev's
@@ -7480,6 +7495,7 @@ Eighteen
 Eighth
 Eighty
 Either
+Ejaculating
 Ejaculation
 Eject
 Ejected
@@ -8325,6 +8341,7 @@ Existence
 Existences
 Existent
 Existential
+Existentially
 Existing
 Exists
 Exit
@@ -9089,6 +9106,7 @@ Flavor
 Flavoring
 Flavors
 Flavour
+Flavoured
 Flavours
 Flaw
 Flawed
@@ -9712,10 +9730,14 @@ GPT-4o
 GPT-4o-mini
 GPT-5
 GPT-Based
+GPT-NEO
+GPT-Neo
 GPT-based
+GPT-neo
 GPT2
 GPT3
 GPT4
+GPT4o
 GPTs
 GPU
 GPU-Based
@@ -10475,6 +10497,7 @@ Harassing
 Harassment
 Harbor
 Harboring
+Harbour
 Hard
 Hard-Coded
 Hard-coded
@@ -12395,6 +12418,7 @@ Investments
 Investor
 Investors
 Invigorating
+Invincible
 Invisibility
 Invisible
 Invitation
@@ -12780,6 +12804,8 @@ Kind
 Kind-of
 Kinda
 Kinder
+Kindle
+Kindles
 Kindly
 Kindness
 Kinds
@@ -13399,6 +13425,7 @@ Loathed
 Loathing
 Lobby
 Lobbying
+Lobbyist
 Lobster
 Lobsters
 Local
@@ -13499,6 +13526,7 @@ Longing
 Longitude
 Longstanding
 Longswords
+Longterm
 Longtime
 Look
 Look-Up
@@ -14285,6 +14313,7 @@ Microprocessors
 Microscope
 Microscopes
 Microscopic
+Microscopically
 Microscopy
 Microsecond
 Microseconds
@@ -14609,6 +14638,8 @@ Modern
 Modernisation
 Modernised
 Modernising
+Modernism
+Modernist
 Modernity
 Modernization
 Modernize
@@ -14706,6 +14737,7 @@ Monotonically
 Monotonous
 Monster
 Monsters
+Monstrous
 Monstrously
 Month
 Month's
@@ -14837,6 +14869,7 @@ Multi-Cell
 Multi-Channel
 Multi-Class
 Multi-Cloud
+Multi-Cluster
 Multi-Configuration
 Multi-Core
 Multi-Device
@@ -14906,6 +14939,7 @@ Multi-cell
 Multi-channel
 Multi-class
 Multi-cloud
+Multi-cluster
 Multi-core
 Multi-device
 Multi-dimensional
@@ -15444,6 +15478,7 @@ No-Code
 No-SQL
 No-brainer
 No-code
+No-one
 NoSQL
 NoSql
 Nobility
@@ -15459,6 +15494,8 @@ NodeJS
 Nodejs
 Nodes
 Nods
+Nodule
+Nodules
 Noise
 Noised
 Noiseless
@@ -16174,6 +16211,7 @@ Orbiting
 Orbits
 Orc
 Orchestra
+Orchestras
 Orchestrate
 Orchestrated
 Orchestrates
@@ -16220,6 +16258,7 @@ Orgy
 Orient
 OrientDB
 Orientable
+Oriental
 Orientated
 Orientation
 Orientations
@@ -17076,6 +17115,7 @@ Petabytes
 Petaflops
 Petite
 Petition
+Petitions
 Petrified
 Pets
 Petting
@@ -18909,6 +18949,7 @@ Rearrangements
 Rearranging
 Reason
 Reasonable
+Reasonableness
 Reasonably
 Reasoned
 Reasoner
@@ -19125,6 +19166,7 @@ Redact
 Redacted
 Reddish
 Reddit
+Redditor
 Redefine
 Redefined
 Redefining
@@ -20819,6 +20861,7 @@ Self-Employed
 Self-Explaining
 Self-Explanatory
 Self-Expression
+Self-Improve
 Self-Improvement
 Self-Knowledge
 Self-Learning
@@ -22211,6 +22254,7 @@ Stabilizes
 Stabilizing
 Stable
 StableDiffusion
+Stablecoin
 Stables
 Stably
 Stack
@@ -22422,6 +22466,7 @@ Stereo
 Stereotype
 Stereotypes
 Stereotypical
+Stereotypically
 Stereotyping
 Sterile
 Sterility
@@ -22713,6 +22758,7 @@ Sub-tasks
 Subarray
 Subarrays
 Subcategory
+Subchannels
 Subclass
 Subclasses
 Subcluster
@@ -22965,7 +23011,10 @@ Supercluster
 Supercomputer
 Supercomputers
 Supercomputing
+Superconducting
 Superconductivity
+Superconductor
+Superconductors
 Superficial
 Superficially
 Superhuman
@@ -23215,6 +23264,7 @@ Synchronously
 Synchrony
 Syncing
 Syndrome
+Syndromes
 Synergy
 Synonym
 Synonymous
@@ -23276,6 +23326,7 @@ Taboo
 Tabs
 Tabular
 Tabulated
+Tabulation
 Tacitly
 Tack
 Tackle
@@ -23463,6 +23514,7 @@ Telecommunication
 Telecommunications
 Telecoms
 Telegram
+Telegraph
 Telemetry
 Telepathy
 Telephone
@@ -24442,6 +24494,8 @@ Troubleshooting
 Troublesome
 Troubling
 Trousers
+Truce
+Truces
 Truck
 Trucks
 True
@@ -24494,6 +24548,7 @@ Tuned
 Tuner
 Tunes
 Tunica
+Tunics
 Tuning
 Tuning-Free
 Tuning-free
@@ -25074,6 +25129,7 @@ Unregistered
 Unregulated
 Unrelated
 Unreliable
+Unreported
 Unrepresentative
 Unrequited
 Unresolved
@@ -25322,6 +25378,8 @@ Utilizes
 Utilizing
 Utils
 Utmost
+Utopia
+Utopian
 Utorrent
 Utter
 Utterance
@@ -25585,6 +25643,7 @@ Vigor
 Vigorous
 Viking
 Vikings
+Villa
 Village
 Villages
 Villain
@@ -25875,6 +25934,7 @@ Waterfalls
 Watering
 Waterless
 Watermark
+Watermarked
 Watermarking
 Watermarks
 Watermelon
@@ -26895,6 +26955,7 @@ adaptors
 adapts
 adas
 adblock
+adblocker
 add
 add-in
 add-on
@@ -27205,6 +27266,7 @@ agonize
 agonized
 agonizes
 agonizing
+agony
 agrarian
 agree
 agreeable
@@ -27293,6 +27355,7 @@ aim
 aimable
 aimed
 aiming
+aimlessly
 aims
 ain't
 aiohttp
@@ -27690,6 +27753,7 @@ animates
 animating
 animation
 animations
+animator
 animators
 anime
 anisotropic
@@ -28819,6 +28883,7 @@ bailed
 bake
 baked
 baker
+bakers
 bakery
 baking
 balance
@@ -29019,6 +29084,7 @@ becoming
 bed
 bedding
 bedroom
+bedrooms
 beds
 bee
 beef
@@ -29378,6 +29444,8 @@ blessing
 blessings
 bleu
 blew
+blimp
+blimps
 blind
 blinded
 blinder
@@ -31398,6 +31466,8 @@ colonising
 colonization
 colonize
 colonized
+colonizer
+colonizers
 colonizes
 colonizing
 colony
@@ -32483,6 +32553,7 @@ copyrights
 copywriter
 copywriters
 copywriting
+coral
 cord
 cordless
 cordova
@@ -32502,6 +32573,7 @@ corners
 cornerstone
 corollaries
 corollary
+coronavirus
 coroutine
 coroutines
 corpora
@@ -32517,6 +32589,7 @@ correctability
 corrected
 correcting
 correction
+correctional
 corrections
 corrective
 correctly
@@ -33858,7 +33931,9 @@ demolishes
 demolishing
 demolition
 demolitions
+demon
 demonetization
+demonic
 demonize
 demonized
 demonizes
@@ -34233,6 +34308,7 @@ detonations
 detonator
 detonators
 detour
+detours
 detract
 detracted
 detrimental
@@ -35669,6 +35745,8 @@ eighty
 either
 ejaculate
 ejaculated
+ejaculates
+ejaculating
 ejaculation
 eject
 ejected
@@ -36767,6 +36845,7 @@ existence
 existences
 existent
 existential
+existentially
 existing
 exists
 exit
@@ -36981,6 +37060,9 @@ extractive
 extractor
 extractors
 extracts
+extradite
+extradited
+extradites
 extradition
 extraneous
 extraordinarily
@@ -37677,6 +37759,7 @@ flavor
 flavoring
 flavors
 flavour
+flavoured
 flavouring
 flavours
 flaw
@@ -38930,6 +39013,7 @@ gpt-4
 gpt-4o
 gpt-5
 gpt-based
+gpt-neo
 gpt3
 gptengineer
 gpu
@@ -39384,6 +39468,7 @@ harassing
 harassment
 harbor
 harboring
+harbour
 hard
 hard-coded
 hardcode
@@ -41772,6 +41857,8 @@ invigorate
 invigorated
 invigorates
 invigorating
+invincibility
+invincible
 invisibility
 invisible
 invisibly
@@ -42362,7 +42449,10 @@ kind-of
 kinda
 kinder
 kindest
+kindle
 kindled
+kindles
+kindling
 kindly
 kindness
 kinds
@@ -43070,6 +43160,7 @@ loathes
 loathing
 lobby
 lobbying
+lobbyist
 lobster
 lobsters
 local
@@ -43186,6 +43277,7 @@ longitudes
 longstanding
 longsword
 longswords
+longterm
 longtime
 look
 look-and-feel
@@ -44038,6 +44130,7 @@ micropython
 microscope
 microscopes
 microscopic
+microscopically
 microscopy
 microsd
 microsecond
@@ -44441,6 +44534,8 @@ modernise
 modernised
 modernises
 modernising
+modernism
+modernist
 modernity
 modernization
 modernize
@@ -44559,6 +44654,7 @@ monster
 monsters
 monstrosities
 monstrosity
+monstrous
 monstrously
 month
 month's
@@ -44747,6 +44843,7 @@ multi-cell
 multi-channel
 multi-class
 multi-cloud
+multi-cluster
 multi-configuration
 multi-core
 multi-device
@@ -45342,6 +45439,7 @@ nn
 no
 no-brainer
 no-code
+no-one
 no-sql
 noSQL
 nobility
@@ -45360,6 +45458,8 @@ node.js
 nodejs
 nodes
 nods
+nodule
+nodules
 noexcept
 nofollowed
 nohow
@@ -46200,6 +46300,7 @@ orbiting
 orbits
 orc
 orchestra
+orchestras
 orchestrate
 orchestrated
 orchestrates
@@ -46249,6 +46350,7 @@ orgies
 orgy
 orient
 orientable
+oriental
 orientate
 orientated
 orientates
@@ -47377,6 +47479,7 @@ petabytes
 petaflops
 petite
 petition
+petitions
 petrified
 petrol
 pets
@@ -49665,6 +49768,7 @@ rearranges
 rearranging
 reason
 reasonable
+reasonableness
 reasonably
 reasoned
 reasoner
@@ -49993,6 +50097,7 @@ redacted
 redacts
 reddish
 reddit
+redditor
 redeclaration
 redeclare
 redeclared
@@ -51088,6 +51193,7 @@ retailing
 retails
 retain
 retained
+retainer
 retaining
 retains
 retake
@@ -52262,6 +52368,7 @@ self-explaining
 self-explanatory
 self-expression
 self-hosted
+self-improve
 self-improvement
 self-knowledge
 self-learning
@@ -52803,6 +52910,7 @@ side-by-side
 side-effect
 side-effects
 side-loading
+side-to-side
 sidebar
 sideburn
 sideburns
@@ -54009,6 +54117,7 @@ stabilizers
 stabilizes
 stabilizing
 stable
+stablecoin
 stablediffusion
 stables
 stably
@@ -54141,6 +54250,7 @@ startups
 starvation
 starve
 starved
+starves
 starving
 stash
 stashed
@@ -54247,6 +54357,7 @@ stereo
 stereotype
 stereotypes
 stereotypical
+stereotypically
 stereotyping
 sterile
 sterility
@@ -54626,6 +54737,7 @@ subarray
 subarrays
 subcategories
 subcategory
+subchannels
 subclass
 subclassed
 subclasses
@@ -54976,7 +55088,10 @@ supercluster
 supercomputer
 supercomputers
 supercomputing
+superconducting
 superconductivity
+superconductor
+superconductors
 superficial
 superficially
 superhuman
@@ -55325,6 +55440,7 @@ synchronously
 synchrony
 syncing
 syndrome
+syndromes
 synergy
 synonym
 synonymically
@@ -55394,6 +55510,7 @@ tabs
 tabular
 tabulate
 tabulated
+tabulation
 tacitly
 tack
 tackle
@@ -55636,6 +55753,7 @@ telecommunication
 telecommunications
 telecoms
 telegram
+telegraph
 telemetry
 telepathy
 telephone
@@ -56774,6 +56892,7 @@ trillions
 trilogy
 trim
 trimmed
+trimmer
 trimming
 trims
 trinket
@@ -56824,6 +56943,8 @@ troublesome
 troubling
 trouser
 trousers
+truce
+truces
 truck
 trucks
 true
@@ -56888,7 +57009,9 @@ tune
 tuned
 tuner
 tunes
+tunic
 tunica
+tunics
 tuning
 tuning-free
 tunnel
@@ -57757,6 +57880,7 @@ unrelated
 unreleased
 unrelenting
 unreliable
+unreported
 unrepresentative
 unrequired
 unrequited
@@ -58149,6 +58273,8 @@ utilizes
 utilizing
 utils
 utmost
+utopia
+utopian
 utorrent
 utter
 utterance
@@ -58478,6 +58604,7 @@ vigorously
 vigour
 viking
 vikings
+villa
 village
 villages
 villain
@@ -58844,6 +58971,7 @@ waterfalls
 watering
 waterless
 watermark
+watermarked
 watermarking
 watermarks
 watermelon
