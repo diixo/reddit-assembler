@@ -674,7 +674,9 @@ Agendas
 Agent
 Agent's
 Agent-Based
+Agent-Level
 Agent-based
+Agent-level
 Agentic
 Agents
 Ages
@@ -1141,6 +1143,7 @@ Antiperspirant
 Antiperspirants
 Antique
 Antiquity
+Antisemitic
 Antisemitism
 Antiseptic
 Antisocial
@@ -4606,6 +4609,7 @@ Conjectural
 Conjecture
 Conjectures
 Conjecturing
+Conjoint
 Conjugal
 Conjugate
 Conjugated
@@ -5735,6 +5739,7 @@ Dataset
 Dataset's
 Datasets
 Datasheet
+Datasheets
 Datastore
 Datastores
 Datastructures
@@ -6452,6 +6457,7 @@ Dialects
 Dialing
 Dialling
 Dialog
+Dialogic
 Dialogs
 Dialogue
 Dialogues
@@ -6498,6 +6504,7 @@ Different
 DifferentiAble
 Differentiability
 Differentiable
+Differentiably
 Differential
 Differentially
 Differentials
@@ -6736,6 +6743,7 @@ DisentangLed
 Disentangle
 Disentangled
 Disentangles
+Disfluency
 Disgraced
 Disgruntled
 Disguise
@@ -6989,6 +6997,7 @@ Docker-based
 Docker-compose
 Dockerfile
 Dockerfiles
+Dockerized
 Docking
 Docs
 Doctor
@@ -8871,6 +8880,7 @@ Few
 Few-Shot
 Few-shot
 Fewer
+Fewshot
 Fey
 Ffmpeg
 FiFo
@@ -12072,10 +12082,13 @@ Instructed
 Instructing
 Instruction
 Instruction-Based
+Instruction-Driven
 Instruction-Following
 Instruction-Level
+Instruction-Tune
 Instruction-Tuned
 Instruction-based
+Instruction-driven
 Instruction-following
 Instruction-level
 Instruction-tuned
@@ -15501,6 +15514,7 @@ Noised
 Noiseless
 Noises
 Noisier
+Noisily
 Noising
 Noisy
 Nomad
@@ -16691,6 +16705,7 @@ Parametrically
 Parametrization
 Parametrizations
 Parametrized
+Paramount
 Params
 Paranoia
 Paranoid
@@ -16823,6 +16838,7 @@ Paternal
 Path
 Path-Finding
 Path-finding
+Pathogenic
 Pathological
 Pathologically
 Pathologies
@@ -16952,6 +16968,7 @@ Pencils
 Pending
 Pendulum
 Pendulums
+Penetrable
 Penetrated
 Penetrates
 Penetrating
@@ -17058,6 +17075,8 @@ Perpetuating
 Perplexed
 Perplexing
 Perplexity
+Perplexity-Based
+Perplexity-based
 Perseverance
 Persist
 Persistence
@@ -17773,6 +17792,7 @@ Preclude
 Precompiled
 Precompute
 Precomputed
+Precomputing
 Precondition
 Preconditioned
 Preconditioning
@@ -18166,7 +18186,9 @@ Promotional
 Promotions
 Prompt
 Prompt-Based
+Prompt-Tuning
 Prompt-based
+Prompt-tuning
 Promptable
 Prompted
 Prompting
@@ -18393,6 +18415,7 @@ Pump
 Pumped
 Pumping
 Pumpkin
+Pumpkins
 Pumps
 Pun
 Punch
@@ -19236,6 +19259,7 @@ Refine
 Refined
 Refinement
 Refinements
+Refinery
 Refines
 Refining
 Refitting
@@ -19676,6 +19700,7 @@ Representations
 Representative
 Representativeness
 Representatives
+Representativity
 Represented
 Representer
 Representing
@@ -21632,6 +21657,8 @@ Slope
 Slopes
 Sloppy
 Slot
+Slot-Filling
+Slot-filling
 Sloth
 Slots
 Slotted
@@ -23795,6 +23822,7 @@ Third
 Third-Party
 Third-parties
 Third-party
+Thirdly
 Thirst
 Thirteen
 Thirty
@@ -25120,6 +25148,7 @@ Unreadable
 Unready
 Unreal
 Unrealistic
+Unrealizable
 Unreasonable
 Unreasonably
 Unrecognizable
@@ -25167,6 +25196,7 @@ Unsorted
 Unspecified
 Unspent
 Unsplash
+Unsplittable
 Unspoken
 Unstable
 Unstated
@@ -26570,6 +26600,7 @@ Zero-shot
 Zeroes
 Zeroing
 Zeros
+Zeroshot
 ZigZag
 Zigzag
 Zip
@@ -27219,6 +27250,7 @@ agendas
 agent
 agent's
 agent-based
+agent-level
 agentic
 agents
 ages
@@ -27548,6 +27580,7 @@ altitudes
 altogether
 altruist
 altruistic
+altruistically
 altruists
 always
 always-on
@@ -27862,6 +27895,7 @@ antiperspirants
 antique
 antiquity
 antisanitary
+antisemitic
 antisemitism
 antiseptic
 antisocial
@@ -32084,6 +32118,7 @@ conjectural
 conjecture
 conjectures
 conjecturing
+conjoint
 conjugal
 conjugate
 conjugated
@@ -33400,6 +33435,7 @@ dataset
 dataset's
 datasets
 datasheet
+datasheets
 datasource
 datastage
 datastore
@@ -34410,6 +34446,7 @@ dialing
 dialled
 dialling
 dialog
+dialogic
 dialogs
 dialogue
 dialogues
@@ -34457,6 +34494,7 @@ differency
 different
 differentiability
 differentiable
+differentiably
 differential
 differentially
 differentials
@@ -34764,6 +34802,7 @@ disfigured
 disfigurement
 disfigures
 disfiguring
+disfluency
 disgrace
 disgraced
 disgraceful
@@ -35119,6 +35158,9 @@ docker-based
 docker-compose
 dockerfile
 dockerfiles
+dockerize
+dockerized
+dockerizes
 docketing
 docking
 docs
@@ -37488,6 +37530,7 @@ fevers
 few
 few-shot
 fewer
+fewshot
 fey
 ffmpeg
 fiance
@@ -41437,8 +41480,10 @@ instructed
 instructing
 instruction
 instruction-based
+instruction-driven
 instruction-following
 instruction-level
+instruction-tune
 instruction-tuned
 instructional
 instructions
@@ -45468,6 +45513,7 @@ noised
 noiseless
 noises
 noisier
+noisily
 noising
 noisy
 nomad
@@ -45580,6 +45626,7 @@ non-stationary
 non-stop
 non-structural
 non-symmetric
+non-synthetic
 non-tech
 non-technical
 non-text
@@ -46937,6 +46984,8 @@ parametrically
 parametrization
 parametrizations
 parametrized
+paramount
+paramountcy
 params
 paramtype
 paranoia
@@ -47097,6 +47146,7 @@ path-finding
 pathetic
 pathname
 pathnames
+pathogenic
 pathological
 pathologically
 pathologies
@@ -47255,6 +47305,7 @@ pend
 pending
 pendulum
 pendulums
+penetrable
 penetrate
 penetrated
 penetrates
@@ -47397,6 +47448,7 @@ perplexed
 perplexing
 perplexities
 perplexity
+perplexity-based
 persecute
 persecuted
 persecutes
@@ -48285,6 +48337,7 @@ precompiled
 precompute
 precomputed
 precomputes
+precomputing
 preconceived
 precondition
 preconditioned
@@ -48567,6 +48620,7 @@ prioritizing
 priority
 priors
 prism
+prisms
 prison
 prisoner
 prisoners
@@ -48793,6 +48847,7 @@ promotional
 promotions
 prompt
 prompt-based
+prompt-tuning
 promptable
 prompted
 prompting
@@ -49078,6 +49133,7 @@ pump
 pumped
 pumping
 pumpkin
+pumpkins
 pumps
 pun
 punch
@@ -50218,6 +50274,7 @@ refine
 refined
 refinement
 refinements
+refinery
 refines
 refining
 refitting
@@ -50847,6 +50904,7 @@ representations
 representative
 representativeness
 representatives
+representativity
 represented
 representer
 representing
@@ -52810,6 +52868,7 @@ shorterlived
 shortest
 shortfall
 shortfalls
+shortlist
 shortlisted
 shortly
 shortness
@@ -53275,6 +53334,7 @@ slopes
 sloping
 sloppy
 slot
+slot-filling
 sloth
 slots
 slotted
@@ -56079,6 +56139,7 @@ thinnest
 third
 third-parties
 third-party
+thirdly
 thirdparty
 thirst
 thirteen
@@ -57865,6 +57926,7 @@ unready
 unreal
 unrealistic
 unrealistically
+unrealizable
 unreasonable
 unreasonably
 unreceivable
@@ -57945,6 +58007,7 @@ unspeakably
 unspecified
 unspent
 unsplash
+unsplittable
 unspoil
 unspoiled
 unspoken
@@ -59877,6 +59940,7 @@ zeroes
 zeroing
 zeroness
 zeros
+zeroshot
 zigzag
 zip
 zipped
