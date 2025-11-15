@@ -43,12 +43,16 @@
 32Bit
 32bit
 3D
+3D-Aware
+3D-aware
+3D-based
 3DMark
 3DS
-3Ds
 3G
 3d
 3d-artist
+3d-aware
+3d-based
 3d-style
 3dmark
 3ds
@@ -264,6 +268,7 @@ Abusers
 Abuses
 Abusing
 Abusive
+Academia
 Academic
 Academically
 Academics
@@ -2332,6 +2337,7 @@ Bingo
 Binning
 Binocular
 Binomial
+Bins
 Bio
 Biochemical
 Biochemist
@@ -2417,6 +2423,7 @@ Blaming
 Bland
 Blank
 Blanket
+Blankets
 Blanks
 Blast
 Blasted
@@ -2646,6 +2653,7 @@ Bound
 Boundaries
 Boundary
 Bounded
+Boundedness
 Bounding
 Bounding-Boxes
 Boundless
@@ -6818,6 +6826,7 @@ Dispersive
 Displace
 Displaced
 Displacement
+Displacements
 Displacing
 Display
 Displayed
@@ -9259,6 +9268,7 @@ Folklore
 Folks
 Folktale
 Folktales
+Follicle
 Follow
 Follow-On
 Follow-Up
@@ -9909,6 +9919,7 @@ Genetics
 Genius
 Geniuses
 Genocide
+Genome
 Genotype
 Genre
 Genres
@@ -10206,7 +10217,6 @@ Grapefruits
 Grapes
 Graph
 Graph-Based
-Graph-basEd
 Graph-based
 GraphQL
 Graphic
@@ -10779,6 +10789,7 @@ Hierarchy
 Hieroglyph
 Hieroglyphs
 High
+High-Accuracy
 High-Availability
 High-Capacity
 High-Definition
@@ -10804,6 +10815,7 @@ High-Speed
 High-Throughput
 High-Value
 High-Velocity
+High-accuracy
 High-availability
 High-capacity
 High-definition
@@ -11736,6 +11748,7 @@ Indirect
 Indirection
 Indirectly
 Indispensable
+Indistinguishable
 Individual
 Individualised
 Individuality
@@ -12094,11 +12107,13 @@ Instruction-Following
 Instruction-Level
 Instruction-Tune
 Instruction-Tuned
+Instruction-Tuning
 Instruction-based
 Instruction-driven
 Instruction-following
 Instruction-level
 Instruction-tuned
+Instruction-tuning
 Instructional
 Instructions
 Instructive
@@ -12321,6 +12336,7 @@ Intervene
 Intervened
 Intervening
 Intervention
+Interventional
 Interventions
 Interview
 Interviewed
@@ -12588,6 +12604,7 @@ Jaguar
 Jaguars
 Jail
 Jailbreak
+Jailbreaking
 Jam
 Jammed
 Jamming
@@ -12937,6 +12954,7 @@ LMs
 LOL
 LSD
 LSTM
+LSTMs
 LVLM
 LaGrange
 LaGrangian
@@ -13152,6 +13170,7 @@ Lecturers
 Lectures
 Lecturing
 Led
+Ledger
 Left
 Left-to-Right
 Leftover
@@ -13704,6 +13723,7 @@ MIDI
 MIPS
 MIPs
 ML
+ML-Based
 ML-based
 MLOPS
 MLOps
@@ -13912,6 +13932,7 @@ Marching
 Margin
 Marginal
 Marginalization
+Marginalized
 Marginally
 Marginals
 Margins
@@ -13993,6 +14014,7 @@ Matcher
 Matchers
 Matches
 Matching
+Matchings
 Mate
 Mated
 Material
@@ -15102,7 +15124,9 @@ Multiplatform
 Multiplayer
 Multiple
 Multiple-Input
+Multiple-Output
 Multiple-input
+Multiple-output
 Multiples
 Multiplex
 Multiplexed
@@ -17099,6 +17123,7 @@ Persisting
 Persists
 Person
 Person's
+Persona
 PersonaLized
 Personal
 Personalise
@@ -17111,6 +17136,7 @@ Personalize
 Personalized
 Personalizing
 Personally
+Personas
 Personification
 Personified
 Personnel
@@ -17539,6 +17565,7 @@ Polls
 Polluted
 Pollution
 Polo
+Poly
 Polyester
 Polyethylene
 Polygamous
@@ -19256,6 +19283,7 @@ Refactor
 Refactored
 Refactoring
 Refer
+Referable
 Referee
 Reference
 Referenced
@@ -22205,6 +22233,8 @@ Spoon
 Spoons
 Sporadic
 Sporadically
+Spore
+Spores
 Sport
 Sporting
 Sports
@@ -23175,6 +23205,7 @@ Survives
 Surviving
 Survivor
 Survivors
+Susceptibility
 Susceptible
 Sushi
 Suspect
@@ -23961,6 +23992,7 @@ Tightening
 Tighter
 Tightly
 Tightness
+TikTok
 Tilde
 Tile
 Tiled
@@ -25547,6 +25579,7 @@ Variety
 Various
 Vary
 Varying
+Vascular
 Vase
 Vast
 Vastly
@@ -25572,6 +25605,7 @@ Vegetated
 Veggies
 Vehicle
 Vehicles
+Vehicular
 Veil
 Vein
 Veins
@@ -25736,6 +25770,7 @@ Virus
 Viruses
 Visa
 Visas
+Viscosity
 Viscous
 Vise
 Visibility
@@ -26766,6 +26801,7 @@ abusers
 abuses
 abusing
 abusive
+academia
 academic
 academically
 academics
@@ -29390,6 +29426,7 @@ binmode
 binning
 binocular
 binomial
+bins
 bio
 biochemical
 biochemist
@@ -29477,6 +29514,7 @@ bland
 blandness
 blank
 blanket
+blankets
 blanks
 blaring
 blast
@@ -29764,6 +29802,7 @@ bound
 boundaries
 boundary
 bounded
+boundedness
 bounding
 bounding-boxes
 boundless
@@ -34947,6 +34986,7 @@ dispiriting
 displace
 displaced
 displacement
+displacements
 displaces
 displacing
 display
@@ -38028,6 +38068,7 @@ folklore
 folks
 folktale
 folktales
+follicle
 follies
 follow
 follow-on
@@ -38783,6 +38824,7 @@ geniuses
 genkey
 genocidal
 genocide
+genome
 genotype
 genre
 genres
@@ -39876,6 +39918,7 @@ hierarchy
 hieroglyph
 hieroglyphs
 high
+high-accuracy
 high-availability
 high-capacity
 high-definition
@@ -41023,6 +41066,7 @@ indisposition
 indisputable
 indistinct
 indistinctness
+indistinguishable
 individual
 individualisation
 individualise
@@ -41525,6 +41569,7 @@ instruction-following
 instruction-level
 instruction-tune
 instruction-tuned
+instruction-tuning
 instructional
 instructions
 instructive
@@ -41785,6 +41830,7 @@ intervened
 intervenes
 intervening
 intervention
+interventional
 interventions
 interview
 interviewed
@@ -42202,6 +42248,7 @@ jaguar
 jaguars
 jail
 jailbreak
+jailbreaking
 jam
 jammed
 jamming
@@ -42865,6 +42912,7 @@ lectures
 lecturing
 led
 led-based
+ledger
 left
 left-to-right
 leftover
@@ -43734,6 +43782,7 @@ marching
 margin
 marginal
 marginalization
+marginalized
 marginally
 marginals
 margins
@@ -43826,6 +43875,7 @@ matcher
 matchers
 matches
 matching
+matchings
 matchup
 mate
 mated
@@ -44560,6 +44610,7 @@ mixture-of-experts
 mixtures
 mixup
 ml
+ml-based
 mlops
 mmlu
 mnemonic
@@ -45056,6 +45107,7 @@ multiplatform
 multiplayer
 multiple
 multiple-input
+multiple-output
 multiple-term
 multiples
 multiplex
@@ -47513,6 +47565,7 @@ persisting
 persists
 person
 person's
+persona
 personage
 personal
 personalise
@@ -47526,6 +47579,7 @@ personalize
 personalized
 personalizing
 personally
+personas
 personification
 personified
 personnel
@@ -47605,6 +47659,7 @@ phenomenons
 pheromone
 pheromones
 phi-3
+philologist
 philosopher
 philosophers
 philosophic
@@ -48055,6 +48110,7 @@ polls
 polluted
 pollution
 polo
+poly
 polyester
 polyethylene
 polygamous
@@ -50298,6 +50354,7 @@ refactoring-driven
 refactors
 refcount
 refer
+referable
 referee
 reference
 referenced
@@ -54082,6 +54139,8 @@ spoon
 spoons
 sporadic
 sporadically
+spore
+spores
 sport
 sporting
 sports
@@ -55347,6 +55406,7 @@ survives
 surviving
 survivor
 survivors
+susceptibility
 susceptible
 sushi
 suspect
@@ -56348,6 +56408,7 @@ tightening
 tighter
 tightly
 tightness
+tiktok
 tilde
 tile
 tiled
@@ -58521,6 +58582,7 @@ various
 variously
 vary
 varying
+vascular
 vase
 vast
 vastly
@@ -58558,6 +58620,7 @@ vegetated
 veggies
 vehicle
 vehicles
+vehicular
 veil
 veils
 vein
@@ -58778,6 +58841,7 @@ viruses
 vis-a-vis
 visa
 visas
+viscosity
 viscous
 vise
 visibilities
