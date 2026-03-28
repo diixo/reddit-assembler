@@ -1,4 +1,6 @@
 
+# URL = "https://storage.googleapis.com/huggingface-nlp/datasets/bookcorpus/bookcorpus.tar.bz2"
+
 import re
 import pandas as pd
 from datasets import load_dataset
