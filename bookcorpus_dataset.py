@@ -32,13 +32,26 @@ def load_text(file_path: str, sz = 20):
 
             items.append(item)
 
-            if sz <= len(items):
+            if (sz > 0) and (sz <= len(items)):
                 break
     return items
 
 
 if __name__ == "__main__":
 
-    txt = load_text("datasets/bookcorpus/books_large_p1.txt", sz=50)
+    txt = load_text("datasets/bookcorpus/books_large_p1.txt", sz=20)
 
     print(txt)
+
+
+    ###################################################################################
+    #deduplicate script: https://huggingface.co/datasets/Saibo-creator/bookcorpus_deduplicated
+
+    #dataset = load_dataset("bookcorpus")["train"]["text"]
+    # df = pd.Dataframe({"text": dataset})
+
+    # # drop duplicates(exact match)
+    # df_filtered = df["text"].drop_duplicates()
+
+    # df_filtered.to_csv("bookcorpus_filtered.csv", "index"=False, "header"=False)
+    # new_dataset = load_dataset("text",data_files={"train":"bookcorpus_filtered.csv"})
