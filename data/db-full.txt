@@ -477,6 +477,7 @@ Add-on
 Add-ons
 Added
 Addendum
+Addendums
 Adder
 Adders
 Addict
@@ -1117,6 +1118,7 @@ Antagonists
 Antelope
 Antenna
 Antennas
+Anthropic
 Anthropometric
 Anthropomorphic
 Anti
@@ -4054,6 +4056,7 @@ Coins
 Coke
 Cola
 Colab
+Colaboratory
 Cold
 Cold-Start
 Cold-start
@@ -7456,6 +7459,7 @@ Economists
 Economy
 Ecosystem
 Ecosystems
+Ecotropic
 Ecstasy
 Edge
 Edges
@@ -9971,6 +9975,7 @@ Geos
 Geoscience
 Geospatial
 Geospatially
+Geotropic
 German
 Germany
 Gerrit
@@ -10712,6 +10717,7 @@ Heist
 Held
 Helicopter
 Helicopters
+Heliotropic
 Helium
 Hell
 Hello
@@ -12608,6 +12614,7 @@ Jam
 Jammed
 Jamming
 Jams
+Janitor
 January
 Japan
 Jar
@@ -15452,6 +15459,7 @@ Neuronal
 Neurons
 Neuroscience
 Neurotic
+Neutering
 Neutral
 Neutralising
 Neutrality
@@ -15840,6 +15848,7 @@ Nuts
 Nutshell
 Nvidia
 Nvidia's
+Nylon
 O'Clock
 O'clock
 OAuth
@@ -17193,6 +17202,8 @@ Phenomenon
 Pheromone
 Pheromones
 Phi-3
+Philanthropic
+Philanthropy
 Philosopher
 Philosophers
 Philosophic
@@ -17228,6 +17239,7 @@ Photorealistic
 Photos
 Photoshop
 Photosynthesis
+Phototropic
 Phrasal
 Phrase
 Phrased
@@ -17337,6 +17349,7 @@ Piracy
 Piranha
 Piranhas
 Pirate
+Pirated
 Pirates
 Piss
 Pissed
@@ -23285,6 +23298,7 @@ Swing
 Swinging
 Swings
 Swipe
+Swiped
 Swipes
 Swirl
 Swirling
@@ -27055,6 +27069,7 @@ add-on
 add-ons
 added
 addendum
+addendums
 adder
 adders
 addict
@@ -27924,6 +27939,7 @@ antelope
 antelopes
 antenna
 antennas
+anthropic
 anthropometric
 anthropomorphic
 anti
@@ -31482,6 +31498,7 @@ coins
 coke
 cola
 colab
+colaboratory
 cold
 cold-start
 colder
@@ -35789,6 +35806,7 @@ economists
 economy
 ecosystem
 ecosystems
+ecotropic
 ecstasy
 ecu
 edge
@@ -38883,6 +38901,7 @@ geos
 geoscience
 geospatial
 geospatially
+geotropic
 gerrit
 gerund
 gestural
@@ -39822,6 +39841,7 @@ held-out
 held-up
 helicopter
 helicopters
+heliotropic
 helium
 hell
 hello
@@ -42253,6 +42273,7 @@ jam
 jammed
 jamming
 jams
+janitor
 january
 japan
 jar
@@ -45492,6 +45513,9 @@ neurones
 neurons
 neuroscience
 neurotic
+neuter
+neutered
+neutering
 neutral
 neutralise
 neutralised
@@ -45957,6 +45981,7 @@ nutshell
 nutty
 nvidia
 nvidia's
+nylon
 o'clock
 oAuth
 oaf
@@ -47659,6 +47684,8 @@ phenomenons
 pheromone
 pheromones
 phi-3
+philanthropic
+philanthropy
 philologist
 philosopher
 philosophers
@@ -47699,6 +47726,7 @@ photorealistic
 photos
 photoshop
 photosynthesis
+phototropic
 php
 php's
 php-developer
@@ -47833,6 +47861,7 @@ piracy
 piranha
 piranhas
 pirate
+pirated
 pirates
 piss
 pissed
