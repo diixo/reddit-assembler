@@ -45,13 +45,13 @@ if __name__ == "__main__":
 
 
     ###################################################################################
-    #deduplicate script: https://huggingface.co/datasets/Saibo-creator/bookcorpus_deduplicated
 
-    #dataset = load_dataset("bookcorpus")["train"]["text"]
-    # df = pd.Dataframe({"text": dataset})
+    '''
+    df = pd.DataFrame({"text": txt})
 
-    # # drop duplicates(exact match)
-    # df_filtered = df["text"].drop_duplicates()
+    df_filtered = df.drop_duplicates(subset=["text"]).reset_index(drop=True)
 
-    # df_filtered.to_csv("bookcorpus_filtered.csv", "index"=False, "header"=False)
-    # new_dataset = load_dataset("text",data_files={"train":"bookcorpus_filtered.csv"})
+    print("after deduplication sz:", len(df_filtered))
+
+    df_filtered.to_json("datasets/bookcorpus/bookcorpus-dedup.jsonl", orient="records", lines=True, force_ascii=False)
+    '''
