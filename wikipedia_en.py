@@ -24,37 +24,12 @@ def format_tokens(n: int) -> str:
     return str(n)
 
 
-
-# total_tokens = 0
-# total_rows = 0
-
-# for i, ex in enumerate(ds):
-
-#     text = ex.get("text", None)
-
-#     if not text:
-#         continue
-
-#     total_tokens += len(tokenizer.encode(text, add_special_tokens=False))
-#     total_rows += 1
-
-#     if total_rows % 1000 == 0:
-#         print(f"...rows={total_rows}, tokens={format_tokens(total_tokens)}")
-
-
-# print(f"total_rows={total_rows}")
-# print(f"total_tokens={total_tokens}")
-
-
 # use for hugging-face tokenizer
 def hf_tokenize_to_len(row):
     # tokenizes a single document and returns a numpy array of uint16 tokens
     ids = tokenizer.encode(row["text"], add_special_tokens=False)
-    # tokens.extend(ids)
-    # tokens_np = np.array(tokens)
-    # assert (0 <= tokens_np).all() and (tokens_np < 2**16).all(), "token dictionary too large for uint16"
+
     return len(ids)
-    #return tokens_np.astype(np.uint16)
 
 
 if __name__ == "__main__":
