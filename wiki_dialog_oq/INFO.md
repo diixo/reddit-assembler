@@ -17,8 +17,8 @@ generator: https://github.com/prdwb/orconvqa-release
 
 * **train jsonl**: datasets\wiki_dialog_oq_jsonl\wiki_dialog_oq_train.jsonl
 * **valid jsonl**: datasets\wiki_dialog_oq_jsonl\wiki_dialog_oq_validation.jsonl
-* **train rows** : 11264129
-* **valid rows** : 113822
+* **train rows** : 11_264_129
+* **valid rows** : 113_822
 
 
 Prepare downloaded from **datasets\wiki_dialog_oq_download** (7Gb):
