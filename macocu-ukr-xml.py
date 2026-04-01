@@ -78,6 +78,9 @@ with open(file_path, "r", encoding="utf-8", errors="ignore") as f, \
                 if (cntr >= LIMIT) and (LIMIT > 0):
                     break
 
+                if cntr % 1000 == 0:
+                    print(f"...on: {cntr} examples")
+
                 inside_doc = False
                 doc_lines = []
                 doc_attrs = {}
