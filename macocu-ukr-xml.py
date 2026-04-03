@@ -99,4 +99,26 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    #main()
+
+    # final calculation
+    file_path = "datasets/MaCoCu/MaCoCu-uk-1.0.jsonl"
+
+    count = 0
+
+    with open(file_path, "r", encoding="utf-8") as f:
+        for line_num, line in enumerate(f, 1):
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                obj = json.loads(line)
+                count += 1
+
+                if count % 1000 == 0:
+                    print(f"...on: {count} examples")
+
+            except json.JSONDecodeError:
+                print(f"Error JSON in line {line_num}")
+
+    print("Total objects:", count)
