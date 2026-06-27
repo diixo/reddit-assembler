@@ -1,5 +1,8 @@
 # reddit-assembler
 
+Update: **db-full.txt**
+
+
 * main_eli5.py
 * main_empath_dialog.py
 * main_arxiv_corpus.py
