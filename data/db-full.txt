@@ -1686,6 +1686,7 @@ Audiobooks
 Audios
 Audit
 Auditability
+Auditable
 Audited
 Auditing
 Audition
@@ -2968,6 +2969,7 @@ Bust
 Busted
 Busting
 Busy
+Busywork
 But
 Butcher
 Butt
@@ -3147,6 +3149,7 @@ Candidly
 Candies
 Candle
 Candles
+Candor
 Candour
 Candy
 Cannabinoid
@@ -3193,6 +3196,7 @@ Capitalized
 Capitalizing
 Capitals
 Capitulating
+Capped
 Cappuccino
 Caps
 CapsLock
@@ -3831,6 +3835,8 @@ Clever
 Cleverest
 Cleverness
 Click
+Click-Through
+Click-through
 ClickBait
 Clickbait
 Clicked
@@ -4266,6 +4272,7 @@ Communism
 Communities
 Community
 Commutative
+Commutativity
 Commute
 Commuting
 Compact
@@ -7712,6 +7719,7 @@ Empathy
 Emperor
 Emperors
 Emphasis
+Emphasising
 Emphasize
 Emphasized
 Emphasizing
@@ -7812,7 +7820,6 @@ End-to-End
 End-to-end
 End-user
 End-users
-EndPoint
 Endangered
 Endeavor
 Endeavoring
@@ -8288,6 +8295,8 @@ Exception-handling
 Exceptional
 Exceptionally
 Exceptions
+Excerpt
+Excerpts
 Excess
 Excessive
 Excessively
@@ -8317,6 +8326,7 @@ Exclusion
 Exclusions
 Exclusive
 Exclusively
+Exclusiveness
 Exclusivity
 Excursion
 Excursions
@@ -12715,6 +12725,7 @@ Judgment
 Judgments
 Judicious
 Jug
+Juggler
 Juggling
 Juice
 Juices
@@ -13724,6 +13735,9 @@ Lying
 MAC
 MACs
 MBR
+MCP
+MCP-Server
+MCP-server
 MCU
 MCU's
 MD5
@@ -14148,6 +14162,7 @@ Median
 Mediate
 Mediated
 Mediates
+Mediation
 Mediator
 Mediators
 Medic
@@ -14326,6 +14341,7 @@ Meticulous
 Meticulously
 Metric
 Metrics
+Metro
 Mexican
 Mexico
 Mhz
@@ -14670,10 +14686,12 @@ Model-Based
 Model-Dependent
 Model-Driven
 Model-Free
+Model-Generated
 Model-Guided
 Model-based
 Model-driven
 Model-free
+Model-generated
 Model-guided
 Modeled
 Modeler
@@ -16104,6 +16122,7 @@ Oncology
 Oncoming
 One
 One's
+One-Click
 One-Day
 One-Dimensional
 One-Hot
@@ -16115,6 +16134,7 @@ One-To-Many
 One-To-One
 One-Vs-All
 One-Way
+One-click
 One-day
 One-dimensional
 One-hot
@@ -17031,6 +17051,7 @@ Penguin
 Penguins
 Penis
 Penises
+Penitentiary
 Pens
 Pensive
 Pentagon
@@ -17463,6 +17484,7 @@ Playoff
 Playoffs
 Plays
 Playstation
+Playwright
 Plea
 Plead
 Pleasant
@@ -17853,6 +17875,7 @@ Precision
 Precisions
 Preclude
 Precompiled
+Precomputation
 Precompute
 Precomputed
 Precomputing
@@ -18516,6 +18539,7 @@ Purify
 Purity
 Purple
 Purpose
+Purpose-built
 Purposeful
 Purposefully
 Purposely
@@ -19172,6 +19196,7 @@ Recompute
 Recomputing
 Reconcile
 Reconciled
+Reconciles
 Reconciliation
 Reconciling
 Reconfigurable
@@ -21457,6 +21482,7 @@ Signaling
 Signalized
 Signalling
 Signals
+Signatory
 Signature
 Signatures
 Signed
@@ -23421,6 +23447,8 @@ TVs
 Tab
 Tabby
 Table
+Tableau
+Tableaus
 Tables
 Tablet
 Tablets
@@ -24876,6 +24904,7 @@ Unbroken
 Unbundling
 Uncalibrated
 Uncanny
+Uncapped
 Uncategorized
 Uncensored
 Uncertain
@@ -27256,6 +27285,7 @@ adware
 adwares
 adwords
 aerial
+aeriform
 aerobic
 aerodynamic
 aerodynamically
@@ -28683,6 +28713,7 @@ audiobooks
 audios
 audit
 auditability
+auditable
 audited
 auditing
 audition
@@ -30390,6 +30421,7 @@ candidly
 candies
 candle
 candles
+candor
 candour
 candy
 cann't
@@ -30452,6 +30484,7 @@ capitulated
 capitulates
 capitulating
 capitulation
+capped
 cappuccino
 caps
 capslock
@@ -31092,6 +31125,7 @@ circus
 cisco
 citation
 citations
+citator
 cite
 cited
 cites
@@ -31218,6 +31252,7 @@ cleverly
 cleverness
 cli
 click
+click-through
 clickable
 clickbait
 clicked
@@ -31769,6 +31804,7 @@ communism
 communities
 community
 commutative
+commutativity
 commute
 commuted
 commutes
@@ -33514,6 +33550,7 @@ data-processing
 data-science
 data-scientist
 data-set
+data-sourcing
 data-structure
 data-structures
 data-type
@@ -34326,6 +34363,7 @@ designedly
 designer
 designers
 designing
+designness
 designs
 designthinking
 desirability
@@ -36138,6 +36176,7 @@ emperors
 emphasis
 emphasise
 emphasised
+emphasising
 emphasize
 emphasized
 emphasizes
@@ -36882,6 +36921,8 @@ exceptional
 exceptionally
 exceptions
 excepts
+excerpt
+excerpts
 excess
 excesses
 excessive
@@ -36917,6 +36958,7 @@ exclusion
 exclusions
 exclusive
 exclusively
+exclusiveness
 exclusivity
 excrete
 excreted
@@ -39092,6 +39134,7 @@ go
 go-ahead
 go-between
 go-getter
+go-live
 go-to
 goad
 goaded
@@ -39602,6 +39645,7 @@ handsomest
 handwriting
 handwritten
 handy
+handyman
 hang
 hangar
 hangars
@@ -42465,6 +42509,8 @@ judicious
 jug
 juggle
 juggled
+juggler
+jugglers
 juggles
 juggling
 juice
@@ -44064,6 +44110,8 @@ mediapad
 mediate
 mediated
 mediates
+mediation
+mediational
 mediator
 mediators
 medic
@@ -44266,6 +44314,7 @@ meticulously
 metres
 metric
 metrics
+metro
 mexican
 mfc
 mgm
@@ -44697,6 +44746,7 @@ model-based
 model-dependent
 model-driven
 model-free
+model-generated
 model-guided
 model-selection
 modeled
@@ -46317,6 +46367,7 @@ one
 one's
 one-against-all
 one-by-one
+one-click
 one-day
 one-dimensional
 one-eyed
@@ -47359,6 +47410,7 @@ payouts
 paypal
 payroll
 pays
+paywalled
 pc
 pc's
 pca
@@ -47469,6 +47521,8 @@ penguins
 penis
 penises
 penitence
+penitent
+penitentiary
 pens
 pensive
 pent
@@ -48013,6 +48067,7 @@ plays
 playstation
 playtech
 playtime
+playwright
 plea
 plead
 pleaded
@@ -48499,6 +48554,7 @@ preclude
 precluded
 precludes
 precompiled
+precomputation
 precompute
 precomputed
 precomputes
@@ -49350,6 +49406,7 @@ purity
 purple
 purport
 purpose
+purpose-built
 purposed
 purposeful
 purposefully
@@ -50206,6 +50263,7 @@ recomputes
 recomputing
 reconcile
 reconciled
+reconciles
 reconciliation
 reconciling
 reconfigurable
@@ -53196,6 +53254,7 @@ signalizes
 signalizing
 signalling
 signals
+signatory
 signature
 signatures
 signed
@@ -54672,6 +54731,7 @@ stomps
 stone
 stones
 stonework
+stonk
 stood
 stool
 stools
@@ -55737,6 +55797,8 @@ tabbed
 tabby
 tablayout
 table
+tableau
+tableaus
 tables
 tablet
 tablets
@@ -57528,6 +57590,7 @@ uncached
 uncalibrated
 uncalled
 uncanny
+uncapped
 uncaring
 uncategorized
 uncaught
@@ -59770,6 +59833,7 @@ wireless
 wirelessly
 wires
 wiring
+wiry
 wisdom
 wise
 wisely
